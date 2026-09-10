@@ -39,8 +39,14 @@ vertical platform lifts (VPL).
     and [[Rail-Mounting-Guidance]] — Bruno reuses the same safety
     mechanisms, folding-rail hardware family, and anchoring guidance
     across the whole Straight SL line.
-- **Vehicle Lifts**
-  - PUL-1100, ASL-275
+- **Vehicle Lifts** — **Fully ingested.**
+  - [[PUL-1100]] ("Out-Rider") — truck-bed-mounted arm lift for storing an
+    empty wheelchair/scooter
+  - [[ASL-275]] ("Out-Sider"/Out-Sider with Swing-Away) — hitch-mounted
+    platform lift for scooters/powerchairs
+  - Both share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
+    pattern) and a 3-year vehicle-lift variant of [[Warranty]] — distinct
+    terms from the stairlift warranty (3yr flat vs. 5yr/2yr split).
 - **VPL** — vertical platform lifts. **Fully ingested.**
   - [[VPL-3100B]] — smaller porch/deck lift, 53"/75" max floor-to-floor,
     hand-wheel-only emergency operation
@@ -53,9 +59,9 @@ vertical platform lifts (VPL).
 
 ## Not yet ingested
 
-Vehicle Lifts manuals (PUL-1100, ASL-275) are still on disk but not
-read/summarized. See `wiki/index.md` for the backlog.
+Nothing — all Bruno-authored manuals on disk have been ingested.
 
 ## See also
 
-[[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]]
+[[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],
+[[Vehicle-Lift-Power-Wiring]]

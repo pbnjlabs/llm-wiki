@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 19 | 17 |
+| Bruno | [[Bruno]] | 19 | 19 |
 | Golden | [[Golden]] | 66 | 0 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
@@ -32,6 +32,8 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | VPL-3100B | Bruno | [[VPL-3100B]] |
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
 | CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
+| PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
+| ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
 
 ## Concepts
 
@@ -43,8 +45,9 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
 | Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
 | Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
-| Bruno stairlift warranty | [[Warranty]] |
+| Bruno warranty (stairlift + vehicle lift variants) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
+| Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
 
 Other candidates flagged but not yet written: Brake-Replacement,
 Joystick-Controllers, Seat-Systems, Troubleshooting (general,
@@ -68,6 +71,10 @@ SRE-2010 content], Bruno Stair Lift Warranty, Picture Perfect Camera
 Overview (2020, superseded), Picture Perfect Instructions (2022 Rev 5),
 Picture Perfect Staircase Target Placement.
 
+Bruno Vehicle Lifts (2 of 2 ingested) — see
+`wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
+Install Manual.
+
 Harmar (1 of 1 ingested) — see `wiki/sources/Harmar/`: CSL Series Photo
 Measuring Manual (the file physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
@@ -78,8 +85,7 @@ Everything else below is still backlog, not ingested.
 
 ## Ingestion backlog
 
-### Bruno (2 of 19 files remaining)
-- Vehicle Lifts/ — 1100-I PUL-1100 Installation, 275-I ASL-275 Install Manual
+### Bruno — fully ingested, no backlog remaining.
 
 ### Golden (66 files)
 See [[Golden]] for the model-family breakdown. Full file list:

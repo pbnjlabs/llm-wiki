@@ -3,16 +3,18 @@ type: concept
 tags: [warranty, bruno]
 ---
 
-# Bruno Gold Limited Warranty (Stairlift)
+# Bruno Gold Limited Warranty
+
+Bruno uses the "Bruno Gold Limited Warranty" name for more than one
+product category, with different terms per category — don't assume the
+stairlift terms apply to vehicle lifts or vice versa.
+
+## Stairlifts — 5yr major components / 2yr parts
 
 Identical warranty text appears standalone (`Bruno Stair Lift Warranty.pdf`)
-and embedded in both the [[CRE-2110 Install Manual]] and (by the same
-pattern used elsewhere) other Bruno stairlift manuals. Confirmed to apply
-to the straight-rail ([[SRE-2010]], [[SRE-3000]], [[SRE-3050]]) and
-curved-rail ([[CRE-2110]]) stairlift lines — not confirmed for VPL or
-Vehicle Lifts.
-
-## Coverage
+and embedded in the [[CRE-2110 Install Manual]]. Confirmed to apply to the
+straight-rail ([[SRE-2010]], [[SRE-3000]], [[SRE-3050]]) and curved-rail
+([[CRE-2110]]) stairlift lines — not confirmed for VPL.
 
 - **5 years** on major components (motor/gearbox drive train and rail
   system)
@@ -20,7 +22,19 @@ Vehicle Lifts.
 - **30 days labor** by a Bruno Authorized Dealer after installation
 - Warranty period begins on the **date of installation**, not purchase
 
-## Not covered
+## Vehicle lifts — 3 years, all parts
+
+Identical text embedded in both [[PUL-1100 Installation Manual]] and
+[[ASL-275 Install Manual]] — confirmed word-for-word the same document
+(rev. 01-16) in both. Applies to [[PUL-1100]] and [[ASL-275]] — not
+confirmed for VPL.
+
+- **3 years** on all parts, free of defects in material and workmanship
+  (no separate major-components tier like the stairlift warranty)
+- **30 days labor** by a Bruno Authorized Dealer after installation
+- Warranty period begins on the **date of installation**
+
+## Not covered (both variants)
 
 - Damage from misuse, abuse, accidents, neglect, or modifications not made
   by a Bruno Authorized Dealer
@@ -43,4 +57,5 @@ Contact: Bruno Independent Living Aids, Inc. — Attn: Service Department,
 
 ## See also
 
-[[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]]
+[[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]],
+[[PUL-1100]], [[ASL-275]]

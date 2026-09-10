@@ -94,3 +94,23 @@ SRE-2010 straight-rail content (folded into [[SRE-2010]] instead of
 Helix PhotoMap) — created a new manufacturer stub [[Harmar]] rather than
 misrepresenting it as Bruno content. Updated [[Bruno]] and `index.md`
 accordingly — only Vehicle Lifts (2 files) remains as Bruno backlog.
+
+## [2026-09-10] ingest | Bruno PUL-1100 — Installation Manual
+
+## [2026-09-10] ingest | Bruno ASL-275 — Install Manual
+
+Ingested the Bruno Vehicle Lifts cluster (2 manuals, all of
+`MANUALS/Bruno/Vehicle Lifts/`) — the last Bruno backlog. Created model
+pages [[PUL-1100]] (truck-bed-mounted "Out-Rider" arm lift for storing an
+empty mobility device) and [[ASL-275]] (hitch-mounted "Out-Sider" platform
+lift, optional Swing-Away). Created concept page
+[[Vehicle-Lift-Power-Wiring]] — both manuals describe an near-identical
+battery-to-lift wiring pattern (fuse holder, firewall routing, hybrid/EV
+12V-accessory-battery note). Also found both manuals embed the identical
+"Bruno Gold Limited Warranty for Vehicle Lift" text (3yr flat, distinct
+terms from the stairlift warranty) — restructured [[Warranty]] into two
+sections (stairlift 5yr/2yr vs. vehicle-lift 3yr) rather than assuming one
+warranty applies to both product categories. Updated [[Bruno]] and
+`index.md` — **all 19 Bruno-authored manuals on disk are now ingested.**
+Bruno is fully done; remaining backlog is Golden (66), Pride (10), and
+Prism (1).
