@@ -1,16 +1,33 @@
 ---
 type: concept
-tags: [diagnostics, golden, electrical, companion]
+tags: [diagnostics, golden, electrical, companion, literider]
 ---
 
-# Flash/Beep Code Diagnostics (Companion)
+# Flash/Beep Code Diagnostics (Dynamics R-Series Controller)
 
-A 9-code flash/beep diagnostic scheme, confirmed identical between the
-[[Companion Owners Manual (VA Contract Variant)]] and the
-[[Companion Service Guide (GC240, GC340, GC440)]]. Distinct from the
-[[TruCharge-Diagnostics]] 10-bar display confirmed on the GA541 Avenger —
-Golden uses more than one diagnostic scheme across its scooter line;
-don't assume either applies outside the models it's confirmed on.
+A 9-code flash/beep diagnostic scheme tied to Golden's **Dynamics
+R-Series controller**, not to any single model line. Confirmed identical
+(same 9 codes, same order, same meanings) across every model documented
+with that controller so far:
+
+- [[GC240-340-440-540-Companion]] — [[Companion Owners Manual (VA Contract Variant)]],
+  [[Companion Service Guide (GC240, GC340, GC440)]]
+- [[GL110-140-LiteRider]] — [[LiteRider Service Guide (GL110, GL140)]]
+  (calls out the same controller by name and gives the fullest
+  troubleshooting detail behind each code, including voltmeter/ohmmeter
+  test points)
+- [[GL111-141-LiteRider]] — [[LiteRider Owners Manual (GL111, GL141)]] and
+  [[LiteRider Illustrated Parts Breakdown (GL111, GL141)]] (the IPB
+  explicitly names the controller part, 3051600170, as shared between
+  Companion GC240/340/440 and LiteRider GL111/141 — direct textual
+  evidence, not inferred)
+
+Distinct from the [[TruCharge-Diagnostics]] 10-bar display confirmed on
+the GA541 Avenger, which uses a different controller (PG "S-Drive").
+Golden uses more than one diagnostic scheme across its scooter line — the
+controller family is what determines which scheme applies, not the model
+name, so check for a Dynamics R-Series controller before assuming this
+table applies to an un-ingested model.
 
 The Dynamics R-Series controller's power indicator LED flashes and the
 horn beeps together, in a series separated by a 2-second pause. The count
@@ -37,4 +54,5 @@ mat for field reference.
 
 ## See also
 
-[[GC240-340-440-540-Companion]], [[TruCharge-Diagnostics]], [[Golden]]
+[[GC240-340-440-540-Companion]], [[GL110-140-LiteRider]],
+[[GL111-141-LiteRider]], [[TruCharge-Diagnostics]], [[Golden]]

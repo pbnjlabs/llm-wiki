@@ -214,3 +214,36 @@ identical between the Service Guide and the VA Operator Manual — created
 [[TruCharge-Diagnostics]] so the two aren't conflated. Also confirmed the
 head-set-bearing assembly is explicitly a shared Companion+LiteRider part.
 Updated [[Golden]] and `index.md` — 23 of 66 Golden files done.
+
+## [2026-09-10] ingest | Golden GL110/140/GP160 — Battery Replacement
+
+## [2026-09-10] ingest | Golden GL110/140 — Brake Replacement
+
+## [2026-09-10] ingest | Golden GL110/140 — LiteRider Service Guide
+
+## [2026-09-10] ingest | Golden GL111/141 — LiteRider Illustrated Parts Breakdown
+
+## [2026-09-10] ingest | Golden GL111/141 — LiteRider Owner's Manual
+
+Ingested the GL1xx LiteRider cluster (5 manuals). Created
+[[GL110-140-LiteRider]] (older generation) and [[GL111-141-LiteRider]]
+(current generation) — the generational change looks mostly electronic/
+cosmetic rather than mechanical: the transaxle part (RA11E103) is still
+labeled for GL110/GL140 even in the newer IPB, and both use the same
+2×22AH battery layout.
+
+Key finding: the GL111/141 IPB explicitly names the same 90A Dynamics
+R-Series controller part (3051600170) as shared with Companion
+GC240/340/440 — direct textual evidence, not inferred. Combined with the
+GL110/140 Service Guide's beep-code table matching
+[[Flash-Beep-Diagnostics]] point-for-point, this confirms that concept
+page was scoped too narrowly as "Companion-only" — broadened it to a
+Dynamics-R-Series-controller-family concept and confirmed it now spans
+Companion GC240/340/440 and both LiteRider generations. [[Golden-Scooter-
+Warranty]] also confirmed on GL111/141 (rev. 11.17 text, though it lists
+covered models as "GL109, GL111, GL141" — GL109, not GL110, another
+warranty-text/raw-filename part-number mismatch). Battery replacement doc
+also flagged as covering GP160 (not yet ingested) — cross-linked for that
+future ingest. Updated [[Golden]] and `index.md` — 28 of 66 Golden files
+done; Golden backlog is now just GP1xx/GP6xx Compass/Alante/Envy,
+chargers, and cross-model accessory docs.

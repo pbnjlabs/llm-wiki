@@ -41,10 +41,17 @@ rather than split into product-line subfolders.
     [[Golden-Scooter-Warranty]].
   - Head-set bearing assembly is explicitly documented as shared across
     "All Companions and LiteRiders" — a real cross-family part.
-- **GL1xx LiteRider** — scooters.
-  - GL110, GL140/GL141: brake replacement, battery replacement, service
-    guide.
-  - GL111/GL141: IPB, OM (newer revision).
+- **GL1xx LiteRider** — scooters. **Fully ingested.**
+  - [[GL110-140-LiteRider]] — older generation (GL110 3-wheel/GL140
+    4-wheel), service guide only, no dedicated OM/IPB on file.
+  - [[GL111-141-LiteRider]] — current generation, successor to
+    GL110/140 (same drivetrain/transaxle part, mostly electronic/cosmetic
+    changes). Shares its 90A Dynamics R-Series controller with the
+    Companion line (GC240/340/440) — confirmed in the IPB.
+  - Brake mechanism shared with Buzzaround XL/Lite (GB106/116/146) — same
+    brake body, model-specific handle.
+  - Battery replacement doc also covers GP160 LiteRider PTC (not yet
+    ingested).
 - **GP1xx/GP600s Compass / Alante / LiteRider Envy** — power wheelchairs
   and scooters.
   - GP160: battery replacement (shared w/ GL110/GL140).
@@ -79,12 +86,15 @@ Bruno/Pride procedures too.
   (under a VA-specific heading) in the Companion VA operator manual.
 - [[TruCharge-Diagnostics]] — 10-bar battery/fault display, confirmed on
   GA541 only.
-- [[Flash-Beep-Diagnostics]] — a *different* 9-code flash/beep scheme,
-  confirmed on the Companion line. Golden uses more than one diagnostic
-  scheme across its scooters — don't assume either applies to
-  un-ingested models.
+- [[Flash-Beep-Diagnostics]] — a *different* 9-code flash/beep scheme
+  tied to the Dynamics R-Series controller, confirmed on the Companion
+  line AND both LiteRider generations (GL110/140, GL111/141) — the
+  controller family determines which scheme applies, not the model name.
+  Golden uses more than one diagnostic scheme across its scooters — don't
+  assume either applies to a model without checking its controller.
 
 ## Not yet ingested
 
-Everything except GA541 Avenger, the GB1xx Buzzaround family, and the
-GC2xx/3xx/4xx/5xx Companion family. See `wiki/index.md` for the backlog.
+Everything except GA541 Avenger, the GB1xx Buzzaround family, the
+GC2xx/3xx/4xx/5xx Companion family, and the GL1xx LiteRider family. See
+`wiki/index.md` for the backlog.
