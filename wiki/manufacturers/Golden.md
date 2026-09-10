@@ -27,10 +27,20 @@ rather than split into product-line subfolders.
     quick-release lithium battery pack designed for airline carry-on.
   - Brake mechanism is shared with the not-yet-ingested GL110/GL140
     LiteRider (same brake body, model-specific handle).
-- **GC2xx/3xx/4xx Companion / LiteRider** — scooters.
-  - GC221, GC321, GC421: potentiometer replacement.
-  - GC240, GC340, GC440, GC540 Companion: service guide, basket, pedestal,
-    tiller bolt/cable, seat lock, head-set bearing.
+- **GC2xx/3xx/4xx Companion** — scooters. **Fully ingested.**
+  - [[GC221-321-421-Companion]] — older generation, only one document on
+    file (potentiometer replacement).
+  - [[GC240-340-440-540-Companion]] — current generation. GC240/GC340/
+    GC440 share one platform/manual; **GC540 "Companion HD" is a
+    genuinely distinct heavier-duty variant** (separate frame, battery,
+    controller, seat — only shares the tiller assembly), not a color
+    option.
+  - The "VA" operator manual variant is Department of Veterans Affairs
+    contract packaging, not a state regulatory difference — same product,
+    same warranty text, plus an added VA-specific service plan. See
+    [[Golden-Scooter-Warranty]].
+  - Head-set bearing assembly is explicitly documented as shared across
+    "All Companions and LiteRiders" — a real cross-family part.
 - **GL1xx LiteRider** — scooters.
   - GL110, GL140/GL141: brake replacement, battery replacement, service
     guide.
@@ -65,12 +75,16 @@ Bruno/Pride procedures too.
 
 - [[Golden-Scooter-Warranty]] — one warranty policy text explicitly
   covers many scooter models (BUZZaround, LiteRider, Companion, Avenger,
-  Patriot), found in the GA541 operator manual. Worth checking against
-  every future Golden ingest.
-- [[TruCharge-Diagnostics]] — 10-code battery/fault display, confirmed on
-  GA541 only so far.
+  Patriot), found in the GA541 operator manual and confirmed verbatim
+  (under a VA-specific heading) in the Companion VA operator manual.
+- [[TruCharge-Diagnostics]] — 10-bar battery/fault display, confirmed on
+  GA541 only.
+- [[Flash-Beep-Diagnostics]] — a *different* 9-code flash/beep scheme,
+  confirmed on the Companion line. Golden uses more than one diagnostic
+  scheme across its scooters — don't assume either applies to
+  un-ingested models.
 
 ## Not yet ingested
 
-Everything except GA541 Avenger and the GB1xx Buzzaround family. See
-`wiki/index.md` for the backlog.
+Everything except GA541 Avenger, the GB1xx Buzzaround family, and the
+GC2xx/3xx/4xx/5xx Companion family. See `wiki/index.md` for the backlog.

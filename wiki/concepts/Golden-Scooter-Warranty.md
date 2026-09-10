@@ -53,6 +53,19 @@ unauthorized repairs/modifications, exceeding weight capacity,
 non-Golden accessories, acts of nature. Warranty runs from the *initial*
 consumer's purchase date and requires a filed registration card.
 
+## VA contract packaging
+
+The [[Companion Owners Manual (VA Contract Variant)]] — a GC240/340/440
+operator manual packaged for Department of Veterans Affairs Medical
+Center purchases (packing list includes a "Military Branch Patch") —
+carries this **same warranty text verbatim**, just retitled "Department
+of Veterans Affairs Warranty" rather than the generic consumer heading.
+It adds one VA-specific extra: a "Two-Year Warranty Service Plan" (24
+months parts, 12 months labor, administered by Golden's VA-contract
+service line, ext. 505) that isn't part of the standard consumer
+warranty. Confirms this is one underlying policy reused across sales
+channels, not a materially different warranty for VA buyers.
+
 ## See also
 
-[[Golden]], [[GA541-Avenger]]
+[[Golden]], [[GA541-Avenger]], [[GC240-340-440-540-Companion]]

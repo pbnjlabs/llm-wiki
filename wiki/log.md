@@ -169,3 +169,48 @@ for that future ingest). Neither [[Golden-Scooter-Warranty]] nor
 expected, since full warranty/diagnostic text lives in Operator Manuals,
 none of which are on file for any Buzzaround model yet. Updated [[Golden]]
 and `index.md` — 13 of 66 Golden files done.
+
+## [2026-09-10] ingest | Golden GC221/321/421 — Potentiometer Replacement
+
+## [2026-09-10] ingest | Golden Companion/LiteRider — Head Set Bearing Assembly
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Front Basket Installation
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Seat Pedestal Replacement
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Tiller Bolt Replacement
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Tiller Cable Replacement
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Seat Lock Mechanism Operating Instructions
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Companion Service Guide
+
+## [2026-09-10] ingest | Golden GC240/340/440/540 — Companion & Companion HD Illustrated Parts Breakdown
+
+## [2026-09-10] ingest | Golden GC240/340/440 — Companion Owner's Manual (VA Contract Variant)
+
+Ingested the Golden Companion cluster (10 manuals). Created
+[[GC221-321-421-Companion]] (older generation, thin coverage — only one
+part-replacement doc on file) and [[GC240-340-440-540-Companion]] (current
+generation). Key finding from the 2024 IPB: **GC540 "Companion HD" is a
+genuinely distinct heavier-duty variant**, not a color/trim option —
+separate frame, battery (22NF vs. U1/50AH), controller (Rhino 2 140A vs.
+90A DR90-A01), and seat, sharing only the tiller assembly with GC340/440.
+No operator manual or service guide exists for GC540 specifically, only
+the IPB.
+
+Two warranty/diagnostics cross-checks, both resolved with real findings
+rather than left unconfirmed: the Companion's "VA" operator manual is a
+**Department of Veterans Affairs contract packaging** (not a state
+regulatory variant — confirmed by a "Military Branch Patch" in the
+packing list), and its warranty section is [[Golden-Scooter-Warranty]]'s
+existing text verbatim under a VA-specific heading, plus an added 2-year
+VA service plan — updated that concept page rather than creating a
+duplicate. Separately, the Companion uses a **different diagnostic
+scheme** than the GA541's TruCharge bars — a 9-code flash/beep system,
+identical between the Service Guide and the VA Operator Manual — created
+[[Flash-Beep-Diagnostics]] and cross-linked/clarified
+[[TruCharge-Diagnostics]] so the two aren't conflated. Also confirmed the
+head-set-bearing assembly is explicitly a shared Companion+LiteRider part.
+Updated [[Golden]] and `index.md` — 23 of 66 Golden files done.

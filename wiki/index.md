@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 19 | 19 |
-| Golden | [[Golden]] | 66 | 13 |
+| Golden | [[Golden]] | 66 | 23 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
 | Harmar | [[Harmar]] | 1 | 1 |
@@ -38,6 +38,8 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Buzzaround XL / Lite (GB106/116/146/147) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
 | Buzzaround Carry On (GB120) | Golden | [[GB120-Buzzaround-CarryOn]] |
+| Companion GC221/321/421 (older gen) | Golden | [[GC221-321-421-Companion]] |
+| Companion GC240/340/440/540 HD | Golden | [[GC240-340-440-540-Companion]] |
 
 ## Concepts
 
@@ -52,8 +54,9 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Bruno warranty (stairlift + vehicle lift variants) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 | Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
-| Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot) | [[Golden-Scooter-Warranty]] |
-| TruCharge battery/fault diagnostics (Golden, confirmed on GA541 so far) | [[TruCharge-Diagnostics]] |
+| Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
+| TruCharge battery/fault diagnostics (Golden, confirmed on GA541 only) | [[TruCharge-Diagnostics]] |
+| Flash/beep code diagnostics (Golden Companion, 9 codes — different scheme than TruCharge) | [[Flash-Beep-Diagnostics]] |
 
 Other candidates flagged but not yet written: Brake-Replacement,
 Joystick-Controllers, Seat-Systems, Troubleshooting (general,
@@ -87,13 +90,18 @@ Measuring Manual (the file physically located under
 different manufacturer's document, not moved since raw sources are
 immutable).
 
-Golden (13 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
+Golden (23 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock
 (GB118/148), Tie Down Kit (GB118/148), Rental Bumper Kit (GB148),
 BuzzAround CarryOn Transportation Guide, GB120 Kickstand Installation
-Guide, GB120 Tiller Replacement Instructions.
+Guide, GB120 Tiller Replacement Instructions, Potentiometer Replacement
+(GC221/321/421), Head Set Bearing Assembly (All Companions/LiteRiders),
+Front Basket Installation, Seat Pedestal Replacement, Tiller Bolt
+Replacement, Tiller Cable Replacement, Seat Lock Mechanism Operating
+Instructions, Companion Service Guide, Companion & Companion HD IPB,
+Companion Owner's Manual (VA Contract Variant).
 
 Everything else below is still backlog, not ingested.
 
@@ -101,12 +109,11 @@ Everything else below is still backlog, not ingested.
 
 ### Bruno — fully ingested, no backlog remaining.
 
-### Golden (53 of 66 files remaining)
-GA541 Avenger and GB1xx Buzzaround (all 3 sub-families) ingested. See
-[[Golden]] for the model-family breakdown of what's left: GC2xx-4xx
-Companion/LiteRider, GL1xx LiteRider, GP1xx/GP6xx Compass/Alante/Envy,
-chargers, and cross-model accessory installs, all flat under
-`MANUALS/Golden/*.pdf`.
+### Golden (43 of 66 files remaining)
+GA541 Avenger, GB1xx Buzzaround (all 3 sub-families), and GC2xx-5xx
+Companion (all) ingested. See [[Golden]] for the model-family breakdown of
+what's left: GL1xx LiteRider, GP1xx/GP6xx Compass/Alante/Envy, chargers,
+and cross-model accessory installs, all flat under `MANUALS/Golden/*.pdf`.
 
 ### Pride (10 files)
 J6 (3), Q6 Edge 3 Stretto (3), Q-Logic/Q-Logic 3 (3), Tru-Balance 3 (1). See

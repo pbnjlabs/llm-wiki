@@ -6,9 +6,12 @@ tags: [diagnostics, golden, electrical]
 # TruCharge Battery Display Diagnostics
 
 Golden's "TruCharge" volt-meter/diagnostics gauge reports a 1-10 bar fault
-code. Confirmed on the [[GA541-Avenger]] operator manual — not yet
-verified whether other Golden models use the same TruCharge display or
-fault-code table; check as more Golden models are ingested.
+code. Confirmed on the [[GA541-Avenger]] operator manual. **Not** the
+scheme used on the Companion line — [[GC240-340-440-540-Companion]] uses a
+completely different flash/beep code system, see
+[[Flash-Beep-Diagnostics]]. Golden evidently uses more than one
+diagnostic scheme across its scooter range; check per-model rather than
+assuming either applies elsewhere.
 
 | Bars | Fault | Self-help |
 |---|---|---|
