@@ -10,10 +10,17 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 20 | 10 |
+| Bruno | [[Bruno]] | 19 | 17 |
 | Golden | [[Golden]] | 66 | 0 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
+| Harmar | [[Harmar]] | 1 | 1 |
+
+Note: Bruno's on-disk count dropped from 20 to 19 because one file
+(`HARMAR Camera Measuring Manual.pdf`, physically under
+`MANUALS/Bruno/Bruno Curved SL/`) is counted under Harmar instead — a
+different manufacturer's document, not moved since raw sources are
+immutable. See [[Harmar]] and [[Bruno]] for details.
 
 ## Models
 
@@ -24,6 +31,7 @@ Entry point for every query — check here first before opening raw manuals.
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
 | VPL-3100B | Bruno | [[VPL-3100B]] |
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
+| CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
 
 ## Concepts
 
@@ -34,6 +42,9 @@ Entry point for every query — check here first before opening raw manuals.
 | Rail mounting/anchoring guidance | [[Rail-Mounting-Guidance]] |
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
 | Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
+| Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
+| Bruno stairlift warranty | [[Warranty]] |
+| Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 
 Other candidates flagged but not yet written: Brake-Replacement,
 Joystick-Controllers, Seat-Systems, Troubleshooting (general,
@@ -50,15 +61,24 @@ Bruno VPL (4 of 4 ingested) — see `wiki/sources/Bruno/VPL/`: VPL-3100B
 Install Manual, VPL-3100B Operator Manual, VPL-3200B Install Manual,
 VPL-3200B Operator Manual.
 
+Bruno Curved SL (7 of 7 Bruno-authored files ingested) — see
+`wiki/sources/Bruno/Bruno Curved SL/`: 2110-TS Tech Support Guide, CRE-2110
+Install Manual, Bruno Elite 2010 Conversion (SRE-2010) [misfiled — actually
+SRE-2010 content], Bruno Stair Lift Warranty, Picture Perfect Camera
+Overview (2020, superseded), Picture Perfect Instructions (2022 Rev 5),
+Picture Perfect Staircase Target Placement.
+
+Harmar (1 of 1 ingested) — see `wiki/sources/Harmar/`: CSL Series Photo
+Measuring Manual (the file physically located under
+`MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
+different manufacturer's document, not moved since raw sources are
+immutable).
+
 Everything else below is still backlog, not ingested.
 
 ## Ingestion backlog
 
-### Bruno (10 of 20 files remaining)
-- Bruno Curved SL/ — 2110-TS Tech Support Guide, Bruno Camera Overview,
-  Bruno Elite 2010 conversion, Bruno Stair Lift Warranty, CRE-2110 Elite
-  Curve Installation, HARMAR Camera Measuring Manual, Picture Perfect
-  Instructions, Picture Perfect Stairs Checker 3.0
+### Bruno (2 of 19 files remaining)
 - Vehicle Lifts/ — 1100-I PUL-1100 Installation, 275-I ASL-275 Install Manual
 
 ### Golden (66 files)

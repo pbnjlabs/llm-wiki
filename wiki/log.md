@@ -56,3 +56,41 @@ reused verbatim across both models) and
 both install and both operator manuals). Updated [[Bruno]] and `index.md`
 accordingly — Bruno's Straight SL and VPL product lines are now fully
 ingested; Curved SL and Vehicle Lifts remain backlog.
+
+## [2026-09-10] ingest | Bruno CRE-2110 — 2110-TS Tech Support Guide
+
+## [2026-09-10] ingest | Bruno CRE-2110 — CRE-2110 Install Manual
+
+## [2026-09-10] ingest | Bruno SRE-2010 — Bruno Elite 2010 Conversion (misfiled under Curved SL)
+
+## [2026-09-10] ingest | Bruno — Stair Lift Warranty
+
+## [2026-09-10] ingest | Bruno — Picture Perfect Camera Overview (2020, superseded)
+
+## [2026-09-10] ingest | Bruno — Picture Perfect Instructions (2022 Rev 5)
+
+## [2026-09-10] ingest | Bruno — Picture Perfect Staircase Target Placement
+
+## [2026-09-10] ingest | Harmar — CSL Series Photo Measuring Manual (misfiled under Bruno Curved SL)
+
+Ingested the Bruno Curved SL cluster (8 manuals in
+`MANUALS/Bruno/Bruno Curved SL/`). Created model page [[CRE-2110]] (custom
+curved-rail Elite Curve — shares [[Rail-Mounting-Guidance]] and
+[[Diagnostic-Codes]] with the straight Elite/Elan line, but overspeed
+brake is optional rather than standard and resets via a different
+two-lever mechanism — see [[Overspeed-Safety-Brake]]). Created concept
+pages [[Diagnostic-Codes]] (shared code table confirmed across SRE-2010,
+SRE-3000, and CRE-2110 — not confirmed for SRE-3050), [[Warranty]] (Bruno
+Gold Limited Warranty, general across the stairlift line), and
+[[Staircase-Measuring-System]] (Picture Perfect / StairsChecker 3.0 camera
+kit used to order custom curved rail — the three "camera" files turned out
+to be one document's revision history plus a standalone diagram excerpt,
+not three distinct systems).
+
+Two filing surprises: "Bruno Elite 2010 conversion.pdf" is actually
+SRE-2010 straight-rail content (folded into [[SRE-2010]] instead of
+[[CRE-2110]]), and "HARMAR Camera Measuring Manual.pdf" turned out to be a
+**different manufacturer's** competing product (Harmar's CSL Series /
+Helix PhotoMap) — created a new manufacturer stub [[Harmar]] rather than
+misrepresenting it as Bruno content. Updated [[Bruno]] and `index.md`
+accordingly — only Vehicle Lifts (2 files) remains as Bruno backlog.

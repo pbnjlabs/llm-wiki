@@ -1,0 +1,46 @@
+---
+type: concept
+tags: [warranty, bruno]
+---
+
+# Bruno Gold Limited Warranty (Stairlift)
+
+Identical warranty text appears standalone (`Bruno Stair Lift Warranty.pdf`)
+and embedded in both the [[CRE-2110 Install Manual]] and (by the same
+pattern used elsewhere) other Bruno stairlift manuals. Confirmed to apply
+to the straight-rail ([[SRE-2010]], [[SRE-3000]], [[SRE-3050]]) and
+curved-rail ([[CRE-2110]]) stairlift lines — not confirmed for VPL or
+Vehicle Lifts.
+
+## Coverage
+
+- **5 years** on major components (motor/gearbox drive train and rail
+  system)
+- **2 years** on all parts (defects in material and workmanship)
+- **30 days labor** by a Bruno Authorized Dealer after installation
+- Warranty period begins on the **date of installation**, not purchase
+
+## Not covered
+
+- Damage from misuse, abuse, accidents, neglect, or modifications not made
+  by a Bruno Authorized Dealer
+- Consumable items (e.g. remote batteries)
+- Labor after the first 30 days
+- Reasonable wear and tear
+
+## Critical condition
+
+**Warranty is void if the unit is installed or maintained by anyone other
+than an authorized Bruno dealer.** This exact clause repeats verbatim
+across every Bruno stairlift manual reviewed so far.
+
+Bruno reserves the right to replace, repair, or (if not commercially
+feasible) refund at its sole discretion. No liability for indirect/
+incidental/consequential damages.
+
+Contact: Bruno Independent Living Aids, Inc. — Attn: Service Department,
+1780 Executive Drive, Oconomowoc, WI 53066 — 1-800-882-8183.
+
+## See also
+
+[[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]]
