@@ -12,7 +12,9 @@ rather than split into product-line subfolders.
 
 ## Model families (by part-number prefix, from filenames — unverified against manual content)
 
-- **GA541 Avenger** — power wheelchair. IPB, OM, mirror install.
+- **GA541 Avenger** — 4-wheel scooter (not a wheelchair — corrected from
+  the filename-only stub). 750W rear-wheel drive, PG S-Drive controller,
+  500 lb capacity. **Fully ingested** — see [[GA541-Avenger]].
 - **GB1xx Buzzaround** (XL / EX / Carry On) — travel scooters.
   - GB106, GB116, GB118, GB146, GB147, GB148: brakes, frame lock, charging
     dock, tie-down kit, field alignment, rental bumper kits.
@@ -51,7 +53,15 @@ These are strong candidates for `concepts/` pages (e.g.
 since they apply across many Golden models and probably overlap with
 Bruno/Pride procedures too.
 
+## Cross-model concepts (confirmed so far)
+
+- [[Golden-Scooter-Warranty]] — one warranty policy text explicitly
+  covers many scooter models (BUZZaround, LiteRider, Companion, Avenger,
+  Patriot), found in the GA541 operator manual. Worth checking against
+  every future Golden ingest.
+- [[TruCharge-Diagnostics]] — 10-code battery/fault display, confirmed on
+  GA541 only so far.
+
 ## Not yet ingested
 
-Nothing under `MANUALS/Golden/` has been read/summarized yet. See
-`wiki/index.md` for the backlog.
+Everything except GA541 Avenger. See `wiki/index.md` for the backlog.

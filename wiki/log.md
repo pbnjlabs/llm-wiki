@@ -114,3 +114,20 @@ warranty applies to both product categories. Updated [[Bruno]] and
 `index.md` — **all 19 Bruno-authored manuals on disk are now ingested.**
 Bruno is fully done; remaining backlog is Golden (66), Pride (10), and
 Prism (1).
+
+## [2026-09-10] ingest | Golden GA541 Avenger — IPB
+
+## [2026-09-10] ingest | Golden GA541 Avenger — Operator Manual
+
+## [2026-09-10] ingest | Golden GA541 Avenger — Mirror Installation
+
+First Golden ingest. Created model page [[GA541-Avenger]] (750W
+rear-wheel-drive 4-wheel scooter, PG S-Drive controller — corrects the
+manufacturer stub's earlier guess that GA541 was a wheelchair). Created
+two concept pages from direct textual evidence rather than speculation:
+[[Golden-Scooter-Warranty]] (the Avenger operator manual's warranty
+section explicitly names BUZZaround, LiteRider, Companion, and Patriot
+models as covered by the same policy text) and [[TruCharge-Diagnostics]]
+(a 10-code battery/fault display, confirmed on GA541 only so far —
+flagged to verify against other Golden models as they get ingested).
+Updated [[Golden]] and `index.md` — 3 of 66 Golden files done.

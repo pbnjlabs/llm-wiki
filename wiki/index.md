@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 19 | 19 |
-| Golden | [[Golden]] | 66 | 0 |
+| Golden | [[Golden]] | 66 | 3 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
 | Harmar | [[Harmar]] | 1 | 1 |
@@ -34,6 +34,7 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
+| GA541 Avenger | Golden | [[GA541-Avenger]] |
 
 ## Concepts
 
@@ -48,6 +49,8 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Bruno warranty (stairlift + vehicle lift variants) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 | Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
+| Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot) | [[Golden-Scooter-Warranty]] |
+| TruCharge battery/fault diagnostics (Golden, confirmed on GA541 so far) | [[TruCharge-Diagnostics]] |
 
 Other candidates flagged but not yet written: Brake-Replacement,
 Joystick-Controllers, Seat-Systems, Troubleshooting (general,
@@ -81,18 +84,20 @@ Measuring Manual (the file physically located under
 different manufacturer's document, not moved since raw sources are
 immutable).
 
+Golden (3 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
+GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation.
+
 Everything else below is still backlog, not ingested.
 
 ## Ingestion backlog
 
 ### Bruno — fully ingested, no backlog remaining.
 
-### Golden (66 files)
-See [[Golden]] for the model-family breakdown. Full file list:
-`MANUALS/Golden/*.pdf` (flat directory, ~60 accessory/model docs covering
-GA541, GB1xx Buzzaround, GC2xx-4xx Companion/LiteRider, GL1xx LiteRider,
-GP1xx/GP6xx Compass/Alante/Envy, plus chargers and cross-model accessory
-installs).
+### Golden (63 of 66 files remaining)
+GA541 Avenger ingested. See [[Golden]] for the model-family breakdown of
+what's left: GB1xx Buzzaround, GC2xx-4xx Companion/LiteRider, GL1xx
+LiteRider, GP1xx/GP6xx Compass/Alante/Envy, chargers, and cross-model
+accessory installs, all flat under `MANUALS/Golden/*.pdf`.
 
 ### Pride (10 files)
 J6 (3), Q6 Edge 3 Stretto (3), Q-Logic/Q-Logic 3 (3), Tru-Balance 3 (1). See
