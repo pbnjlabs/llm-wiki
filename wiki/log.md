@@ -131,3 +131,41 @@ models as covered by the same policy text) and [[TruCharge-Diagnostics]]
 (a 10-code battery/fault display, confirmed on GA541 only so far —
 flagged to verify against other Golden models as they get ingested).
 Updated [[Golden]] and `index.md` — 3 of 66 Golden files done.
+
+## [2026-09-10] ingest | Golden Buzzaround XL — 2-Piece Brake Replacement (also covers LiteRider)
+
+## [2026-09-10] ingest | Golden GB116/GB146 — Frame Lock Adjustment
+
+## [2026-09-10] ingest | Golden GB147 — Field Alignment Procedure
+
+## [2026-09-10] ingest | Golden GB118 — Rental Bumper Kit
+
+## [2026-09-10] ingest | Golden GB118/GB148 — Charging Dock
+
+## [2026-09-10] ingest | Golden GB118/GB148 — Tie Down Kit
+
+## [2026-09-10] ingest | Golden GB148 — Rental Bumper Kit
+
+## [2026-09-10] ingest | Golden GB120 — CarryOn Transportation Guide (Battery)
+
+## [2026-09-10] ingest | Golden GB120 — Kickstand Installation Guide
+
+## [2026-09-10] ingest | Golden GB120 — Tiller Replacement Instructions
+
+Ingested the GB1xx Buzzaround cluster (10 manuals). Sorted into three
+model pages by actual platform, not raw filename groupings:
+[[GB1xx-Buzzaround-XL]] (GB106 "Lite", GB116, GB146 share a frame-lock
+folding design; GB147 has a different tie-rod steering linkage, open
+question whether it still folds — no IPB/OM on file to confirm),
+[[GB118-148-Buzzaround-EX]] (GB118=3-wheel, GB148=4-wheel of the same
+"Buzzaround Extreme" platform — confirmed by their differing rental
+bumper kit steps; dual removable battery packs on a shared charging
+dock), and [[GB120-Buzzaround-CarryOn]] (single quick-release lithium
+pack, airline-travel-focused, distinct tiller/steering architecture from
+the other two families). Confirmed the brake mechanism is shared with the
+not-yet-ingested GL110/GL140 LiteRider (noted on [[GB1xx-Buzzaround-XL]]
+for that future ingest). Neither [[Golden-Scooter-Warranty]] nor
+[[TruCharge-Diagnostics]] appear in these service/accessory bulletins —
+expected, since full warranty/diagnostic text lives in Operator Manuals,
+none of which are on file for any Buzzaround model yet. Updated [[Golden]]
+and `index.md` — 13 of 66 Golden files done.

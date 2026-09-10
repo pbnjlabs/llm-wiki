@@ -16,9 +16,17 @@ rather than split into product-line subfolders.
   the filename-only stub). 750W rear-wheel drive, PG S-Drive controller,
   500 lb capacity. **Fully ingested** — see [[GA541-Avenger]].
 - **GB1xx Buzzaround** (XL / EX / Carry On) — travel scooters.
-  - GB106, GB116, GB118, GB146, GB147, GB148: brakes, frame lock, charging
-    dock, tie-down kit, field alignment, rental bumper kits.
-  - LIT-GB120: Carry On battery, kickstand, tiller replacement.
+  **Fully ingested.**
+  - [[GB1xx-Buzzaround-XL]] (GB106 "Lite", GB116, GB146, GB147) —
+    frame-lock folding design for 106/116/146; GB147 has a different
+    tie-rod steering linkage, open question whether it still folds.
+  - [[GB118-148-Buzzaround-EX]] — 3-wheel (GB118) vs. 4-wheel (GB148)
+    variants of the same "Buzzaround Extreme" platform, dual removable
+    battery packs on a shared charging dock.
+  - [[GB120-Buzzaround-CarryOn]] — smallest/travel-focused, single
+    quick-release lithium battery pack designed for airline carry-on.
+  - Brake mechanism is shared with the not-yet-ingested GL110/GL140
+    LiteRider (same brake body, model-specific handle).
 - **GC2xx/3xx/4xx Companion / LiteRider** — scooters.
   - GC221, GC321, GC421: potentiometer replacement.
   - GC240, GC340, GC440, GC540 Companion: service guide, basket, pedestal,
@@ -64,4 +72,5 @@ Bruno/Pride procedures too.
 
 ## Not yet ingested
 
-Everything except GA541 Avenger. See `wiki/index.md` for the backlog.
+Everything except GA541 Avenger and the GB1xx Buzzaround family. See
+`wiki/index.md` for the backlog.
