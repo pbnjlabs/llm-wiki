@@ -14,7 +14,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
-| Harmar | [[Harmar]] | 1 | 1 |
+| Harmar | [[Harmar]] | 15 | 9 (distinct docs; see note) |
 
 Note: Bruno's on-disk count dropped from 20 to 19 because one file
 (`HARMAR Camera Measuring Manual.pdf`, physically under
@@ -25,6 +25,13 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 65 source pages. See [[Golden]] for details.
+
+Note: Harmar's 15-file on-disk count (14 PDFs + 1 docx in the new
+`MANUALS/Harmar/` folder, plus the 1 misfiled Bruno-folder file already
+counted under Bruno) includes two sets of 3 byte-identical PDFs
+(AL100/AL300/AL301 owner's manuals are one file; AL100/AL300/AL301
+install manuals are another) confirmed by md5 — 9 distinct documents, 9
+source pages. See [[Harmar]] for details.
 
 ## Models
 
@@ -53,6 +60,11 @@ PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 | C-450 / C-625 | Prism | [[C-450-C-625]] |
+| Helix (CSL Series) | Harmar | [[Helix]] |
+| Highlander II with Enclosure (VPL400-1400) | Harmar | [[HighlanderII]] |
+| Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
+| Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
+| AL-Series Outside Vehicle Lifts (~20 models) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 
 ## Concepts
 
@@ -83,6 +95,8 @@ PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 | Golden brake replacement (3 model families, complexity ranges from 5-step puck swap to 28-step full drive-assembly pull) | [[Brake-Replacement]] |
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
+| Harmar warranty (5 product lines, each with its own distinct term) | [[Harmar-Warranty]] |
+| Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
@@ -90,6 +104,12 @@ wheelchairs — always verify the controller before assuming a scheme
 applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
 Golden's error codes apply to a Pride chair or vice versa.
+
+[[Overspeed-Safety-Brake]] now spans three manufacturers'
+different mechanisms (Bruno centrifugal/field-resettable, Prism
+motor-replacement, Harmar's HighlanderII VPL over-speed-governor switch)
+— always check which manufacturer's variant applies before assuming a
+reset procedure carries over.
 
 Other candidates flagged but not yet written: Seat-Systems
 (general/cross-manufacturer — Golden and Pride each have their own seating
@@ -121,11 +141,18 @@ Bruno Vehicle Lifts (2 of 2 ingested) — see
 `wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
 Install Manual.
 
-Harmar (1 of 1 ingested) — see `wiki/sources/Harmar/`: CSL Series Photo
-Measuring Manual (the file physically located under
+Harmar (9 of 9 distinct documents ingested) — see `wiki/sources/Harmar/`:
+CSL Series Photo Measuring Manual (physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
 different manufacturer's document, not moved since raw sources are
-immutable).
+immutable), Helix Owner's Manual, Helix Photo Measuring Manual (2023, Rev
+C), Highlander II with Enclosure Owner's Manual, Highlander II with
+Enclosure Installation and Service Manual, Outside Vehicle Lifts Owner's
+Manual (covers AL100/AL300/AL301, byte-identical files), Outside Vehicle
+Lifts Installation and Service Manual (covers AL100/AL300/AL301,
+byte-identical files), Pinnacle SL300 Owner's Manual, Pinnacle SL600
+Owner's Manual, Vehicle Lift Phone Interview Form (internal PMS sales
+form, not a Harmar technical manual).
 
 Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -171,7 +198,8 @@ Positioning Systems BOI.
 Prism (1 of 1 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual.
 
-**All manuals in the entire wiki are now ingested.**
+**All manuals in the entire wiki are now ingested**, including Harmar's
+newly added `MANUALS/Harmar/` folder (see Harmar entry above).
 
 ## Ingestion backlog
 
@@ -182,6 +210,8 @@ C-450/C-625 Technical Manual.
 ### Pride — fully ingested, no backlog remaining.
 
 ### Prism — fully ingested, no backlog remaining.
+
+### Harmar — no install/tech-support manual on file yet for Helix, SL300, or SL600 (owner's manuals only); otherwise fully ingested.
 
 ## How to use this wiki
 

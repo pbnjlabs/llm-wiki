@@ -1,28 +1,37 @@
 ---
 type: concept
-tags: [safety, stairlift, ceiling-lift, overspeed, bruno, prism]
+tags: [safety, stairlift, ceiling-lift, vpl, platform-lift, overspeed, bruno, prism, harmar]
 ---
 
 # Overspeed Safety Governor
 
-A centrifugal-force mechanical safety brake that stops a lift carriage if
-its speed becomes excessive, preventing free-fall/runaway — independent of
-the primary drive/control electronics. Documented so far on two
-manufacturers' products with different reset behavior:
+A safety mechanism that halts a lift if its speed becomes excessive,
+preventing free-fall/runaway — independent of the primary drive/control
+electronics. Documented so far on three manufacturers' products, with
+different mechanisms and reset behavior:
 
 - **Bruno** straight-rail stairlifts (confirmed on [[SRE-2010]],
   [[SRE-3000]], [[SRE-3050]] — same mechanism, same documentation reused
   near-verbatim across all three models' tech support/install guides) —
-  **field-resettable**, see below.
+  a **centrifugal** governor, **field-resettable**, see below.
 - **Prism** [[C-450-C-625]] ceiling lift (see
   [[C-450 C-625 Technical Manual]]) — described as "universal, failsafe,"
   triggered when a worn motor output shaft/worm wheel causes abnormal
   acceleration. Unlike Bruno's version, the Prism manual gives no field
   reset procedure — recovery is **motor replacement**.
+- **Harmar** [[HighlanderII]] VPL — a different mechanism again: not a
+  centrifugal governor but an **Over-Speed Governor (OSG) switch**
+  mounted at the bottom of the ACME drive screw, sharing a normally-closed
+  circuit with the pit switch. Tripped by "a failure causing drive screw
+  overspeed"; the install manual documents it only as a bench/functional
+  test step (manually depress the OSG switch, verify travel is prevented
+  and status LEDs go solid red) — no field reset or recovery procedure is
+  given beyond "Service is required" when the shared pit/OSG circuit
+  shows open. See [[HighlanderII]] for the full status-code context.
 
 The rest of this page documents the Bruno reset/testing procedure; no
-equivalent step-by-step exists yet for the Prism mechanism beyond "replace
-the motor."
+equivalent step-by-step exists yet for the Prism or Harmar mechanisms
+beyond what's noted above.
 
 ## How it works (Bruno)
 
@@ -61,4 +70,4 @@ run, confirming the governor actually engages under load.
 ## See also
 
 [[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[Bruno]], [[C-450-C-625]],
-[[Prism]]
+[[Prism]], [[HighlanderII]], [[Harmar]]

@@ -504,3 +504,61 @@ drive-assembly pull (Compass Sport GP605) for the same underlying
 component category. Linked the new page from [[GB1xx-Buzzaround-XL]],
 [[GL110-140-LiteRider]], and [[GP6xx-Compass]], added it to `index.md`'s
 Concepts table, and removed it from the candidates-not-yet-written list.
+
+## [2026-09-11] ingest | Harmar — Helix, Highlander II, Outside Vehicle Lifts, Pinnacle SL300/SL600 (14 files, first real Harmar product-line ingest)
+
+Ingested the human's newly created `MANUALS/Harmar/` folder in one batch
+pass (14 files: 8 distinct PDFs after dedup + 1 docx, the docx via
+zip/XML extraction since no docx-to-text tool was available; `pdftotext
+-layout` for all PDFs). Harmar previously had exactly one document on
+file — a misfiled camera-measuring manual under Bruno's folder — so this
+is the wiki's first look at what Harmar actually makes.
+
+Created five model pages: [[Helix]] (CSL500/510/511/560/570/589/590/595
+curved stairlift — confirms "Helix" is the marketing name for the CSL
+series, resolving a naming mystery flagged in the original Harmar stub),
+[[HighlanderII]] (VPL400-1400 enclosed vertical platform lift — ACME
+screw drive, 2/3hp gearmotor, optional battery backup, an extensive
+4-LED/32-LED status system), [[Pinnacle-SL300]] and [[Pinnacle-SL600]]
+(straight-rail stairlifts — SL300 residential-only, SL600 the first
+Harmar product confirmed commercial-rated/FDA-registered), and
+[[AL-Series-Outside-Vehicle-Lifts]] (hitch-mounted lifts for unoccupied
+mobility devices — confirmed both manuals on file are generic across
+~20+ model numbers despite being filed under `AL100-...` filenames, not
+AL100-specific).
+
+Two file-triplication findings (md5-confirmed, same pattern as Golden's
+known duplicate): `AL100/AL300/AL301-OutsideLifts_Owners-Manual.pdf` are
+one byte-identical file under three names, and likewise for the three
+`...Installation-and-Service-Manual.pdf` files — one source page each,
+not three. Also confirmed `Helix_Photo-Measuring-Manual.pdf` (Rev C,
+2023) is a **newer revision** of the already-ingested
+[[CSL Series Photo Measuring Manual]] (Rev B, 2019, misfiled under
+Bruno's folder) — created a new source page rather than overwriting the
+old one (immutable raw sources, and the old file is still on disk under
+Bruno's tree), cross-linked both ways, and updated
+[[Staircase-Measuring-System]] with the finding.
+
+Created two new concept pages: [[Harmar-Warranty]] (every one of
+Harmar's five product lines carries its own distinct warranty term — no
+shared scooter/wheelchair- or stairlift/vehicle-lift-style split the way
+Bruno and Golden have) and [[Harmar-Stairlift-Beep-Codes]] (Helix/SL300/
+SL600 share a near-identical beeps-only major-fault scheme — SL300's
+table stops at 8 codes vs. the other two's 9, and SL300 alone caveats
+codes 3-6 as "if configured for your model"). Updated
+[[Overspeed-Safety-Brake]] to add a **third** manufacturer/mechanism:
+HighlanderII's Over-Speed Governor (OSG) switch on the ACME drive screw,
+mechanically distinct from Bruno's centrifugal governor and Prism's
+worn-shaft trigger, sharing a circuit with the VPL's pit switch. Rewrote
+[[Harmar]] from a one-document stub into a full manufacturer page.
+
+Not linked as a technical reference: [[Vehicle Lift Phone Interview Form]]
+— a one-page internal Performance Medical Supply sales-intake script
+(docx), not a Harmar-authored document; kept as a source page for
+completeness since it's on disk, but doesn't feed any model/concept page.
+
+No install or tech-support manual exists yet for Helix, SL300, or SL600
+(owner's manuals only) — flagged as backlog on [[Harmar]] and in
+`index.md`, but not a missing-ingest issue since no such document is on
+disk. Updated `index.md` (manufacturer table, 5 new model rows, 2 new
+concept rows, sources list, backlog section).

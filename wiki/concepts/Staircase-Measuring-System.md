@@ -57,15 +57,22 @@ photoshoot (pass/fail) before the job is submitted for rail fabrication.
 
 `HARMAR Camera Measuring Manual.pdf` is filed in the same `MANUALS/Bruno/
 Bruno Curved SL/` folder but documents a **different manufacturer's**
-competing product — Harmar's "CSL Series" curved stairlift and its "Helix
-PhotoMap" measuring kit. See [[Harmar]]. Harmar's system uses simple
-printed paper markers (no coded plastic targets, no local pass/fail
+competing product — Harmar's "[[Helix]]" (CSL Series) curved stairlift and
+its "Helix PhotoMap" measuring kit. See [[Harmar]]. Harmar's system uses
+simple printed paper markers (no coded plastic targets, no local pass/fail
 software) and submits photos via Dropbox/email for human review at
-Harmar, rather than Bruno's on-site software validation. Likely filed here
-because it addresses the same real-world task (photographing a staircase
-for a curved rail order) rather than because it's a Bruno product — flag
-for the human to confirm whether this belongs in a Harmar folder instead.
+Harmar, rather than Bruno's on-site software validation.
+
+**Update (2026-09-11):** the human has since created a dedicated
+`MANUALS/Harmar/` folder. The Bruno-folder file remains in place
+(Rev B, 2019-07-08 — raw sources are immutable) but a **newer Rev C**
+(3NOV23) of the same manual, `Helix_Photo-Measuring-Manual.pdf`, is now
+correctly filed there — see
+[[Helix Photo Measuring Manual (2023, Rev C)]]. The two haven't been
+diffed line-by-line, but Rev C adds an explicit "Common Errors" section
+with labeled sample-error photos not confirmed present in the Rev B
+summary above.
 
 ## See also
 
-[[Bruno]], [[CRE-2110]], [[Harmar]]
+[[Bruno]], [[CRE-2110]], [[Harmar]], [[Helix]]
