@@ -8,6 +8,9 @@ tags: [golden, battery, charging]
 General battery care/charging guidance plus operation of Golden's two
 documented off-board chargers. Cross-model — not tied to one specific unit.
 
+Sources: [[Battery Charging Insert]], [[Connecting the Batteries]],
+[[HP8204B Charger Operation]], [[MRC24-4LX Charger Operation]].
+
 ## General charging guidance (from "Battery Charging" and "Connecting the
 Batteries" inserts)
 

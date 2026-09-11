@@ -126,4 +126,9 @@ own documentation.
 
 ## Not yet ingested
 
-Nothing — **all 66 Golden manuals on disk have been ingested.**
+Nothing — **all 66 Golden manuals on disk have been ingested**, as 65
+distinct documents: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
+`LITERIDER PTC_GP162_ SG_REVA_ 051614.pdf` are byte-identical duplicates
+(confirmed by md5) of the same file under two filenames, so both map to
+the single [[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]]
+source page.

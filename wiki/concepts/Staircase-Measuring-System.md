@@ -15,17 +15,19 @@ photoshoot (pass/fail) before the job is submitted for rail fabrication.
 ## Document lineage (same underlying system, 3 files on disk — revisions/pieces, not distinct systems)
 
 - `Bruno Camera Overview.pdf` (ILS-01397, dated 2020-01-20) — older
-  revision of the full instructions.
+  revision of the full instructions. See
+  [[Picture Perfect Camera Overview (2020, superseded)]].
 - `Picture Perfect Instructions.pdf` (ILS-01397, **Rev 5, 2022-10-16**) —
   **current** version of the same document (ILS-01397); supersedes the
   2020 file above. Adds Windows 11 / Surface Pro X compatibility notes and
   explicit device incompatibilities (no Apple, Android, Chromebook, Kindle,
-  or Ryzen-CPU machines).
+  or Ryzen-CPU machines). See [[Picture Perfect Instructions (2022 Rev 5)]].
 - `PICTURE PERFECT STAIRS CHECKER 3.0_STAIRCASE TARGET PLACEMENT_08-30-2019.pdf`
   (ILS-01403, 2019-08-30) — a standalone excerpt of just the "target and
   level placement" diagrams (90°/180° turns, large-radius turns, straights
   with intermediate landing, existing-stairlift-in-place scenarios). Same
-  diagrams are also embedded in both files above.
+  diagrams are also embedded in both files above. See
+  [[Picture Perfect Staircase Target Placement]].
 
 ## How it works
 

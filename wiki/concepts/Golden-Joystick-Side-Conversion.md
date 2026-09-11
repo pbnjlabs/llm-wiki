@@ -5,6 +5,8 @@ tags: [golden, joystick, shark-controller, repair]
 
 # Golden Joystick Side Conversion (Shark Controller)
 
+Source: [[Right to Left Side Joystick Conversion]].
+
 14-step procedure to move a retractable-desk-arm-mounted **Shark joystick**
 from the right armrest to the left. Confirms the "Shark" joystick/
 controller brand by name — cross-links to [[GP6xx-Compass]], where GP605

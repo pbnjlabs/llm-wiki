@@ -9,6 +9,13 @@ Universal accessory-install procedures that apply across Golden's scooter
 and power-wheelchair lines generically (not model-specific) — each is a
 short (1-page) install sheet.
 
+Sources: [[Accessory Receiver Installation]],
+[[Adjustable Depth Seat Instructions]],
+[[Cane and Crutch Holder Installation]], [[Cup Holder Installation]],
+[[Oxygen Holder and Walker Holder Installation]],
+[[Universal Mirror Mount]], [[Mobility All Models Flag Installation]],
+[[Seat Belt Instructions]].
+
 - **Accessory receiver**: bolts to the arm receiver tube at the rear of
   the seat frame (2 bolts, 5mm Allen + 13mm lock nuts). This is the
   mounting point several other accessories below attach to.

@@ -5,6 +5,8 @@ tags: [golden, electrical, repair]
 
 # Golden Key & Key Switch Replacement
 
+Source: [[Key and Key Switch Change]].
+
 Universal replacement procedure using part **MBH-C40-KSWITCH** (key switch
 with removable jumper — a universal part) plus **MBH-C40-KSET** (the key
 itself, identified by 3 lines cut into it; must be paired with the

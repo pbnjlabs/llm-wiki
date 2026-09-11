@@ -22,6 +22,10 @@ Note: Bruno's on-disk count dropped from 20 to 19 because one file
 different manufacturer's document, not moved since raw sources are
 immutable. See [[Harmar]] and [[Bruno]] for details.
 
+Note: Golden's 66-file on-disk count includes one byte-identical duplicate
+PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
+65 source pages. See [[Golden]] for details.
+
 ## Models
 
 | Model | Manufacturer | Page |
@@ -86,10 +90,20 @@ applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
 Golden's error codes apply to a Pride chair or vice versa.
 
-Other candidates flagged but not yet written: Brake-Replacement,
-Seat-Systems (general/cross-manufacturer — Golden and Pride each have their
-own seating concept page instead so far), Troubleshooting (general,
-non-Bruno-specific).
+Other candidates flagged but not yet written: **Brake-Replacement**
+(confirmed still scattered as of the 2026-09-11 lint pass — 3 Golden brake
+procedures live on their own model pages with no unifying concept page:
+[[2-Piece Brake Replacement (LiteRider, Buzzaround XL, Buzzaround Lite)]]
+on [[GB1xx-Buzzaround-XL]]/[[GL110-140-LiteRider]],
+[[Brake Replacement (GL110, GL140)]] on [[GL110-140-LiteRider]], and
+[[Compass Sport Brake Replacement (GP605)]] on [[GP6xx-Compass]] — worth
+consolidating next time brake content is touched); Seat-Systems
+(general/cross-manufacturer — Golden and Pride each have their own seating
+concept page instead, which now looks like the settled pattern rather than
+backlog); Troubleshooting (general, non-Bruno-specific — Pride's
+[[Q6 Edge Basic Troubleshooting]] and all of Prism's
+[[C-450 C-625 Technical Manual]] are candidate sources if this gets
+written).
 
 ## Sources
 

@@ -10,6 +10,9 @@ power-wheelchair lines, tracked by a size-code system (SM4, SM5, SM9, SMP,
 SMV, etc.) rather than by model. Three reference docs plus one seat
 product's own assembly/adjustment instructions.
 
+Sources: [[Measuring Seats]], [[Mobility Seating Matrix]],
+[[Mobility Seats]], [[Proflex Seat Instructions]].
+
 ## Measuring seats ("Measuring Mobility Seats")
 
 Two seat types: **Stadium** (molded plastic, fixed back angle, must be

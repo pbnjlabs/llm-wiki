@@ -8,6 +8,8 @@ tags: [golden, maintenance, tips]
 Two short general-guidance documents, not tied to install/repair of a
 specific part.
 
+Sources: [[Golden Tips]], [[Touch Up Paint Tips]].
+
 ## Golden Reminders / Service Tips
 
 - **Mobility devices**: keep batteries charged; never carry passengers;

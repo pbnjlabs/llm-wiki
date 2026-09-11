@@ -9,6 +9,8 @@ Explicitly named cross-model procedure: replacing an **old-style
 transaxle with the new style** on [[GL110-140-LiteRider]] and the
 [[GB1xx-Buzzaround-XL]] family (GB106, GB116, GB146).
 
+Source: [[LiteRider and Buzzaround Transaxle Change]].
+
 - Old-style transaxle cutover dates differ by model: GL110/GL140 and
   GB116/GB146 switched prior to **April 2012**; GB106 switched prior to
   **July 2012**.

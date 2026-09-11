@@ -10,6 +10,8 @@ General operator guidance for scooters with a power-elevating seat
 [[GP6xx-Compass]] (GP600 has a documented power elevating seat, see its
 battery-replacement source page).
 
+Source: [[Power Seat Operation]].
+
 Speed is interlocked to seat height, as a tip-prevention measure:
 - Seat at ~50% max height → scooter speed limited to half the speed-dial
   setting.

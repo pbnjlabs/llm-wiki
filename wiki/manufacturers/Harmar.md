@@ -14,7 +14,7 @@ rail design, vs. Bruno's on-site pass/fail software — see
 
 ## Documents on file
 
-- `CSL Series Photo Measuring Manual.pdf` (P/N 610-00016-01 Rev B,
+- [[CSL Series Photo Measuring Manual]] (P/N 610-00016-01 Rev B,
   2019-07-08) — **physically located at
   `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf`**,
   likely misfiled since it's a different manufacturer's product. Raw

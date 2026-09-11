@@ -426,3 +426,59 @@ accordingly. Updated [[Prism]] and `index.md`.
 
 **Every manual in the entire wiki (Bruno, Golden, Pride, Prism — 96 files)
 is now ingested.** No backlog remains.
+
+## [2026-09-11] lint | full wiki health check — 24 orphan pages fixed, 1 duplicate PDF found, 1 concept gap confirmed
+
+First full lint pass since the initial scaffold. Checked all five criteria
+from `/CLAUDE.md`:
+
+- **Un-ingested manuals**: none — verified 97 raw PDFs on disk map to 96
+  distinct documents (see duplicate finding below) and all 96 have a
+  `wiki/sources/` page.
+- **Missing model pages**: none — all 23 models in `index.md`'s Models
+  table have a corresponding `wiki/models/*.md` file, 1:1.
+- **Orphan pages** (fixed): 24 source pages existed but had zero inbound
+  `[[wikilink]]`s — discoverable only via directory listing or plain-text
+  mentions in `index.md`'s prose Sources section, not through wiki
+  navigation. All were legitimately-ingested pages whose parent concept
+  page described them in bold prose (e.g. "**Cup holder**: ...") without
+  ever linking the actual source page. Added `Source(s): [[...]]` lines to
+  8 concept pages ([[Golden-Accessory-Installs]],
+  [[Golden-Battery-Charging]], [[Golden-Dealer-Tips]],
+  [[Golden-Key-Switch-Replacement]], [[Golden-Joystick-Side-Conversion]],
+  [[Golden-Transaxle-Replacement]], [[Golden-Power-Seat-Operation]],
+  [[Golden-Seating-Systems]]) and linked two backtick-filename mentions in
+  [[Staircase-Measuring-System]] and [[Harmar]] to their actual source
+  pages. Re-verified afterward: zero orphans remain except `index` and
+  `log` themselves (expected — they're entry points, not content pages).
+- **Broken links**: none found, before or after the fixes above (every
+  `[[link]]` target resolves to a real page).
+- **Contradictions/superseded revisions**: none newly found — the one
+  known case ([[Picture Perfect Camera Overview (2020, superseded)]] vs.
+  [[Picture Perfect Instructions (2022 Rev 5)]]) was already correctly
+  flagged from an earlier session and is now also properly linked (see
+  above).
+- **Repeated concepts lacking their own page**: confirmed
+  **Brake-Replacement** is still a real gap — 3 separate Golden brake
+  procedures ([[2-Piece Brake Replacement (LiteRider, Buzzaround XL, Buzzaround Lite)]],
+  [[Brake Replacement (GL110, GL140)]],
+  [[Compass Sport Brake Replacement (GP605)]]) live on 3 different model
+  pages with no page comparing them side by side. Documented in
+  `index.md`'s candidate list rather than writing it now — synthesizing
+  three procedures is ingestion-level work, not a mechanical lint fix.
+  Also reassessed **Seat-Systems**: no longer really "backlog" — Golden
+  and Pride each settled on their own manufacturer-specific seating
+  concept page instead, which looks like the intended pattern now, not a
+  gap.
+
+**New finding, not previously known**: `MANUALS/Golden/GP162 LiteRider PTC
+Golden SG 05.16.2014.pdf` and `MANUALS/Golden/LITERIDER PTC_GP162_
+SG_REVA_ 051614.pdf` are byte-identical (same md5 hash) — the same file
+saved under two names. This is why Golden's 66-on-disk count was always
+one higher than its 65 source pages, and it was already handled correctly
+(one source page, not two) without anyone noticing the duplicate — no wiki
+content was wrong, just previously undocumented. Added footnotes to
+[[Golden]] and `index.md` explaining it, mirroring the existing Harmar
+misfile footnote. Did not touch the raw file itself — `MANUALS/` is
+immutable per policy; flagging for the human to decide whether to delete
+the duplicate on disk.
