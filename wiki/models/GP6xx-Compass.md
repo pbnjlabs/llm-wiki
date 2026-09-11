@@ -47,11 +47,13 @@ compared to Companion/LiteRider.
 - **GP605 batteries ship disconnected** (shelf-life preservation) — won't
   power on until both battery cables and the controller power cable are
   connected.
-- **GP605 brake replacement**: 28-step, ~30 min, per-side procedure.
-  Confirms GP605's controller is branded **"SHARK"** — a fourth Golden
-  controller family/brand beyond PG VR2/LiNX (GP162) and Dynamics
-  R-Series (Companion/LiteRider). No diagnostic code table for the SHARK
-  controller has turned up in the documents ingested so far.
+- **GP605 brake replacement**: 28-step, ~30 min, per-side procedure —
+  by far the most involved of Golden's three documented brake procedures,
+  see [[Brake-Replacement]]. Confirms GP605's controller is branded
+  **"SHARK"** — a fourth Golden controller family/brand beyond PG VR2/LiNX
+  (GP162) and Dynamics R-Series (Companion/LiteRider). No diagnostic code
+  table for the SHARK controller has turned up in the documents ingested
+  so far.
 - **GP605 circuit breaker routing upgrade**: field retrofit repositioning
   breaker wire routing — implies an early-production wire-chafe issue
   Golden corrected via retrofit.
@@ -76,4 +78,5 @@ different/older document.
 
 [[Golden]], [[GP204-Alante-DX]], [[GP162-LiteRider-Envy]],
 [[GP303-Ally]], [[Golden-Wheelchair-Warranty]],
-[[Golden-Joystick-Side-Conversion]], [[Golden-Power-Seat-Operation]]
+[[Golden-Joystick-Side-Conversion]], [[Golden-Power-Seat-Operation]],
+[[Brake-Replacement]]

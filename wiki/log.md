@@ -482,3 +482,25 @@ content was wrong, just previously undocumented. Added footnotes to
 misfile footnote. Did not touch the raw file itself — `MANUALS/` is
 immutable per policy; flagging for the human to decide whether to delete
 the duplicate on disk.
+
+## [2026-09-11] lint | re-verified clean, closed the Brake-Replacement gap
+
+Re-ran all orphan/broken-link checks from the previous lint pass (0 orphans,
+0 broken links — no drift since the 2026-09-11 pass). Then closed the one
+confirmed-but-deferred gap from that pass: wrote
+[[Brake-Replacement]], consolidating Golden's 3 scattered brake procedures
+side by side — [[2-Piece Brake Replacement (LiteRider, Buzzaround XL, Buzzaround Lite)]],
+[[Brake Replacement (GL110, GL140)]], and
+[[Compass Sport Brake Replacement (GP605)]]. Notable finding while writing
+it: the two GL110/140 documents aren't redundant/contradictory as they
+might look — the earlier one (2011-03-15) is a one-time retrofit from an
+old rearward-facing lever to the new upward-facing style, and the later
+one (2011-11-30) is the general like-for-like replacement procedure for
+that new style once installed; a field tech needs to check which lever
+orientation is already on the unit before picking a procedure. Also
+confirmed the real complexity spread across the three families: 5-step
+puck-and-handle swap (LiteRider/Buzzaround) vs. 28-step full
+drive-assembly pull (Compass Sport GP605) for the same underlying
+component category. Linked the new page from [[GB1xx-Buzzaround-XL]],
+[[GL110-140-LiteRider]], and [[GP6xx-Compass]], added it to `index.md`'s
+Concepts table, and removed it from the candidates-not-yet-written list.

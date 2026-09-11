@@ -32,7 +32,8 @@ comes from short service/accessory bulletins.
   or is a fixed-frame redesign — no IPB/OM on file to check. Don't assume
   GB147 shares the frame-lock procedure.
 - Brake mechanism is **shared with the GL110/GL140 LiteRider** — same
-  brake body, model-specific handle only.
+  brake body, model-specific handle only. See [[Brake-Replacement]] for
+  the cross-model comparison.
 - **Transaxle replacement** (GB106 pre-July-2012, GB116/GB146
   pre-April-2012 old style): mandatory paired controller swap, see
   [[Golden-Transaxle-Replacement]] — shared cross-model doc, also covers
@@ -42,4 +43,4 @@ comes from short service/accessory bulletins.
 
 [[Golden]], [[Golden-Scooter-Warranty]], [[GB118-148-Buzzaround-EX]],
 [[GB120-Buzzaround-CarryOn]], [[GL110-140-LiteRider]],
-[[Golden-Transaxle-Replacement]]
+[[Golden-Transaxle-Replacement]], [[Brake-Replacement]]

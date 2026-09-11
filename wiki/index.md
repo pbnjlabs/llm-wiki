@@ -80,6 +80,7 @@ PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 | Golden joystick side conversion (Shark controller) | [[Golden-Joystick-Side-Conversion]] |
 | Golden transaxle replacement (LiteRider + Buzzaround XL) | [[Golden-Transaxle-Replacement]] |
 | Golden power seat operation (speed/height interlock) | [[Golden-Power-Seat-Operation]] |
+| Golden brake replacement (3 model families, complexity ranges from 5-step puck swap to 28-step full drive-assembly pull) | [[Brake-Replacement]] |
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 
@@ -90,14 +91,7 @@ applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
 Golden's error codes apply to a Pride chair or vice versa.
 
-Other candidates flagged but not yet written: **Brake-Replacement**
-(confirmed still scattered as of the 2026-09-11 lint pass — 3 Golden brake
-procedures live on their own model pages with no unifying concept page:
-[[2-Piece Brake Replacement (LiteRider, Buzzaround XL, Buzzaround Lite)]]
-on [[GB1xx-Buzzaround-XL]]/[[GL110-140-LiteRider]],
-[[Brake Replacement (GL110, GL140)]] on [[GL110-140-LiteRider]], and
-[[Compass Sport Brake Replacement (GP605)]] on [[GP6xx-Compass]] — worth
-consolidating next time brake content is touched); Seat-Systems
+Other candidates flagged but not yet written: Seat-Systems
 (general/cross-manufacturer — Golden and Pride each have their own seating
 concept page instead, which now looks like the settled pattern rather than
 backlog); Troubleshooting (general, non-Bruno-specific — Pride's

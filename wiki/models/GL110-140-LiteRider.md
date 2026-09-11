@@ -33,8 +33,9 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
   throttle-neutral fault, paddle/speed-pot fault, motor voltage fault,
   controller fault.
 - **Brake**: shared brake body with Buzzaround XL/Lite (GB106/116/146) —
-  see [[GB1xx-Buzzaround-XL]] — model-specific handle only. Replacement is
-  a ~15 min procedure with the drivetrain halves separated.
+  see [[GB1xx-Buzzaround-XL]] — model-specific handle only. Two documented
+  procedures exist (retrofit vs. like-for-like swap) — see
+  [[Brake-Replacement]] for the comparison.
 - **Battery replacement**: same 2-battery-pack design as GP160 LiteRider
   PTC (not yet ingested).
 - **Voltmeter/ohmmeter diagnostics**: the Service Guide's Appendix A/B
@@ -50,4 +51,5 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
 ## See also
 
 [[Golden]], [[GL111-141-LiteRider]], [[Flash-Beep-Diagnostics]],
-[[GB1xx-Buzzaround-XL]], [[Golden-Transaxle-Replacement]]
+[[GB1xx-Buzzaround-XL]], [[Golden-Transaxle-Replacement]],
+[[Brake-Replacement]]
