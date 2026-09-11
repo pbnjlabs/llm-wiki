@@ -405,3 +405,24 @@ and, for the four small text-heavy spec/troubleshooting sheets, by shelling
 out to `pdftotext -layout` directly instead of the image pipeline — worth
 reaching for `pdftotext` first on any manual that's mostly text tables
 (spec sheets, error-code tables) rather than diagrams.
+
+## [2026-09-11] ingest | Prism — C-450/C-625 Technical Manual
+
+Ingested the wiki's only Prism document (user asked specifically for "the
+Prism doc"), a 45-page field-service manual for the C-450/C-625 overhead
+ceiling lift — troubleshooting, step-by-step repair sheets (pneumatic/
+electrical/mechanical), LCD programming-mode reference, and a full
+exploded-view parts catalog. Used `pdftotext -layout` for the text-heavy
+troubleshooting/repair-sheet pages (proved reliable for the Pride spec
+sheets last session) and image reads only for the diagram-only parts-list
+pages (35–45). Created [[C-450-C-625]] as the model page (three PCB
+configurations distinguished by air-switch count: 2/4/6). Notable find:
+this lift has its own centrifugal overspeed governor, the same *concept*
+as Bruno's stairlift safety brake but with different recovery behavior
+(motor replacement here vs. Bruno's field reset) — updated the existing
+[[Overspeed-Safety-Brake]] concept page to cover both manufacturers instead
+of writing a separate Prism-only page, and generalized its tags/intro
+accordingly. Updated [[Prism]] and `index.md`.
+
+**Every manual in the entire wiki (Bruno, Golden, Pride, Prism — 96 files)
+is now ingested.** No backlog remains.

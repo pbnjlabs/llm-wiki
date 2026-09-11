@@ -1,18 +1,26 @@
 ---
 type: manufacturer
 manufacturer: Prism
-tags: [manufacturer, patient-lift]
+tags: [manufacturer, patient-lift, ceiling-lift]
 ---
 
 # Prism (Prism Medical)
 
-Manufacturer of patient/ceiling lifts. Only one manual on file so far.
+Manufacturer of patient/ceiling lifts. **Only manual on file is fully
+ingested.**
 
-## Model families (from filenames — unverified against manual content)
+## Model families
 
-- **C-450 / C-625** — tech manual (combined document, dated 2018-04-25).
+- [[C-450-C-625]] — overhead track-mounted patient ceiling lift, three
+  drive/traverse configurations (Manual, Power/Manual-PT, Power X-Y/Power
+  Turntable) sharing one combined PCB design.
 
-## Not yet ingested
+## Cross-manufacturer note
 
-`MANUALS/Prism/c-450-c-625-tech-manual-25-april-2018.pdf` has not been
-read/summarized yet. See `wiki/index.md` for the backlog.
+Shares the [[Overspeed-Safety-Brake]] concept with Bruno's stairlifts — a
+centrifugal mechanical governor, though Prism's version requires motor
+replacement rather than Bruno's field reset.
+
+## See also
+
+- [[Golden]], [[Bruno]], [[Pride]] — other manufacturers in this wiki

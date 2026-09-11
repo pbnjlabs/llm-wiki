@@ -13,7 +13,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Bruno | [[Bruno]] | 19 | 19 |
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
-| Prism | [[Prism]] | 1 | 0 |
+| Prism | [[Prism]] | 1 | 1 |
 | Harmar | [[Harmar]] | 1 | 1 |
 
 Note: Bruno's on-disk count dropped from 20 to 19 because one file
@@ -48,12 +48,13 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Ally GP303 | Golden | [[GP303-Ally]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
+| C-450 / C-625 | Prism | [[C-450-C-625]] |
 
 ## Concepts
 
 | Concept | Page |
 |---|---|
-| Overspeed safety governor | [[Overspeed-Safety-Brake]] |
+| Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant) | [[Overspeed-Safety-Brake]] |
 | Folding rail (manual/power) | [[Folding-Rail]] |
 | Rail mounting/anchoring guidance | [[Rail-Mounting-Guidance]] |
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
@@ -159,7 +160,10 @@ Manual, Q-Logic Controller Basic Operation Instructions, Q-Logic 3 Basic
 Operation Instructions, Q-Logic 3 Programming Guide, Tru-Balance 3 Power
 Positioning Systems BOI.
 
-Everything else below is still backlog, not ingested.
+Prism (1 of 1 ingested — fully ingested) — see `wiki/sources/Prism/`:
+C-450/C-625 Technical Manual.
+
+**All manuals in the entire wiki are now ingested.**
 
 ## Ingestion backlog
 
@@ -169,8 +173,7 @@ Everything else below is still backlog, not ingested.
 
 ### Pride — fully ingested, no backlog remaining.
 
-### Prism (1 file)
-C-450/C-625 tech manual. See [[Prism]].
+### Prism — fully ingested, no backlog remaining.
 
 ## How to use this wiki
 
