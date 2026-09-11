@@ -355,3 +355,53 @@ cross-linked to [[GP6xx-Compass]]), [[Golden-Transaxle-Replacement]]
 GP600). Updated [[Golden]] and `index.md` — **all 66 Golden manuals are
 now ingested.** Golden is fully done wiki-wide; only Pride (10 files) and
 Prism (1 file) remain in the entire wiki.
+
+## [2026-09-11] ingest | Pride — J6 Specifications
+## [2026-09-11] ingest | Pride — J6 VA Specifications
+## [2026-09-11] ingest | Pride — J6 Operator Manual
+## [2026-09-11] ingest | Pride — Q6 Edge 3 Stretto Specifications
+## [2026-09-11] ingest | Pride — Q6 Edge Basic Troubleshooting
+## [2026-09-11] ingest | Pride — Q6 Edge 3 Stretto Operator Manual
+## [2026-09-11] ingest | Pride — Q-Logic Controller Basic Operation Instructions
+## [2026-09-11] ingest | Pride — Q-Logic 3 Basic Operation Instructions
+## [2026-09-11] ingest | Pride — Q-Logic 3 Programming Guide
+## [2026-09-11] ingest | Pride — Tru-Balance 3 Power Positioning Systems BOI
+
+Ingested all 10 Pride manuals in one batch pass (user asked for "all the
+Pride docs"), covering two models and two cross-cutting systems. Created
+model pages [[J6]] (two contract variants, J6/J6 VA, sharing hardware but
+governed for different speed-vs-range tradeoffs — 4mph/15mi vs.
+4.7mph/10mi) and [[Q6-Edge-3-Stretto]] (newer/higher-spec platform, faster,
+longer range, 8-amp vs. J6's 5-amp charger, optional iLevel elevating
+seat). Created two new concept pages: [[Joystick-Controllers]], synthesizing
+both the legacy Q-Logic controller (end-user operation, full error-code
+table) and Q-Logic 3 (touchscreen end-user BOI plus the full provider/ATP
+programming guide — hand control, alternative proportional drives, head
+array, sip-n-puff, switches, iAccess, Bluetooth mouse, Combined Functions
+for seat actuators); and
+[[Tru-Balance-3-Power-Positioning]], the wiki's first power-seating/
+positioning-system concept page (tilt/recline/elevate range of motion,
+factory inhibit matrix, iLevel, four armrest styles, TRU-Comfort cushion
+system). [[Q6 Edge Basic Troubleshooting]] turned out to be a
+general-family document (covers Q-Logic/NE+/NE electronics, not
+Stretto-specific) — cross-linked from both [[Joystick-Controllers]] and
+both model pages rather than treated as Stretto-only. Noted a
+cleaning/disinfection guidance gap between the J6 OM (2018 revision,
+lighter guidance) and the Q6 Edge 3 Stretto OM (2022 revision, detailed
+named-disinfectant list) on both model pages. Updated [[Pride]] and
+`index.md` — **all 10 Pride manuals are now ingested.** Only Prism (1 file)
+remains uningested in the entire wiki.
+
+Process note: several PDF reads in this session (initially four small
+2-page spec/troubleshooting sheets, then re-reads of three longer manuals)
+had their page images silently stripped by a tool-side "request limit"
+before any content was visible, even on solo (non-parallel) Read calls of
+a single document. Caught this by noticing the literal
+`[media removed: request limit]` marker in tool output instead of an actual
+rendered page, and reading a document is not complete until real
+content — text or image — has been seen for every page, not just a
+successful-sounding page count. Recovered by re-reading in smaller batches
+and, for the four small text-heavy spec/troubleshooting sheets, by shelling
+out to `pdftotext -layout` directly instead of the image pipeline — worth
+reaching for `pdftotext` first on any manual that's mostly text tables
+(spec sheets, error-code tables) rather than diagrams.

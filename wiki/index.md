@@ -12,7 +12,7 @@ Entry point for every query — check here first before opening raw manuals.
 |---|---|---|---|
 | Bruno | [[Bruno]] | 19 | 19 |
 | Golden | [[Golden]] | 66 | 66 |
-| Pride | [[Pride]] | 10 | 0 |
+| Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 0 |
 | Harmar | [[Harmar]] | 1 | 1 |
 
@@ -46,6 +46,8 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Alante DX GP204 | Golden | [[GP204-Alante-DX]] |
 | Compass GP600/605/615/620 | Golden | [[GP6xx-Compass]] |
 | Ally GP303 | Golden | [[GP303-Ally]] |
+| J6 (J6 / J6 VA) | Pride | [[J6]] |
+| Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 
 ## Concepts
 
@@ -73,14 +75,19 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Golden joystick side conversion (Shark controller) | [[Golden-Joystick-Side-Conversion]] |
 | Golden transaxle replacement (LiteRider + Buzzaround XL) | [[Golden-Transaxle-Replacement]] |
 | Golden power seat operation (speed/height interlock) | [[Golden-Power-Seat-Operation]] |
+| Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
+| TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
 wheelchairs — always verify the controller before assuming a scheme
-applies to an un-ingested model.
+applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
+(see [[Joystick-Controllers]]) are a separate scheme again — don't assume
+Golden's error codes apply to a Pride chair or vice versa.
 
 Other candidates flagged but not yet written: Brake-Replacement,
-Joystick-Controllers, Seat-Systems, Troubleshooting (general,
+Seat-Systems (general/cross-manufacturer — Golden and Pride each have their
+own seating concept page instead so far), Troubleshooting (general,
 non-Bruno-specific).
 
 ## Sources
@@ -145,6 +152,13 @@ Holder Installation, Power Seat Operation, Proflex Seat Instructions,
 Right to Left Side Joystick Conversion, Seat Belt Instructions, Touch Up
 Paint Tips, Universal Mirror Mount, Mobility Seats.
 
+Pride (10 of 10 ingested — fully ingested) — see `wiki/sources/Pride/`: J6
+Specifications, J6 VA Specifications, J6 Operator Manual, Q6 Edge 3 Stretto
+Specifications, Q6 Edge Basic Troubleshooting, Q6 Edge 3 Stretto Operator
+Manual, Q-Logic Controller Basic Operation Instructions, Q-Logic 3 Basic
+Operation Instructions, Q-Logic 3 Programming Guide, Tru-Balance 3 Power
+Positioning Systems BOI.
+
 Everything else below is still backlog, not ingested.
 
 ## Ingestion backlog
@@ -153,9 +167,7 @@ Everything else below is still backlog, not ingested.
 
 ### Golden — fully ingested, no backlog remaining.
 
-### Pride (10 files)
-J6 (3), Q6 Edge 3 Stretto (3), Q-Logic/Q-Logic 3 (3), Tru-Balance 3 (1). See
-[[Pride]].
+### Pride — fully ingested, no backlog remaining.
 
 ### Prism (1 file)
 C-450/C-625 tech manual. See [[Prism]].

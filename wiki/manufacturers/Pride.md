@@ -4,27 +4,34 @@ manufacturer: Pride
 tags: [manufacturer, power-wheelchair]
 ---
 
-# Pride (Pride Mobility)
+# Pride (Pride Mobility / Quantum Rehab)
 
-Manufacturer of power wheelchairs and controller/seating systems.
+Manufacturer of power wheelchairs and controller/seating systems. Models
+on file are branded "Quantum Rehab, a division of Pride Mobility Products."
 
-## Model families (from filenames — unverified against manual content)
+**All 10 manuals on file are now ingested.**
 
-- **J6** — power wheelchair. Specifications (fb3097, fb3447 variants),
-  operator manual.
-- **Q6 Edge 3 Stretto** — power wheelchair. Specifications (fb4124), basic
-  troubleshooting, operator manual.
-- **Q-Logic / Q-Logic 3** — joystick controller system used across models.
-  Controller overview, programming guide, "boi" (basis of issue?) operator
-  manual.
-- **Tru-Balance 3** — power positioning system (tilt/recline/elevate).
+## Model families
 
-## Not yet ingested
+- [[J6]] — mid-wheel-drive power wheelchair. Two contract variants (J6,
+  J6 VA) sharing hardware but governed differently for speed vs. range.
+- [[Q6-Edge-3-Stretto]] — mid-wheel-drive power wheelchair, newer/higher-spec
+  platform than the J6 (faster, longer range, bigger charger). Optional
+  iLevel elevating seat.
 
-Nothing under `MANUALS/Pride/` has been read/summarized yet. See
-`wiki/index.md` for the backlog.
+## Controllers
+
+- [[Joystick-Controllers]] — Q-Logic (legacy) and Q-Logic 3 (current)
+  controller systems, used across both models above. Covers end-user
+  operation, error codes, and (Q-Logic 3) full provider-level programming
+  for hand controls, head arrays, sip-n-puff, switches, and iAccess.
+
+## Seating
+
+- [[Tru-Balance-3-Power-Positioning]] — TRU-Balance 3 tilt/recline/elevate
+  power positioning system, compatible with both models above as an
+  alternative to their fixed seats.
 
 ## See also
 
-- [[Joystick-Controllers]] — Q-Logic docs are a natural source for this
-  concept page once ingested.
+- [[Golden]], [[Bruno]], [[Prism]] — other manufacturers in this wiki
