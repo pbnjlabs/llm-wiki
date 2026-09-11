@@ -52,16 +52,23 @@ rather than split into product-line subfolders.
     brake body, model-specific handle.
   - Battery replacement doc also covers GP160 LiteRider PTC (not yet
     ingested).
-- **GP1xx/GP600s Compass / Alante / LiteRider Envy** — power wheelchairs
-  and scooters.
-  - GP160: battery replacement (shared w/ GL110/GL140).
-  - GP162 LiteRider Envy (incl. LiNX variant): IPB, OM, PTC service guide,
-    seat belt.
-  - GP204 Alante DX: ELR installation.
-  - GP600/GP605/GP615/GP620 Compass (incl. Sport): battery, brake, ELR,
-    circuit breaker wiring, footrest, caster spacers.
-  - GP303: harness replacement (referenced in a LIT-MB doc, not its own
-    folder).
+- **GP1xx/GP6xx Compass / Alante / LiteRider Envy / Ally** — power
+  wheelchairs. **Fully ingested.**
+  - [[GP162-LiteRider-Envy]] — sold under one model number with **two
+    different controller families**: PTC/PG VR2 (10-bar
+    [[TruCharge-Diagnostics]], wheelchair-adapted) and LiNX (7-code
+    [[LiNX-Diagnostics]], plus OONAPU power-up interlock).
+  - [[GP204-Alante-DX]] — thin coverage, one ELR install doc; shares
+    legrest hardware with Alante GP201 and Compass Sport GP605.
+  - [[GP6xx-Compass]] (GP600/605/615/620) — GP605 "Compass Sport" uses a
+    **"SHARK"**-branded controller, a fourth Golden controller family
+    beyond PG VR2/LiNX and Dynamics R-Series, with no diagnostic table on
+    file yet.
+  - [[GP303-Ally]] — **not** a Compass variant despite the "GP" prefix; a
+    distinct foldable-frame power wheelchair. Was misfiled by number
+    during initial clustering, corrected after reading content.
+  - GP160 battery replacement doc was already covered under
+    [[GL110-140-LiteRider]] (cross-listed there).
 - **Chargers**: HP8204B, MRC24-4LX.
 
 ## Cross-cutting / all-models docs
@@ -90,11 +97,22 @@ Bruno/Pride procedures too.
   tied to the Dynamics R-Series controller, confirmed on the Companion
   line AND both LiteRider generations (GL110/140, GL111/141) — the
   controller family determines which scheme applies, not the model name.
-  Golden uses more than one diagnostic scheme across its scooters — don't
-  assume either applies to a model without checking its controller.
+- [[LiNX-Diagnostics]] — a third scheme (7-code), confirmed on GP162's
+  LiNX-controller variant only so far.
+- [[Golden-Wheelchair-Warranty]] — a **separate** warranty policy from
+  [[Golden-Scooter-Warranty]], confirmed by the GP162 LiNX owner's manual:
+  Golden maintains distinct warranty documents for scooters vs. power
+  wheelchairs (GP162, GP205, GP207, GP605, GP620 named).
+
+Golden uses at least four controller brands (PG S-Drive/VR2, LiNX,
+Dynamics R-Series, and GP605's "SHARK") and three diagnostic schemes
+across scooters and wheelchairs — always check the controller before
+assuming any scheme or warranty applies to a model without checking its
+own documentation.
 
 ## Not yet ingested
 
 Everything except GA541 Avenger, the GB1xx Buzzaround family, the
-GC2xx/3xx/4xx/5xx Companion family, and the GL1xx LiteRider family. See
-`wiki/index.md` for the backlog.
+GC2xx/3xx/4xx/5xx Companion family, the GL1xx LiteRider family, and the
+GP1xx/GP6xx Compass/Alante/Envy/Ally family. See `wiki/index.md` for the
+backlog — only chargers and cross-model accessory docs remain.

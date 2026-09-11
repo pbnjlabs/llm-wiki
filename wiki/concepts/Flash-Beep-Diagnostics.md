@@ -23,11 +23,13 @@ with that controller so far:
   evidence, not inferred)
 
 Distinct from the [[TruCharge-Diagnostics]] 10-bar display confirmed on
-the GA541 Avenger, which uses a different controller (PG "S-Drive").
-Golden uses more than one diagnostic scheme across its scooter line — the
-controller family is what determines which scheme applies, not the model
-name, so check for a Dynamics R-Series controller before assuming this
-table applies to an un-ingested model.
+the GA541 Avenger and the GP162 PTC/VR2 wheelchair variant (PG
+"S-Drive"/VR2 controllers), and from [[LiNX-Diagnostics]] (7-code, GP162's
+LiNX-controller variant). Golden uses at least three diagnostic schemes
+across its scooter and power-wheelchair lines — the controller family is
+what determines which scheme applies, not the model name or product
+category, so check for a Dynamics R-Series controller before assuming
+this table applies to an un-ingested model.
 
 The Dynamics R-Series controller's power indicator LED flashes and the
 horn beeps together, in a series separated by a 2-second pause. The count

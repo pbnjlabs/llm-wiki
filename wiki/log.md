@@ -247,3 +247,69 @@ also flagged as covering GP160 (not yet ingested) — cross-linked for that
 future ingest. Updated [[Golden]] and `index.md` — 28 of 66 Golden files
 done; Golden backlog is now just GP1xx/GP6xx Compass/Alante/Envy,
 chargers, and cross-model accessory docs.
+
+## [2026-09-10] ingest | Golden GP204 — Alante DX ELR Installation
+
+## [2026-09-10] ingest | Golden GP600 — Compass Battery Replacement, Power Elevating Seat
+
+## [2026-09-10] ingest | Golden GP6xx — Compass Caster Wheel Mounting
+
+## [2026-09-10] ingest | Golden GP6xx — Compass ELR Swing-Away Installation and Adjustment
+
+## [2026-09-10] ingest | Golden GP600 — Compass Footrest Extension
+
+## [2026-09-10] ingest | Golden GP605 — Compass Sport Battery Connections
+
+## [2026-09-10] ingest | Golden GP605 — Compass Sport Brake Replacement
+
+## [2026-09-10] ingest | Golden GP605 — Compass Sport Circuit Breaker Wire Routing Upgrade
+
+## [2026-09-10] ingest | Golden GP605 — Compass Sport ELR Installation
+
+## [2026-09-10] ingest | Golden GP303 — Ally Main Wiring Harness Replacement
+
+## [2026-09-10] ingest | Golden GP162 — LiteRider Envy Illustrated Parts Breakdown
+
+## [2026-09-10] ingest | Golden GP162 — LiteRider Envy LiNX Supplemental Insert
+
+## [2026-09-10] ingest | Golden GP162 — LiteRider Envy Seat Belt Installation
+
+## [2026-09-10] ingest | Golden GP162 — LiteRider PTC Service Guide (PG VR2 Controller)
+
+## [2026-09-10] ingest | Golden GP162 — LiteRider Envy LiNX Owner's Manual
+
+Ingested the GP1xx/GP6xx cluster (15 manuals) — Golden's biggest and most
+heterogeneous remaining cluster, covering three distinct model families
+under one loose "GP" prefix. [[GP162-LiteRider-Envy]] is sold under one
+model number with two different controller families (PTC/PG VR2 and
+LiNX) rather than one superseding the other — confirmed directly from the
+IPB's electrical parts list. [[GP204-Alante-DX]] has thin coverage (one
+ELR doc) but shares legrest hardware with Alante GP201 and Compass Sport
+GP605. [[GP6xx-Compass]] (GP600/605/615/620) share caster-wheel and
+ELR/Swing-Away hardware, but GP605 uses its own **"SHARK"**-branded
+controller — a fourth Golden controller family alongside PG VR2/LiNX
+(GP162) and Dynamics R-Series (Companion/LiteRider), with no diagnostic
+table on file for it yet. [[GP303-Ally]] turned out to be a **distinct,
+unrelated model** despite sharing the "GP" prefix — a foldable-frame
+power wheelchair misfiled into the Compass cluster by number; corrected
+after reading its actual content.
+
+Created two new concept pages from direct textual evidence: **[[LiNX-Diagnostics]]**
+(7-code flash scheme confirmed on GP162's LiNX variant, plus an OONAPU
+power-up interlock and drive-inhibit chasing-light sequence not present
+on the PTC variant) and **[[Golden-Wheelchair-Warranty]]** — confirmed
+**separate** from [[Golden-Scooter-Warranty]]: the GP162 LiNX owner's
+manual's warranty section explicitly covers GP162/GP205/GP207/GP605/GP620
+under different terms (5yr frame — GP605 frame is LIMITED LIFETIME — 13mo
+drive train/electronics/parts, 12mo batteries), confirming Golden
+maintains separate warranty policies per product category, not just per
+model. Broadened [[TruCharge-Diagnostics]] to include the GP162 PTC/VR2
+table (same 10-bar architecture, adapted for independent left/right drive
+motors instead of one scooter motor). Updated [[Golden]] and `index.md`
+— 43 of 66 Golden files done; only chargers and cross-model accessory
+docs remain in the Golden backlog.
+
+Note: this cluster was originally started by a prior session that was
+interrupted by a rate limit after writing the first 14 source pages; this
+entry completes it (the LiNX Owner's Manual source page, all 4 model
+pages, both new concept pages, and the manufacturer/index updates).

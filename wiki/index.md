@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 19 | 19 |
-| Golden | [[Golden]] | 66 | 28 |
+| Golden | [[Golden]] | 66 | 43 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
 | Harmar | [[Harmar]] | 1 | 1 |
@@ -42,6 +42,10 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Companion GC240/340/440/540 HD | Golden | [[GC240-340-440-540-Companion]] |
 | LiteRider GL110/140 (older gen) | Golden | [[GL110-140-LiteRider]] |
 | LiteRider GL111/141 (current gen) | Golden | [[GL111-141-LiteRider]] |
+| LiteRider Envy GP162 (PTC/VR2 + LiNX variants) | Golden | [[GP162-LiteRider-Envy]] |
+| Alante DX GP204 | Golden | [[GP204-Alante-DX]] |
+| Compass GP600/605/615/620 | Golden | [[GP6xx-Compass]] |
+| Ally GP303 | Golden | [[GP303-Ally]] |
 
 ## Concepts
 
@@ -57,8 +61,15 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 | Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
 | Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
-| TruCharge battery/fault diagnostics (Golden, confirmed on GA541 only) | [[TruCharge-Diagnostics]] |
-| Flash/beep code diagnostics (Dynamics R-Series controller: Companion + both LiteRider generations, 9 codes — different scheme than TruCharge) | [[Flash-Beep-Diagnostics]] |
+| TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2 controllers: GA541 + GP162 PTC variant) | [[TruCharge-Diagnostics]] |
+| Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion + both LiteRider generations) | [[Flash-Beep-Diagnostics]] |
+| LiNX controller diagnostics (7-code, GP162 LiNX variant so far) | [[LiNX-Diagnostics]] |
+| Golden wheelchair warranty (separate from scooter warranty: GP162/GP205/GP207/GP605/GP620) | [[Golden-Wheelchair-Warranty]] |
+
+Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
+R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
+wheelchairs — always verify the controller before assuming a scheme
+applies to an un-ingested model.
 
 Other candidates flagged but not yet written: Brake-Replacement,
 Joystick-Controllers, Seat-Systems, Troubleshooting (general,
@@ -92,7 +103,7 @@ Measuring Manual (the file physically located under
 different manufacturer's document, not moved since raw sources are
 immutable).
 
-Golden (28 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
+Golden (43 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock
@@ -106,7 +117,16 @@ Instructions, Companion Service Guide, Companion & Companion HD IPB,
 Companion Owner's Manual (VA Contract Variant), Battery Replacement
 (GL110/140/GP160), Brake Replacement (GL110/140), LiteRider Service Guide
 (GL110/140), LiteRider IPB (GL111/141), LiteRider Owner's Manual
-(GL111/141).
+(GL111/141), Alante DX ELR Installation (GP204), Compass Battery
+Replacement Power Elevating Seat (GP600), Compass Caster Wheel Mounting
+(GP600/605/615/620), Compass ELR Swing-Away Installation and Adjustment,
+Compass Footrest Extension (GP600), Compass Sport Battery Connections
+(GP605), Compass Sport Brake Replacement (GP605), Compass Sport Circuit
+Breaker Wire Routing Upgrade (GP605), Compass Sport ELR Installation
+(GP605), GP303 Ally Main Wiring Harness Replacement, LiteRider Envy IPB
+(GP162), LiteRider Envy LiNX Supplemental Insert (GP162), LiteRider Envy
+Seat Belt Installation (GP162), LiteRider PTC Service Guide (GP162, PG
+VR2 Controller), LiteRider Envy LiNX Owner's Manual (GP162).
 
 Everything else below is still backlog, not ingested.
 
@@ -114,12 +134,17 @@ Everything else below is still backlog, not ingested.
 
 ### Bruno — fully ingested, no backlog remaining.
 
-### Golden (38 of 66 files remaining)
-GA541 Avenger, GB1xx Buzzaround (all 3 sub-families), GC2xx-5xx
-Companion (all), and GL1xx LiteRider (both generations) ingested. See
-[[Golden]] for the model-family breakdown of what's left: GP1xx/GP6xx
-Compass/Alante/Envy, chargers, and cross-model accessory installs, all
-flat under `MANUALS/Golden/*.pdf`.
+### Golden (23 of 66 files remaining)
+GA541 Avenger, GB1xx Buzzaround (all 3 sub-families), GC2xx-5xx Companion
+(all), GL1xx LiteRider (both generations), and GP1xx/GP6xx Compass/Alante/
+Envy/Ally all ingested. See [[Golden]] for what's left: chargers (HP8204B,
+MRC24-4LX) and cross-model accessory installs (accessory receiver,
+adjustable depth seat, cane/crutch holder, cup holder, oxygen/walker
+holder, universal mirror mount, flag installation, seating matrix,
+measuring seats, mobility seats, touch-up paint, key/key-switch change,
+transaxle change, seat belt instructions, Proflex seat, power seat
+operation, right-to-left joystick conversion, Golden Tips), all flat
+under `MANUALS/Golden/*.pdf`.
 
 ### Pride (10 files)
 J6 (3), Q6 Edge 3 Stretto (3), Q-Logic/Q-Logic 3 (3), Tru-Balance 3 (1). See
