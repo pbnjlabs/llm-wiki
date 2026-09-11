@@ -43,8 +43,11 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
 - **"Quarter test"**: sliding a coin into a harness connector's spring
   contacts to check they hold firmly — a recurring low-tech continuity
   check in the Service Guide's beep-code procedures.
+- **Transaxle replacement** (pre-April-2012 old style): mandatory paired
+  controller swap — see [[Golden-Transaxle-Replacement]], shared cross-
+  model doc also covering [[GB1xx-Buzzaround-XL]] (GB106/116/146).
 
 ## See also
 
 [[Golden]], [[GL111-141-LiteRider]], [[Flash-Beep-Diagnostics]],
-[[GB1xx-Buzzaround-XL]]
+[[GB1xx-Buzzaround-XL]], [[Golden-Transaxle-Replacement]]

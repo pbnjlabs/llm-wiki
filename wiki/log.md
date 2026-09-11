@@ -313,3 +313,45 @@ Note: this cluster was originally started by a prior session that was
 interrupted by a rate limit after writing the first 14 source pages; this
 entry completes it (the LiNX Owner's Manual source page, all 4 model
 pages, both new concept pages, and the manufacturer/index updates).
+
+## [2026-09-10] ingest | Golden — Accessory Receiver Installation
+## [2026-09-10] ingest | Golden — Adjustable Depth Seat Instructions
+## [2026-09-10] ingest | Golden — Battery Charging Insert
+## [2026-09-10] ingest | Golden — Cane and Crutch Holder Installation
+## [2026-09-10] ingest | Golden — Connecting the Batteries
+## [2026-09-10] ingest | Golden — Cup Holder Installation
+## [2026-09-10] ingest | Golden — Golden Tips
+## [2026-09-10] ingest | Golden — HP8204B Charger Operation
+## [2026-09-10] ingest | Golden — Key and Key Switch Change
+## [2026-09-10] ingest | Golden — LiteRider and Buzzaround Transaxle Change
+## [2026-09-10] ingest | Golden — Measuring Seats
+## [2026-09-10] ingest | Golden — Mobility All Models Flag Installation
+## [2026-09-10] ingest | Golden — Mobility Seating Matrix
+## [2026-09-10] ingest | Golden — MRC24-4LX Charger Operation
+## [2026-09-10] ingest | Golden — Oxygen Holder and Walker Holder Installation
+## [2026-09-10] ingest | Golden — Power Seat Operation
+## [2026-09-10] ingest | Golden — Proflex Seat Instructions
+## [2026-09-10] ingest | Golden — Right to Left Side Joystick Conversion
+## [2026-09-10] ingest | Golden — Seat Belt Instructions
+## [2026-09-10] ingest | Golden — Touch Up Paint Tips
+## [2026-09-10] ingest | Golden — Universal Mirror Mount
+## [2026-09-10] ingest | Golden — Mobility Seats
+
+Ingested Golden's last cluster: 22 charger and cross-model accessory docs,
+filed as 8 concept pages by actual topic rather than one page per document
+— [[Golden-Accessory-Installs]] (8 universal install sheets),
+[[Golden-Battery-Charging]] (both chargers + general care),
+[[Golden-Seating-Systems]] (seat size-code catalog + the Proflex seating
+base behind the "SMP" code — surfaces GR575/Patriot, GP205, GP207, GP208
+as models with no manuals on file yet), [[Golden-Dealer-Tips]] (general
+reminders — the only mention of lift chairs in this whole collection, no
+lift chair manuals exist — plus touch-up paint), and four narrower
+single-topic pages: [[Golden-Key-Switch-Replacement]],
+[[Golden-Joystick-Side-Conversion]] (names the "Shark" controller,
+cross-linked to [[GP6xx-Compass]]), [[Golden-Transaxle-Replacement]]
+(explicitly named cross-model doc, cross-linked to
+[[GL110-140-LiteRider]] and [[GB1xx-Buzzaround-XL]]), and
+[[Golden-Power-Seat-Operation]] (speed/height interlock, cross-linked to
+GP600). Updated [[Golden]] and `index.md` — **all 66 Golden manuals are
+now ingested.** Golden is fully done wiki-wide; only Pride (10 files) and
+Prism (1 file) remain in the entire wiki.

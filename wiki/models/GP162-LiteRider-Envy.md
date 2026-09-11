@@ -70,8 +70,11 @@ Covered by [[Golden-Wheelchair-Warranty]], not
 warranty document (5yr frame, 13mo drive train/electronics/parts, 12mo
 batteries).
 
+Seat codes: takes SM5, SM4 (Opt), SME, and SMP (Pro-Flex, Option) — see
+[[Golden-Seating-Systems]].
+
 ## See also
 
 [[Golden]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
 [[TruCharge-Diagnostics]], [[LiNX-Diagnostics]],
-[[Golden-Wheelchair-Warranty]]
+[[Golden-Wheelchair-Warranty]], [[Golden-Seating-Systems]]

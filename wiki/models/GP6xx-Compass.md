@@ -55,6 +55,14 @@ compared to Companion/LiteRider.
 - **GP605 circuit breaker routing upgrade**: field retrofit repositioning
   breaker wire routing — implies an early-production wire-chafe issue
   Golden corrected via retrofit.
+- **Joystick side conversion**: a cross-model doc names the "Shark"
+  controller by brand for a right-to-left desk-arm joystick conversion —
+  see [[Golden-Joystick-Side-Conversion]], likely applicable to GP605's
+  SHARK-controller joystick.
+- **Power elevating seat operation**: GP600's power-elevating seat (see
+  battery-replacement doc above) is documented generically in
+  [[Golden-Power-Seat-Operation]] — speed interlocks to seat height, and a
+  "won't move" complaint after seat use may just need the seat lowered.
 
 ## Warranty
 
@@ -67,4 +75,5 @@ different/older document.
 ## See also
 
 [[Golden]], [[GP204-Alante-DX]], [[GP162-LiteRider-Envy]],
-[[GP303-Ally]], [[Golden-Wheelchair-Warranty]]
+[[GP303-Ally]], [[Golden-Wheelchair-Warranty]],
+[[Golden-Joystick-Side-Conversion]], [[Golden-Power-Seat-Operation]]

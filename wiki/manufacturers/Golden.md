@@ -69,21 +69,35 @@ rather than split into product-line subfolders.
     during initial clustering, corrected after reading content.
   - GP160 battery replacement doc was already covered under
     [[GL110-140-LiteRider]] (cross-listed there).
-- **Chargers**: HP8204B, MRC24-4LX.
+- **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
+  [[Golden-Battery-Charging]].
 
-## Cross-cutting / all-models docs
+## Cross-cutting / all-models docs — Fully ingested.
 
-Accessory installs and general tips that aren't model-specific: accessory
-receiver, adjustable depth seat, cane/crutch holder, cup holder, oxygen &
-walker holder, universal mirror mount, flag installation, seating matrix,
-seat measuring, touch-up paint, key/key-switch change, joystick side
-conversion, transaxle change, seat belt, Proflex seat, power seat operation,
-"Golden Tips".
+22 documents that aren't model-specific, filed as 8 concept pages by
+actual topic rather than one page per document:
 
-These are strong candidates for `concepts/` pages (e.g.
-[[Battery-Charging]], [[Brake-Replacement]], [[Seat-Systems]]) once ingested,
-since they apply across many Golden models and probably overlap with
-Bruno/Pride procedures too.
+- [[Golden-Accessory-Installs]] — accessory receiver, adjustable depth
+  seat, cane/crutch holder, cup holder, oxygen/walker holder, universal
+  mirror mount, flag installation, seat belt (8 docs, all short universal
+  install sheets)
+- [[Golden-Battery-Charging]] — HP8204B and MRC24-4LX charger operation,
+  plus general battery care guidance (4 docs)
+- [[Golden-Seating-Systems]] — seat size-code catalog/fitment matrix
+  (SM4/SM5/SM9/SMP/SMV etc.), measuring procedure, and the physical
+  Proflex seating base behind the "SMP" code (4 docs) — surfaces several
+  models with no manuals on file yet: GR575 (Patriot), GP205, GP207, GP208
+- [[Golden-Dealer-Tips]] — general reminders (incl. the only mention of
+  **lift chairs** anywhere in this collection — no lift chair manuals on
+  file) and cosmetic touch-up paint tips (2 docs)
+- [[Golden-Key-Switch-Replacement]] — universal key/key-switch swap
+- [[Golden-Joystick-Side-Conversion]] — Shark-controller joystick
+  right-to-left conversion, ties to [[GP6xx-Compass]]'s SHARK controller
+- [[Golden-Transaxle-Replacement]] — cross-model doc explicitly naming
+  [[GL110-140-LiteRider]] and [[GB1xx-Buzzaround-XL]], mandatory paired
+  controller swap
+- [[Golden-Power-Seat-Operation]] — speed/height interlock on power-
+  elevating seats, ties to [[GP6xx-Compass]]'s GP600
 
 ## Cross-model concepts (confirmed so far)
 
@@ -112,7 +126,4 @@ own documentation.
 
 ## Not yet ingested
 
-Everything except GA541 Avenger, the GB1xx Buzzaround family, the
-GC2xx/3xx/4xx/5xx Companion family, the GL1xx LiteRider family, and the
-GP1xx/GP6xx Compass/Alante/Envy/Ally family. See `wiki/index.md` for the
-backlog — only chargers and cross-model accessory docs remain.
+Nothing — **all 66 Golden manuals on disk have been ingested.**

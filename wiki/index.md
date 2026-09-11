@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 19 | 19 |
-| Golden | [[Golden]] | 66 | 43 |
+| Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 0 |
 | Prism | [[Prism]] | 1 | 0 |
 | Harmar | [[Harmar]] | 1 | 1 |
@@ -65,6 +65,14 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 | Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion + both LiteRider generations) | [[Flash-Beep-Diagnostics]] |
 | LiNX controller diagnostics (7-code, GP162 LiNX variant so far) | [[LiNX-Diagnostics]] |
 | Golden wheelchair warranty (separate from scooter warranty: GP162/GP205/GP207/GP605/GP620) | [[Golden-Wheelchair-Warranty]] |
+| Golden battery charging (HP8204B, MRC24-4LX + general care) | [[Golden-Battery-Charging]] |
+| Golden accessory installs (8 universal accessory docs) | [[Golden-Accessory-Installs]] |
+| Golden seating systems (size-code catalog, Proflex base) | [[Golden-Seating-Systems]] |
+| Golden dealer tips (general reminders, touch-up paint) | [[Golden-Dealer-Tips]] |
+| Golden key/key-switch replacement | [[Golden-Key-Switch-Replacement]] |
+| Golden joystick side conversion (Shark controller) | [[Golden-Joystick-Side-Conversion]] |
+| Golden transaxle replacement (LiteRider + Buzzaround XL) | [[Golden-Transaxle-Replacement]] |
+| Golden power seat operation (speed/height interlock) | [[Golden-Power-Seat-Operation]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
@@ -103,7 +111,7 @@ Measuring Manual (the file physically located under
 different manufacturer's document, not moved since raw sources are
 immutable).
 
-Golden (43 of 66 ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
+Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock
@@ -126,7 +134,16 @@ Breaker Wire Routing Upgrade (GP605), Compass Sport ELR Installation
 (GP605), GP303 Ally Main Wiring Harness Replacement, LiteRider Envy IPB
 (GP162), LiteRider Envy LiNX Supplemental Insert (GP162), LiteRider Envy
 Seat Belt Installation (GP162), LiteRider PTC Service Guide (GP162, PG
-VR2 Controller), LiteRider Envy LiNX Owner's Manual (GP162).
+VR2 Controller), LiteRider Envy LiNX Owner's Manual (GP162), Accessory
+Receiver Installation, Adjustable Depth Seat Instructions, Battery
+Charging Insert, Cane and Crutch Holder Installation, Connecting the
+Batteries, Cup Holder Installation, Golden Tips, HP8204B Charger
+Operation, Key and Key Switch Change, LiteRider and Buzzaround Transaxle
+Change, Measuring Seats, Mobility All Models Flag Installation, Mobility
+Seating Matrix, MRC24-4LX Charger Operation, Oxygen Holder and Walker
+Holder Installation, Power Seat Operation, Proflex Seat Instructions,
+Right to Left Side Joystick Conversion, Seat Belt Instructions, Touch Up
+Paint Tips, Universal Mirror Mount, Mobility Seats.
 
 Everything else below is still backlog, not ingested.
 
@@ -134,17 +151,7 @@ Everything else below is still backlog, not ingested.
 
 ### Bruno — fully ingested, no backlog remaining.
 
-### Golden (23 of 66 files remaining)
-GA541 Avenger, GB1xx Buzzaround (all 3 sub-families), GC2xx-5xx Companion
-(all), GL1xx LiteRider (both generations), and GP1xx/GP6xx Compass/Alante/
-Envy/Ally all ingested. See [[Golden]] for what's left: chargers (HP8204B,
-MRC24-4LX) and cross-model accessory installs (accessory receiver,
-adjustable depth seat, cane/crutch holder, cup holder, oxygen/walker
-holder, universal mirror mount, flag installation, seating matrix,
-measuring seats, mobility seats, touch-up paint, key/key-switch change,
-transaxle change, seat belt instructions, Proflex seat, power seat
-operation, right-to-left joystick conversion, Golden Tips), all flat
-under `MANUALS/Golden/*.pdf`.
+### Golden — fully ingested, no backlog remaining.
 
 ### Pride (10 files)
 J6 (3), Q6 Edge 3 Stretto (3), Q-Logic/Q-Logic 3 (3), Tru-Balance 3 (1). See
