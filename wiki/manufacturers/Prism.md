@@ -6,8 +6,9 @@ tags: [manufacturer, patient-lift, ceiling-lift]
 
 # Prism (Prism Medical)
 
-Manufacturer of patient/ceiling lifts. **Only manual on file is fully
-ingested.**
+Manufacturer of patient/ceiling lifts. **Both documents on file are fully
+ingested** (the C-450/C-625 technical manual, plus a generic pre-install
+site-evaluation form).
 
 ## Model families
 
