@@ -13,7 +13,8 @@ tags: [bruno, staircase-measuring, reference]
 target/landing-level placement diagrams only, no procedural text — 90°
 turns, 180° turns, large-radius turns, straights with intermediate
 landing, and installs alongside an existing stairlift. Same diagrams are
-duplicated inside both [[Picture Perfect Camera Overview (2020,
-superseded)]] and [[Picture Perfect Instructions (2022 Rev 5)]].
+duplicated inside both
+[[Picture Perfect Camera Overview (2020, superseded)]] and
+[[Picture Perfect Instructions (2022 Rev 5)]].
 
 Feeds: [[Staircase-Measuring-System]]

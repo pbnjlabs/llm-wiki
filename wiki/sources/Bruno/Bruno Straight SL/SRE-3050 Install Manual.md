@@ -34,8 +34,8 @@ Key content:
 - Footrest and seat installation, charger connections, gear rack
   lubrication (PTFE, gear rack only)
 - Multi-user → single-user diagnostic mode switch, full audio diagnostic
-  code table (same codes as [[SRE-3050 Operator Manual]]/[[SRE-3050 Tech
-  Support Guide]])
+  code table (same codes as [[SRE-3050 Operator Manual]]/
+  [[SRE-3050 Tech Support Guide]])
 - Installation checklist (final walk-through items)
 - Exploded view: confirms "Elan" branding, folding rail options
   (SRE-K-3064/3065/3072 kits), power swivel seat assemblies

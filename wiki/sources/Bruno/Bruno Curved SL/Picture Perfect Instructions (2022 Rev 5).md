@@ -10,8 +10,9 @@ tags: [bruno, staircase-measuring, current]
 # Picture Perfect 3.0 (StairsChecker) Instructions — current (Rev 5)
 
 14-page current instructions for Bruno's Picture Perfect camera kit /
-StairsChecker 3.0 software (doc ILS-01397, Rev 5). Supersedes [[Picture
-Perfect Camera Overview (2020, superseded)]]. Covers: file-share upload
+StairsChecker 3.0 software (doc ILS-01397, Rev 5). Supersedes
+[[Picture Perfect Camera Overview (2020, superseded)]]. Covers:
+file-share upload
 process (Brunopartner.com), computer/device compatibility (Windows 7/8/10/
 11; explicitly incompatible with Apple/Android/Chromebook/Kindle/Ryzen
 devices), target/marker system, photo-taking technique, StairsChecker 3.0

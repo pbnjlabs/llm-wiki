@@ -15,9 +15,10 @@ Outside Vehicle Lift line (hitch classes 1/2/3/5) despite the on-disk
 `AL100-...` filename — it includes a hitch-weight table and hitch-adapter
 sizing chart covering roughly 25 models (AL003 through AL580-HDX).
 
-**Byte-identical (md5-confirmed) to** `AL300-OutsideLifts-Installation-
-and-Service-Manual.pdf` and `AL301-OutsideLifts-Installation-and-Service-
-Manual.pdf` — three filenames, one document.
+**Byte-identical (md5-confirmed) to**
+`AL300-OutsideLifts-Installation-and-Service-Manual.pdf` and
+`AL301-OutsideLifts-Installation-and-Service-Manual.pdf` — three
+filenames, one document.
 
 ## Covers
 - Hitch class 1/2/3/5 compatibility, per-model tongue-weight table,

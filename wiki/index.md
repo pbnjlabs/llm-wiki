@@ -15,6 +15,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
 | Harmar | [[Harmar]] | 60 | 32 source pages (see note — several consolidate multiple low-narrative files) |
+| Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
 
 Note: Bruno's on-disk count dropped from 20 to 19 because one file
 (`HARMAR Camera Measuring Manual.pdf`, physically under
@@ -246,6 +247,8 @@ manuals.
 ### Prism — fully ingested, no backlog remaining.
 
 ### Harmar — fully ingested (install manuals for Helix/SL300/SL600 closed the previous pass's backlog). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+
+### Ramps — **new backlog category found by the 2026-09-12 lint pass, nothing ingested yet.** `MANUALS/Ramps/` (6 files, no manufacturer stub, no wiki mention anywhere before this lint) — appears to be "EZ Access"-brand modular ramps: `EZ Access Pathway-Assembly-Manual.pdf` (49pp, an install guide), `EZ Access Layout Key and Install Time.pdf` (1pp), `EZ Access parts and pieces.pdf` (1pp), `Ramps Handbook.docx`, plus two pricing sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf` — likely not technical content, similar to the sales/pricing paperwork already excluded elsewhere in the wiki). Not ingested as part of this lint pass — flagging for the human to prioritize.
 
 ## How to use this wiki
 

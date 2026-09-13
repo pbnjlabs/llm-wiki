@@ -636,3 +636,51 @@ unresolved SL600 owner's-manual-vs-install-manual beep-count
 discrepancy, 9 codes vs. 8). Updated `index.md` throughout (manufacturer
 file counts, 1 new model row, updated concept-table descriptions, full
 sources list, backlog section).
+
+## [2026-09-12] lint | found an entire un-ingested manufacturer category (Ramps), fixed 7 cosmetic broken-link line-wraps
+
+Full lint pass against all five `/CLAUDE.md` criteria.
+
+- **Un-ingested manuals**: found a real gap — `MANUALS/Ramps/` (6 files: 4
+  "EZ Access"-brand ramp PDFs/docx including a 49-page install guide, plus
+  2 pricing sheets) has no manufacturer stub, no source pages, and no
+  mention anywhere in the wiki or `CLAUDE.md`'s manufacturer list. This
+  folder was already on disk (same 2026-09-11 13:06 timestamp as the rest
+  of `MANUALS/`) but was never flagged by any prior ingest or lint pass.
+  Added it to `index.md`'s manufacturer table and ingestion backlog as a
+  new category; **not ingested** in this pass (lint only, per the human's
+  request) — flagging for a future ingest session. Everything else
+  (Bruno/Golden/Pride/Prism/Harmar) confirmed fully ingested against
+  what's on disk.
+- **Missing model pages**: none — every model referenced across
+  manufacturer pages either has its own model page or is explicitly
+  flagged as backlog with no manual on file (Golden's GR575/Patriot,
+  GP205, GP207, GP208; Harmar's "Sierra IL500").
+- **Orphan pages**: zero — all 191 wiki pages (excluding `index`/`log`
+  themselves) have at least one inbound `[[wikilink]]`.
+- **Broken links**: found and fixed **7 line-wrapped wikilinks/filenames**
+  that don't resolve as real links because a literal newline splits the
+  target name — 4 pre-existing (from early Bruno-ingest sessions, in the
+  two Picture Perfect cross-links and one SRE-3050 install-manual link)
+  and 1 pre-existing in a Harmar source page from this week's own ingest.
+  Rewrapped all of them onto clean lines; left 3 similar-looking
+  occurrences in `log.md` alone since those are literal example syntax
+  in prose ("`[[wikilink]]`"), not real links, and `log.md` is
+  append-only/historical besides.
+- **Repeated concepts lacking their own page**: one soft candidate, not
+  urgent enough to write now — Harmar's Pinnacle folding rail (SL300FR/
+  SL600FR), including the detailed left/right handing-reversal procedure,
+  is currently shared prose duplicated across
+  [[Pinnacle SL300 Install Manual (2026, Rev L)]] and only summarized on
+  the [[Pinnacle-SL300]]/[[Pinnacle-SL600]] model pages — only 2 models
+  share it so far, thinner than the [[Brake-Replacement]] case that
+  justified writing a page.
+- **Contradictions/superseded revisions**: none newly found. The two
+  known superseded-revision pairs (Bruno's Picture Perfect 2020→2022, and
+  this week's Harmar SL300 install manual K→L) are both correctly
+  cross-linked. The already-flagged SL600 beep-code count discrepancy
+  (owner's manual: 9 codes; install manual: 8) and the Helix overspeed
+  naming ambiguity (2014 "Parachute Centrifugal Brake" vs. 2021 "OSG")
+  remain open, as previously documented — not newly discovered.
+
+Updated `index.md` (new Ramps manufacturer-table row and backlog entry).
