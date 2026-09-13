@@ -1,17 +1,35 @@
 ---
 type: model
 manufacturer: Harmar
-model: Highlander II with Enclosure
+model: Highlander II (VPL400-1400)
 tags: [vpl, platform-lift, harmar]
 ---
 
-# Highlander II with Enclosure
+# Highlander II (VPL400-1400)
 
-Harmar's enclosed vertical platform lift (VPL) product family: **VPL400,
-VPL600, VPL800, VPL1000, VPL1200, VPL1400** series (taller units — 1000
-and up — carry a lower 12-cycles/hour duty rating vs. 24/hour for
-400-800). AC-powered (115V/15A/1φ/60Hz), ACME-screw-driven, 750 lb max
-payload.
+Harmar's vertical platform lift (VPL) family: **VPL400, VPL600, VPL800,
+VPL1000, VPL1200, VPL1400** series (taller units — 1000 and up — carry a
+lower 12-cycles/hour duty rating vs. 24/hour for 400-800). AC-powered
+(115V/15A/1φ/60Hz), ACME-screw-driven, 750 lb max payload. Ships F.O.B.
+from a Missouri factory (separate from Harmar's Sarasota, FL
+headquarters) per its order form.
+
+Sold in **three configurations**, documented by three separate manual
+sets that share the same core electronics/drive architecture below:
+
+1. **Highlander II with Enclosure** — full tower enclosure (walls, dome,
+   doors); the most heavily documented configuration (both an owner's
+   and install manual on file)
+2. **Highlander II (no enclosure)** — open-frame tower, platform side
+   panels instead of full walls, optional platform gate instead of an
+   enclosure door; install manual only, P/N 630-00113-01 series (a
+   different, non-sequential P/N family from the Enclosure version's
+   630-00153)
+3. **VPL400-X** — a **residential-only** 4' trim of VPL400, its own
+   install manual and spec sheet, shorter 2-year parts warranty (vs. the
+   general line's 3-year), no commercial/3-stop options, "Bypass Mode"
+   instead of "Service Mode" for the same pre-wiring install function,
+   and its own e-stop SKU (VPL-012-X)
 
 ## Architecture
 - 2/3 Hp gearmotor, 26:1 worm-drive gearbox, 25% duty cycle (45-min max
@@ -50,13 +68,27 @@ must perform this from outside the platform, at the top of the tower.
 ## Documents on file
 - [[Highlander II with Enclosure Owner's Manual]] (2021 Rev A)
 - [[Highlander II with Enclosure Installation and Service Manual]] (2022
-  Rev B) — primary technical reference; the owner's manual's status-code
-  table and maintenance sections are a condensed subset of this
-  document's
+  Rev B) — primary technical reference for the Enclosure configuration;
+  the owner's manual's status-code table and maintenance sections are a
+  condensed subset of this document's
+- [[Highlander II Install Manual (no enclosure)]] (2024 Rev G) — the
+  open-frame configuration; no separate owner's manual on file
+- [[VPL400-X Install Manual]] (2023 Rev B)
+- [[Bulletin - New Harmar Interlock Introduction]] (2022 — all Highlander
+  II gates, either configuration)
+- [[Bulletin - Highlander II PCB Moisture Protection Plate]] (2020/2021
+  field retrofit)
+- [[Harmar Product Spec Sheets]] (VPL400-1400 and VPL400-X full spec
+  tables)
+- [[Harmar Evaluation and Order Forms]] (confirms VPL-R/VPL-C residential/
+  commercial split, VPL-030/033 READYUPS battery-backup naming)
+- [[Harmar Wiring Schematics]] (VPL400-X full wiring set — block diagram,
+  cab control, landings, limit switches, trailing cable)
 
 ## Warranty
-3-year parts warranty (labor excluded), covers VPL400-1400 with
-enclosure — see [[Harmar-Warranty]].
+3-year parts warranty (labor excluded) for VPL400-1400 in either
+configuration; **VPL400-X carries a shorter 2-year parts warranty** — see
+[[Harmar-Warranty]].
 
 ## See also
 [[Harmar]], [[Overspeed-Safety-Brake]], [[Harmar-Warranty]]

@@ -562,3 +562,77 @@ No install or tech-support manual exists yet for Helix, SL300, or SL600
 `index.md`, but not a missing-ingest issue since no such document is on
 disk. Updated `index.md` (manufacturer table, 5 new model rows, 2 new
 concept rows, sources list, backlog section).
+
+## [2026-09-12] ingest | Harmar — second pass: install manuals, bulletins, and a whole new Hoist-lift product category (46 new files)
+
+The human added ~46 more files to `MANUALS/Harmar/` (copied in from a
+separate master library at `/home/lu/Work/MANUALS/Harmar/` that already
+existed outside this git repo — confirmed via md5 that 2 files were
+exact duplicates of already-ingested content and skipped, and excluded 7
+product-photo/DAM-metadata-export files as non-manual assets). Extracted
+text via `pdftotext -layout` for all PDFs and a zip/XML strip for 2 docx
+bulletins, same approach as the first Harmar pass.
+
+**Closed the entire "no install manual" backlog** flagged in the previous
+Harmar entry: [[Helix Install Manual]], two revisions of the SL300 install
+manual ([[Pinnacle SL300 Install Manual (2026, Rev L)]], superseding
+[[Pinnacle SL300 Install Manual (2024, Rev K, superseded)]]), and
+[[Pinnacle SL600 Install Manual]] are all now on file. Also found a
+**Power Swivel / Power Footrest install supplement**
+([[Pinnacle Power Swivel and Power Footrest Install Supplement]]) that
+resolves an open question from the first pass: SL600 does support both
+options (SKUs SL600-PS/PF/PSPF), the owner's manual just never mentioned
+them.
+
+**Discovered Highlander II is documented as three separate configurations**,
+not one: the already-known "with Enclosure" version, a previously-unknown
+open-frame **"no enclosure"** version with its own non-sequential P/N
+series ([[Highlander II Install Manual (no enclosure)]]), and a
+residential-only **VPL400-X** trim with a shorter 2-year warranty and its
+own install manual, spec sheet, and full wiring-schematic set. Restructured
+[[HighlanderII]] to cover all three under one page rather than
+fragmenting further, since they share the same core electronics/OSG/
+troubleshooting architecture.
+
+**Discovered a second, entirely distinct Harmar vehicle-lift category**:
+[[Hoist-Series-Inside-Vehicle-Lifts]] ("Hoist" lifts — mounted inside the
+cargo area, boom swings outside to load the mobility device, as opposed
+to [[AL-Series-Outside-Vehicle-Lifts]]'s hitch-mounted platform) — found
+via a marketing brochure and confirmed by AL425/AL435/AL825 parts
+diagrams and one service bulletin. No narrative owner's/install manual is
+on file yet for this line, only the brochure/bulletin/diagrams. Also
+added two previously-undocumented Outside Vehicle Lift model numbers to
+[[AL-Series-Outside-Vehicle-Lifts]]: AL600 ("Hybrid," from a parts
+diagram) and AL901/AL904 (from a license-plate-riser bulletin).
+
+Corrected [[Overspeed-Safety-Brake]]'s Helix entry from the first pass'
+placeholder: Helix's mechanism is confirmed **a mechanical rack/sprocket
+jammer, field-resettable**, not an unknown/undocumented one — genuinely
+distinct from both Bruno's/Prism's governors and Harmar's own
+HighlanderII OSG switch (Harmar now contributes two of the concept's four
+documented mechanisms). A pair of wiring schematics complicates this
+slightly — a 2014 schematic calls the same assembly a "Parachute
+Centrifugal Brake," a 2021 one calls it "OSG" — flagged as unreconciled
+rather than resolved. Also corroborated (via independent documents) that
+"SL600HD" and SL600 "RAVE"/"LLSL" sub-variants are real, not typos.
+
+Created 4 consolidated reference source pages (rather than one page per
+file) for lower-narrative-value material: [[Harmar Evaluation and Order
+Forms]] (6 sales forms), [[Harmar Product Spec Sheets]] (4 spec sheets),
+[[Harmar Parts Diagrams]] (9 engineering BOM drawings), and
+[[Harmar Wiring Schematics]] (6 wiring diagrams) — a deliberate scope
+decision to avoid 25 near-empty source pages, each still extracting every
+genuinely new fact found. 9 technical bulletins each got their own page
+per existing precedent (each documents a distinct field issue).
+
+Rewrote [[Harmar]] to reflect the full picture: 3 product categories
+(stairlifts, platform lifts, two kinds of vehicle lifts), 8 model pages,
+and Harmar's now-confirmed pattern of using completely different
+mechanisms/terminology across its own product lines rather than one
+company-wide standard. Updated [[Harmar-Warranty]] (VPL400-X's shorter
+2yr term, Hoist-series' 3yr transferable term, resolved SL600 Power
+Swivel/Footrest question) and [[Harmar-Stairlift-Beep-Codes]] (flagged an
+unresolved SL600 owner's-manual-vs-install-manual beep-count
+discrepancy, 9 codes vs. 8). Updated `index.md` throughout (manufacturer
+file counts, 1 new model row, updated concept-table descriptions, full
+sources list, backlog section).

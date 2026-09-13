@@ -14,7 +14,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
-| Harmar | [[Harmar]] | 15 | 9 (distinct docs; see note) |
+| Harmar | [[Harmar]] | 60 | 32 source pages (see note — several consolidate multiple low-narrative files) |
 
 Note: Bruno's on-disk count dropped from 20 to 19 because one file
 (`HARMAR Camera Measuring Manual.pdf`, physically under
@@ -26,12 +26,19 @@ Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 65 source pages. See [[Golden]] for details.
 
-Note: Harmar's 15-file on-disk count (14 PDFs + 1 docx in the new
-`MANUALS/Harmar/` folder, plus the 1 misfiled Bruno-folder file already
-counted under Bruno) includes two sets of 3 byte-identical PDFs
-(AL100/AL300/AL301 owner's manuals are one file; AL100/AL300/AL301
-install manuals are another) confirmed by md5 — 9 distinct documents, 9
-source pages. See [[Harmar]] for details.
+Note: Harmar's 60-file on-disk count (59 files in `MANUALS/Harmar/` after
+two ingest passes, plus the 1 misfiled Bruno-folder file already counted
+under Bruno) includes several sets of byte-identical duplicate PDFs
+(AL100/AL300/AL301 owner's manuals; AL100/AL300/AL301 install manuals;
+an al-100-12 assembly-drawing pair; 2 exact-duplicate Helix files not
+even copied into the wiki's MANUALS folder since the content was already
+on file) confirmed by md5. The 32 source pages also **consolidate**
+several low-narrative-value file groups — 6 sales order/evaluation forms
+into one page, 4 marketing spec sheets into one page, 9 engineering
+parts-diagram drawings into one page, 6 wiring-schematic drawings into
+one page — rather than a strict 1:1 file-to-page mapping. 7 image/CSV
+files (product photos, a DAM metadata export) were deliberately excluded
+as non-manual assets. See [[Harmar]] for details.
 
 ## Models
 
@@ -61,10 +68,11 @@ source pages. See [[Harmar]] for details.
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 | C-450 / C-625 | Prism | [[C-450-C-625]] |
 | Helix (CSL Series) | Harmar | [[Helix]] |
-| Highlander II with Enclosure (VPL400-1400) | Harmar | [[HighlanderII]] |
+| Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs) | Harmar | [[HighlanderII]] |
 | Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
-| AL-Series Outside Vehicle Lifts (~20 models) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
+| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
+| Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 
 ## Concepts
 
@@ -95,7 +103,7 @@ source pages. See [[Harmar]] for details.
 | Golden brake replacement (3 model families, complexity ranges from 5-step puck swap to 28-step full drive-assembly pull) | [[Brake-Replacement]] |
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
-| Harmar warranty (5 product lines, each with its own distinct term) | [[Harmar-Warranty]] |
+| Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
@@ -105,10 +113,12 @@ applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
 Golden's error codes apply to a Pride chair or vice versa.
 
-[[Overspeed-Safety-Brake]] now spans three manufacturers'
-different mechanisms (Bruno centrifugal/field-resettable, Prism
-motor-replacement, Harmar's HighlanderII VPL over-speed-governor switch)
-— always check which manufacturer's variant applies before assuming a
+[[Overspeed-Safety-Brake]] now spans three manufacturers and **four**
+distinct mechanisms (Bruno centrifugal/field-resettable, Prism
+motor-replacement, Harmar HighlanderII's OSG switch, and Harmar Helix's
+own mechanical rack/sprocket jammer — Harmar alone contributes two
+unrelated mechanisms across its own product lines) — always check which
+manufacturer's *and which product's* variant applies before assuming a
 reset procedure carries over.
 
 Other candidates flagged but not yet written: Seat-Systems
@@ -141,8 +151,10 @@ Bruno Vehicle Lifts (2 of 2 ingested) — see
 `wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
 Install Manual.
 
-Harmar (9 of 9 distinct documents ingested) — see `wiki/sources/Harmar/`:
-CSL Series Photo Measuring Manual (physically located under
+Harmar (32 source pages, see `wiki/sources/Harmar/`) — ingested across two
+passes:
+
+*First pass:* CSL Series Photo Measuring Manual (physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
 different manufacturer's document, not moved since raw sources are
 immutable), Helix Owner's Manual, Helix Photo Measuring Manual (2023, Rev
@@ -153,6 +165,26 @@ Lifts Installation and Service Manual (covers AL100/AL300/AL301,
 byte-identical files), Pinnacle SL300 Owner's Manual, Pinnacle SL600
 Owner's Manual, Vehicle Lift Phone Interview Form (internal PMS sales
 form, not a Harmar technical manual).
+
+*Second pass* (human added ~46 more files to `MANUALS/Harmar/`): Helix
+Install Manual; Pinnacle SL300 Install Manual (2026, Rev L) plus its
+superseded 2024 Rev K; Pinnacle SL600 Install Manual; Pinnacle Power
+Swivel and Power Footrest Install Supplement; Highlander II Install
+Manual (no enclosure — a genuinely different configuration from the
+Enclosure version); VPL400-X Install Manual; Outside Vehicle Lifts
+Install Manual (2025, Rev D); 9 technical bulletins (Worm Gear Clicking
+Noise, Boom Lift Strap Replacement, Pinnacle Seat Swivel Modifications,
+New Harmar Interlock Introduction, Pinnacle Seat/Footrest Supply Chain
+Changes, Highlander II PCB Moisture Protection Plate, AL1232 Hitch
+Adapter Cold Welds, Pinnacle Rail Length Change, License Plate Riser
+Installation); Hoist Vehicle Lift Brochure (revealed the entire
+[[Hoist-Series-Inside-Vehicle-Lifts]] product category); and four
+consolidated reference pages — Harmar Evaluation and Order Forms (6
+files), Harmar Product Spec Sheets (4 files), Harmar Parts Diagrams (9
+files), Harmar Wiring Schematics (6 files) — each covering multiple
+low-narrative-value engineering/marketing documents in one page rather
+than one page per file. 7 product-photo/DAM-metadata files were
+deliberately excluded as non-manual assets (see [[Harmar]]).
 
 Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -198,8 +230,10 @@ Positioning Systems BOI.
 Prism (1 of 1 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual.
 
-**All manuals in the entire wiki are now ingested**, including Harmar's
-newly added `MANUALS/Harmar/` folder (see Harmar entry above).
+**All manuals in the entire wiki are now ingested**, including both
+rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
+except the 7 deliberately-excluded image/CSV asset files, which aren't
+manuals.
 
 ## Ingestion backlog
 
@@ -211,7 +245,7 @@ newly added `MANUALS/Harmar/` folder (see Harmar entry above).
 
 ### Prism — fully ingested, no backlog remaining.
 
-### Harmar — no install/tech-support manual on file yet for Helix, SL300, or SL600 (owner's manuals only); otherwise fully ingested.
+### Harmar — fully ingested (install manuals for Helix/SL300/SL600 closed the previous pass's backlog). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ## How to use this wiki
 

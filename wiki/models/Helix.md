@@ -30,13 +30,27 @@ ordering/measuring processes compare.
 
 ## Documents on file
 - [[Helix Owner's Manual]] — end-user manual (2021 Rev D)
+- [[Helix Install Manual]] — dealer install/service manual (2021 Rev D)
 - [[Helix Photo Measuring Manual (2023, Rev C)]] — Helix PhotoMap
   staircase-measuring kit, a newer revision of the doc misfiled as
   [[CSL Series Photo Measuring Manual]] under Bruno's folder
+- [[Harmar Wiring Schematics]] — Helix III (2014) and OSG (2021)
+  electronics schematics
 
-No install or tech-support manual is on file yet for Helix — the two
-documents present are the owner's manual and the custom-rail ordering kit
-only.
+## Overspeed mechanism
+Confirmed **standard equipment** (not optional) on both commercial and
+residential Helix installs per its order form, ASME 18.1-2017 compliant.
+Mechanically it is **a jammer, not a centrifugal governor**: moving a
+release arm drops a jammer between the gear rack and sprocket, and a
+limit switch cuts power. Field-resettable by pushing the jammer back into
+place — a genuinely different mechanism from Bruno's centrifugal governor,
+Prism's motor-replacement design, and Harmar's own HighlanderII OSG
+switch. See [[Overspeed-Safety-Brake]] for the full manufacturer
+comparison. Note: wiring schematics show Harmar's internal naming for
+this assembly shifted from "Parachute Centrifugal Brake" (2014, "Helix
+III" hardware) to "Overspeed Safety Switch"/"OSG" (2021) — see
+[[Harmar Wiring Schematics]]; not fully reconciled with the jammer
+mechanism described above.
 
 ## Diagnostics
 Beep-code major-fault table shared with SL300/SL600 (near-identical, one

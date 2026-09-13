@@ -32,9 +32,15 @@ far.
 \* SL300's manual marks beeps 3-6 "if configured for your model" — the
 only one of the three to caveat these codes as option-dependent.
 
-**SL300 has no code 9** — its table stops at 8. Not confirmed whether
-SL300 genuinely lacks a final-limit-switch fault or the code table is
-simply incomplete in that manual.
+**SL300 has no code 9** — its table stops at 8, confirmed consistently
+across both its owner's manual and
+[[Pinnacle SL300 Install Manual (2026, Rev L)]].
+
+**SL600 is inconsistent across its own documents**: the owner's manual
+lists all 9 codes (matching Helix), but
+[[Pinnacle SL600 Install Manual]] only lists 8 (matching SL300) — not
+resolved, flagged as a genuine cross-document discrepancy rather than
+assumed to be an error in either one.
 
 ## Minor faults (SL300/SL600 only — not broken out separately in the
 Helix manual)

@@ -14,13 +14,19 @@ file are generic across the whole line despite being filed under
 `AL100-OutsideLifts-*` filenames; confirmed models named across the two
 documents: AL003, AL010, AL015, AL030, AL050, AL100, AL100-DE, AL100HD,
 AL105, AL105L, AL160, AL300, AL300-FULL, AL300HD, AL301XL, AL301XL-HD,
-AL500, AL500HD, AL560, AL560XL, AL580, AL580XL, AL580-HDX.
+AL500, AL500HD, AL560, AL560XL, AL580, AL580XL, AL580-HDX. Two more model
+numbers are confirmed by other documents but not covered in either
+manual: **AL600** ("Hybrid" tower/base/platform assembly, per
+[[Harmar Parts Diagrams]]) and **AL901/AL904** (per
+[[Bulletin - License Plate Riser Installation]]).
 
 This is Harmar's counterpart to Bruno's [[PUL-1100]]/[[ASL-275]] (arm-lift
-and hitch-platform vehicle lifts, respectively). Worth a future
-side-by-side with [[Vehicle-Lift-Power-Wiring]] if a second
-manufacturer's wiring concept page is ever justified — not written yet
-since only Bruno's version exists as a concept page today.
+and hitch-platform vehicle lifts, respectively), and to Harmar's own
+[[Hoist-Series-Inside-Vehicle-Lifts]] (mounted inside the cargo area
+instead of on a hitch). Worth a future side-by-side with
+[[Vehicle-Lift-Power-Wiring]] if a second manufacturer's wiring concept
+page is ever justified — not written yet since only Bruno's version
+exists as a concept page today.
 
 ## Model differentiation (from the hitch-weight/adapter tables — no
 individual per-model manual exists)
@@ -63,10 +69,17 @@ individual per-model manual exists)
 - [[Outside Vehicle Lifts Owner's Manual]] (2022 Rev B) — end-user
 - [[Outside Vehicle Lifts Installation and Service Manual]] (2022 Rev
   B) — dealer/installer
+- [[Outside Vehicle Lifts Install Manual (2025, Rev D)]] — newer
+  revision, same model/hitch-weight coverage confirmed unchanged
+- [[Bulletin - AL1232 Hitch Adapter Cold Welds]] (2015-batch safety
+  recall — inspect and destroy affected hitch adapters)
+- [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
+- [[Harmar Parts Diagrams]] (AL100/AL301XL/AL600 assembly drawings)
 
 ## Warranty
 3-year transferable warranty (parts, excludes labor/batteries/paint) — see
 [[Harmar-Warranty]].
 
 ## See also
-[[Harmar]], [[PUL-1100]], [[ASL-275]], [[Harmar-Warranty]]
+[[Harmar]], [[PUL-1100]], [[ASL-275]],
+[[Hoist-Series-Inside-Vehicle-Lifts]], [[Harmar-Warranty]]
