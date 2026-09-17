@@ -48,10 +48,24 @@ wiki/
     Seat-Systems.md
     Troubleshooting.md
     ...
-  sources/               one summary page per raw manual, mirrors MANUALS/ tree
+  sources/               one summary page per raw manual, organized by
+                         manufacturer then product-line subdirectory
     Bruno/Bruno Curved SL/2110-TS Tech Support Guide.md
+    Golden/Companion/Companion Service Guide (GC240, GC340, GC440).md
     ...
 ```
+
+Every manufacturer under `sources/` gets its own product-line
+subdirectories — never a flat folder of files, even for a first/small
+ingest. Derive the subdirectory names from that manufacturer's own
+`manufacturers/<Name>.md` page (its model-family/product-line groupings),
+not from however the raw files happen to be organized under `MANUALS/`
+(which may be flat, or split differently, or even misfiled into another
+manufacturer's folder — see the Harmar-doc-under-Bruno and
+AutoSlide/Open-Sesame cases). Always include a catch-all `General`
+subdirectory for docs that are genuinely cross-cutting/not tied to one
+product line (accessories, chargers, warranty text, etc.) rather than
+forcing them into a product-line folder they don't belong in.
 
 ### Page conventions
 
@@ -90,15 +104,24 @@ wiki/
 1. Read the source PDF(s) from `MANUALS/`. Manuals can run long — use the
    `pages` parameter on Read in batches (max 20 pages/call) rather than
    assuming a single read captures everything, especially for install
-   manuals and IPBs.
+   manuals and IPBs. If the raw files aren't under this repo's `MANUALS/`
+   yet (e.g. the human dropped them somewhere else on disk), copy them in
+   first, preserving whatever folder name/structure they came with —
+   `MANUALS/` is gitignored, so this never touches git.
 2. Discuss key takeaways with the human before writing anything (unless
    they've asked for a batch/unsupervised pass).
-3. Write/update the `sources/` page for this document.
+3. Write/update the `sources/` page for this document, filed under
+   `sources/<Manufacturer>/<Product Line>/` — pick (or create) the
+   product-line subdirectory by actual content, never leave a manufacturer's
+   sources flat and never mirror a misleading raw folder name verbatim (see
+   the Wiki structure section above).
 4. Create or update the relevant `models/` page(s).
 5. Update any `concepts/` pages this document touches (e.g. a new charger
    manual updates `Battery-Charging.md`).
 6. Update `wiki/index.md`.
 7. Append an entry to `wiki/log.md`.
+8. Commit and push (see Git section below) — this is an automatic part of
+   ingest, not a separate step to ask about.
 
 A single manual might touch 3-6 pages (its source page, one model page, one
 or two concept pages, plus the index). Default to ingesting one manual (or
@@ -143,6 +166,12 @@ Each `log.md` entry starts with a consistent prefix so it's greppable:
 
 ## Git
 
-This directory is a git repo. Commit wiki changes (not raw manuals, which
-don't change) as you go, or in batches the human confirms — don't push
-anywhere without being asked.
+This directory is a git repo with a GitHub remote (`origin`). Commit wiki
+changes (not raw manuals — `MANUALS/` is gitignored) as you go, and **push
+automatically after every ingest/lint/reorg pass** — no need to ask each
+time, this is standing authorization. If `origin/master` has moved (e.g. a
+README edited on GitHub), rebase local commits on top rather than
+force-pushing. Still don't force-push, and still check with the human
+before any other destructive git operation (reset --hard, discarding
+uncommitted work, etc.) — the standing push authorization covers ordinary
+forward commits only.
