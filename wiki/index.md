@@ -13,16 +13,25 @@ Entry point for every query — check here first before opening raw manuals.
 | Bruno | [[Bruno]] | 20 | 20 |
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
-| Prism | [[Prism]] | 1 | 1 |
+| Prism | [[Prism]] | 3 | 3 |
+| Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
 
-Note: Bruno's on-disk count dropped from 20 to 19 because one file
-(`HARMAR Camera Measuring Manual.pdf`, physically under
-`MANUALS/Bruno/Bruno Curved SL/`) is counted under Harmar instead — a
-different manufacturer's document, not moved since raw sources are
-immutable. See [[Harmar]] and [[Bruno]] for details.
+Note: `MANUALS/Bruno/` physically holds 21 files, but the table
+attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
+Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
+counted under Harmar instead, a different manufacturer's document not
+moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
+details.
+
+Note: `MANUALS/Prism/` physically holds 4 files, but the table
+attributes only 3 to Prism — one
+(`Ceiling Lift Installation Manual NEW.pdf`) is a **Vancare**-authored
+ceiling-lift track installation guide, not a Prism document — counted
+under Vancare instead, parallel to the Bruno/Harmar case above. See
+[[Vancare]] and [[Prism]] for details.
 
 Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
@@ -84,7 +93,8 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Ally GP303 | Golden | [[GP303-Ally]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
-| C-450 / C-625 | Prism | [[C-450-C-625]] |
+| C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
+| P440 (P-600 confirmed but undocumented) | Prism | [[P440]] |
 | Helix (CSL Series) | Harmar | [[Helix]] |
 | Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs) | Harmar | [[HighlanderII]] |
 | Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
@@ -263,8 +273,19 @@ Manual, Q-Logic Controller Basic Operation Instructions, Q-Logic 3 Basic
 Operation Instructions, Q-Logic 3 Programming Guide, Tru-Balance 3 Power
 Positioning Systems BOI.
 
-Prism (1 of 1 ingested — fully ingested) — see `wiki/sources/Prism/`:
-C-450/C-625 Technical Manual.
+Prism (3 of 3 ingested — fully ingested) — see `wiki/sources/Prism/`:
+C-450/C-625 Technical Manual, Ceiling Lift Evaluation Form (generic
+pre-install site-survey form, not C-450/C-625-specific), P440 User
+Manual (2017 — found by checking an out-of-repo `MANUALS/Prism/` drop
+for new sources; revealed the [[P440]] portable-ceiling-lift product
+line, distinct from the fixed-track C-Series).
+
+Vancare (1 of 1 ingested — fully ingested) — see `wiki/sources/Vancare/`:
+Ceiling Lift Installation Guide (2021 — a 213-page Vancare-authored
+track-system install manual found in the same `MANUALS/Prism/` drop;
+not a Prism document, but its cross-compatibility tables confirmed two
+new Prism model numbers, C-800/C-1000 and P-600, with no manuals of
+their own on file — see [[Vancare]]).
 
 AutoSlide (2 of 2 ingested — fully ingested) — see `wiki/sources/AutoSlide/`:
 AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
@@ -284,7 +305,9 @@ manuals.
 
 ### Pride — fully ingested, no backlog remaining.
 
-### Prism — fully ingested, no backlog remaining.
+### Prism — fully ingested, no backlog remaining (a second pass added [[P440]], a portable-ceiling-lift line, found via a new-sources check). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet.
+
+### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
 ### Harmar — fully ingested (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
