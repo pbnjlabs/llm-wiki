@@ -42,11 +42,13 @@ facts they reveal that aren't documented anywhere else in the wiki.
   md5-confirmed) — AL100 hold-down-arm/platform assembly.
 - `Harmar-al-301xl-12_M.pdf` — AL301XL platform assembly (rocker-to-toggle
   switch change noted in its revision history).
-- `Harmar-al-600-12_R.pdf` — reveals an **"AL600" "Hybrid" model**
-  (hybrid tower/base assembly, hybrid platform assembly) not named
-  anywhere in the main AL-series owner's/install manuals or hitch-weight
-  tables — add to [[AL-Series-Outside-Vehicle-Lifts]] as a confirmed but
-  thinly-documented variant.
+- `Harmar-al-600-12_R.pdf` — the original lead for **AL600** (hybrid
+  tower/base assembly, hybrid platform assembly), once thought to be a
+  thinly-documented [[AL-Series-Outside-Vehicle-Lifts]] variant. Full
+  owner's/install manuals obtained in a later ingest confirmed AL600 is
+  actually the flagship model of the separate
+  [[Hybrid-Vehicle-Lifts]] line — see that page for the complete
+  documentation now on file.
 
 ## Hoist lift assemblies (confirms Hoist-series identity)
 - `Harmar-al425_N.pdf`, `Harmar-al435_L.pdf`, `Harmar-al825_J.pdf` — AL425/
@@ -57,4 +59,4 @@ facts they reveal that aren't documented anywhere else in the wiki.
 
 ## Feeds into
 [[Pinnacle-SL300]], [[Pinnacle-SL600]], [[AL-Series-Outside-Vehicle-Lifts]],
-[[Hoist-Series-Inside-Vehicle-Lifts]]
+[[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]]

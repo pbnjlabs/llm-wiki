@@ -10,9 +10,10 @@ A stairlift, platform-lift, and vehicle-lift manufacturer, distinct from
 Bruno, founded 1998 and based in Sarasota, FL (VPL units ship from a
 separate Missouri factory). First discovered in this wiki as a single
 misfiled document under Bruno's Curved SL folder; the human has since
-created a dedicated `MANUALS/Harmar/` folder and populated it across two
-ingest passes, giving Harmar **three product categories, eight documented
-model pages**:
+created a dedicated `MANUALS/Harmar/` folder and populated it across
+three ingest passes, giving Harmar **three product categories, nine
+documented model pages** (vehicle lifts split across three distinct
+architectures):
 
 **Stairlifts**
 - **[[Helix]]** (CSL Series) — curved-rail residential stairlift
@@ -26,13 +27,18 @@ model pages**:
   configurations: with enclosure, without enclosure, and the
   residential-only VPL400-X trim
 
-**Vehicle lifts** (two distinct architectures, easy to confuse since both
-use "AL" model-number prefixes)
+**Vehicle lifts** (three distinct architectures, easy to confuse since
+all three use "AL" model-number prefixes)
 - **[[AL-Series-Outside-Vehicle-Lifts]]** — hitch-mounted, platform folds
   down behind the vehicle, ~20+ model variants
 - **[[Hoist-Series-Inside-Vehicle-Lifts]]** — mounted inside the cargo
   area, boom swings outside to load the mobility device, then stows it
   inside (preserves backup-camera use, protects from weather)
+- **[[Hybrid-Vehicle-Lifts]]** (AL600/AL690/AL6000/AL6000HD) — also
+  mounted inside the cargo area, but via a structural leg + powered
+  tower that swings a platform straight out the back or side door (no
+  boom, no docking device); two hardware generations, 2021-22
+  (AL6000/AL6000HD) and 2025 (AL600/AL690)
 
 Support: 800-833-0478 (general/LiftSquad), tech@harmar.com. Warranty
 correspondence address: 1500 Independence Blvd., Suite 220, Sarasota, FL
@@ -62,9 +68,10 @@ competing Picture Perfect system.
 
 - [[Harmar-Warranty]] — every Harmar product line carries its own
   distinct warranty term (unlike Bruno's stairlift-vs-vehicle-lift split
-  or Golden's scooter-vs-wheelchair split); the two vehicle-lift families
-  share a 3yr transferable term, and VPL400-X breaks from the rest of the
-  Highlander II line with a shorter 2yr term
+  or Golden's scooter-vs-wheelchair split); all three vehicle-lift
+  families (AL-Series, Hoist-Series, Hybrid) share a 3yr parts/
+  transferable term, and VPL400-X breaks from the rest of the Highlander
+  II line with a shorter 2yr term
 - [[Harmar-Stairlift-Beep-Codes]] — beeps-only major/minor fault scheme
   shared (with small variations, and one unresolved cross-document
   discrepancy on SL600) across Helix, SL300, and SL600
@@ -79,9 +86,12 @@ competing Picture Perfect system.
   line.
 - "SL600HD" is named once (a rail-length bulletin) but otherwise
   undocumented.
-- AL600 ("Hybrid") and AL901/AL904 are confirmed Outside Vehicle Lift
-  model numbers absent from the main AL-series manuals — see
-  [[AL-Series-Outside-Vehicle-Lifts]].
+- AL901/AL904 are confirmed Outside Vehicle Lift model numbers absent
+  from the main AL-series manuals — see [[AL-Series-Outside-Vehicle-Lifts]].
+- **Resolved:** AL600 was previously flagged here as an unexplained
+  Outside Vehicle Lift model number known only from a parts diagram.
+  Full manuals now on file confirm it's actually the flagship model of
+  the separate [[Hybrid-Vehicle-Lifts]] line, not an AL-Series variant.
 
 ## Not yet ingested
 

@@ -18,10 +18,11 @@ term**, confirmed from each product's own owner's manual:
 | [[HighlanderII]] — VPL400-X specifically | Parts | **2 yr** (shorter than the general line) | — | Residential-only SKU |
 | [[AL-Series-Outside-Vehicle-Lifts]] | Parts, excl. labor/batteries/paint | 3 yr, **transferable**, from retail purchase | — | Does not cover vehicle defects, or lift defects caused by a vehicle defect |
 | [[Hoist-Series-Inside-Vehicle-Lifts]] | Parts | 3 yr, **transferable** | — | Same term as the AL-series outside lifts, per the Hoist brochure |
+| [[Hybrid-Vehicle-Lifts]] (AL600/AL690/AL6000/AL6000HD) | Material, mechanical, electrical parts, excl. labor/paint | 3 yr from retail purchase, to original purchaser | — | Same term worded identically across both hardware generations' manuals |
 | [[Pinnacle-SL300]] | Material/mechanical/electrical parts | 2 yr from retail purchase | 1 yr | **Gear rack: 10 yr** separately; residential-only, outdoor/commercial excluded |
 | [[Pinnacle-SL600]] | Motor, gearbox, worm gear, gear rack | **Limited lifetime** | 1 yr | Other parts/electrical: 3 yr; outdoor excluded, but commercial IS covered (unlike SL300) |
 
-## Shared boilerplate across all five
+## Shared boilerplate across all six
 - Warranty registration: a separate form in the back of the manual, must
   be returned within 10 days of installation/purchase; a QR-code
   submission option appears starting with the SL600 manual (2026) but not

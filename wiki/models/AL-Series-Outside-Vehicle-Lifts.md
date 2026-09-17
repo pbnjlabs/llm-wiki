@@ -14,11 +14,18 @@ file are generic across the whole line despite being filed under
 `AL100-OutsideLifts-*` filenames; confirmed models named across the two
 documents: AL003, AL010, AL015, AL030, AL050, AL100, AL100-DE, AL100HD,
 AL105, AL105L, AL160, AL300, AL300-FULL, AL300HD, AL301XL, AL301XL-HD,
-AL500, AL500HD, AL560, AL560XL, AL580, AL580XL, AL580-HDX. Two more model
-numbers are confirmed by other documents but not covered in either
-manual: **AL600** ("Hybrid" tower/base/platform assembly, per
-[[Harmar Parts Diagrams]]) and **AL901/AL904** (per
+AL500, AL500HD, AL560, AL560XL, AL580, AL580XL, AL580-HDX. One more model
+number is confirmed by another document but not covered in either
+manual: **AL901/AL904** (per
 [[Bulletin - License Plate Riser Installation]]).
+
+**Correction:** an earlier ingest pass flagged "AL600" as a possible
+thinly-documented AL-Series variant, based solely on a parts-diagram
+mention (`Harmar-al-600-12_R.pdf` in [[Harmar Parts Diagrams]]). Full
+owner's/install manuals obtained in a later ingest confirm AL600 is
+**not** part of this hitch-mounted AL-Series family — it's the flagship
+model of Harmar's separate, inside-mounted [[Hybrid-Vehicle-Lifts]] line
+(AL600/AL690/AL6000/AL6000HD). See that page instead.
 
 This is Harmar's counterpart to Bruno's [[PUL-1100]]/[[ASL-275]] (arm-lift
 and hitch-platform vehicle lifts, respectively), and to Harmar's own
@@ -74,7 +81,9 @@ individual per-model manual exists)
 - [[Bulletin - AL1232 Hitch Adapter Cold Welds]] (2015-batch safety
   recall — inspect and destroy affected hitch adapters)
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
-- [[Harmar Parts Diagrams]] (AL100/AL301XL/AL600 assembly drawings)
+- [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
+  drawing also referenced there actually belongs to
+  [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)
 
 ## Warranty
 3-year transferable warranty (parts, excludes labor/batteries/paint) — see
@@ -82,4 +91,5 @@ individual per-model manual exists)
 
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],
-[[Hoist-Series-Inside-Vehicle-Lifts]], [[Harmar-Warranty]]
+[[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]],
+[[Harmar-Warranty]]

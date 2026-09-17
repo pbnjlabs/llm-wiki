@@ -14,7 +14,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
-| Harmar | [[Harmar]] | 60 | 32 source pages (see note — several consolidate multiple low-narrative files) |
+| Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
 
@@ -42,19 +42,20 @@ so this file is a **misfile**, not a distributor name AutoSlide itself uses.
 See [[AutoSlide]] for details, including the still-open question of whether
 either brand belongs in this wiki's stated scope at all.
 
-Note: Harmar's 60-file on-disk count (59 files in `MANUALS/Harmar/` after
-two ingest passes, plus the 1 misfiled Bruno-folder file already counted
-under Bruno) includes several sets of byte-identical duplicate PDFs
-(AL100/AL300/AL301 owner's manuals; AL100/AL300/AL301 install manuals;
-an al-100-12 assembly-drawing pair; 2 exact-duplicate Helix files not
-even copied into the wiki's MANUALS folder since the content was already
-on file) confirmed by md5. The 32 source pages also **consolidate**
-several low-narrative-value file groups — 6 sales order/evaluation forms
-into one page, 4 marketing spec sheets into one page, 9 engineering
-parts-diagram drawings into one page, 6 wiring-schematic drawings into
-one page — rather than a strict 1:1 file-to-page mapping. 7 image/CSV
-files (product photos, a DAM metadata export) were deliberately excluded
-as non-manual assets. See [[Harmar]] for details.
+Note: Harmar's 74-file on-disk count (73 files in `MANUALS/Harmar/` after
+three ingest passes, plus the 1 misfiled Bruno-folder file already
+counted under Bruno) includes several sets of byte-identical duplicate
+PDFs (AL100/AL300/AL301 owner's manuals; AL100/AL300/AL301 install
+manuals; an al-100-12 assembly-drawing pair; 4 exact-duplicate Helix
+files across the two source drops, not even copied into the wiki's
+MANUALS folder since the content was already on file) confirmed by md5.
+The 36 source pages also **consolidate** several low-narrative-value
+file groups — 6 sales order/evaluation forms into one page, 4 marketing
+spec sheets into one page, 9 engineering parts-diagram drawings into one
+page, 6 wiring-schematic drawings into one page — rather than a strict
+1:1 file-to-page mapping. 17 image/CSV files (product photos, 2 DAM
+metadata exports) were deliberately excluded as non-manual assets. See
+[[Harmar]] for details.
 
 ## Models
 
@@ -89,6 +90,7 @@ as non-manual assets. See [[Harmar]] for details.
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
 | AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 | Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
+| Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower) | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
 
 ## Concepts
@@ -168,8 +170,8 @@ Bruno Vehicle Lifts (2 of 2 ingested) — see
 `wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
 Install Manual.
 
-Harmar (32 source pages, see `wiki/sources/Harmar/`) — ingested across two
-passes:
+Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
+three passes:
 
 *First pass:* CSL Series Photo Measuring Manual (physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
@@ -202,6 +204,19 @@ files), Harmar Wiring Schematics (6 files) — each covering multiple
 low-narrative-value engineering/marketing documents in one page rather
 than one page per file. 7 product-photo/DAM-metadata files were
 deliberately excluded as non-manual assets (see [[Harmar]]).
+
+*Third pass* (human dropped ~16 more files into an out-of-repo
+`MANUALS/Harmar/` folder, copied in preserving the drop): Hybrid Vehicle
+Lifts Owner's Manual and Installation and Service Manual (AL600/AL690,
+2025), AL6000 Series Owner's Manual (2021, Rev A) and Installation and
+Service Manual (2022, Rev C) — together revealing the entire
+[[Hybrid-Vehicle-Lifts]] product category and resolving the previously
+unexplained "AL600 Hybrid" parts-diagram mention on
+[[AL-Series-Outside-Vehicle-Lifts]]. 2 renamed-but-byte-identical
+duplicates of already-ingested Helix files were not re-copied. 10
+further product-photo/DAM-metadata files (5 AL425HD product photos, 3
+more AL425 photos, 2 metadata-export CSVs) were deliberately excluded as
+non-manual assets, bringing the running exclusion total to 17.
 
 Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -252,9 +267,9 @@ AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
 Pet Sensor Operation Instructions (physically filed under
 `MANUALS/Open Sesame/` — confirmed misfile, see [[AutoSlide]]).
 
-**All manuals in the entire wiki are now ingested**, including both
+**All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
-except the 7 deliberately-excluded image/CSV asset files, which aren't
+except the 17 deliberately-excluded image/CSV asset files, which aren't
 manuals.
 
 ## Ingestion backlog
@@ -267,7 +282,7 @@ manuals.
 
 ### Prism — fully ingested, no backlog remaining.
 
-### Harmar — fully ingested (install manuals for Helix/SL300/SL600 closed the previous pass's backlog). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope question this manufacturer raised, plus a **new possible backlog category**: "Open Sesame" is a confirmed real, separate manufacturer (automatic swing-door operators) that PMS keeps a raw-source folder for, but no genuine Open Sesame manuals have been found yet — worth asking the human if any exist.
 
