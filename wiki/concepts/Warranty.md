@@ -24,10 +24,10 @@ straight-rail ([[SRE-2010]], [[SRE-3000]], [[SRE-3050]]) and curved-rail
 
 ## Vehicle lifts — 3 years, all parts
 
-Identical text embedded in both [[PUL-1100 Installation Manual]] and
-[[ASL-275 Install Manual]] — confirmed word-for-word the same document
-(rev. 01-16) in both. Applies to [[PUL-1100]] and [[ASL-275]] — not
-confirmed for VPL.
+Identical text embedded in [[PUL-1100 Installation Manual]],
+[[ASL-275 Install Manual]], and [[ASL-250 Install Manual]] — confirmed
+word-for-word the same document (rev. 01-16) across all three. Applies
+to [[PUL-1100]], [[ASL-275]], and [[ASL-250]] — not confirmed for VPL.
 
 - **3 years** on all parts, free of defects in material and workmanship
   (no separate major-components tier like the stairlift warranty)
@@ -58,4 +58,4 @@ Contact: Bruno Independent Living Aids, Inc. — Attn: Service Department,
 ## See also
 
 [[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]],
-[[PUL-1100]], [[ASL-275]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]]

@@ -44,9 +44,14 @@ vertical platform lifts (VPL).
     empty wheelchair/scooter
   - [[ASL-275]] ("Out-Sider"/Out-Sider with Swing-Away) — hitch-mounted
     platform lift for scooters/powerchairs
-  - Both share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
-    pattern) and a 3-year vehicle-lift variant of [[Warranty]] — distinct
-    terms from the stairlift warranty (3yr flat vs. 5yr/2yr split).
+  - [[ASL-250]] ("Out-Sider"/Out-Sider with Swing-Away, legacy) —
+    ASL-275's predecessor (2019 manual); same branding, different
+    platform lineup including a ramped "HTP" variant not documented on
+    ASL-275
+  - All three share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
+    pattern — ASL-250 confirms the inline fuse is specifically ATO 30A)
+    and a 3-year vehicle-lift variant of [[Warranty]] — distinct terms
+    from the stairlift warranty (3yr flat vs. 5yr/2yr split).
 - **VPL** — vertical platform lifts. **Fully ingested.**
   - [[VPL-3100B]] — smaller porch/deck lift, 53"/75" max floor-to-floor,
     hand-wheel-only emergency operation
@@ -59,7 +64,9 @@ vertical platform lifts (VPL).
 
 ## Not yet ingested
 
-Nothing — all Bruno-authored manuals on disk have been ingested.
+Nothing — all Bruno-authored manuals on disk have been ingested, including
+a third ingest pass that added [[ASL-250]] (found via a check of an
+out-of-repo `MANUALS/Bruno/` drop).
 
 ## See also
 

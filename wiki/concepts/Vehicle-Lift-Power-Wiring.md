@@ -5,8 +5,9 @@ tags: [electrical, vehicle-lift, bruno, wiring]
 
 # Vehicle Lift Power Wiring
 
-Both Bruno vehicle lifts ([[PUL-1100]], [[ASL-275]]) share the same battery
-wiring pattern, described near-identically in both install manuals.
+All three Bruno vehicle lifts ([[PUL-1100]], [[ASL-275]], [[ASL-250]])
+share the same battery wiring pattern, described near-identically across
+their install manuals.
 
 ## Standard routing
 
@@ -15,8 +16,10 @@ wiring pattern, described near-identically in both install manuals.
    hitch-mounted control box for ASL-275).
 2. Cut the cable to length, split back ~10", strip conductors.
 3. Red (+) conductor: gets an inline **fuse holder** (PUL-1100: ATO-style;
-   ASL-275: 30A) before terminating in a ring terminal on the battery's
-   POSITIVE post.
+   ASL-275/ASL-250: 30A — [[ASL-250]]'s manual confirms this is
+   specifically an **ATO 30A fuse**, the same style as PUL-1100's, just a
+   higher amperage) before terminating in a ring terminal on the
+   battery's POSITIVE post.
 4. Black (−) conductor: ring terminal directly to the battery's NEGATIVE
    post (or a separate chassis ground wire, on PUL-1100).
 5. Secure the harness along the route with P-clips/wire ties/tape; avoid
@@ -42,4 +45,4 @@ traction battery. Check the vehicle owner's manual for its location.
 
 ## See also
 
-[[PUL-1100]], [[ASL-275]], [[Bruno]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[Bruno]]

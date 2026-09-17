@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 19 | 19 |
+| Bruno | [[Bruno]] | 20 | 20 |
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
@@ -69,6 +69,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
+| ASL-250 (Out-Sider, legacy) | Bruno | [[ASL-250]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
 | Buzzaround XL / Lite (GB106/116/146/147) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
@@ -166,9 +167,12 @@ SRE-2010 content], Bruno Stair Lift Warranty, Picture Perfect Camera
 Overview (2020, superseded), Picture Perfect Instructions (2022 Rev 5),
 Picture Perfect Staircase Target Placement.
 
-Bruno Vehicle Lifts (2 of 2 ingested) — see
+Bruno Vehicle Lifts (3 of 3 ingested) — see
 `wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
-Install Manual.
+Install Manual, ASL-250 Install Manual (2019 — an older hardware
+generation found by checking an out-of-repo `MANUALS/Bruno/` drop for new
+sources; revealed the [[ASL-250]] model page and its "HTP" ramped
+platform variant, undocumented on ASL-275).
 
 Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
 three passes:
@@ -274,7 +278,7 @@ manuals.
 
 ## Ingestion backlog
 
-### Bruno — fully ingested, no backlog remaining.
+### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check).
 
 ### Golden — fully ingested, no backlog remaining.
 
