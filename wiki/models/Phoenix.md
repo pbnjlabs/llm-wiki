@@ -20,9 +20,9 @@ cluster-wide picture.
 The battery-care section instructs "Do not use any battery chargers
 that have not been certified by **TREK Mobility**" — a third company
 name that appears nowhere else in this manual (no address, no other
-mention) and doesn't match either confirmed manufacturer in the [[Red
-Hawk]] cluster. Likely leftover boilerplate from a template originally
-written for a different distributor's rebrand; not resolved.
+mention) and doesn't match either confirmed manufacturer in the
+[[Red Hawk]] cluster. Likely leftover boilerplate from a template
+originally written for a different distributor's rebrand; not resolved.
 
 ## Specs
 - Max weight capacity: **120 kg** — lowest of the four Red Hawk models
