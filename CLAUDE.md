@@ -135,7 +135,13 @@ the whole `MANUALS/` tree unless explicitly asked to.
    PDFs directly unless the wiki doesn't yet cover the answer.
 2. Drill into the relevant `models/`/`concepts/`/`sources/` pages.
 3. Answer with citations back to the specific manual (path + section/page
-   if known).
+   if known), **and include a link to the raw source PDF** — the
+   `source:` field on the relevant `sources/` page gives the path
+   relative to the repo root; since `MANUALS/` is gitignored (no GitHub
+   URL exists), format it as a `file://` link using the absolute path
+   (e.g. `file:///home/lu/Work/llm-wiki/MANUALS/Bruno/...pdf`) alongside
+   the relative path for reference. Link every manual an answer draws on
+   if it synthesizes more than one.
 4. If the answer is worth keeping (a synthesis, comparison, or something not
    already captured), offer to file it back into the wiki as a new or
    updated page rather than letting it disappear into chat history.
