@@ -9,12 +9,18 @@ tags: [prism, ceiling-lift, portable-lift, p440]
 
 # P440 User Manual
 
-Rev: 14 MAR 2017. Owner's manual for the **P-440**, a **portable**
-ceiling lift — Prism's first documented product distinct from the
-permanently track-mounted [[C-450-C-625]] family. Unlike C-450/C-625
-(fixed position, electro-mechanical powered traverse), the P-440 is
-carried by hand and manually pushed along the track; only the up/down
-lifting function is motorized.
+Rev: 14 MAR 2017. **Superseded by
+[[P440 Owner's Manual (2021, Rev 19-Oct)]]** — kept for reference since
+this was the version first ingested; the 2021 revision covers the same
+product with substantially more content (accessories catalog, service
+record forms, per-manufacturing-year carabiner variations) and, unlike
+this 2017 version, explicitly identifies **Handicare** as the
+manufacturer throughout. Owner's manual for the **P-440**, a
+**portable** ceiling lift — Prism's first documented product distinct
+from the permanently track-mounted [[C-450-C-625]] family. Unlike
+C-450/C-625 (fixed position, electro-mechanical powered traverse), the
+P-440 is carried by hand and manually pushed along the track; only the
+up/down lifting function is motorized.
 
 ## Key content
 - Four components make up the system: lift (P-440), track, trolley,

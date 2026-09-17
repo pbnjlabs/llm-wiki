@@ -13,7 +13,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Bruno | [[Bruno]] | 20 | 20 |
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
-| Prism | [[Prism]] | 3 | 3 |
+| Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
@@ -27,12 +27,22 @@ counted under Harmar instead, a different manufacturer's document not
 moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
 details.
 
-Note: `MANUALS/Prism/` physically holds 4 files, but the table
-attributes only 3 to Prism — one
+Note: `MANUALS/Prism/` physically holds 6 files, but the table
+attributes only 5 to Prism — one
 (`Ceiling Lift Installation Manual NEW.pdf`) is a **Vancare**-authored
 ceiling-lift track installation guide, not a Prism document — counted
 under Vancare instead, parallel to the Bruno/Harmar case above. See
 [[Vancare]] and [[Prism]] for details.
+
+Note: **"Prism" is very likely a Handicare brand, not an independent
+manufacturer** — confirmed for two of its products ([[P440]] and the
+[[Prism-Castor-2-Post-Lift-Stand]] accessory), both explicitly
+Handicare-branded/warranted in their manuals, with "Prism" apparently
+used for Handicare's North American refurbished-equipment line. Not yet
+confirmed for [[C-450-C-625]] itself. See [[Prism]] for the full
+writeup — kept under the "Prism" manufacturer page rather than
+renamed, since that's the name on the raw `MANUALS/` folder and the
+older documents' own branding.
 
 Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
@@ -108,7 +118,8 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 | C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
-| P440 (P-600 confirmed but undocumented) | Prism | [[P440]] |
+| P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
+| Castor 2 Post Lift Stand (accessory) | Prism | [[Prism-Castor-2-Post-Lift-Stand]] |
 | Helix (CSL Series) | Harmar | [[Helix]] |
 | Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs) | Harmar | [[HighlanderII]] |
 | Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
@@ -291,12 +302,20 @@ Manual, Q-Logic Controller Basic Operation Instructions, Q-Logic 3 Basic
 Operation Instructions, Q-Logic 3 Programming Guide, Tru-Balance 3 Power
 Positioning Systems BOI.
 
-Prism (3 of 3 ingested — fully ingested) — see `wiki/sources/Prism/`:
+Prism (5 of 5 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual, Ceiling Lift Evaluation Form (generic
 pre-install site-survey form, not C-450/C-625-specific), P440 User
-Manual (2017 — found by checking an out-of-repo `MANUALS/Prism/` drop
-for new sources; revealed the [[P440]] portable-ceiling-lift product
-line, distinct from the fixed-track C-Series).
+Manual (2017, superseded — found by checking an out-of-repo
+`MANUALS/Prism/` drop for new sources; revealed the [[P440]]
+portable-ceiling-lift product line, distinct from the fixed-track
+C-Series), P440 Owner's Manual (2021, Rev 19-Oct — a newer, more
+complete revision found in a further `MANUALS/Prism/` check; the first
+document in this wiki to explicitly confirm **Handicare** as the
+manufacturer behind at least this model, resolving a long-open note on
+[[C-450-C-625]]'s page), Prism Castor 2 Post Lift Stand Installation
+Manual (2018 — a freestanding two-post track accessory, co-branded
+Prism/Handicare, sized to match the C-Series lifts' 450lb/625lb
+capacities exactly; new model page [[Prism-Castor-2-Post-Lift-Stand]]).
 
 Vancare (1 of 1 ingested — fully ingested) — see `wiki/sources/Vancare/`:
 Ceiling Lift Installation Guide (2021 — a 213-page Vancare-authored
@@ -336,7 +355,7 @@ manuals.
 
 ### Pride — fully ingested, no backlog remaining.
 
-### Prism — fully ingested, no backlog remaining (a second pass added [[P440]], a portable-ceiling-lift line, found via a new-sources check). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet.
+### Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. Open question: is [[C-450-C-625]] itself also Handicare-manufactured? Not yet confirmed either way.
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
