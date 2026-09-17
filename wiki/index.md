@@ -17,6 +17,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
+| Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
 
 Note: `MANUALS/Bruno/` physically holds 21 files, but the table
@@ -50,6 +51,19 @@ track) commonly sold alongside AutoSlide by the same door-access dealers —
 so this file is a **misfile**, not a distributor name AutoSlide itself uses.
 See [[AutoSlide]] for details, including the still-open question of whether
 either brand belongs in this wiki's stated scope at all.
+
+Note: **"Red Hawk" is not a brand name** — it's Performance Medical
+Supply's own folder name for 5 folding-power-wheelchair manuals covering
+**two unrelated Chinese manufacturers** sold under **four different
+model names** by **two different regional distributors**: Nanjing Jin
+Bai He Medical Apparatus Co., Ltd. (sold as "Air Hawk" by Gilani
+Engineering, Australia, and as "Eagle HD"/"Falcon" by Discover Your
+Mobility Inc., USA — plus possibly "Phoenix", also Discover Your
+Mobility but a different manual template with manufacturer unconfirmed)
+and Anhui JBH Medical Apparatus Company Limited (sold as "Pegasus Plus"
+— DC02 — despite no "Pegasus" branding anywhere in that manual). See
+[[Red Hawk]] for the full breakdown, including a truncated-manual
+limitation on the DC02/Pegasus Plus source.
 
 Note: Harmar's 74-file on-disk count (73 files in `MANUALS/Harmar/` after
 three ingest passes, plus the 1 misfiled Bruno-folder file already
@@ -103,6 +117,10 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 | Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower) | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
+| Air Hawk / Eagle HD — same product, dual-branded | Red Hawk | [[Air-Hawk-Eagle-HD]] |
+| Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
+| Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
+| Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
 
 ## Concepts
 
@@ -292,6 +310,19 @@ AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
 Pet Sensor Operation Instructions (physically filed under
 `MANUALS/Open Sesame/` — confirmed misfile, see [[AutoSlide]]).
 
+Red Hawk (5 of 5 ingested — fully ingested) — see `wiki/sources/Red Hawk/`:
+Air Hawk Owner's Manual, Eagle HD Owner's Manual (confirmed
+byte-for-byte-identical technical content to Air Hawk, different
+distributor), Falcon Owner's Manual (180kg variant with reclining
+backrest), Phoenix Owner's Manual (different manual template,
+manufacturer unconfirmed), Pegasus Plus Heavy Duty Manual (DC02, a
+different manufacturer entirely — Anhui JBH, not Nanjing Jin Bai He —
+and a **truncated file**: its own table of contents promises
+warranty/troubleshooting/diagnostics/wiring/EMC sections through page
+44, but the file stops at page 27 with blank trailing pages to 30; those
+sections are not documented in this wiki). See [[Red Hawk]] for the full
+multi-brand breakdown.
+
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
 except the 17 deliberately-excluded image/CSV asset files, which aren't
@@ -312,6 +343,8 @@ manuals.
 ### Harmar — fully ingested (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope question this manufacturer raised, plus a **new possible backlog category**: "Open Sesame" is a confirmed real, separate manufacturer (automatic swing-door operators) that PMS keeps a raw-source folder for, but no genuine Open Sesame manuals have been found yet — worth asking the human if any exist.
+
+### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
 ### Ramps — **new backlog category found by the 2026-09-12 lint pass, nothing ingested yet.** `MANUALS/Ramps/` (6 files, no manufacturer stub, no wiki mention anywhere before this lint) — appears to be "EZ Access"-brand modular ramps: `EZ Access Pathway-Assembly-Manual.pdf` (49pp, an install guide), `EZ Access Layout Key and Install Time.pdf` (1pp), `EZ Access parts and pieces.pdf` (1pp), `Ramps Handbook.docx`, plus two pricing sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf` — likely not technical content, similar to the sales/pricing paperwork already excluded elsewhere in the wiki). Not ingested as part of this lint pass — flagging for the human to prioritize.
 
