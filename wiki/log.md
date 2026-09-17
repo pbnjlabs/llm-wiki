@@ -638,6 +638,7 @@ file counts, 1 new model row, updated concept-table descriptions, full
 sources list, backlog section).
 
 ## [2026-09-12] lint | found an entire un-ingested manufacturer category (Ramps), fixed 7 cosmetic broken-link line-wraps
+## [2026-09-17] lint | reorganized wiki/sources/{Golden,Harmar,Pride,Prism} into product-line subdirectories, matching Bruno's existing layout (109 files moved, no content changes, no links broken — cross-references use [[wikilinks]] resolved by filename)
 
 Full lint pass against all five `/CLAUDE.md` criteria.
 
