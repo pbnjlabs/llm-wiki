@@ -639,6 +639,9 @@ sources list, backlog section).
 
 ## [2026-09-12] lint | found an entire un-ingested manufacturer category (Ramps), fixed 7 cosmetic broken-link line-wraps
 ## [2026-09-17] lint | reorganized wiki/sources/{Golden,Harmar,Pride,Prism} into product-line subdirectories, matching Bruno's existing layout (109 files moved, no content changes, no links broken — cross-references use [[wikilinks]] resolved by filename)
+## [2026-09-17] ingest | AutoSlide — Installation Manual (Standard, iLock, Elite, Elite iLock): a new manufacturer and a different product category (automatic sliding-door retrofit kit, not mobility equipment). Raw files found outside the repo at /home/lu/Work/MANUALS/{AutoSlide,Open Sesame}/ and copied into MANUALS/ preserving their original foldering (gitignored, not committed). Flagged as an open question whether this belongs in the wiki's stated scope — see [[AutoSlide]].
+## [2026-09-17] ingest | AutoSlide — RFID Pet Sensor Operation Instructions: physically filed under a mismatched MANUALS/Open Sesame/ folder despite being entirely AutoSlide-branded content; not confirmed whether misfile or a real second brand/reseller name (parallel to the pre-existing Harmar-doc-under-Bruno case). Confirms a second AutoSlide controller product name, "Multidrive," not otherwise documented.
+## [2026-09-17] lint | post-AutoSlide-ingest health check — 0 broken wikilinks (1 line-wrap fixed in AutoSlide.md), 0 orphan pages across all 195 pages, raw-vs-source file-count deltas all already explained by existing index.md notes (Ramps backlog unchanged, AutoSlide 2-for-2 exact match). No new contradictions found.
 
 Full lint pass against all five `/CLAUDE.md` criteria.
 

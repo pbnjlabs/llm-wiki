@@ -15,6 +15,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 1 | 1 |
 | Harmar | [[Harmar]] | 60 | 32 source pages (see note — several consolidate multiple low-narrative files) |
+| AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
 
 Note: Bruno's on-disk count dropped from 20 to 19 because one file
@@ -26,6 +27,17 @@ immutable. See [[Harmar]] and [[Bruno]] for details.
 Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 65 source pages. See [[Golden]] for details.
+
+Note: **AutoSlide is not mobility equipment** — it's an automatic sliding-
+door retrofit kit, a different product category from every other
+manufacturer in this wiki. Its 2 raw files were found outside this repo (at
+`/home/lu/Work/MANUALS/`, not `/home/lu/Work/llm-wiki/MANUALS/`) and copied
+in preserving their original foldering: `MANUALS/AutoSlide/` (the main
+install manual) and `MANUALS/Open Sesame/` (an RFID pet-sensor accessory
+manual that is, confusingly, entirely AutoSlide-branded — folder name
+doesn't match content, not confirmed whether this is a misfile or a real
+second brand/reseller name). See [[AutoSlide]] for the open questions this
+raised, including whether it belongs in this wiki's stated scope at all.
 
 Note: Harmar's 60-file on-disk count (59 files in `MANUALS/Harmar/` after
 two ingest passes, plus the 1 misfiled Bruno-folder file already counted
@@ -74,6 +86,7 @@ as non-manual assets. See [[Harmar]] for details.
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
 | AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 | Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
+| AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
 
 ## Concepts
 
@@ -231,6 +244,12 @@ Positioning Systems BOI.
 Prism (1 of 1 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual.
 
+AutoSlide (2 of 2 ingested — fully ingested) — see `wiki/sources/AutoSlide/`:
+AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
+Pet Sensor Operation Instructions (physically filed under the mismatched
+`MANUALS/Open Sesame/` folder — see [[AutoSlide]] for the filing-naming
+open question).
+
 **All manuals in the entire wiki are now ingested**, including both
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
 except the 7 deliberately-excluded image/CSV asset files, which aren't
@@ -247,6 +266,8 @@ manuals.
 ### Prism — fully ingested, no backlog remaining.
 
 ### Harmar — fully ingested (install manuals for Helix/SL300/SL600 closed the previous pass's backlog). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+
+### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope/filing questions this manufacturer raised.
 
 ### Ramps — **new backlog category found by the 2026-09-12 lint pass, nothing ingested yet.** `MANUALS/Ramps/` (6 files, no manufacturer stub, no wiki mention anywhere before this lint) — appears to be "EZ Access"-brand modular ramps: `EZ Access Pathway-Assembly-Manual.pdf` (49pp, an install guide), `EZ Access Layout Key and Install Time.pdf` (1pp), `EZ Access parts and pieces.pdf` (1pp), `Ramps Handbook.docx`, plus two pricing sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf` — likely not technical content, similar to the sales/pricing paperwork already excluded elsewhere in the wiki). Not ingested as part of this lint pass — flagging for the human to prioritize.
 
