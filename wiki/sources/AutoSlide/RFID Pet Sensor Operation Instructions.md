@@ -16,15 +16,17 @@ wired into the pet Sensor port on an **AutoSlide/Multidrive Controller**
 AutoSlide, distinct from the standard drive system documented in
 [[AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock)]]).
 
-**Filing note:** this document is physically located at
-`MANUALS/Open Sesame/autoslide-V2-RFID-Instructions.pdf` — the folder name
-"Open Sesame" doesn't match its content, which is entirely AutoSlide-branded
-(AutoSlide logo throughout, `autoslide.com` support contact). Likely either
-a misfile (similar to the pre-existing [[Harmar]]-doc-under-Bruno-folder
-case) or "Open Sesame" is a distributor/reseller name Performance Medical
-Supply uses for this accessory bundle — not confirmed either way. Not moved,
-per the raw-sources-are-immutable convention; flagging here for the human to
-clarify.
+**Filing note (confirmed misfile):** this document is physically located at
+`MANUALS/Open Sesame/autoslide-V2-RFID-Instructions.pdf`, but its content is
+entirely AutoSlide-branded (AutoSlide logo throughout, `autoslide.com`
+support contact). Confirmed via web search that **Open Sesame is a real,
+separate manufacturer** (Open Sesame Door Systems, Inc.,
+opensesamedoor.com — automatic swing-door operators, a different mechanism
+from AutoSlide's sliding-door retrofit track) commonly sold alongside
+AutoSlide by the same door-access dealers — not a distributor name AutoSlide
+itself uses. This file simply landed in the wrong company's raw-source
+folder, parallel to the pre-existing [[Harmar]]-doc-under-Bruno-folder case.
+Not moved, per the raw-sources-are-immutable convention.
 
 ## Covers
 

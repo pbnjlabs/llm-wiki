@@ -34,10 +34,13 @@ manufacturer in this wiki. Its 2 raw files were found outside this repo (at
 `/home/lu/Work/MANUALS/`, not `/home/lu/Work/llm-wiki/MANUALS/`) and copied
 in preserving their original foldering: `MANUALS/AutoSlide/` (the main
 install manual) and `MANUALS/Open Sesame/` (an RFID pet-sensor accessory
-manual that is, confusingly, entirely AutoSlide-branded — folder name
-doesn't match content, not confirmed whether this is a misfile or a real
-second brand/reseller name). See [[AutoSlide]] for the open questions this
-raised, including whether it belongs in this wiki's stated scope at all.
+manual that is, confusingly, entirely AutoSlide-branded). Confirmed via web
+search: **Open Sesame is a real, separate manufacturer** (automatic
+swing-door operators, a different mechanism from AutoSlide's sliding-door
+track) commonly sold alongside AutoSlide by the same door-access dealers —
+so this file is a **misfile**, not a distributor name AutoSlide itself uses.
+See [[AutoSlide]] for details, including the still-open question of whether
+either brand belongs in this wiki's stated scope at all.
 
 Note: Harmar's 60-file on-disk count (59 files in `MANUALS/Harmar/` after
 two ingest passes, plus the 1 misfiled Bruno-folder file already counted
@@ -246,9 +249,8 @@ C-450/C-625 Technical Manual.
 
 AutoSlide (2 of 2 ingested — fully ingested) — see `wiki/sources/AutoSlide/`:
 AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
-Pet Sensor Operation Instructions (physically filed under the mismatched
-`MANUALS/Open Sesame/` folder — see [[AutoSlide]] for the filing-naming
-open question).
+Pet Sensor Operation Instructions (physically filed under
+`MANUALS/Open Sesame/` — confirmed misfile, see [[AutoSlide]]).
 
 **All manuals in the entire wiki are now ingested**, including both
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
@@ -267,7 +269,7 @@ manuals.
 
 ### Harmar — fully ingested (install manuals for Helix/SL300/SL600 closed the previous pass's backlog). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
-### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope/filing questions this manufacturer raised.
+### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope question this manufacturer raised, plus a **new possible backlog category**: "Open Sesame" is a confirmed real, separate manufacturer (automatic swing-door operators) that PMS keeps a raw-source folder for, but no genuine Open Sesame manuals have been found yet — worth asking the human if any exist.
 
 ### Ramps — **new backlog category found by the 2026-09-12 lint pass, nothing ingested yet.** `MANUALS/Ramps/` (6 files, no manufacturer stub, no wiki mention anywhere before this lint) — appears to be "EZ Access"-brand modular ramps: `EZ Access Pathway-Assembly-Manual.pdf` (49pp, an install guide), `EZ Access Layout Key and Install Time.pdf` (1pp), `EZ Access parts and pieces.pdf` (1pp), `Ramps Handbook.docx`, plus two pricing sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf` — likely not technical content, similar to the sales/pricing paperwork already excluded elsewhere in the wiki). Not ingested as part of this lint pass — flagging for the human to prioritize.
 

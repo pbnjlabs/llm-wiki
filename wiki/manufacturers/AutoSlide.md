@@ -28,11 +28,11 @@ the scope described in `CLAUDE.md`'s project overview.
   modes (Auto/Stacker/Secure/Pet), width programming, rehanding, and
   troubleshooting.
 - RFID pet-door sensor accessory — see
-  [[RFID Pet Sensor Operation Instructions]], filed under a
-  **mismatched raw-source folder name**
-  (`MANUALS/Open Sesame/` — see that page's filing note). Confirms
-  AutoSlide also sells/supports a second controller product name,
-  "Multidrive," not otherwise documented in this wiki.
+  [[RFID Pet Sensor Operation Instructions]], physically filed under a
+  **misfiled raw-source folder** (`MANUALS/Open Sesame/` — confirmed
+  misfile, see below). Confirms AutoSlide also sells/supports a second
+  controller product name, "Multidrive," not otherwise documented in this
+  wiki.
 
 ## Not yet ingested / not yet on file
 
@@ -51,17 +51,34 @@ rather than a separate warranty document, unlike every other manufacturer in
 this wiki (compare [[Harmar-Warranty]], [[Golden-Scooter-Warranty]],
 [[Warranty]] for Bruno).
 
-## Open questions for the human
+## Resolved: "Open Sesame" is a real, separate manufacturer — this file is a misfile
 
-- Is "Open Sesame" a real second brand/reseller, or a misfile of an
-  AutoSlide-branded document (parallel to the pre-existing
-  [[Harmar]]-doc-under-Bruno-folder case)? Both raw folders
-  (`MANUALS/AutoSlide/`, `MANUALS/Open Sesame/`) were copied in as originally
-  named/organized outside this repo, without editorializing them into one
-  folder.
-- Does AutoSlide belong in this wiki's scope at all, given it's a home-
-  automation/automatic-door product rather than mobility equipment? Flagging
-  since `CLAUDE.md`'s project overview doesn't currently mention it.
+Confirmed via web search: **Open Sesame** (Open Sesame Door Systems, Inc.,
+opensesamedoor.com) is a genuine, independent manufacturer of automatic
+**swing-door** operators (Model 133, Keyless Entry Pad, wheelchair-logo push
+pads) — a different mechanism from AutoSlide's **sliding-door** retrofit
+track. The two brands are commonly sold *together* by residential
+door-access dealers (e.g., Next Day Access, Gentleman Door Automation),
+which is almost certainly why Performance Medical Supply keeps a raw-source
+folder for each. There is currently no genuine Open Sesame content on
+disk — the sole file in `MANUALS/Open Sesame/` is 100% AutoSlide-branded
+(RFID pet sensor manual) and simply ended up in the wrong company's folder,
+parallel to the pre-existing [[Harmar]]-doc-under-Bruno-folder case. Not
+moved, per the raw-sources-are-immutable convention.
+
+**Possible new backlog category**: since Open Sesame is a real
+accessibility-door manufacturer PMS apparently has a folder for, it may be
+worth asking the human whether real Open Sesame manuals exist elsewhere
+(not yet found in this repo or at `/home/lu/Work/MANUALS/`) — similar to how
+the Ramps manufacturer surfaced as an un-ingested category (see
+`wiki/index.md`'s Ingestion backlog).
+
+## Open question for the human
+
+Does AutoSlide (and potentially Open Sesame) belong in this wiki's scope at
+all, given both are home-automation/automatic-door products rather than
+mobility equipment? Flagging since `CLAUDE.md`'s project overview doesn't
+currently mention either.
 
 ## See also
 
