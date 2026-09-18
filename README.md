@@ -2,11 +2,13 @@ This is an LLM-Wiki for Performance Medical Supply.
 To implement install Obsidian and Claude Pro.
 
 Obsidian Set UP:
+- https://obsidian.md/
 - Create new vault
 - Vault name: LLM-Wiki
 - Location: C:\Users\[NAME]\Documents
 
 Claude Set Up: 
+- https://claude.ai
 - Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub https://github.com/pbnjlabs/llm-wiki. Save the project to Documents\LLM-Wiki."
 
 
@@ -17,7 +19,7 @@ Claude's default working directory is \Documents.
 Claude must be told to query/consult/check the Wiki at the beginning of each session in order to use the Wiki. Otherwise Claude will search the web for answers. 
 
 
-To add Source Materials drag/drop, copy/paste, or copy/past the path to the new material and tell Claude to “ingest the [source material] to the Wiki.” And then tell Claude to perform a Lint.
+To add Source Materials drag/drop, copy/paste, or copy/past the path to the new material and tell Claude to “ingest the [source material] to the Wiki.” And then tell Claude to perform a Lint. Please understand, Obsidian is a library for Claude to maintain, and the Obsidian vault should not need any human curation.
 
 
 Example prompt: "check the /path/to/source-material folder for new sources and ingesting them."
