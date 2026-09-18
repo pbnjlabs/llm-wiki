@@ -146,6 +146,23 @@ the whole `MANUALS/` tree unless explicitly asked to.
    already captured), offer to file it back into the wiki as a new or
    updated page rather than letting it disappear into chat history.
 
+### Graphics in query answers
+
+Citing the page number (e.g. "see Figure 4B on page 7") is good enough
+by default — it avoids generating extra files for every text-answerable
+question, and the human can open the source PDF themselves. Extract an
+actual image **only** when the graphic is the content and text would
+lose real information: wiring diagrams, exploded parts/BOM views,
+troubleshooting flowcharts, install-step photo sequences, etc.
+
+To extract: `pdftoppm -png -f <page> -l <page> -r 150 "<source pdf>"
+"assets/<Manufacturer>/<pdf-basename>-p<page>"` (poppler-utils, already
+installed). Save under `assets/<Manufacturer>/` — this directory is
+gitignored just like `MANUALS/`, so it never touches git; it's a local
+cache, not a wiki layer. Give the human a `file://` link to the
+extracted PNG (absolute path) alongside the usual source-PDF link and
+page citation.
+
 ### Lint
 
 When asked to health-check the wiki, look for:
