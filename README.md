@@ -7,7 +7,7 @@ Obsidian Set UP:
 - Location: C:\Users\[NAME]\Documents
 
 Claude Set Up: 
-- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub https://pbnjlabs/llm-wiki. Save the project to Documents\LLM-Wiki."
+- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub https://github.com/pbnjlabs/llm-wiki. Save the project to Documents\LLM-Wiki."
 
 
 Obsidian's vault is where all of this information will live--locally on your device.  
