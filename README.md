@@ -8,8 +8,10 @@ Obsidian Set UP:
 - Location: C:\Users\[NAME]\Documents
 
 Claude Set Up: 
+- Install Git for Windows if not already installed: https://git-scm.com/download/win
 - https://claude.ai
-- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub https://github.com/pbnjlabs/llm-wiki. Save the project to Documents\LLM-Wiki."
+- Tell Claude, "git clone https://github.com/pbnjlabs/llm-wiki.git into Documents\LLM-Wiki." It must be an actual `git clone`, not just files copied/downloaded — the automatic push-after-ingest and the sync task both need a real `.git` folder with the GitHub remote set up, or they'll have nothing to push to / pull from.
+- Confirm it worked: open a terminal in Documents\LLM-Wiki and run `git remote -v` — it should show `origin  https://github.com/pbnjlabs/llm-wiki.git`.
 
 
 Obsidian's vault is where all of this information will live--locally on your device.  
