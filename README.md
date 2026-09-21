@@ -46,13 +46,7 @@ schtasks /Create /SC MINUTE /MO 15 /TN "LLM-Wiki Sync" ^
   /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
-Mac (cron), `crontab -e` and add:
-```
-*/15 * * * * /path/to/LLM-Wiki/scripts/sync-wiki.sh
-```
 
-Linux with systemd (e.g. this machine): see `scripts/sync-wiki.sh` and set
-up a user timer calling it every 15 minutes.
 
 If the script finds local uncommitted changes it skips the pull rather
 than risk clobbering in-progress work — check `.sync.log` in the repo
