@@ -35,9 +35,8 @@ Example Prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the l
 Sync Set Up (do this once per device, after cloning the repo):
 
 This keeps the `wiki/` folder current from GitHub automatically, so you
-don't have to remember to `git pull` before asking Claude a question. It
-does NOT sync `MANUALS/` (the raw PDFs are gitignored — ingest those
-locally on whichever device you're adding sources from).
+don't have to remember to `git pull` before asking Claude a question.
+
 
 Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
 your clone location:
