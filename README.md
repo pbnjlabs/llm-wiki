@@ -32,4 +32,30 @@ Example Prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the l
 
 
 
+Sync Set Up (do this once per device, after cloning the repo):
+
+This keeps the `wiki/` folder current from GitHub automatically, so you
+don't have to remember to `git pull` before asking Claude a question. It
+does NOT sync `MANUALS/` (the raw PDFs are gitignored — ingest those
+locally on whichever device you're adding sources from).
+
+Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
+your clone location:
+```
+schtasks /Create /SC MINUTE /MO 15 /TN "LLM-Wiki Sync" ^
+  /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
+```
+
+Mac (cron), `crontab -e` and add:
+```
+*/15 * * * * /path/to/LLM-Wiki/scripts/sync-wiki.sh
+```
+
+Linux with systemd (e.g. this machine): see `scripts/sync-wiki.sh` and set
+up a user timer calling it every 15 minutes.
+
+If the script finds local uncommitted changes it skips the pull rather
+than risk clobbering in-progress work — check `.sync.log` in the repo
+root if the wiki ever seems stale.
+
 Contact: Lucas@PerformanceMedicalSupply.com 
