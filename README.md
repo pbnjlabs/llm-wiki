@@ -20,9 +20,17 @@ don't have to remember to `git pull` before asking Claude a question.
 
 
 Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
-your clone location:
+your clone location. Runs once a day at 8:30am:
 ```
-schtasks /Create /SC MINUTE /MO 15 /TN "LLM-Wiki Sync" ^
+schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
+  /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
+```
+
+If a device already has the task registered on the old every-15-minutes
+schedule, replace it (schtasks can't change the schedule type in place):
+```
+schtasks /Delete /TN "LLM-Wiki Sync" /F
+schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
   /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
