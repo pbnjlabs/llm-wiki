@@ -26,14 +26,6 @@ schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
   /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
-If a device already has the task registered on the old every-15-minutes
-schedule, replace it (schtasks can't change the schedule type in place):
-```
-schtasks /Delete /TN "LLM-Wiki Sync" /F
-schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
-  /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
-```
-
 
 
 If the script finds local uncommitted changes it skips the pull rather
