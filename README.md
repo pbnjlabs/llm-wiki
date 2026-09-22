@@ -48,8 +48,7 @@ winget install --id Git.Git -e --source winget
 - Confirm it worked: open a terminal in Documents\LLM-Wiki and run `git remote -v` — it should show `origin  https://github.com/pbnjlabs/llm-wiki.git`.
 - Then follow Sync Set Up below.
 
-Sync Set Up (Option B only — skip this if you went with Option A above.
-Do this once per device, after cloning the repo):
+Sync Set Up (Do this once per device, after cloning the repo):
 
 This keeps the `wiki/` folder current from GitHub automatically, so you
 don't have to remember to `git pull` before asking Claude a question.
