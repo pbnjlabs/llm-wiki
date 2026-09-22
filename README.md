@@ -33,7 +33,7 @@ than risk clobbering in-progress work — check `.sync.log` in the repo
 root if the wiki ever seems stale.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 Obsidian's vault is where all of this information will live--locally on your device.  
 Claude's default working directory is \Documents.  
 
