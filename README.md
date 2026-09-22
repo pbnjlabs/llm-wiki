@@ -93,4 +93,6 @@ Example Prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the l
 Sources: https://git-scm.com/install/windows (Windows Git install), 
          https://learn.microsoft.com/en-us/windows/package-manager/winget/ (Winget install), 
          https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f (LLM-Wiki, Kaparthy)
+
+
 Contact: Lucas@PerformanceMedicalSupply.com 
