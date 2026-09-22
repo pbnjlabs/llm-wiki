@@ -7,8 +7,24 @@ Obsidian Set UP:
 - Vault name: LLM-Wiki
 - Location: C:\Users\[NAME]\Documents
 
+WinGet Set Up (do this first, once per device — skip if `winget` already
+works in a terminal). From an elevated PowerShell:
+```
+$progressPreference = 'silentlyContinue'
+Write-Host "Installing WinGet PowerShell module from PSGallery..."
+Install-PackageProvider -Name NuGet -Force | Out-Null
+Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+Repair-WinGetPackageManager -AllUsers
+Write-Host "Done."
+```
+
+Then install Git non-interactively (no manual download):
+```
+winget install --id Git.Git -e --source winget
+```
+
 Claude Set Up: 
-- Install Git for Windows if not already installed: https://git-scm.com/download/win
 - https://claude.ai
 - Tell Claude, "git clone https://github.com/pbnjlabs/llm-wiki.git into Documents\LLM-Wiki." It must be an actual `git clone`, not just files copied/downloaded — the automatic push-after-ingest and the sync task both need a real `.git` folder with the GitHub remote set up, or they'll have nothing to push to / pull from.
 - Confirm it worked: open a terminal in Documents\LLM-Wiki and run `git remote -v` — it should show `origin  https://github.com/pbnjlabs/llm-wiki.git`.
