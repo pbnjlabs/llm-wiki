@@ -7,6 +7,24 @@ Obsidian Set UP:
 - Vault name: LLM-Wiki
 - Location: C:\Users\[NAME]\Documents
 
+Claude Set Up: 
+- https://claude.ai
+- Pick one of the two options below depending on whether you want this
+  device to stay updated automatically or not.
+
+Option A — one-time download, no auto-sync (simplest; fine for a device
+that only needs a snapshot and won't be kept current):
+- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub
+  https://github.com/pbnjlabs/llm-wiki. Save the project to
+  Documents\LLM-Wiki."
+- This device's copy is a one-time download. If the wiki changes later
+  (new manuals ingested, pages updated), it will NOT pick those changes
+  up on its own — you'd need to redo this step to refresh it.
+
+
+Option B — git clone with auto-sync (recommended if this device should
+always have the latest wiki):
+
 WinGet Set Up (do this first, once per device — skip if `winget` already
 works in a terminal). From an elevated PowerShell:
 ```
@@ -24,22 +42,8 @@ Then install Git non-interactively (no manual download):
 winget install --id Git.Git -e --source winget
 ```
 
-Claude Set Up: 
-- https://claude.ai
-- Pick one of the two options below depending on whether you want this
-  device to stay updated automatically or not.
 
-Option A — one-time download, no auto-sync (simplest; fine for a device
-that only needs a snapshot and won't be kept current):
-- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub
-  https://github.com/pbnjlabs/llm-wiki. Save the project to
-  Documents\LLM-Wiki."
-- This device's copy is a one-time download. If the wiki changes later
-  (new manuals ingested, pages updated), it will NOT pick those changes
-  up on its own — you'd need to redo this step to refresh it.
 
-Option B — git clone with auto-sync (recommended if this device should
-always have the latest wiki):
 - Tell Claude, "git clone https://github.com/pbnjlabs/llm-wiki.git into Documents\LLM-Wiki." It must be an actual `git clone`, not just files copied/downloaded — the automatic push-after-ingest and the sync task both need a real `.git` folder with the GitHub remote set up, or they'll have nothing to push to / pull from.
 - Confirm it worked: open a terminal in Documents\LLM-Wiki and run `git remote -v` — it should show `origin  https://github.com/pbnjlabs/llm-wiki.git`.
 - Then follow Sync Set Up below.
