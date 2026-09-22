@@ -135,13 +135,19 @@ the whole `MANUALS/` tree unless explicitly asked to.
    PDFs directly unless the wiki doesn't yet cover the answer.
 2. Drill into the relevant `models/`/`concepts/`/`sources/` pages.
 3. Answer with citations back to the specific manual (path + section/page
-   if known), **and include a link to the raw source PDF** — the
-   `source:` field on the relevant `sources/` page gives the path
-   relative to the repo root; since `MANUALS/` is gitignored (no GitHub
-   URL exists), format it as a `file://` link using the absolute path
-   (e.g. `file:///home/lu/Work/llm-wiki/MANUALS/Bruno/...pdf`) alongside
-   the relative path for reference. Link every manual an answer draws on
-   if it synthesizes more than one.
+   if known). The `source:` field on the relevant `sources/` page gives
+   the path relative to the repo root — `MANUALS/` is gitignored and
+   **local to each device** (not synced by git or the sync task), so
+   before offering a link, check the file actually exists on disk here
+   (e.g. `ls` the resolved path). If it exists, include a `file://` link
+   using this device's absolute path (e.g.
+   `file:///home/lu/Work/llm-wiki/MANUALS/Bruno/...pdf`) alongside the
+   relative path for reference. If it does **not** exist locally, say so
+   plainly instead of printing a link — e.g. "source PDF not cached on
+   this device; relative path: `MANUALS/Bruno/...pdf`" — never emit a
+   `file://` link you haven't confirmed resolves on this machine. Link
+   every manual an answer draws on if it synthesizes more than one,
+   applying this check to each.
 4. If the answer is worth keeping (a synthesis, comparison, or something not
    already captured), offer to file it back into the wiki as a new or
    updated page rather than letting it disappear into chat history.
