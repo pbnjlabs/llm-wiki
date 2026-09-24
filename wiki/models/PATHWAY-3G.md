@@ -13,21 +13,18 @@ layouts to reach high porches and entries. PMS treats it as permanent,
 and every run is built at **1:12 (4.8°)** (see [[Ramp-Slope-and-Length]]).
 For the commercial counterpart, see [[PATHWAY-HD]].
 
-## Generation note: check before quoting specs
+## Naming and capacity
 
-The only manual on file is the **2015 "Pathway®" Assembly Manual**
-([[Pathway Modular Access System Assembly Manual]], rev 05-12-15). It
-never says "3G". The web articles (2021–2026) all say "PATHWAY 3G", so
-the manual most likely documents the earlier generation. Where they
-differ:
+**"PATHWAY" and "PATHWAY 3G" are the same product** for PMS (confirmed
+by the human, 2026-09-24). The 2015 "Pathway®" Assembly Manual
+([[Pathway Modular Access System Assembly Manual]]) is therefore the
+install manual for this system.
 
-| Spec | 2015 Pathway manual | PATHWAY 3G articles |
-|---|---|---|
-| Weight capacity | **850 lb**, residential use only | 1,000 lb ([[Different Types of Threshold Ramps]], 2021) |
-
-The parts sheet [[EZ Access Parts and Pieces]] (2018, origin unknown)
-also says **850 lb**. Use the manual for assembly procedures and quote
-**850 lb** unless a 3G spec sheet says otherwise.
+**Capacity: 850 lb, residential use only.** Both the manual and
+[[EZ Access Parts and Pieces]] (2018) give that figure. A 2021 blog
+article ([[Different Types of Threshold Ramps]]) says "1,000 lb" for
+EZ-ACCESS modular ramps. The manual outranks the blog, so the wiki
+quotes 850 lb.
 
 ## Sizes and catalog ([[EZ Access Parts and Pieces]], 2018)
 
@@ -250,7 +247,7 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
 ## Documents
 
 - [[Pathway Modular Access System Assembly Manual]]: install manual
-  (2015, "Pathway", pre-3G branding)
+  (2015; "Pathway" and "3G" are the same product)
 - [[Configuration Factors for Residential Ramp Systems]]: web article
 - [[Securing PATHWAY 3G Before a Storm]]: web article
 - [[Ramps Handbook]]: PMS in-house evaluation and design training

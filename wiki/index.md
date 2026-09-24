@@ -135,7 +135,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | TRANSITIONS threshold plates/ramps/mats (5 products, full size tables) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
-| PATHWAY 3G residential modular ramp system (only manual on file is the 2015 "Pathway" edition: 850 lb, probably pre-3G) | EZ-ACCESS | [[PATHWAY-3G]] |
+| PATHWAY 3G residential modular ramp system ("Pathway" and "3G" are the same product; 850 lb per its 2015 manual) | EZ-ACCESS | [[PATHWAY-3G]] |
 | PATHWAY HD commercial modular ramps and platforms | EZ-ACCESS | [[PATHWAY-HD]] |
 
 ## Concepts
@@ -390,7 +390,7 @@ manuals.
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
-### EZ-ACCESS — fully ingested, no technical backlog. `Ramps Handbook.docx` (PMS in-house training) was the last file (2026-09-24). **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Open items for the human: (1) is there a PATHWAY **3G** manual? (850 lb in the 2015 manual and 2018 sheet vs. 1,000 lb in 3G articles); (2) the Ramps Handbook's 28.5 in → 28 ft example is wrong: **confirmed as 29 ft** (round up). The docx itself still says 28 ft.
+### EZ-ACCESS — fully ingested, no technical backlog. `Ramps Handbook.docx` (PMS in-house training) was the last file (2026-09-24). **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Resolved: "Pathway" = PATHWAY 3G, so the 2015 manual applies and capacity is 850 lb. Also noted: the Ramps Handbook's 28.5 in → 28 ft example is wrong: **confirmed as 29 ft** (round up). The docx itself still says 28 ft.
 
 ## How to use this wiki
 

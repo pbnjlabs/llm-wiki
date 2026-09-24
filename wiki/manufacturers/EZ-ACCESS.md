@@ -34,17 +34,16 @@ Ingested so far:
 - **Two reference sheets of unknown origin** (not PMS documents): [[EZ Access Parts and Pieces]]
   (2018) and [[EZ Access Layout Key and Install Time]] (2019).
 - **One manual**: the [[Pathway Modular Access System Assembly Manual]]
-  (2015). It is branded "Pathway", not "3G", so it probably covers the
-  previous generation. See the generation note on [[PATHWAY-3G]].
+  (2015). It is branded "Pathway"; PMS treats that as the same
+  product as PATHWAY 3G.
 - **11 web clippings of EZ-ACCESS blog articles** (2021–2026, in
   `MANUALS/Clippings/`).
 
 The articles are marketing and consumer guidance, not manuals, so:
 
 - They carry less weight than the manual, which wins wherever the two
-  disagree. The exception is when they describe a different product
-  generation (e.g. PATHWAY capacity: 850 lb in the 2015 manual vs.
-  1,000 lb in a 2021 article).
+  disagree. For example, PATHWAY capacity is 850 lb in the manual
+  vs. 1,000 lb in a 2021 article; the wiki uses 850 lb.
 - They sometimes contradict each other, and some suggest slopes
   steeper than 1:12. **The wiki standard is 1:12 only (4.8°)**, which
   overrides the articles: see [[Ramp-Slope-and-Length]].

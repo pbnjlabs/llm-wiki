@@ -83,8 +83,8 @@ on this page supplements it.
 - **Width**: size it to the device *plus a helper*. EZ-ACCESS
   residential ramps are 36 in or 48 in.
 - **Weight capacity**: user, device and helper together. TRANSITIONS
-  products are rated 700 lb. PATHWAY is **850 lb** per the 2015 manual
-  (1,000 lb per a 2021 article for 3G; see [[PATHWAY-3G]]).
+  products are rated 700 lb. PATHWAY 3G is **850 lb** per its manual
+  (a 2021 blog's "1,000 lb" is overridden; see [[PATHWAY-3G]]).
 - **Height and bracing (PATHWAY)**: a walking surface over 36 in high
   needs angle braces; 72 in or more also needs cross braces. On soft
   soil, set the feet on concrete pads.

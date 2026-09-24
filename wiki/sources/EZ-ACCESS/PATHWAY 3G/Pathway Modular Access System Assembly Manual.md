@@ -12,9 +12,9 @@ tags: [ez-access, pathway, modular-ramp, install, tie-down, maintenance]
 
 49-page EZ-ACCESS installer's manual (P/N 10565, rev 05-12-15). It is
 the first real manual in the EZ-ACCESS set; everything ingested before
-it was blog articles. Branded **"Pathway®"** without "3G". See the
-generation note on [[PATHWAY-3G]] before assuming it describes current
-3G hardware.
+it was blog articles. Branded **"Pathway®"** without "3G", but PMS
+treats Pathway and PATHWAY 3G as the same product, so this is the
+PATHWAY 3G install manual.
 
 Front-page rules: **residential use only**, **850 lb capacity**, two
 installers, leave the manual with the end user, and register the
