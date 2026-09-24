@@ -40,7 +40,9 @@ site-survey checklist.
 - **Run space**: yard, driveway, walkway and landscaping. Use existing
   grade to shorten the ramp.
 - **Shape**: straight, L, U or switchback to fit the space.
-- **Landings**: top, bottom, every turn, and no more than ~30 ft apart.
+- **Landings**: top, bottom, every turn, and at most 30 in of rise per
+  run (30 ft at 1:12). Turning landings must be at least 60 × 60 in
+  (see [[ADA-Ramp-Requirements]]).
   A top platform gives a flush transition at the door. Check **door
   swing** and threshold height at the top.
 - **Entry door transition (field note from PMS).** At the door, the
@@ -51,18 +53,30 @@ site-survey checklist.
 - **Width**: size it to the device *plus a helper*. EZ-ACCESS
   residential ramps are 36 in or 48 in.
 - **Weight capacity**: user, device and helper together. TRANSITIONS
-  products are rated 700 lb and modular ramps 1,000 lb.
+  products are rated 700 lb. PATHWAY is **850 lb** per the 2015 manual
+  (1,000 lb per a 2021 article for 3G; see [[PATHWAY-3G]]).
+- **Height and bracing (PATHWAY)**: a walking surface over 36 in high
+  needs angle braces; 72 in or more also needs cross braces. On soft
+  soil, set the feet on concrete pads.
+- **Gaps at the top**: a platform can join a porch with tie straps
+  (½ in max gap for ADA). Gaps up to 6 in take a flat bridge plate.
+  Ramps angled to the porch edge are limited to about 4° (upper
+  transition) or 8° (lower transition + support top) in plan view.
+- **Underground utilities**: locate them before driving tie-down augers
+  or a ground rod.
 - **Headroom and obstructions**: awnings, AC units, window boxes.
 - **Route**: to the driveway or parking, not just to the door.
-- **Handrails**: include pickets if needed. Consider side stairs for
+- **Handrails**: on both sides when the rise is over 6 in, 34–38 in
+  high (ADA figures). Include pickets if needed. Consider side stairs for
   other household members.
 - **Traction**: slip resistance matters for braking in the wet.
 
 ## 4. Install and verify ([[How to Measure and Install a Ramp]])
 
 - Portable: place and secure. Threshold: tight against the sill, no
-  gap. Modular: follow the manufacturer's assembly manual and anchor
-  every section. Vehicle: attach securely.
+  gap. Modular: follow the [[Pathway Modular Access System Assembly Manual]]
+  (see the install essentials on [[PATHWAY-3G]]) and anchor the top
+  transition. Vehicle: attach securely.
 - In storm-prone areas, add **tie-downs** to modular systems (see
   [[PATHWAY-3G]]).
 - Test for stability, slip resistance, railings, and smooth transitions

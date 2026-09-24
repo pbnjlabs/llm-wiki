@@ -97,6 +97,14 @@ forcing them into a product-line folder they don't belong in.
   and part-number naming as closely as practical (e.g. `SRE-3050.md`, not
   `Bruno Stair Lift 3050.md`) so cross-referencing stays mechanical.
 
+### Standards documents
+
+Codes and standards that aren't from a manufacturer (e.g. the U.S.
+Access Board ADA guide) get source pages under
+`sources/Standards/<Standard>/`, with `manufacturer:` set to the issuing
+body. They don't get a manufacturer page. They outrank manufacturer
+summaries of the same rules, but not a PMS house standard.
+
 ### Web clippings
 
 The human sometimes saves manufacturer web pages with Obsidian Web

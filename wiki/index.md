@@ -18,7 +18,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 6 files + 11 web clippings | 11 web clippings ingested; the 6 `MANUALS/Ramps/` files are still backlog. Blog articles only so far, so they carry less weight than a manual (see Ingestion backlog below) |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 7 files in `MANUALS/Ramps/` + 11 web clippings | 13: the Pathway Assembly Manual (2015), the U.S. Access Board ADA guide (a standards document, filed under `sources/Standards/`) and 11 web clippings. 5 `MANUALS/Ramps/` files are still backlog (see below) |
 
 Note: `MANUALS/Bruno/` physically holds 21 files, but the table
 attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
@@ -135,7 +135,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | TRANSITIONS threshold plates/ramps/mats (5 products, full size tables) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
-| PATHWAY 3G residential modular ramp system | EZ-ACCESS | [[PATHWAY-3G]] |
+| PATHWAY 3G residential modular ramp system (only manual on file is the 2015 "Pathway" edition: 850 lb, probably pre-3G) | EZ-ACCESS | [[PATHWAY-3G]] |
 | PATHWAY HD commercial modular ramps and platforms | EZ-ACCESS | [[PATHWAY-HD]] |
 
 ## Concepts
@@ -170,7 +170,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
-| ADA ramp requirements (vendor summary: slope, width, landings; ADA applies to homes only as a benchmark) | [[ADA-Ramp-Requirements]] |
+| ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
 | Ramp site planning (CSR intake questions, ramp class picker, site-survey checklist incl. the door-transition leveling-feet note, install/test) | [[Ramp-Site-Planning]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
@@ -350,7 +350,7 @@ warranty/troubleshooting/diagnostics/wiring/EMC sections through page
 sections are not documented in this wiki). See [[Red Hawk]] for the full
 multi-brand breakdown.
 
-EZ-ACCESS (11 web clippings ingested; 6 `MANUALS/Ramps/` files still backlog), see `wiki/sources/EZ-ACCESS/`. These are EZ-ACCESS
+EZ-ACCESS (manual + 11 web clippings ingested; 5 `MANUALS/Ramps/` files still backlog), see `wiki/sources/EZ-ACCESS/`. Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Web clippings: these are EZ-ACCESS
 blog articles saved with Obsidian Web Clipper, copied from the vault's
 `Clippings/` folder to `MANUALS/Clippings/`. doc_type: Web Article.
 General: How Long Should a Wheelchair Ramp Be, Wheelchair Ramp Slope
@@ -360,6 +360,11 @@ Where Do I Begin. PATHWAY 3G: Configuration Factors for Residential Ramp
 Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
+
+Standards (1 of 1 ingested), see `wiki/sources/Standards/ADA/`: ADA
+Technical Guide - Ramps and Curb Ramps (U.S. Access Board, July 2015;
+raw file `MANUALS/Ramps/ADA_Rules_ramps.pdf`). This is the
+authoritative ADA reference behind [[ADA-Ramp-Requirements]].
 
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
@@ -384,7 +389,7 @@ manuals.
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
-### EZ-ACCESS (`MANUALS/Ramps/`): partly ingested. The manufacturer page [[EZ-ACCESS]] was created on 2026-09-24 from 11 web clippings (blog articles). The 6 `MANUALS/Ramps/` files are **still not ingested**: `EZ Access Pathway-Assembly-Manual.pdf` (49 pp, the authoritative [[PATHWAY-3G]] install reference; ingest this next), `EZ Access Layout Key and Install Time.pdf` (1 pp; may explain the odd rise-to-length table values flagged on [[Ramp-Slope-and-Length]]), `EZ Access parts and pieces.pdf` (1 pp), and `Ramps Handbook.docx`, plus two pay-scale sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf`, probably pricing rather than technical content).
+### EZ-ACCESS (`MANUALS/Ramps/`): partly ingested. Done: 11 web clippings (2026-09-24), the `EZ Access Pathway-Assembly-Manual.pdf` (2026-09-24) and `ADA_Rules_ramps.pdf` (a U.S. Access Board guide, copied in from the out-of-repo `/home/lu/Work/MANUALS/Ramps/` drop; see Standards below). **Still not ingested**: `EZ Access Layout Key and Install Time.pdf` (1 pp; may explain the odd rise-to-length values flagged on [[Ramp-Slope-and-Length]]), `EZ Access parts and pieces.pdf` (1 pp), `Ramps Handbook.docx`, and two pay-scale sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf`, probably pricing rather than technical content). Open question for the human: is there a PATHWAY **3G** manual? The one on file is the 2015 "Pathway" edition (850 lb vs. 1,000 lb in 3G articles).
 
 ## How to use this wiki
 

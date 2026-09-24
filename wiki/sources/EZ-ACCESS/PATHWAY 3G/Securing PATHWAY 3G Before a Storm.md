@@ -21,7 +21,8 @@ clipping's title is truncated to "...Befo").
   wind and become hazards.
 - **Tie-down kits**: auger-style ground anchors + wire rope + attachment
   hardware. Placement and usage are deferred to the product manual — no
-  specifics in this article.
+  specifics in this article. The manual's full tie-down procedure is
+  now on [[PATHWAY-3G]] (from [[Pathway Modular Access System Assembly Manual]] §6.9).
 - Maintenance: inspect tie-downs regularly for fraying or loose
   connections, replace damaged ones, re-tighten periodically and after
   every severe weather event.

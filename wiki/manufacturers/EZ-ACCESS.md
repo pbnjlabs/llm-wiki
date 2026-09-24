@@ -6,7 +6,7 @@ tags: [manufacturer, ramp, accessibility]
 
 # EZ-ACCESS
 
-US maker of aluminum accessibility ramps, threshold ramps and modular
+A division of Homecare Products, Inc.; US maker of aluminum accessibility ramps, threshold ramps and modular
 platforms (ezaccess.com; customer service **1-800-451-1903**). The
 `MANUALS/Ramps/` folder holds EZ-ACCESS material ("EZ Access" in its
 filenames), so this page is its manufacturer page.
@@ -26,13 +26,20 @@ Those are out of scope for this wiki and not documented here.
 
 ## Source material and its authority
 
-Everything ingested so far is **web clippings of EZ-ACCESS blog
-articles** (11 articles, 2021–2026, in `MANUALS/Clippings/`). They are
-marketing and consumer guidance, not manuals, so:
+Ingested so far:
 
-- They carry less weight than any manual. Once the PATHWAY assembly
-  manual in `MANUALS/Ramps/` is ingested, it wins wherever the two
-  disagree.
+- **One manual**: the [[Pathway Modular Access System Assembly Manual]]
+  (2015). It is branded "Pathway", not "3G", so it probably covers the
+  previous generation. See the generation note on [[PATHWAY-3G]].
+- **11 web clippings of EZ-ACCESS blog articles** (2021–2026, in
+  `MANUALS/Clippings/`).
+
+The articles are marketing and consumer guidance, not manuals, so:
+
+- They carry less weight than the manual, which wins wherever the two
+  disagree. The exception is when they describe a different product
+  generation (e.g. PATHWAY capacity: 850 lb in the 2015 manual vs.
+  1,000 lb in a 2021 article).
 - They sometimes contradict each other, and some suggest slopes
   steeper than 1:12. **The wiki standard is 1:12 only (4.8°)**, which
   overrides the articles: see [[Ramp-Slope-and-Length]].
@@ -42,6 +49,10 @@ marketing and consumer guidance, not manuals, so:
 Sources are filed under `wiki/sources/EZ-ACCESS/`, with product-line
 folders TRANSITIONS, Portable Ramps (SUITCASE and GATEWAY), PATHWAY 3G
 and PATHWAY HD. Cross-cutting planning and ADA articles go in General.
+
+Lifetime warranty on PATHWAY (register at ezaccess.com/warranty-satisfaction)
+and on the TRANSITIONS Angled Entry Ramp. The warranty terms for other
+lines aren't on file.
 
 ## Cross-cutting topics
 
@@ -54,7 +65,6 @@ and PATHWAY HD. Cross-cutting planning and ADA articles go in General.
 
 ## Not yet ingested
 
-`MANUALS/Ramps/`: the 49-page Pathway Assembly Manual, the Layout Key
-and Install Time sheet, the parts-and-pieces sheet, the Ramps Handbook
+`MANUALS/Ramps/`: the Layout Key and Install Time sheet, the parts-and-pieces sheet, the Ramps Handbook
 (.docx), and two pay-scale sheets (probably pricing, not technical).
 See the backlog in `index.md`.

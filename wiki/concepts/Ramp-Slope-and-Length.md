@@ -34,6 +34,9 @@ standard above, which comes from Performance Medical Supply.
    ramp shorter and steeper to fit.**
 4. **Verify the installed ramp with an angle meter.** Each ramp run
    should read **4.8°**. A higher reading means the run is too steep.
+   Keep the run uniform, with no grade breaks inside a run, and a cross
+   slope of 1:48 max (ADA). The PATHWAY manual's final checks include
+   re-checking level and slope after assembly.
 
 Step examples at ~7 in per step: 2 steps need ~14 ft, 3 need ~21 ft,
 4 need ~28 ft, and 5 need ~35 ft. At that height, landings are needed
@@ -47,7 +50,7 @@ Step examples at ~7 in per step: 2 steps need ~14 ft, 3 need ~21 ft,
 | 12 in | 12 ft |
 | 18 in | 18 ft |
 | 24 in | 24 ft |
-| 30 in | 30 ft (maximum rise before a landing is required) |
+| 30 in | 30 ft (ADA max rise per run; a landing is required after this) |
 | 36 in | 36 ft (needs at least one intermediate landing) |
 
 1:12 = 8.3 % grade = **4.8°**.
@@ -66,6 +69,11 @@ go steeper than the wiki standard:
 - [[Configuration Factors for Residential Ramp Systems]] recommends no
   steeper than 1:12. It also offers 1:15–1:20 as easier options for
   users with limited stamina.
+
+The ADA Standards themselves allow 1:10 (6 in max rise) and 1:8 (3 in
+max rise) in space-limited alterations
+([[ADA Technical Guide - Ramps and Curb Ramps]]). PMS does not use
+these exceptions either.
 
 **Treat all of these as superseded by the 1:12 standard.** If a customer
 quotes the EZ-ACCESS website to argue for a steeper, shorter ramp, the
@@ -127,9 +135,10 @@ don't follow 1 in = 1 ft:
 The fractional values are ¼–¾ in *below* the simple rule. They most
 likely come from real PATHWAY section-length and transition-plate
 geometry, which the articles don't explain. The wiki's working rule
-stays 1 in of rise = 1 ft of run, verified at 4.8° on an angle meter. For an actual PATHWAY layout, use the EZ-ACCESS layout key
-or assembly manual (in the `MANUALS/Ramps/` backlog) or the online
-Incline Calculator (ezaccess.com/pages/incline-calculator).
+stays 1 in of rise = 1 ft of run, verified at 4.8° on an angle meter.
+The [[Pathway Modular Access System Assembly Manual]] doesn't explain the
+odd values either, because it has no layout tables. The Layout Key
+sheet, still in the `MANUALS/Ramps/` backlog, is the next place to look.
 
 ## Related
 
