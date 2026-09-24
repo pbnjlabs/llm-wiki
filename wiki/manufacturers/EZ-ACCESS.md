@@ -28,6 +28,8 @@ Those are out of scope for this wiki and not documented here.
 
 Ingested so far:
 
+- **Two PMS/dealer reference sheets**: [[EZ Access Parts and Pieces]]
+  (2018) and [[EZ Access Layout Key and Install Time]] (2019).
 - **One manual**: the [[Pathway Modular Access System Assembly Manual]]
   (2015). It is branded "Pathway", not "3G", so it probably covers the
   previous generation. See the generation note on [[PATHWAY-3G]].
@@ -65,6 +67,7 @@ lines aren't on file.
 
 ## Not yet ingested
 
-`MANUALS/Ramps/`: the Layout Key and Install Time sheet, the parts-and-pieces sheet, the Ramps Handbook
-(.docx), and two pay-scale sheets (probably pricing, not technical).
-See the backlog in `index.md`.
+`MANUALS/Ramps/Ramps Handbook.docx`. The two pay-scale sheets (`EZ Pay
+Scale 2023.pdf`, `Generic EZ Pay Scale.pdf`) are **deliberately
+skipped** as pricing/pay content, per the human (2026-09-24). See the
+backlog in `index.md`.

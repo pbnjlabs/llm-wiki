@@ -137,8 +137,11 @@ likely come from real PATHWAY section-length and transition-plate
 geometry, which the articles don't explain. The wiki's working rule
 stays 1 in of rise = 1 ft of run, verified at 4.8° on an angle meter.
 The [[Pathway Modular Access System Assembly Manual]] doesn't explain the
-odd values either, because it has no layout tables. The Layout Key
-sheet, still in the `MANUALS/Ramps/` backlog, is the next place to look.
+odd values either, because it has no layout tables, and neither does
+the [[EZ Access Layout Key and Install Time]] sheet. Consider this
+unexplained. Ramp sections come in 2–8 ft lengths
+([[EZ Access Parts and Pieces]]), so a run at 1:12 is built from
+whole-foot sections that add up to the rise in inches.
 
 ## Related
 

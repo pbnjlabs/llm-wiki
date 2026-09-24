@@ -50,6 +50,9 @@ site-survey checklist.
   sometimes be removed to get the right height. Some entryways still
   won't sit flush with the transition, so check this on the site visit
   instead of assuming a flush fit.
+- **Footprint width**: a 36 in PATHWAY ramp is **44 in wide at the
+  feet** (37 in deck, 40-5/8 in handrails). Measure side clearance
+  against 44 in, not 36 in. See [[PATHWAY-3G]].
 - **Width**: size it to the device *plus a helper*. EZ-ACCESS
   residential ramps are 36 in or 48 in.
 - **Weight capacity**: user, device and helper together. TRANSITIONS
@@ -82,6 +85,11 @@ site-survey checklist.
 - Test for stability, slip resistance, railings, and smooth transitions
   top and bottom. Check each run reads **4.8°** on an angle meter,
   then **do a test run with the user's actual device**.
+
+## Labor estimate
+
+Add up per-component install times from [[Ramp-Install-Time-Estimates]].
+Modifications need prior authorization.
 
 ## Common mistakes
 

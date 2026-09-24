@@ -723,3 +723,18 @@ Clarification from the human: the GATEWAY 3G is long-term. It can technically be
 - **ADA guide**: `ADA_Rules_ramps.pdf` was not in the repo's `MANUALS/Ramps/`. It was copied in from the out-of-repo `/home/lu/Work/MANUALS/Ramps/` drop. It is a U.S. Access Board document, not EZ-ACCESS, so it is filed under a new `sources/Standards/ADA/` convention (added to CLAUDE.md). Handrail dimensions were read from the drawings on pp. 5–6.
 - Rewrote [[ADA-Ramp-Requirements]] from the guide: §-referenced slope, width, landing, handrail, edge-protection and curb-ramp rules; the "all required ramps must be permanent" rule (consistent with PMS's GATEWAY/PATHWAY classification); and three corrections to the EZ-ACCESS blog summary. Noted that ADA's 1:10/1:8 alteration exceptions are overridden by the house 1:12 standard.
 - Also updated [[Ramp-Slope-and-Length]], [[Ramp-Site-Planning]], [[EZ-ACCESS]], [[Securing PATHWAY 3G Before a Storm]] and index.md.
+## [2026-09-24] ingest | EZ-ACCESS — Parts and Pieces sheet (2018-09-12) and Layout Key and Install Time sheet (rev 2019-07-10)
+Two one-page Visio sheets, read from rendered images because their extracted text was scrambled. Neither names an author; the part nicknames ("Moo-Abs", "Muck-Bee", "Mr. Heeber") and the install-time/prior-authorization content suggest internal PMS/dealer references. Both are filed under `sources/EZ-ACCESS/General/`.
+- New concept page [[Ramp-Install-Time-Estimates]]: per-component labor minutes, with a worked example.
+- [[PATHWAY-3G]] gained the full size catalog:
+  - ramp sections 2–8 ft (bariatric 48 in only 2–6 ft)
+  - width stack-up, 36 in usable to **44 in at the feet**
+  - standard and low-profile platform part numbers; custom platforms max 5×5
+  - MSTS support-tube lengths and the low-profile foot (rises under 6.5 in)
+  - transition depths: MRUT 4, MRLT 6, MRGT 12 in
+  - bracing counts, connector and nickname table (MRHRL end loop 12 in, matching the ADA extension)
+- **850 lb capacity** is corroborated by the 2018 sheet, now the stated working figure.
+- [[TRANSITIONS-Threshold-Ramps]]: TAER12/24/36 PMS working ranges (1.5–2, 2.25–3.5, 3.5–4.5 in) are narrower than the 2021 blog ranges; the PMS ranges were adopted. Added TAEM/TMEM part numbers and RT heights.
+- [[SUITCASE-Ramps]]: 29.5 in width, weights by length, TLE lip 3 → 9 in.
+- The odd blog rise-to-length values remain unexplained (the Layout Key doesn't cover them); that lead is closed.
+- Pay-scale sheets skipped per the human.

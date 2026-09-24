@@ -8,9 +8,10 @@ tags: [ez-access, threshold-ramp, transitions]
 # TRANSITIONS Threshold Ramps
 
 EZ-ACCESS's threshold line for small rises at doorways, sliding-door
-tracks and single low steps. Five products. All specs below come from a
-**2021 web article** ([[Different Types of Threshold Ramps]]), not a spec
-sheet, so confirm against the current catalog before quoting.
+tracks and single low steps. Five products. Specs come from a **2021
+web article** ([[Different Types of Threshold Ramps]]), overridden
+where noted by the PMS sheet [[EZ Access Parts and Pieces]] (2018),
+which gives part numbers and field working ranges.
 
 ## Sizing tables
 
@@ -27,11 +28,17 @@ hardware included, for thresholds 2 in or less.
 swivel feet (screw in/out to match height, levels on uneven floors), two
 pre-drilled holes, indoor/outdoor, lifetime warranty (per the article).
 
-| Size (L × W) | Threshold range |
-|---|---|
-| 12 × 36.25 in | 1-3/8 – 2-3/4 in |
-| 24 × 36.25 in | 1-11/16 – 4-3/8 in |
-| 36 × 36.25 in | 3-5/16 – 5-7/8 in |
+| Part # | Size (L × W) | **PMS working range** ([[EZ Access Parts and Pieces]], 2018) | Blog range (2021 article) |
+|---|---|---|---|
+| TAER12 | 12 × 36.25 in | **1.5 – 2 in** | 1-3/8 – 2-3/4 in |
+| TAER24 | 24 × 36.25 in | **2.25 – 3.5 in** | 1-11/16 – 4-3/8 in |
+| TAER36 | 36 × 36.25 in | **3.5 – 4.5 in** | 3-5/16 – 5-7/8 in |
+
+**Use the PMS ranges.** They are narrower and don't overlap. The blog
+ranges are presumably the full mechanical adjustment of the feet,
+while the PMS ranges are what actually works in the field. The sheet
+also shows a **6 in transition** at the low end of each ramp. The field
+note below about removing the leveling feet applies to this product.
 
 **Modular Entry Ramp**: all-aluminum slide-together sections, 700 lb,
 34 in wide, optional adjustable top flap adds 0.25 in.
@@ -46,16 +53,22 @@ pre-drilled holes, indoor/outdoor, lifetime warranty (per the article).
 | 5 × 26.64 × 34 in | 4.75 – 5.25 in |
 | 6 × 31.64 × 34 in | 5.75 – 6.25 in |
 
-**Angled Entry Mat**: one-piece recycled rubber, can be trimmed down,
+**Angled Entry Mat** (TAEM; the "rubber threshes"/RT on PMS sheets):
+one-piece recycled rubber, can be trimmed down,
 tapered edge only 0.125 in. Sold in both the Work and Home collections.
 
-| Size | Threshold up to |
-|---|---|
-| 14 × 40 in | 1.5 in |
-| 25 × 43 in | 2.5 in |
+| Part # | Size | Threshold up to | Usable width | PMS RT heights |
+|---|---|---|---|---|
+| TAEM 1.5-1 | 14 × 40 in | 1.5 in | 36 in | RT 1, RT 1.5 |
+| TAEM 2.5-1 | 25 × 43 in | 2.5 in | 36 in | RT 2, RT 2.5 |
 
-**Modular Entry Mat**: recycled rubber, 24 × 48 in, up to 2.5 in alone
-(trimmable). Add risers plus a second mat to reach **4.75 in**.
+**Modular Entry Mat** (TMEM, wedge shape): recycled rubber, 24 × 48 in,
+up to 2.5 in alone (trimmable). Add risers plus a second mat to reach
+**4.75 in** per the blog. The PMS sheet builds RT 3, 3.5, 4, 4.5 and
+5 in from **TMEM 2.5-2 (qty 2, 48 in wide, 24 in deep each, 48 in
+total)** plus **TMEMR 2.25 in** riser squares (2 × 24 × 24 in).
+Install time: 40 min for 3–5 in, 20 min for ½–2½ in rubber thresholds
+(see [[Ramp-Install-Time-Estimates]]).
 
 ## Gotchas
 

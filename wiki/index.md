@@ -18,7 +18,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 7 files in `MANUALS/Ramps/` + 11 web clippings | 13: the Pathway Assembly Manual (2015), the U.S. Access Board ADA guide (a standards document, filed under `sources/Standards/`) and 11 web clippings. 5 `MANUALS/Ramps/` files are still backlog (see below) |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 7 files in `MANUALS/Ramps/` + 11 web clippings | 15: the Pathway Assembly Manual (2015), 2 PMS reference sheets (parts, layout key/install time), the U.S. Access Board ADA guide (filed under `sources/Standards/`) and 11 web clippings. Remaining: `Ramps Handbook.docx`. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` physically holds 21 files, but the table
 attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
@@ -172,6 +172,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
 | Ramp site planning (CSR intake questions, ramp class picker, site-survey checklist incl. the door-transition leveling-feet note, install/test) | [[Ramp-Site-Planning]] |
+| Ramp install time estimates (per-component labor minutes from the PMS layout key, with a worked example) | [[Ramp-Install-Time-Estimates]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
@@ -350,7 +351,7 @@ warranty/troubleshooting/diagnostics/wiring/EMC sections through page
 sections are not documented in this wiki). See [[Red Hawk]] for the full
 multi-brand breakdown.
 
-EZ-ACCESS (manual + 11 web clippings ingested; 5 `MANUALS/Ramps/` files still backlog), see `wiki/sources/EZ-ACCESS/`. Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Web clippings: these are EZ-ACCESS
+EZ-ACCESS (manual + 2 reference sheets + 11 web clippings ingested; `Ramps Handbook.docx` still backlog; pay scales skipped), see `wiki/sources/EZ-ACCESS/`. Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Reference sheets (General): EZ Access Parts and Pieces (2018), EZ Access Layout Key and Install Time (2019). Web clippings: these are EZ-ACCESS
 blog articles saved with Obsidian Web Clipper, copied from the vault's
 `Clippings/` folder to `MANUALS/Clippings/`. doc_type: Web Article.
 General: How Long Should a Wheelchair Ramp Be, Wheelchair Ramp Slope
@@ -389,7 +390,7 @@ manuals.
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
-### EZ-ACCESS (`MANUALS/Ramps/`): partly ingested. Done: 11 web clippings (2026-09-24), the `EZ Access Pathway-Assembly-Manual.pdf` (2026-09-24) and `ADA_Rules_ramps.pdf` (a U.S. Access Board guide, copied in from the out-of-repo `/home/lu/Work/MANUALS/Ramps/` drop; see Standards below). **Still not ingested**: `EZ Access Layout Key and Install Time.pdf` (1 pp; may explain the odd rise-to-length values flagged on [[Ramp-Slope-and-Length]]), `EZ Access parts and pieces.pdf` (1 pp), `Ramps Handbook.docx`, and two pay-scale sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf`, probably pricing rather than technical content). Open question for the human: is there a PATHWAY **3G** manual? The one on file is the 2015 "Pathway" edition (850 lb vs. 1,000 lb in 3G articles).
+### EZ-ACCESS (`MANUALS/Ramps/`): nearly done. Ingested: 11 web clippings, the Pathway Assembly Manual, `ADA_Rules_ramps.pdf` (U.S. Access Board, see Standards below), `EZ Access parts and pieces.pdf` and `EZ Access Layout Key and Install Time.pdf` (all 2026-09-24). **Remaining**: `Ramps Handbook.docx`. **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf` (pay/pricing, not technical). Still open: is there a PATHWAY **3G** manual? PMS sheets say 850 lb, and 3G articles say 1,000 lb.
 
 ## How to use this wiki
 

@@ -25,9 +25,98 @@ differ:
 |---|---|---|
 | Weight capacity | **850 lb**, residential use only | 1,000 lb ([[Different Types of Threshold Ramps]], 2021) |
 
-Until a 3G manual turns up, use the manual for **assembly procedures**,
-since the modular design is the same family. For **capacity**, confirm
-which generation is on the job. When in doubt, quote 850 lb.
+The PMS parts sheet [[EZ Access Parts and Pieces]] (2018) also says
+**850 lb**, so that is the figure PMS works to. Use the manual for
+assembly procedures and quote **850 lb** unless a 3G spec sheet says
+otherwise.
+
+## Sizes and catalog ([[EZ Access Parts and Pieces]], 2018)
+
+**Ramp sections**: 2', 3', 4', 5', 6', 7', 8' long × 3 ft. 36 in
+usable width is standard; **48 in bariatric** comes only in 2–6 ft
+lengths.
+
+**Width stack-up** (36 in ramp). Use it for side-yard, walkway and
+driveway clearance:
+
+| Measured at | Width |
+|---|---|
+| Usable (between rails) | 36 in |
+| Outer (deck) | 37 in |
+| Handrail outer | 40-5/8 in |
+| Bracket | 42 in |
+| Leg bolt | 43 in |
+| **Feet** | **44 in** |
+
+**Platforms**:
+
+| Size | Standard | Low profile |
+|---|---|---|
+| 4×5 | MP45 | MPLP45 |
+| 4×5 turn | MP45T | MPLP45T |
+| 5×4 | MP54 (MP54T turn) | MPLP54 |
+| 5×5 | MP55 | MPLP55 |
+| 5×6 turn | MP56T | — |
+| 6×5 | MP65 | — |
+| 6×6 | MP66 | — |
+| 8×5 turn-back | MP85TB (or 2 × MP45T) | MPLP85TB (2 × MPLP45T) |
+
+Custom platforms can be made smaller than 5 × 5 ft but **never
+larger**.
+
+**Support tubes** (square legs, sold in pairs; the overall length is
+the MSTS number + 3 in):
+
+| Length | Part # |
+|---|---|
+| 13 in | MSTS10PR |
+| 19 in | MSTS16PR |
+| 25 in | MSTS22PR |
+| 31 in | MSTS28PR |
+| 37 in | MSTS34PR |
+| 43 in | MSTS40PR |
+| 55 in | MSTS52PR |
+| 67 in | MSTS64PR |
+| 79 in | MSTS76PR |
+| 91 in | MSTS88PR |
+| 103 in | MSTS100PR |
+
+For rises **under 6.5 in**, use the **low-profile foot** (molded
+plastic, ½ in tall).
+
+**Transition plates** (36 in or 48 in wide):
+
+| Plate | Depth | Use |
+|---|---|---|
+| MRUT upper | 4 in | Top of a run onto an existing landing: porch, step or platform |
+| MRLT lower | 6 in | Top of a run where an angle is needed, or the bottom onto a landing pad |
+| MRGT ground | 12 in | Bottom of a run onto the ground. Two 6 in pieces with a center support leg |
+
+**Bracing quantities**:
+
+- MUAB ("Moo-Abs") over 36 in: 4 per platform, 1 per ramp.
+- MUCB (5, 7 or 8) ("Muck-Bee") over 72 in: 4 per platform, 1 per ramp.
+
+**Connectors and handrail ends**:
+
+| Part | Nickname | Job |
+|---|---|---|
+| MRRC | Ramp connector | Joins two ramps; legs vary |
+| MPPC | Platform connector | Joins two platforms of the same width |
+| MRHP | Ramp hangers | Ramp to platform |
+| MRHBPR | "Mr. Heeber" | Handrail bracket, used at the top and bottom of every run |
+| MHRPRC | "Closure Kit" | Ramp handrail to platform post |
+| MHRRRC | "Corner Kit" | Ramp handrail to ramp handrail |
+| MRHRL | End loop | Extends **12 in**, which matches the ADA 12 in extension |
+| MRHRLDB | End loop, dual bend | — |
+| MHREC | End caps | Alternative to loops. Pack of 8 finishes 4 handrails |
+| MRST | Support top | Legs ordered separately. Replaces an MRHBPR |
+
+**Gate parts**: MUG 36 in gate, MUGPP free-standing post, MHRPSC stair
+closure kit. **Bridge plates**: MBP36/48/60 are 8 in deep; MDBP is
+13 × 36 in. Where there is no gap, use tie straps instead.
+
+**Install times** per component are on [[Ramp-Install-Time-Estimates]].
 
 ## Components (manual §1)
 
@@ -165,7 +254,8 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
   (2015, "Pathway", pre-3G branding)
 - [[Configuration Factors for Residential Ramp Systems]]: web article
 - [[Securing PATHWAY 3G Before a Storm]]: web article
-- Still in the backlog: `EZ Access Layout Key and Install Time.pdf`
-  and `EZ Access parts and pieces.pdf` (see `index.md`)
+- [[EZ Access Parts and Pieces]]: PMS parts and sizes sheet (2018)
+- [[EZ Access Layout Key and Install Time]]: layout symbols and install
+  times (2019)
 
 Related: [[EZ-ACCESS]], [[Ramp-Site-Planning]], [[ADA-Ramp-Requirements]]

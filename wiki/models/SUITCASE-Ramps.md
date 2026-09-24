@@ -17,9 +17,22 @@ short or temporary rises. Lengths run **2–10 ft**. They are
 | SUITCASE Singlefold AS | Folds in half lengthwise, carry handle |
 | SUITCASE TRIFOLD AS | Folds lengthwise **and** across the width at mid-length, so it stores shorter in tight vehicles |
 
+- **Width 29.5 in** (Singlefold AS and Trifold AS). Weights, from
+  [[EZ Access Parts and Pieces]]:
+
+  | Singlefold AS | Trifold AS |
+  |---|---|
+  | 2' – 12 lb | 5' – 32 lb |
+  | 3' – 16 lb | 6' – 38 lb |
+  | 4' – 20 lb | 7' – 44 lb |
+  | 5' – 26 lb | 8' – 50 lb |
+  | 6' – 30 lb | 10' – 60 lb |
+
+  Singlefold AS runs 2–6 ft; Trifold AS runs 5–10 ft.
+- Install time: 15 min each ([[Ramp-Install-Time-Estimates]]).
 - Slip-resistant surface. Self-adjusting ground transition plates.
-- **Top Lip Extension** accessory (fits all SUITCASE ramps) extends the
-  top transition plate by 6 in to clear a vehicle bumper.
+- **Top Lip Extension** ("TLE") accessory (fits all SUITCASE ramps)
+  extends the top lip **from 3 in to 9 in** to clear a vehicle bumper.
 - Use SUITCASE, not [[GATEWAY-3G]], when the ramp moves often. PMS treats
   GATEWAY as permanent, and it is held to 1:12. GATEWAY
   suits a home where the ramp is repositioned only occasionally.
