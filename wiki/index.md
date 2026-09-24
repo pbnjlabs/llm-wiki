@@ -18,7 +18,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| Ramps | *(not yet ingested)* | 6 | 0 — new backlog category, see Ingestion backlog below |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 6 files + 11 web clippings | 11 web clippings ingested; the 6 `MANUALS/Ramps/` files are still backlog. Blog articles only so far, so they carry less weight than a manual (see Ingestion backlog below) |
 
 Note: `MANUALS/Bruno/` physically holds 21 files, but the table
 attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
@@ -132,6 +132,11 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
+| TRANSITIONS threshold plates/ramps/mats (5 products, full size tables) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
+| SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS) | EZ-ACCESS | [[SUITCASE-Ramps]] |
+| GATEWAY 3G solid portable ramp | EZ-ACCESS | [[GATEWAY-3G]] |
+| PATHWAY 3G residential modular ramp system | EZ-ACCESS | [[PATHWAY-3G]] |
+| PATHWAY HD commercial modular ramps and platforms | EZ-ACCESS | [[PATHWAY-HD]] |
 
 ## Concepts
 
@@ -164,6 +169,9 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
+| Ramp slope and length (rise-to-length math, ratio tiers, **which ratios each rated power chair or scooter in the wiki can handle**) | [[Ramp-Slope-and-Length]] |
+| ADA ramp requirements (vendor summary: slope, width, landings; ADA applies to homes only as a benchmark) | [[ADA-Ramp-Requirements]] |
+| Ramp site planning (CSR intake questions, ramp class picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
@@ -342,6 +350,17 @@ warranty/troubleshooting/diagnostics/wiring/EMC sections through page
 sections are not documented in this wiki). See [[Red Hawk]] for the full
 multi-brand breakdown.
 
+EZ-ACCESS (11 web clippings ingested; 6 `MANUALS/Ramps/` files still backlog), see `wiki/sources/EZ-ACCESS/`. These are EZ-ACCESS
+blog articles saved with Obsidian Web Clipper, copied from the vault's
+`Clippings/` folder to `MANUALS/Clippings/`. doc_type: Web Article.
+General: How Long Should a Wheelchair Ramp Be, Wheelchair Ramp Slope
+Calculator Guide, Understanding ADA Ramp Requirements, Understanding
+Ramp Incline, How to Measure and Install a Ramp, Residential Ramps -
+Where Do I Begin. PATHWAY 3G: Configuration Factors for Residential Ramp
+Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
+Is Right for Your Needs. TRANSITIONS: Different Types of Threshold
+Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
+
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
 except the 17 deliberately-excluded image/CSV asset files, which aren't
@@ -365,7 +384,7 @@ manuals.
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
-### Ramps — **new backlog category found by the 2026-09-12 lint pass, nothing ingested yet.** `MANUALS/Ramps/` (6 files, no manufacturer stub, no wiki mention anywhere before this lint) — appears to be "EZ Access"-brand modular ramps: `EZ Access Pathway-Assembly-Manual.pdf` (49pp, an install guide), `EZ Access Layout Key and Install Time.pdf` (1pp), `EZ Access parts and pieces.pdf` (1pp), `Ramps Handbook.docx`, plus two pricing sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf` — likely not technical content, similar to the sales/pricing paperwork already excluded elsewhere in the wiki). Not ingested as part of this lint pass — flagging for the human to prioritize.
+### EZ-ACCESS (`MANUALS/Ramps/`): partly ingested. The manufacturer page [[EZ-ACCESS]] was created on 2026-09-24 from 11 web clippings (blog articles). The 6 `MANUALS/Ramps/` files are **still not ingested**: `EZ Access Pathway-Assembly-Manual.pdf` (49 pp, the authoritative [[PATHWAY-3G]] install reference; ingest this next), `EZ Access Layout Key and Install Time.pdf` (1 pp; may explain the odd rise-to-length table values flagged on [[Ramp-Slope-and-Length]]), `EZ Access parts and pieces.pdf` (1 pp), and `Ramps Handbook.docx`, plus two pay-scale sheets (`EZ Pay Scale 2023.pdf`, `Generic EZ Pay Scale.pdf`, probably pricing rather than technical content).
 
 ## How to use this wiki
 

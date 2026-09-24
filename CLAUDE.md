@@ -76,7 +76,7 @@ forcing them into a product-line folder they don't belong in.
   type: manufacturer | model | concept | source
   manufacturer: Bruno
   model: SRE-3050          # models only
-  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide
+  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide | Web Article
   source: "MANUALS/Bruno/Bruno Straight SL/3050-I SRE-3050 Install Manual 06-22-2026.pdf"
   date: 2026-06-22          # manual's revision date, not today's date
   tags: [stairlift, bruno]
@@ -96,6 +96,19 @@ forcing them into a product-line folder they don't belong in.
 - Model/manufacturer names in filenames should match the `MANUALS/` folder
   and part-number naming as closely as practical (e.g. `SRE-3050.md`, not
   `Bruno Stair Lift 3050.md`) so cross-referencing stays mechanical.
+
+### Web clippings
+
+The human sometimes saves manufacturer web pages with Obsidian Web
+Clipper into the vault-root `Clippings/` folder (Markdown with
+`source:` URL / `published:` frontmatter). To ingest them, copy them into
+`MANUALS/Clippings/` as raw sources and leave the originals in place.
+Then file source pages under `sources/<Manufacturer>/<Product Line>/`
+like any manual, with `doc_type: Web Article`, `url:` set to the
+original URL, and `date:` set to the article's published date.
+Clippings are marketing or consumer guidance, so they carry **less
+weight than a manual**. Say so on the pages they feed, and let any
+manual override them.
 
 ## Operations
 

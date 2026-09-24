@@ -63,3 +63,5 @@ If a complete copy of this manual becomes available, re-ingest it.
 
 ## See also
 [[Red Hawk]], [[Air-Hawk-Eagle-HD]], [[Falcon]], [[Phoenix]]
+
+Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

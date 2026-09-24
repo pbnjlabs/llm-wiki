@@ -67,3 +67,5 @@ purchaser only.
 
 ## See also
 [[Red Hawk]], [[Air-Hawk-Eagle-HD]], [[Falcon]]
+
+Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

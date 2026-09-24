@@ -65,3 +65,5 @@ also be built with instead of/alongside iLevel.
 - [[Joystick-Controllers]]
 - [[Tru-Balance-3-Power-Positioning]]
 - [[J6]]
+
+Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

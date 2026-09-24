@@ -77,3 +77,5 @@ or exceeding the weight limit. Original buyer only, non-transferable.
 
 ## See also
 [[Red Hawk]], [[Falcon]], [[Phoenix]]
+
+Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.
