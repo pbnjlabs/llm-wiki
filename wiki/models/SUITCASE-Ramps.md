@@ -28,7 +28,7 @@ short or temporary rises. Lengths run **2–10 ft**.
 [[Different Types of Threshold Ramps]] (TRIFOLD AS to 10 ft),
 [[Wheelchair Ramp Slope Calculator Guide]].
 
-At 1:12 a 10 ft ramp covers only ~10 in of rise, and steeper slopes run
-into mobility-device limits. See [[Ramp-Slope-and-Length]].
+At the wiki's 1:12 standard, a 10 ft ramp covers only 10 in of rise.
+Never set a portable ramp steeper to reach a higher rise. See [[Ramp-Slope-and-Length]].
 
 Related: [[EZ-ACCESS]]

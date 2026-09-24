@@ -69,6 +69,10 @@ tapered edge only 0.125 in. Sold in both the Work and Home collections.
 - For the Modular Entry Ramp, the height in the size name is the
   **nominal top height**. Match it to the measured threshold using the
   range column, not the name.
+- **Leveling feet and flush fit (field note from PMS)**: at an entry
+  door, the transition's leveling feet can sometimes be removed to get
+  the right height. Some entryways still won't sit flush with the
+  transition, so check this on site. See [[Ramp-Site-Planning]].
 - Threshold install rule (from [[How to Measure and Install a Ramp]]):
   seat the ramp firmly against the threshold with no gap.
 

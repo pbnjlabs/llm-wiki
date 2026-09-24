@@ -23,6 +23,7 @@ assembly manual, still in the backlog, is the real install reference).
 3. Pick ratio: ADA 1:12 (public); **residential 1:8 "acceptable in some
    cases"**, gentler recommended, check equipment owner's manual; pet/
    equipment 1:4 for short distances. Length = rise × ratio.
+   **Superseded for this wiki:** only 1:12 (4.8°) is acceptable; see [[Ramp-Slope-and-Length]].
 4. Location: straight, unobstructed; landing room top and bottom;
    modular may need platforms/turns.
 5. Install by type: portable — place and secure; threshold — tight

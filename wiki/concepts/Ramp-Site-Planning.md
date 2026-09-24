@@ -34,13 +34,19 @@ site-survey checklist.
 ## 3. Site survey ([[Configuration Factors for Residential Ramp Systems]], [[Wheelchair Ramp Slope Calculator Guide]])
 
 - **Rise**: measure the total rise, and check whether the ground slopes
-  away.
+  away. **Slope is always 1:12**: 1 ft of run per inch of rise, 4.8° on
+  an angle meter (see [[Ramp-Slope-and-Length]]).
 - **Run space**: yard, driveway, walkway and landscaping. Use existing
   grade to shorten the ramp.
 - **Shape**: straight, L, U or switchback to fit the space.
 - **Landings**: top, bottom, every turn, and no more than ~30 ft apart.
   A top platform gives a flush transition at the door. Check **door
   swing** and threshold height at the top.
+- **Entry door transition (field note from PMS).** Where the ramp or
+  threshold transition meets the door, you can sometimes remove the
+  transition's leveling feet to get the right height. Some entryways
+  still won't sit flush with the transition even then, so check this on
+  the site visit instead of assuming a flush fit.
 - **Width**: size it to the device *plus a helper*. EZ-ACCESS
   residential ramps are 36 in or 48 in.
 - **Weight capacity**: user, device and helper together. TRANSITIONS
@@ -59,7 +65,8 @@ site-survey checklist.
 - In storm-prone areas, add **tie-downs** to modular systems (see
   [[PATHWAY-3G]]).
 - Test for stability, slip resistance, railings, and smooth transitions
-  top and bottom, then **do a test run with the user's actual device**.
+  top and bottom. Check each run reads **4.8°** on an angle meter,
+  then **do a test run with the user's actual device**.
 
 ## Common mistakes
 

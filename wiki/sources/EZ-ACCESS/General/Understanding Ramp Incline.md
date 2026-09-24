@@ -19,7 +19,7 @@ incline ratios and the EZ-ACCESS online Incline Calculator
 
 - Ratio tiers: **1:12** ADA standard; **1:10** "often acceptable" for
   certain residential/light-use; **1:8 or 1:6** for non-mobility uses
-  (recreational/industrial loading). Note this conflicts with
+  (recreational/industrial loading). **Superseded for this wiki:** only 1:12 (4.8°) is acceptable. Note this conflicts with
   [[How to Measure and Install a Ramp]] — see [[Ramp-Slope-and-Length]].
 - Measure rise → pick ratio (start at 1:12, check the equipment owner's
   guide for allowable slope and direction) → enter in calculator, which

@@ -110,6 +110,16 @@ Clippings are marketing or consumer guidance, so they carry **less
 weight than a manual**. Say so on the pages they feed, and let any
 manual override them.
 
+### House standards
+
+Some rules come from Performance Medical Supply itself, not from any
+source document. They override manuals and clippings alike, and every
+page they touch should state them.
+
+- **Ramp slope: 1:12 only.** Every inch of rise needs 1 ft of ramp run,
+  which reads 4.8° on an angle meter. This applies to residential ramps
+  too. Never recommend a steeper ratio, even when a source allows one.
+
 ## Operations
 
 ### Ingest

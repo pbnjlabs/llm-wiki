@@ -33,8 +33,9 @@ marketing and consumer guidance, not manuals, so:
 - They carry less weight than any manual. Once the PATHWAY assembly
   manual in `MANUALS/Ramps/` is ingested, it wins wherever the two
   disagree.
-- They sometimes contradict each other. The residential slope guidance
-  is one example: see [[Ramp-Slope-and-Length]].
+- They sometimes contradict each other, and some suggest slopes
+  steeper than 1:12. **The wiki standard is 1:12 only (4.8°)**, which
+  overrides the articles: see [[Ramp-Slope-and-Length]].
 - Specs (sizes, capacities) come from articles as old as 2021 and may
   be outdated.
 

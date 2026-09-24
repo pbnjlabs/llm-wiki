@@ -704,3 +704,8 @@ The wiki's first non-manual source type. The clippings were copied to `MANUALS/C
 - 3 concept pages: [[Ramp-Slope-and-Length]], [[ADA-Ramp-Requirements]], [[Ramp-Site-Planning]].
 - Key synthesis: the slope page cross-references ramp ratios against the max-incline ratings already in the wiki. 1:12 is fine for every rated device. 1:8 exceeds the 6° rating of [[J6]] and [[Air-Hawk-Eagle-HD]]. Ramp back-links were added to 6 device model pages.
 - Flagged: the articles contradict each other on residential 1:8 (acceptable vs. non-mobility only), and two articles print slightly different "1:12" rise-to-length tables. The TRANSITIONS Modular Entry Ramp's listed sizes leave 0.5 in threshold gaps. The ADA clipping is truncated before its handrail and surface sections.
+## [2026-09-24] update | Ramp slope house standard: 1:12 only (4.8° on an angle meter), plus a door-transition field note
+Direction from the human, recorded as a PMS house standard in CLAUDE.md.
+- Rewrote [[Ramp-Slope-and-Length]] around the standard. The articles' 1:10, 1:8, 1:6 and 1:4 guidance is now marked superseded, and 4.8° angle-meter verification was added.
+- Updated [[ADA-Ramp-Requirements]], [[Ramp-Site-Planning]], [[SUITCASE-Ramps]], [[EZ-ACCESS]], and two source pages.
+- Added the field note to [[Ramp-Site-Planning]] and [[TRANSITIONS-Threshold-Ramps]]: the entry door transition's leveling feet can sometimes be removed to get the right height, but some entryways still won't sit flush with the transition.

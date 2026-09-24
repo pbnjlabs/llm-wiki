@@ -169,9 +169,9 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
-| Ramp slope and length (rise-to-length math, ratio tiers, **which ratios each rated power chair or scooter in the wiki can handle**) | [[Ramp-Slope-and-Length]] |
+| Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | ADA ramp requirements (vendor summary: slope, width, landings; ADA applies to homes only as a benchmark) | [[ADA-Ramp-Requirements]] |
-| Ramp site planning (CSR intake questions, ramp class picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
+| Ramp site planning (CSR intake questions, ramp class picker, site-survey checklist incl. the door-transition leveling-feet note, install/test) | [[Ramp-Site-Planning]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
 R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
