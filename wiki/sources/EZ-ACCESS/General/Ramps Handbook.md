@@ -50,15 +50,17 @@ the precedent of PMS's Harmar forms under `sources/Harmar/General/`.
 - Images: an EZ-ACCESS Incline Calculator screenshot, a PATHWAY ramp
   render, and site photos.
 
-## Flag: the worked example rounds the run down
+## Correction: the worked example should round up to 29 ft
 
 The handbook's example is 4 stairs with a **28.5 in** total rise, giving
 a **28 ft** run. The embedded Incline Calculator screenshot shows the
 same result (28.5 in, 1:12, 4.76°, run 28 ft). But a 28 ft run over
 28.5 in is **4.85°**, which **fails the handbook's own 4.8° slope-meter
 rule**. The true 1:12 run is 28.5 ft. Since ramp sections come in whole
-feet, **round the run up** (29 ft = 4.68°). This has been raised with
-the human; the handbook itself is a raw source and was not edited.
+feet, **round the run up** (29 ft = 4.68°). **Confirmed by the human
+(2026-09-24): a 28.5 in rise needs a 29 ft run.** The 28 ft in the
+handbook (and in the calculator's output) is wrong. The raw docx has
+not been edited.
 
 ## Feeds
 

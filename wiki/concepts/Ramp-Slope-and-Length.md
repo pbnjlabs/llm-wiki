@@ -34,7 +34,8 @@ standard above, which comes from Performance Medical Supply's
    **29 ft**. Rounding down makes the ramp too steep: 28 ft over
    28.5 in is 4.85°, which fails the 4.8° limit. (The [[Ramps Handbook]]'s
    own example and the EZ-ACCESS Incline Calculator both round this
-   case down to 28 ft; see the flag on the handbook's source page.)
+   case down to 28 ft. The human confirmed 29 ft is correct; see the
+   handbook's source page.)
 3. **Check the footprint.** If the straight run won't fit, add turns
    and platforms (a modular L, U or switchback layout). **Never make the
    ramp shorter and steeper to fit.**

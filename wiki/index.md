@@ -390,7 +390,7 @@ manuals.
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
-### EZ-ACCESS — fully ingested, no technical backlog. `Ramps Handbook.docx` (PMS in-house training) was the last file (2026-09-24). **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Open items for the human: (1) is there a PATHWAY **3G** manual? (850 lb in the 2015 manual and 2018 sheet vs. 1,000 lb in 3G articles); (2) the Ramps Handbook's 28.5 in → 28 ft example rounds down to 4.85°, over its own 4.8° limit.
+### EZ-ACCESS — fully ingested, no technical backlog. `Ramps Handbook.docx` (PMS in-house training) was the last file (2026-09-24). **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Open items for the human: (1) is there a PATHWAY **3G** manual? (850 lb in the 2015 manual and 2018 sheet vs. 1,000 lb in 3G articles); (2) the Ramps Handbook's 28.5 in → 28 ft example is wrong: **confirmed as 29 ft** (round up). The docx itself still says 28 ft.
 
 ## How to use this wiki
 

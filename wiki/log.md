@@ -751,3 +751,5 @@ PMS's own ramp evaluation and design training document (docx author "PMS", ends 
 - **Flag**: the handbook's own example (28.5 in rise → 28 ft, from an embedded EZ-ACCESS Incline Calculator screenshot) is 4.85°, over its own 4.8° limit. 29 ft gives 4.68°. Raised with the human; the raw source was not edited.
 - [[ADA-Ramp-Requirements]] now compares the handbook's "5 ADA guidelines" with the Access Board guide. The main difference is the handbook's minimum of one continuous handrail vs. ADA's both sides above 6 in of rise.
 - EZ-ACCESS / `MANUALS/Ramps/` is now fully ingested apart from the deliberately skipped pay scales.
+## [2026-09-24] update | Confirmed: round the ramp run up (28.5 in rise → 29 ft)
+The human confirmed that the [[Ramps Handbook]] example should round up to 29 ft, not down to 28 ft. Updated its source page, [[Ramp-Slope-and-Length]] and index.md. The raw docx still says 28 ft.
