@@ -27,7 +27,7 @@ site-survey checklist.
 |---|---|---|
 | Door threshold or track, up to ~6 in | Threshold | [[TRANSITIONS-Threshold-Ramps]] |
 | Temporary use only: vehicle loading, travel (exempt from 1:12) | Folding portable | [[SUITCASE-Ramps]] (2–10 ft) |
-| Short–moderate rise, home, occasional moves | Solid portable / semi-permanent | [[GATEWAY-3G]] (≤10 ft, optional rails) |
+| Short–moderate rise, long-term home access (up to 10 in at 1:12) | Permanent (per PMS) | [[GATEWAY-3G]] (≤10 ft, optional rails) |
 | High porch, daily use, long runs | Modular | [[PATHWAY-3G]] |
 | Commercial / code compliance | Modular, code | [[PATHWAY-HD]] |
 

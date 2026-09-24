@@ -121,6 +121,8 @@ page they touch should state them.
   too. Never recommend a steeper ratio, even when a source allows one.
   **Exception:** SUITCASE folding ramps are temporary-use only (e.g.
   loading a scooter into a van) and are exempt from the 1:12 rule.
+  GATEWAY 3G is **not** exempt. It can technically be moved, but PMS
+  treats it as a permanent, long-term ramp.
 
 ## Operations
 

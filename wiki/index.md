@@ -134,7 +134,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
 | TRANSITIONS threshold plates/ramps/mats (5 products, full size tables) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS) | EZ-ACCESS | [[SUITCASE-Ramps]] |
-| GATEWAY 3G solid portable ramp | EZ-ACCESS | [[GATEWAY-3G]] |
+| GATEWAY 3G solid ramp (PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
 | PATHWAY 3G residential modular ramp system | EZ-ACCESS | [[PATHWAY-3G]] |
 | PATHWAY HD commercial modular ramps and platforms | EZ-ACCESS | [[PATHWAY-HD]] |
 

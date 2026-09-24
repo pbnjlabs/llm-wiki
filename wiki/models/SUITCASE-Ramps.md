@@ -20,7 +20,8 @@ short or temporary rises. Lengths run **2–10 ft**. They are
 - Slip-resistant surface. Self-adjusting ground transition plates.
 - **Top Lip Extension** accessory (fits all SUITCASE ramps) extends the
   top transition plate by 6 in to clear a vehicle bumper.
-- Recommended over [[GATEWAY-3G]] when the ramp moves often. GATEWAY
+- Use SUITCASE, not [[GATEWAY-3G]], when the ramp moves often. PMS treats
+  GATEWAY as permanent, and it is held to 1:12. GATEWAY
   suits a home where the ramp is repositioned only occasionally.
 - The difference between "AS" and non-AS is not explained in the
   clipped sources.

@@ -714,3 +714,5 @@ Clarification from the human.
 - SUITCASE folding ramps are temporary-use only (e.g. loading a scooter into a van), so the 1:12 rule doesn't apply to them. For those ramps, the device's rated incline is the relevant limit.
 - Updated CLAUDE.md, [[Ramp-Slope-and-Length]], [[SUITCASE-Ramps]], [[Ramp-Site-Planning]] and [[ADA-Ramp-Requirements]].
 - The door-transition leveling-feet note is confirmed to refer to the TRANSITIONS Angled Entry Ramp. Its wording on [[Ramp-Site-Planning]] and [[TRANSITIONS-Threshold-Ramps]] now names that product.
+## [2026-09-24] update | GATEWAY 3G reclassified as permanent (PMS), so 1:12 applies
+Clarification from the human: the GATEWAY 3G is long-term. It can technically be moved, but PMS and this wiki treat it as permanent. It is not exempt from 1:12 the way temporary-use SUITCASE ramps are. Updated CLAUDE.md, [[GATEWAY-3G]], [[Ramp-Slope-and-Length]], [[Ramp-Site-Planning]], [[SUITCASE-Ramps]], [[EZ-ACCESS]] and index.md. The source pages still record EZ-ACCESS's own "portable/semi-permanent" marketing wording as-is.

@@ -17,7 +17,7 @@ filenames), so this page is its manufacturer page.
 |---|---|---|
 | TRANSITIONS | [[TRANSITIONS-Threshold-Ramps]] | Threshold plates, ramps and mats, up to ~6 in |
 | SUITCASE | [[SUITCASE-Ramps]] | Folding portable ramps, 2–10 ft |
-| GATEWAY 3G | [[GATEWAY-3G]] | Solid one-piece portable ramp, up to 10 ft, optional handrails |
+| GATEWAY 3G | [[GATEWAY-3G]] | Solid one-piece ramp, up to 10 ft, optional handrails. Sold as portable; **PMS treats it as permanent** |
 | PATHWAY 3G | [[PATHWAY-3G]] | Residential modular ramp system |
 | PATHWAY HD | [[PATHWAY-HD]] | Commercial code-compliant modular ramps and platforms |
 

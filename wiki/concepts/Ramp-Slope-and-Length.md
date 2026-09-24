@@ -14,6 +14,8 @@ tags: [ramp, slope, planning, ez-access]
 > **Exception: [[SUITCASE-Ramps]].** These folding ramps are only for
 > temporary use, such as loading a scooter into the back of a van, so
 > the 1:12 rule doesn't apply to them. See "SUITCASE ramps" below.
+> [[GATEWAY-3G]] can technically be moved, but it is treated as
+> permanent, so 1:12 applies to it.
 
 How to size a ramp from vertical rise, and how to check it in the field.
 Built from EZ-ACCESS web articles (see [[EZ-ACCESS]]) plus the
