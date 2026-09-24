@@ -12,8 +12,10 @@ to **10 ft**, with or without handrails. EZ-ACCESS classes it as
 "semi-permanent": it stays at a home long-term but can be moved to
 another entrance or house.
 
-> **PMS classification: permanent.** PMS and this wiki treat the
-> GATEWAY 3G as a long-term, permanent ramp. It can technically be
+> **PMS classification: permanent** (confirmed by the human twice,
+> 2026-09-24). It is **not** a temporary-use ramp like the SUITCASE.
+> PMS and this wiki treat the GATEWAY 3G as a long-term, permanent
+> ramp. It can technically be
 > moved, but that doesn't change the classification. The **1:12 (4.8°)
 > slope standard applies** (see [[Ramp-Slope-and-Length]]), unlike the
 > temporary-use [[SUITCASE-Ramps]].
