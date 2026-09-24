@@ -768,3 +768,9 @@ Checked because an earlier "the 3G is long-term / modular" answer may have refer
 - Ramp-area consistency is clean: 1:12 / 4.8°-or-less, the SUITCASE exemption, GATEWAY 3G permanent, PATHWAY = 3G at 850 lb, and origin-unknown sheets are consistent across all pages.
 ## [2026-09-24] lint | Bruno raw-path drift resolved on this device (local only, no wiki changes)
 Per the human: recreated the `MANUALS/Bruno/<Product Line>/` subfolders (Bruno Straight SL, VPL, Bruno Curved SL, Vehicle Lifts) on this machine by **copying** the 20 flat PDFs to the paths their source pages cite. The originals were left in place and the copies were byte-verified with cmp. Every `source:` path in the wiki now resolves on this device. MANUALS/ is gitignored, so nothing changed in git except this log entry.
+## [2026-09-24] lint | Resolved: the Harmar exclusion count is 10, not 17 (double count)
+Investigated the discrepancy flagged earlier today. All 10 Harmar image/CSV assets (5 AL425HD photos, 3 AL425 photos, 2 DAM metadata CSVs) have been in the out-of-repo drop `/home/lu/Work/MANUALS/Harmar/` since 2026-09-11, before both the second pass (2026-09-12) and the third pass (2026-09-17).
+- The second pass excluded them but logged the count as "7" without naming the files. It also didn't copy them into the repo.
+- The third pass found the same files again, copied them in (hence the repo mtimes of 2026-09-17), excluded them, and added 10 to the earlier 7 to get "17".
+- Only 6 drop files are dated 2026-09-17 (4 Hybrid manuals + 2 duplicate Helix files), which matches what the third pass reported as new.
+- No files are missing, and the human made no changes to the folder. index.md is corrected to 10. The 2026-09-12 log entry's "7" is left as written (the log is append-only) and is superseded by this entry.

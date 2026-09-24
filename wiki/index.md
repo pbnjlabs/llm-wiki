@@ -254,8 +254,9 @@ consolidated reference pages — Harmar Evaluation and Order Forms (6
 files), Harmar Product Spec Sheets (4 files), Harmar Parts Diagrams (9
 files), Harmar Wiring Schematics (6 files) — each covering multiple
 low-narrative-value engineering/marketing documents in one page rather
-than one page per file. 7 product-photo/DAM-metadata files were
-deliberately excluded as non-manual assets (see [[Harmar]]).
+than one page per file. Product-photo/DAM-metadata files were
+deliberately excluded as non-manual assets. This pass logged them as "7";
+the true count is 10 (see the correction below).
 
 *Third pass* (human dropped ~16 more files into an out-of-repo
 `MANUALS/Harmar/` folder, copied in preserving the drop): Hybrid Vehicle
@@ -268,7 +269,10 @@ unexplained "AL600 Hybrid" parts-diagram mention on
 duplicates of already-ingested Helix files were not re-copied. 10
 further product-photo/DAM-metadata files (5 AL425HD product photos, 3
 more AL425 photos, 2 metadata-export CSVs) were deliberately excluded as
-non-manual assets, bringing the running exclusion total to 17.
+non-manual assets. **Correction (2026-09-24 lint):** these are the *same*
+files the second pass had already excluded. All 10 have been in the drop
+folder since 2026-09-11, before either pass. The earlier "running total
+of 17" double-counted them. **The true exclusion total is 10.**
 
 Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -369,11 +373,9 @@ authoritative ADA reference behind [[ADA-Ramp-Requirements]].
 
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
-except the deliberately excluded Harmar image/CSV asset files, which
+except the 10 deliberately excluded Harmar image/CSV asset files, which
 aren't manuals, and the two EZ-ACCESS pay-scale sheets (skipped per the
-human). The Harmar exclusion is stated as 17 files, but only 10 such
-files are on disk on this device; see the 2026-09-24 lint entry in the
-log.
+human).
 
 ## Ingestion backlog
 
