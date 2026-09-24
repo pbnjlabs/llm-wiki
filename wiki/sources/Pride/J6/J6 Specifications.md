@@ -25,8 +25,7 @@ A/October 2015.
 - Batteries: two 12V U-1 (AGM or Gel-Cell), 5-amp off-board charger
 - Max incline 6° (10.5%), max obstacle climb 2.4 in
 
-Identical base hardware/component weights to the [[J6 VA Specifications|J6
-VA]] variant, but governed for longer range at lower top speed — see that
+Identical base hardware/component weights to the [[J6 VA Specifications|J6 VA]] variant, but governed for longer range at lower top speed — see that
 page for the comparison.
 
 Feeds into: [[J6]].

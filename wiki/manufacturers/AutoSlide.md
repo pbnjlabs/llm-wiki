@@ -70,8 +70,8 @@ moved, per the raw-sources-are-immutable convention.
 accessibility-door manufacturer PMS apparently has a folder for, it may be
 worth asking the human whether real Open Sesame manuals exist elsewhere
 (not yet found in this repo or at `/home/lu/Work/MANUALS/`) — similar to how
-the Ramps manufacturer surfaced as an un-ingested category (see
-`wiki/index.md`'s Ingestion backlog).
+the Ramps folder surfaced as an un-ingested category. That turned out
+to be [[EZ-ACCESS]], now fully ingested.
 
 ## Open question for the human
 

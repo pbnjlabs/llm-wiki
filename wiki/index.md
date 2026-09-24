@@ -369,8 +369,11 @@ authoritative ADA reference behind [[ADA-Ramp-Requirements]].
 
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
-except the 17 deliberately-excluded image/CSV asset files, which aren't
-manuals.
+except the deliberately excluded Harmar image/CSV asset files, which
+aren't manuals, and the two EZ-ACCESS pay-scale sheets (skipped per the
+human). The Harmar exclusion is stated as 17 files, but only 10 such
+files are on disk on this device; see the 2026-09-24 lint entry in the
+log.
 
 ## Ingestion backlog
 
