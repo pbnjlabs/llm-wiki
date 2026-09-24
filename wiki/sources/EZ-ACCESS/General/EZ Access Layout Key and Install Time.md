@@ -9,9 +9,10 @@ tags: [ez-access, install-time, labor, layout, pathway]
 
 # EZ Access Layout Key and Install Time
 
-One-page Visio sheet (revision date 7/10/19). No author is stated,
-but it is almost certainly an internal PMS/dealer document. It serves
-two purposes:
+One-page Visio sheet (revision date 7/10/19). **The author and origin
+are unknown.** It uses the same drawing style as
+[[EZ Access Parts and Pieces]], which is not a PMS document, so don't
+assume these times are PMS's own standard. It serves two purposes:
 
 1. **Layout key**: the drawing symbols used on ramp layout drawings for
    each component (closure/corner kits, threshold ramps, bridge plates,

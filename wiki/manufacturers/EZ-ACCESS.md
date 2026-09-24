@@ -28,7 +28,7 @@ Those are out of scope for this wiki and not documented here.
 
 Ingested so far:
 
-- **Two PMS/dealer reference sheets**: [[EZ Access Parts and Pieces]]
+- **Two reference sheets of unknown origin** (not PMS documents): [[EZ Access Parts and Pieces]]
   (2018) and [[EZ Access Layout Key and Install Time]] (2019).
 - **One manual**: the [[Pathway Modular Access System Assembly Manual]]
   (2015). It is branded "Pathway", not "3G", so it probably covers the

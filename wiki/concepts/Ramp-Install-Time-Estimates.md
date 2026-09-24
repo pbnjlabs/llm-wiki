@@ -5,8 +5,10 @@ tags: [ramp, install-time, labor, quoting, ez-access]
 
 # Ramp Install Time Estimates
 
-Standard install time per component for EZ-ACCESS jobs, from
-[[EZ Access Layout Key and Install Time]] (rev 7/10/19). To estimate a
+Install time per component for EZ-ACCESS jobs, from
+[[EZ Access Layout Key and Install Time]] (rev 7/10/19). **The sheet's
+origin is unknown and it isn't confirmed as PMS's own standard**, so
+check these times against PMS practice before quoting labor. To estimate a
 job, add up the components on the layout drawing. Times are per piece.
 
 ## Ramps, platforms, stairs ([[PATHWAY-3G]])

@@ -25,10 +25,9 @@ differ:
 |---|---|---|
 | Weight capacity | **850 lb**, residential use only | 1,000 lb ([[Different Types of Threshold Ramps]], 2021) |
 
-The PMS parts sheet [[EZ Access Parts and Pieces]] (2018) also says
-**850 lb**, so that is the figure PMS works to. Use the manual for
-assembly procedures and quote **850 lb** unless a 3G spec sheet says
-otherwise.
+The parts sheet [[EZ Access Parts and Pieces]] (2018, origin unknown)
+also says **850 lb**. Use the manual for assembly procedures and quote
+**850 lb** unless a 3G spec sheet says otherwise.
 
 ## Sizes and catalog ([[EZ Access Parts and Pieces]], 2018)
 
@@ -94,17 +93,17 @@ plastic, ½ in tall).
 
 **Bracing quantities**:
 
-- MUAB ("Moo-Abs") over 36 in: 4 per platform, 1 per ramp.
-- MUCB (5, 7 or 8) ("Muck-Bee") over 72 in: 4 per platform, 1 per ramp.
+- MUAB over 36 in: 4 per platform, 1 per ramp.
+- MUCB (5, 7 or 8) over 72 in: 4 per platform, 1 per ramp.
 
 **Connectors and handrail ends**:
 
-| Part | Nickname | Job |
+| Part | Name on the parts sheet | Job |
 |---|---|---|
 | MRRC | Ramp connector | Joins two ramps; legs vary |
 | MPPC | Platform connector | Joins two platforms of the same width |
 | MRHP | Ramp hangers | Ramp to platform |
-| MRHBPR | "Mr. Heeber" | Handrail bracket, used at the top and bottom of every run |
+| MRHBPR | Handrail end bracket | Handrail bracket, used at the top and bottom of every run |
 | MHRPRC | "Closure Kit" | Ramp handrail to platform post |
 | MHRRRC | "Corner Kit" | Ramp handrail to ramp handrail |
 | MRHRL | End loop | Extends **12 in**, which matches the ADA 12 in extension |
@@ -254,8 +253,9 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
   (2015, "Pathway", pre-3G branding)
 - [[Configuration Factors for Residential Ramp Systems]]: web article
 - [[Securing PATHWAY 3G Before a Storm]]: web article
-- [[EZ Access Parts and Pieces]]: PMS parts and sizes sheet (2018)
+- [[EZ Access Parts and Pieces]]: parts and sizes sheet (2018, origin
+  unknown)
 - [[EZ Access Layout Key and Install Time]]: layout symbols and install
-  times (2019)
+  times (2019, origin unknown)
 
 Related: [[EZ-ACCESS]], [[Ramp-Site-Planning]], [[ADA-Ramp-Requirements]]

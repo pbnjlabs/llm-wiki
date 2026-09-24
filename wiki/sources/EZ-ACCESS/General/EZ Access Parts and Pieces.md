@@ -10,12 +10,13 @@ tags: [ez-access, parts, pathway, transitions, suitcase, reference]
 # EZ Access Parts and Pieces
 
 One-page Visio quick-reference sheet (dated 9/12/2018) covering part
-numbers and sizes for the whole EZ-ACCESS range PMS installs. No author
-is stated. The part nicknames ("Moo-Abs" for the MUAB, "Muck-Bee" for
-the MUCB, "Mr. Heeber" for the MRHBPR) suggest an **internal dealer/PMS
-cheat sheet** rather than an EZ-ACCESS publication. Its figures come
-from field practice, so it is treated as more reliable than the blog
-articles for PMS work.
+numbers and sizes across the EZ-ACCESS range. **The author and origin
+are unknown.** It isn't a PMS document: the part nicknames printed on
+it ("Moo-Abs" for the MUAB, "Muck-Bee" for the MUCB, "Mr. Heeber" for
+the MRHBPR) aren't used at PMS, per the human (2026-09-24). It may be an
+EZ-ACCESS dealer or training sheet, but that is unconfirmed. Treat it
+as a parts reference with more detail than the blog articles but less
+authority than a manual.
 
 ## Covers
 

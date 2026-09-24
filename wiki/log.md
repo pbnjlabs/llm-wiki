@@ -738,3 +738,9 @@ Two one-page Visio sheets, read from rendered images because their extracted tex
 - [[SUITCASE-Ramps]]: 29.5 in width, weights by length, TLE lip 3 → 9 in.
 - The odd blog rise-to-length values remain unexplained (the Layout Key doesn't cover them); that lead is closed.
 - Pay-scale sheets skipped per the human.
+## [2026-09-24] update | Correction: the parts and layout-key sheets are not PMS documents
+The human doesn't recognize the part nicknames ("Moo-Abs", "Mr. Heeber"), so the earlier inference that [[EZ Access Parts and Pieces]] and [[EZ Access Layout Key and Install Time]] are internal PMS sheets was wrong. Both are now described as **origin unknown**.
+- Removed the "PMS working range" / "PMS sheet" wording from [[TRANSITIONS-Threshold-Ramps]]. The TAER range conflict (parts sheet vs. 2021 blog) is now marked unresolved, with the narrower parts-sheet ranges noted as the conservative choice.
+- Removed the nicknames from the [[PATHWAY-3G]] tables. They are mentioned only on the source page, as printed labels not used at PMS.
+- Added a caution to [[Ramp-Install-Time-Estimates]]: its times aren't confirmed as PMS's own standard.
+- Updated [[EZ-ACCESS]] and index.md to match.
