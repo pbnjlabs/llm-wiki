@@ -6,7 +6,8 @@ tags: [ramp, slope, planning, ez-access]
 # Ramp Slope and Length
 
 > **Wiki standard: 1:12 is the only acceptable slope.** Every inch of
-> rise needs 1 ft of ramp run. On an angle meter that reads **4.8°**.
+> rise needs 1 ft of ramp run. **The slope meter must read 4.8° or
+> less.** Source: the PMS [[Ramps Handbook]].
 > This holds for every access ramp and every customer, residential
 > included. The steeper ratios some EZ-ACCESS articles mention (1:10,
 > 1:8) are never recommended here.
@@ -19,7 +20,8 @@ tags: [ramp, slope, planning, ez-access]
 
 How to size a ramp from vertical rise, and how to check it in the field.
 Built from EZ-ACCESS web articles (see [[EZ-ACCESS]]) plus the
-standard above, which comes from Performance Medical Supply.
+standard above, which comes from Performance Medical Supply's
+[[Ramps Handbook]].
 
 ## The core math
 
@@ -27,13 +29,18 @@ standard above, which comes from Performance Medical Supply.
    starts to the top of the entry, porch or landing. Never estimate from
    step count, because step heights vary. If the ground slopes away from
    the house, the effective rise grows with distance.
-2. **Ramp run in feet = rise in inches.** A 24 in rise needs 24 ft of
-   ramp.
+2. **Ramp run in feet = rise in inches, rounded UP to the next whole
+   foot.** A 24 in rise needs 24 ft of ramp; a 28.5 in rise needs
+   **29 ft**. Rounding down makes the ramp too steep: 28 ft over
+   28.5 in is 4.85°, which fails the 4.8° limit. (The [[Ramps Handbook]]'s
+   own example and the EZ-ACCESS Incline Calculator both round this
+   case down to 28 ft; see the flag on the handbook's source page.)
 3. **Check the footprint.** If the straight run won't fit, add turns
    and platforms (a modular L, U or switchback layout). **Never make the
    ramp shorter and steeper to fit.**
 4. **Verify the installed ramp with an angle meter.** Each ramp run
-   should read **4.8°**. A higher reading means the run is too steep.
+   should read **4.8° or less**. A higher reading means the run is too
+   steep.
    Keep the run uniform, with no grade breaks inside a run, and a cross
    slope of 1:48 max (ADA). The PATHWAY manual's final checks include
    re-checking level and slope after assembly.
@@ -50,7 +57,7 @@ Step examples at ~7 in per step: 2 steps need ~14 ft, 3 need ~21 ft,
 | 12 in | 12 ft |
 | 18 in | 18 ft |
 | 24 in | 24 ft |
-| 30 in | 30 ft (ADA max rise per run; a landing is required after this) |
+| 30 in | 30 ft (max continuous ramp without a rest, per the PMS handbook and ADA) |
 | 36 in | 36 ft (needs at least one intermediate landing) |
 
 1:12 = 8.3 % grade = **4.8°**.

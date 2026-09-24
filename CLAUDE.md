@@ -125,7 +125,10 @@ source document. They override manuals and clippings alike, and every
 page they touch should state them.
 
 - **Ramp slope: 1:12 only.** Every inch of rise needs 1 ft of ramp run,
-  which reads 4.8° on an angle meter. This applies to residential ramps
+  rounded **up** to whole feet. The slope meter must read **4.8° or
+  less**. Source: PMS's own `MANUALS/Ramps/Ramps Handbook.docx` (wiki
+  page `Ramps Handbook`), which also sets PMS's ramp evaluation
+  procedure. This applies to residential ramps
   too. Never recommend a steeper ratio, even when a source allows one.
   **Exception:** SUITCASE folding ramps are temporary-use only (e.g.
   loading a scooter into a van) and are exempt from the 1:12 rule.

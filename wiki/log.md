@@ -744,3 +744,10 @@ The human doesn't recognize the part nicknames ("Moo-Abs", "Mr. Heeber"), so the
 - Removed the nicknames from the [[PATHWAY-3G]] tables. They are mentioned only on the source page, as printed labels not used at PMS.
 - Added a caution to [[Ramp-Install-Time-Estimates]]: its times aren't confirmed as PMS's own standard.
 - Updated [[EZ-ACCESS]] and index.md to match.
+## [2026-09-24] ingest | PMS — Ramps Handbook (Performance Medical Handbook: RAMPS, in-house training, created 2021-02-25, modified 2026-06-17)
+PMS's own ramp evaluation and design training document (docx author "PMS", ends with an employee training sign-off). It is the source of the 1:12 / 4.8° house standard and now the highest-authority ramp document in the wiki. Filed as [[Ramps Handbook]] under `sources/EZ-ACCESS/General/`, following the precedent of PMS's Harmar forms.
+- [[Ramp-Site-Planning]] now leads with the PMS evaluation procedure: start inside and meet the user (chair type/model, weight); fire-egress path through the house; 5 ft of level space at the exit door; five design rules; photos and cone layout.
+- The house standard is refined to "slope meter 4.8° **or less**", with a new rule to round the run **up** to whole feet. The rule is in CLAUDE.md and [[Ramp-Slope-and-Length]].
+- **Flag**: the handbook's own example (28.5 in rise → 28 ft, from an embedded EZ-ACCESS Incline Calculator screenshot) is 4.85°, over its own 4.8° limit. 29 ft gives 4.68°. Raised with the human; the raw source was not edited.
+- [[ADA-Ramp-Requirements]] now compares the handbook's "5 ADA guidelines" with the Access Board guide. The main difference is the handbook's minimum of one continuous handrail vs. ADA's both sides above 6 in of rise.
+- EZ-ACCESS / `MANUALS/Ramps/` is now fully ingested apart from the deliberately skipped pay scales.

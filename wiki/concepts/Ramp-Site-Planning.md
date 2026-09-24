@@ -10,6 +10,33 @@ Everything short of the slope math (for that, see
 from five EZ-ACCESS articles. Serves as a CSR intake script and a tech's
 site-survey checklist.
 
+## 0. PMS evaluation procedure ([[Ramps Handbook]]): this comes first
+
+PMS's own training handbook sets the order of work. Everything below it
+on this page supplements it.
+
+1. **Start inside the home, and meet the user.** Record the wheelchair
+   type (manual: what size; power: make and model) and the **user's
+   weight**.
+2. **Fire egress.** Walk the path from inside the house to the exit
+   door the ramp will serve. Look for narrow interior doorways, sunken
+   floors and obstructions. Evaluators often measure only the outside;
+   that is the common mistake.
+3. **5 ft of level in front of the exit door.** Design outward from the
+   door: 60 in of level, clear space, at least as wide as the ramp.
+   Deal with sunken porches, 4 in thresholds, railings and similar.
+4. **Design to the five PMS rules**:
+   - 1:12 on every ramp, with the slope meter at 4.8° or less
+   - 60 in level, clear space at the top and bottom of every run, as
+     wide as the ramp
+   - 60 in level, clear space at the door, as wide as the ramp
+   - no more than 30 ft of continuous ramp without a 60 in rest
+   - **at least one continuous handrail** with no gaps, spaces or stops
+5. **Photograph the whole area** and its obstructions (bushes, trees).
+   **Lay out the design with small cones** and photograph that.
+6. Building blocks: ramp sections 2–8 ft, platforms up to 8 × 5 ft (see
+   [[PATHWAY-3G]]).
+
 ## 1. Intake questions ([[Residential Ramps - Where Do I Begin]])
 
 - Which mobility device is used, and **will it change?** (A walker now

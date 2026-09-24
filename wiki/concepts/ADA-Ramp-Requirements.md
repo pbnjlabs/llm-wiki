@@ -95,6 +95,23 @@ top landing at least 36 in deep, parallel curb ramp landings at least
 warnings are required only at DOT transit facilities. This applies to
 sidewalk and site work, which PMS rarely does.
 
+## PMS handbook vs. ADA
+
+The PMS [[Ramps Handbook]] frames its five design rules as "ADA
+guidelines". They mostly match this guide. Differences:
+
+| Topic | PMS handbook | ADA (this guide) |
+|---|---|---|
+| Slope | 1:12, slope meter ≤ 4.8° | 1:12 max (1:10/1:8 allowed in some alterations) |
+| Landings | 60 in level at top and bottom of every run and at the door, **as wide as the ramp** | Level at top and bottom; **60 × 60 in** where the ramp changes direction |
+| Run limit | 30 ft of continuous ramp without a rest | 30 in max rise per run (the same thing at 1:12) |
+| Handrails | **At least one** continuous handrail | **Both sides** when the rise is over 6 in; 34–38 in high; 12 in extensions |
+
+The handbook's single-handrail minimum is below ADA's two-sided rule.
+That is fine for a private home, where ADA doesn't apply, but not for a
+public or commercial job. PATHWAY runs normally ship with a handrail
+pair per section anyway (see [[PATHWAY-3G]]).
+
 ## Does it apply to homes?
 
 ADA governs **public and commercial** facilities, not private homes. PMS
