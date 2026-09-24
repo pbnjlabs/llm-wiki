@@ -26,7 +26,7 @@ site-survey checklist.
 | Rise / need | Class | EZ-ACCESS product |
 |---|---|---|
 | Door threshold or track, up to ~6 in | Threshold | [[TRANSITIONS-Threshold-Ramps]] |
-| Short rise, travel/vehicle, frequent moves | Folding portable | [[SUITCASE-Ramps]] (2–10 ft) |
+| Temporary use only: vehicle loading, travel (exempt from 1:12) | Folding portable | [[SUITCASE-Ramps]] (2–10 ft) |
 | Short–moderate rise, home, occasional moves | Solid portable / semi-permanent | [[GATEWAY-3G]] (≤10 ft, optional rails) |
 | High porch, daily use, long runs | Modular | [[PATHWAY-3G]] |
 | Commercial / code compliance | Modular, code | [[PATHWAY-HD]] |
@@ -35,18 +35,19 @@ site-survey checklist.
 
 - **Rise**: measure the total rise, and check whether the ground slopes
   away. **Slope is always 1:12**: 1 ft of run per inch of rise, 4.8° on
-  an angle meter (see [[Ramp-Slope-and-Length]]).
+  an angle meter (see [[Ramp-Slope-and-Length]]). The only exception is
+  temporary-use [[SUITCASE-Ramps]].
 - **Run space**: yard, driveway, walkway and landscaping. Use existing
   grade to shorten the ramp.
 - **Shape**: straight, L, U or switchback to fit the space.
 - **Landings**: top, bottom, every turn, and no more than ~30 ft apart.
   A top platform gives a flush transition at the door. Check **door
   swing** and threshold height at the top.
-- **Entry door transition (field note from PMS).** Where the ramp or
-  threshold transition meets the door, you can sometimes remove the
-  transition's leveling feet to get the right height. Some entryways
-  still won't sit flush with the transition even then, so check this on
-  the site visit instead of assuming a flush fit.
+- **Entry door transition (field note from PMS).** At the door, the
+  [[TRANSITIONS-Threshold-Ramps]] Angled Entry Ramp's leveling feet can
+  sometimes be removed to get the right height. Some entryways still
+  won't sit flush with the transition, so check this on the site visit
+  instead of assuming a flush fit.
 - **Width**: size it to the device *plus a helper*. EZ-ACCESS
   residential ramps are 36 in or 48 in.
 - **Weight capacity**: user, device and helper together. TRANSITIONS

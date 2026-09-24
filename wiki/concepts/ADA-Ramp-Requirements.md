@@ -29,7 +29,8 @@ verify against the Standards and local code.
 ## Does it apply to homes?
 
 **Slope: yes, always.** The wiki standard is 1:12 (4.8°) for every
-ramp, home or commercial. The paragraph below applies only to the
+access ramp, home or commercial. The only exception is temporary-use
+[[SUITCASE-Ramps]]. The paragraph below applies only to the
 other ADA items.
 
 Usually not. Every EZ-ACCESS article says ADA applies to **public and

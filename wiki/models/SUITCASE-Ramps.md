@@ -8,7 +8,8 @@ tags: [ez-access, portable-ramp, folding-ramp, suitcase]
 # SUITCASE Folding Ramps
 
 EZ-ACCESS's aluminum folding portable ramps, for travel, vehicles and
-short or temporary rises. Lengths run **2–10 ft**.
+short or temporary rises. Lengths run **2–10 ft**. They are
+**temporary-use only**, for example loading a scooter into a van.
 
 | Variant | Fold |
 |---|---|
@@ -28,7 +29,11 @@ short or temporary rises. Lengths run **2–10 ft**.
 [[Different Types of Threshold Ramps]] (TRIFOLD AS to 10 ft),
 [[Wheelchair Ramp Slope Calculator Guide]].
 
-At the wiki's 1:12 standard, a 10 ft ramp covers only 10 in of rise.
-Never set a portable ramp steeper to reach a higher rise. See [[Ramp-Slope-and-Length]].
+**Exempt from the 1:12 house standard.** SUITCASE ramps are only for
+temporary use, such as loading a scooter into the back of a van, so the
+1:12 rule doesn't apply. Check the mobility device's rated max incline
+and owner's guide instead (see [[Ramp-Slope-and-Length]]). If one is
+being used as a home's everyday access ramp, 1:12 applies again, and
+[[GATEWAY-3G]] or [[PATHWAY-3G]] is usually the right product. See [[Ramp-Slope-and-Length]].
 
 Related: [[EZ-ACCESS]]

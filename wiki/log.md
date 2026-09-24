@@ -709,3 +709,8 @@ Direction from the human, recorded as a PMS house standard in CLAUDE.md.
 - Rewrote [[Ramp-Slope-and-Length]] around the standard. The articles' 1:10, 1:8, 1:6 and 1:4 guidance is now marked superseded, and 4.8° angle-meter verification was added.
 - Updated [[ADA-Ramp-Requirements]], [[Ramp-Site-Planning]], [[SUITCASE-Ramps]], [[EZ-ACCESS]], and two source pages.
 - Added the field note to [[Ramp-Site-Planning]] and [[TRANSITIONS-Threshold-Ramps]]: the entry door transition's leveling feet can sometimes be removed to get the right height, but some entryways still won't sit flush with the transition.
+## [2026-09-24] update | Ramp slope standard: SUITCASE ramps exempt from 1:12; leveling-feet note pinned to the Angled Entry Ramp
+Clarification from the human.
+- SUITCASE folding ramps are temporary-use only (e.g. loading a scooter into a van), so the 1:12 rule doesn't apply to them. For those ramps, the device's rated incline is the relevant limit.
+- Updated CLAUDE.md, [[Ramp-Slope-and-Length]], [[SUITCASE-Ramps]], [[Ramp-Site-Planning]] and [[ADA-Ramp-Requirements]].
+- The door-transition leveling-feet note is confirmed to refer to the TRANSITIONS Angled Entry Ramp. Its wording on [[Ramp-Site-Planning]] and [[TRANSITIONS-Threshold-Ramps]] now names that product.

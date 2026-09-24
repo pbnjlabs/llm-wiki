@@ -7,9 +7,13 @@ tags: [ramp, slope, planning, ez-access]
 
 > **Wiki standard: 1:12 is the only acceptable slope.** Every inch of
 > rise needs 1 ft of ramp run. On an angle meter that reads **4.8°**.
-> This holds for every ramp and every customer, residential included.
-> The steeper ratios some EZ-ACCESS articles mention (1:10, 1:8) are
-> never recommended here.
+> This holds for every access ramp and every customer, residential
+> included. The steeper ratios some EZ-ACCESS articles mention (1:10,
+> 1:8) are never recommended here.
+>
+> **Exception: [[SUITCASE-Ramps]].** These folding ramps are only for
+> temporary use, such as loading a scooter into the back of a van, so
+> the 1:12 rule doesn't apply to them. See "SUITCASE ramps" below.
 
 How to size a ramp from vertical rise, and how to check it in the field.
 Built from EZ-ACCESS web articles (see [[EZ-ACCESS]]) plus the
@@ -69,12 +73,29 @@ The articles also repeat two cautions: check the device owner's guide
 for chair direction on ramps, and "at any incline, use the ramp only
 with a qualified helper."
 
+## SUITCASE ramps (exempt from 1:12)
+
+[[SUITCASE-Ramps]] are for temporary use only, such as loading a
+scooter into a van. They are not a home's permanent access ramp, so the
+1:12 standard doesn't apply. The wiki sets no ratio for them yet. The
+limits that matter are:
+
+- The ramp's own rating from EZ-ACCESS (not yet in the wiki).
+- The device's rated max incline (table below).
+- The device owner's guide on driving direction on ramps, plus
+  EZ-ACCESS's rule to use the ramp only with a qualified helper.
+
+If a customer needs a SUITCASE ramp as everyday access to the home,
+it's being used as an access ramp, and the 1:12 standard applies (or
+they need a different product: see [[Ramp-Site-Planning]]).
+
 ## Device incline ratings vs. 1:12
 
 These are the max-incline ratings already recorded on the model pages.
 Every rated device in the wiki handles a 1:12 (4.8°) ramp with margin.
 Even so, a device's rating is a performance limit and never a reason to
-build steeper than 1:12.
+build an access ramp steeper than 1:12. On a steeper SUITCASE loading
+setup, these ratings are the relevant limit.
 
 | Device | Rated max incline |
 |---|---|
