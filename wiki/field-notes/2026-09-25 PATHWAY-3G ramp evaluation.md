@@ -126,9 +126,11 @@ Depends on the entry. A home has one of three:
 
 ### Handrail width
 
-- Tool:
-- From / to:
-- Method:
+- Tool: **measuring tape**.
+- Which handrails: the ones **along the steps leading up to the porch**,
+  or the ones **on either side of the porch entry**.
+- From / to: **inside edge to inside edge**.
+- Method: measure at several points and record the **narrowest**.
 - Snags:
 
 ### Grade variation (line level, porch corner to proposed landing)
@@ -208,6 +210,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Out-swinging door → porch or first platform must be 60 × 60 in.**
   Check the bottom of the storm door: if it hangs below the outer
   threshold, plan to remove it.
+- **Handrail width: inside edge to inside edge, at the narrowest
+  point**, on the step handrails or the rails beside the porch entry.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.

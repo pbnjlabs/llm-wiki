@@ -814,3 +814,5 @@ Depth is measured from the threshold; door location is sketched on the map sheet
 Tape, door fully open, inside jamb to inside jamb. Record swing for both the main and storm door (often one in, one out).
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: door swing and storm door (open)
 An out-swinging door is why the porch or first platform must be 60 x 60 in. Storm doors are removed mainly when they hang lower than the outer threshold.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: handrail width method (open)
+Tape, inside edge to inside edge, recording the narrowest point; applies to step handrails or rails beside the porch entry.
