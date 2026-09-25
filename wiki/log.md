@@ -810,3 +810,5 @@ Per the human: a home has steps up to a porch, steps straight up to the outer th
 Tape; depth from the front door to the porch edge, width edge to edge, both to the inside edges of any handrails or posts.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch depth start point, door location (open)
 Depth is measured from the threshold; door location is sketched on the map sheet.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: door width and swing method (open)
+Tape, door fully open, inside jamb to inside jamb. Record swing for both the main and storm door (often one in, one out).

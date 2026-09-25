@@ -108,9 +108,14 @@ Depends on the entry. A home has one of three:
 
 ### Door width and swing
 
-- Tool:
-- From / to:
-- Method:
+- Tool: **measuring tape**.
+- From / to: **inside door jamb to inside door jamb**.
+- Method: open the door **fully**, then measure across the jambs.
+- Swing: record it for **each door**. Many homes have a **main door and
+  a storm door**, so often one swings **in** and the other swings
+  **out**.
+  - Main door: in / out
+  - Storm door: in / out / none
 - Snags:
 
 ### Handrail width
@@ -191,6 +196,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   higher" means.
 - **Porch depth and width are measured to the inside edges of any
   handrails or posts**, not to the outer edge of the porch deck.
+- **Door width: door fully open, inside jamb to inside jamb.** Check
+  for a storm door and record the swing of both doors; usually one
+  swings in and one swings out.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
