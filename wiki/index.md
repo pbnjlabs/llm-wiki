@@ -171,7 +171,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
-| Ramp site planning (**PMS evaluation procedure from the Ramps Handbook**: start inside, fire egress, 5 ft level at the door, five design rules; PMS evaluation form's total-rise formula and photo list; plus intake questions, product picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
+| Ramp site planning (**PMS evaluation procedure from the Ramps Handbook**: start inside, fire egress, 5 ft level at the door, five design rules; PMS evaluation form's total-rise formula and photo list; **PMS measurement methods** (tape, pen trick, laser-level total rise, cone layout, landing surfaces); plus intake questions, product picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
 | Ramp install time estimates (per-component labor minutes from the layout-key sheet, origin unknown, with a worked example) | [[Ramp-Install-Time-Estimates]] |
 
 Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics

@@ -65,28 +65,35 @@ Inside:
       interior doors, sunken floors, obstructions inside the door
       (Y / N): ___
 
-Door and porch (form fields):
+Door and porch (form fields). Methods: [[Ramp-Site-Planning]], "PMS
+measurement methods". All with a **measuring tape**.
 
-| Item | Value |
-|---|---|
-| Porch? | Y / N |
-| Porch height (if porch) | ___ in |
-| Height to bottom of door (if no porch) | ___ in |
-| Step rise (C): steps straight to the threshold, or SUITCASE over porch steps; otherwise 0 | ___ in |
-| Threshold height, inside | ___ in |
-| Threshold height, outside (H) | ___ in |
-| Door swing | in / out |
-| Door width | ___ in |
-| Porch depth × width | ___ × ___ in |
-| Door location on porch | ___ (map) |
-| Handrails? Width between them | Y / N, ___ in |
+| Item | How | Value |
+|---|---|---|
+| Entry type | steps to porch / steps to threshold / no steps | ___ |
+| Threshold height, outside (H) | Closest solid surface (porch, top step or ground) to top of threshold | ___ in |
+| Threshold height, inside | **Bare** interior floor (move rugs/mats) to top of threshold | ___ in |
+| Porch height (E) | Ground to top of porch, on the **edge the first platform connects to**, at the **lowest ground point** along that edge | ___ in |
+| No porch: ground to threshold | Ground to top of threshold (already includes H) | ___ in |
+| Step rise (C) | Steps straight to the threshold only; SUITCASE over porch steps per manufacturer; otherwise 0 | ___ in |
+| Porch depth | Threshold to porch edge, to inside of any rails/posts | ___ in |
+| Porch width | Edge to edge, to inside of any rails/posts | ___ in |
+| Door location on porch | Sketch on the map sheet | (map) |
+| Door width | Door **fully open**, inside jamb to inside jamb | ___ in |
+| Door swing, main door | | in / out |
+| Door swing, storm door | Storm door hangs below the outer threshold? → plan to remove it | in / out / none |
+| Handrail width | Step rails or rails beside the porch entry, inside edge to inside edge, at the **narrowest point** (usually top or bottom of the stairs) | ___ in |
 
-- [ ] **60 in level, clear space at the door**, as wide as the ramp:
-      available? ___
+Tip: if the tape is hard to read at the threshold, **balance a pen on
+the threshold** and read where it crosses the tape. Photograph it that
+way.
 
-Yard and site:
+- [ ] **60 × 60 in level, clear space at the door** (needed for an
+      out-swinging door): porch big enough? Y / N
 
-- [ ] **Grade and total rise with the laser level:**
+Grade and total rise:
+
+- [ ] **Laser level:**
       1. Set the laser level on the **porch corner** and make sure it is
          **level**.
       2. Aim it at the general area where the ramp will land, typically
@@ -96,22 +103,36 @@ Yard and site:
       4. Grade = reading − porch height: ___ in. More than the porch
          height means the ground goes **down** (add); less means it goes
          **up** (subtract). Ignore the laser's own height.
-- [ ] Surface where the ramp will land: concrete / pavers / grass /
-      soft soil (soft soil → feet on concrete pads)
-- [ ] Where the customer parks: ___ (map)
-- [ ] Run space available: ___ ft straight / ___ ft to obstruction
-- [ ] Side clearance measured against the full footprint (44 in for a
-      36 in PATHWAY): ___ in
-- [ ] 60 in level landing available at the bottom: Y / N
-- [ ] Gap between porch and top platform: ___ in (½ in max tie-strap;
-      up to 6 in takes a bridge plate)
-- [ ] **Obstructions mapped** (trees, shrubs, lawn ornaments,
-      mailboxes, power poles, awnings, AC units): ___
-- [ ] **Underground utilities** located before any augers or ground rod
+
+Layout (in this order):
+
 - [ ] **Service access points found and kept clear (house standard):**
       septic tank access ___, main water shut-off valve ___, plumbing
       clean-out ___
+- [ ] **Underground utilities** located before any augers or ground rod
+- [ ] Where the customer parks (or wants to land): ___ (map)
+- [ ] **First platform location:** porch at least 60 × 60 in → ramp can
+      come straight off the porch; otherwise a first platform off the
+      porch. Place it for the **shortest, most direct ramp** to where
+      the customer parks or wants to land: ___
+- [ ] **Mark the first platform with 4 cones in a 60 × 60 in square**
+- [ ] **Run:** tape from the platform's cone edge toward the landing
+      (run in ft = total rise in in, rounded up) and **cone the end**:
+      ___ ft
+- [ ] **More platforms?** Run over 30 ft (rest) or the ramp turns
+      (turn): ___ (cone each one)
+- [ ] **Side clearance** along the run, against the full footprint (44
+      in for a 36 in PATHWAY): ___ in. Trees, gazebo, fencing: move it
+      if movable, otherwise build around it: ___
+- [ ] Gap between porch and top platform: ___ in (½ in max tie-strap;
+      up to 6 in takes a bridge plate)
+- [ ] 60 in level landing at the bottom: Y / N
+- [ ] **Landing surface:** concrete (good) / grass (OK, add an
+      EZ-ACCESS MLP landing pad, likely 5 × 5 ft) / rooty ground (avoid;
+      dig out roots if no choice) / other: ___
 - [ ] Bushes to remove / porch handrails to modify: ___
+- [ ] **Obstructions mapped** (trees, shrubs, lawn ornaments,
+      mailboxes, power poles, awnings, AC units): ___
 - [ ] Storm-prone site? Tie-downs needed: Y / N
 - [ ] Existing railings, steps or structures to remove or work around: ___
 
@@ -120,7 +141,9 @@ Photos (missing ones can delay the quote):
 - [ ] Entire yard
 - [ ] Door, preferably open
 - [ ] At least two angles showing parking relative to the ramp
-- [ ] **Layout marked with cones**
+- [ ] Threshold heights, with the pen on the threshold
+- [ ] **The cones laid out**: first platform square, end of each run,
+      any extra platforms
 
 ## Root cause
 

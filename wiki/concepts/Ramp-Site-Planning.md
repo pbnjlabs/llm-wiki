@@ -33,7 +33,8 @@ on this page supplements it.
    - no more than 30 ft of continuous ramp without a 60 in rest
    - **at least one continuous handrail** with no gaps, spaces or stops
 5. **Photograph the whole area** and its obstructions (bushes, trees).
-   **Lay out the design with small cones** and photograph that.
+   **Lay out the design with small cones** and photograph that. (See
+   "PMS measurement methods" below for how.)
 6. Building blocks: ramp sections 2–8 ft, platforms up to 8 × 5 ft (see
    [[PATHWAY-3G]]).
 7. **Fill in the [[PMS Ramp Site Evaluation Form]] (Part A).** Enter 0
@@ -72,6 +73,77 @@ on this page supplements it.
    Map obstructions, the door and parking on the map sheet. Photos: the entire yard, the door (open), and at least two
    angles showing parking relative to the ramp. **Missing information
    can delay the quote.**
+
+## PMS measurement methods
+
+How PMS evaluators take each measurement on the
+[[PMS Ramp Site Evaluation Form]]. This is PMS field practice from the
+human, first written up in [[2026-09-25 PATHWAY-3G ramp evaluation]], and
+adopted here as the house method. The ramp evaluation template
+(`field-notes/Templates/`) follows it.
+
+### Door and porch (measuring tape)
+
+- **Threshold height, outside (H):** from the **closest solid
+  surface** below it (porch, top step or ground) to the top of the
+  threshold.
+- **Threshold height, inside:** from the **bare interior floor**.
+  Move any rug or mat first.
+- **Hard to read?** Balance a **pen on the threshold** and read the
+  tape where it crosses. This also makes the photo readable.
+- **Porch height (E):** from the ground to the top of the porch, on the
+  **edge where the first platform will connect** (a reading from
+  another side is wrong), at the **lowest ground point** along that
+  edge. It sets the **leg height** and the rise. No porch: measure from
+  the ground to the threshold.
+- **Step rise (C):** only when steps lead straight to the threshold
+  (no porch). Steps up to a porch aren't measured, except for a
+  [[SUITCASE-Ramps]] over them, which follows the manufacturer's
+  guidelines.
+- **Porch depth:** from the threshold to the porch edge. **Porch
+  width:** edge to edge. Both to the **inside edges of any handrails
+  or posts**. Sketch the door's location on the map sheet.
+- **Door width:** door **fully open**, inside jamb to inside jamb.
+- **Door swing:** record **both** the main door and any storm door;
+  often one swings in and one out. An **out-swinging door is why the
+  porch or first platform must be 60 × 60 in**. PMS removes a storm
+  door mainly when it **hangs lower than the outer threshold**.
+- **Handrail width:** the step handrails or the rails beside the porch
+  entry, inside edge to inside edge, at the **narrowest point**
+  (usually the top or bottom of the stairs, e.g. fanned or decorative
+  stairs). Existing handrails can limit the ramp's width.
+
+### Total rise (laser level)
+
+See step 7 of section 0 above: laser level on the porch corner, set
+level, aimed at the landing; tape down from the laser line. **That
+reading is the ramp's total rise; record it.**
+
+### Layout (tape and cones)
+
+1. Find the **septic tank access, main water shut-off valve and
+   plumbing clean-out**, and keep the ramp off them (house standard;
+   see section 3).
+2. **Place the first platform.** A porch of **at least 60 × 60 in**
+   can take the ramp directly. Otherwise the first run starts from a
+   platform off the porch. Place it for the **shortest, most direct
+   ramp** to where the customer **parks** (or wants to land).
+3. **Mark it with 4 cones in a 60 × 60 in square.**
+4. **Tape from the cone edge toward the landing** for the run length
+   (total rise in inches = run in feet, rounded up), and **cone the
+   end**.
+5. **Add platforms** where the run would exceed **30 ft** or the ramp
+   **turns**.
+6. **Side clearance:** usually trees, a gazebo or fencing. **Move it
+   if it can be moved; otherwise build around it.**
+7. **Landing surface:** **concrete** is good. **Grass** is acceptable
+   with an EZ-ACCESS **MLP landing pad** (most likely 5 × 5 ft; see
+   [[PATHWAY-3G]]). **Rooty ground**: avoid it; if there's no other
+   choice, dig out the roots.
+8. **Photograph the cones laid out**, along with the form's photo list.
+
+Common site work to plan for: removing bushes, and modifying existing
+porch handrails where the platform connects.
 
 ## 1. Intake questions ([[Residential Ramps - Where Do I Begin]])
 
