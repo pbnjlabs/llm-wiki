@@ -96,12 +96,14 @@ Depends on the entry. A home has one of three:
 
 - Tool: **measuring tape**.
 - From / to:
-  - **Depth:** from the **front door** to the **edge of the porch**.
+  - **Depth:** from the **front door's threshold** to the **edge of
+    the porch**.
   - **Width:** from **edge to edge** of the porch.
   - Where the porch has **handrails or posts**, measure to their
     **inside edges**, not the outer edge of the porch.
 - Method: measure depth, then width, with the tape.
-- Door location on porch: ___
+- Door location on porch: **sketched on the map sheet**, not
+  measured.
 - Snags:
 
 ### Door width and swing

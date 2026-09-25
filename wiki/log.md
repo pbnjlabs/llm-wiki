@@ -808,3 +808,5 @@ Per the human: (1) House standard: never build a ramp over a septic tank access,
 Per the human: a home has steps up to a porch, steps straight up to the outer threshold, or no steps. Initial rise is porch height, step rise, or 0 respectively (porch steps still only matter for SUITCASE). Replaced the earlier blanket "steps don't count" wording on [[Ramp-Site-Planning]], [[Ramp-Slope-and-Length]], [[PMS Ramp Site Evaluation Form]], the template and the field note.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch depth and width method (open)
 Tape; depth from the front door to the porch edge, width edge to edge, both to the inside edges of any handrails or posts.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch depth start point, door location (open)
+Depth is measured from the threshold; door location is sketched on the map sheet.
