@@ -79,10 +79,10 @@ first platform, and it feeds **total rise**.
 
 ### Step rise (C)
 
-- Tool:
-- From / to:
-- Method:
-- Snags:
+- **Not measured for a PATHWAY ramp.** The steps leading up to the
+  porch don't matter; porch height is what counts.
+- Only for a [[SUITCASE-Ramps]] over the steps, and then **follow the
+  manufacturer's guidelines**.
 
 ### Porch depth and width, door location on porch
 
@@ -141,8 +141,7 @@ first platform, and it feeds **total rise**.
 
 How total rise was worked out from the measurements above:
 
-**Total rise = exterior threshold (H) + initial rise (C or E,
-whichever is higher) ± grade** (subtract if the grade goes up, add if
+**Total rise = exterior threshold (H) + porch height (E) ± grade** (subtract if the grade goes up, add if
 it goes down). See [[Ramp-Slope-and-Length]].
 
 - How H, C/E and the grade were combined here, and any judgment calls:
@@ -161,6 +160,8 @@ None yet (evaluation only).
 
 Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 
+- **Steps up to the porch don't count** for a PATHWAY ramp; only a
+  SUITCASE ramp over them, per the manufacturer's guidelines.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
@@ -173,7 +174,7 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   a reading from another side of the porch is wrong.
 - **Before laying out the ramp, find the septic tank access, main
   water shut-off valve and plumbing clean-out, and keep the ramp off
-  them.** Also plan for bushes to remove and porch handrails to modify
+  them.** Now a **house standard** (see [[Ramp-Site-Planning]]). Also plan for bushes to remove and porch handrails to modify
   where the platform connects.
 
 ## See also

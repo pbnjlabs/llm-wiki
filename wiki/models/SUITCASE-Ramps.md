@@ -50,4 +50,9 @@ and owner's guide instead (see [[Ramp-Slope-and-Length]]). If one is
 being used as a home's everyday access ramp, 1:12 applies again, and
 [[GATEWAY-3G]] or [[PATHWAY-3G]] is usually the right product. See [[Ramp-Slope-and-Length]].
 
+**Step rise (PMS).** Steps leading up to a porch only matter for a
+SUITCASE ramp laid over them. Measure and size it by **the
+manufacturer's guidelines**, not the PMS porch-height method used for
+PATHWAY (see [[Ramp-Site-Planning]]).
+
 Related: [[EZ-ACCESS]]

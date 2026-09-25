@@ -38,8 +38,13 @@ on this page supplements it.
    [[PATHWAY-3G]]).
 7. **Fill in the [[PMS Ramp Site Evaluation Form]] (Part A).** Enter 0
    for any measurement that doesn't apply. Total rise = **exterior
-   threshold + initial rise (steps or porch, whichever is higher) ±
-   grade variation**. Measure grade with a **line level from the porch
+   threshold + porch height ± grade variation**. **Steps leading up to
+   the porch don't count** for a PATHWAY ramp (PMS house rule); they only
+   matter for a [[SUITCASE-Ramps]] over the steps, which follows the
+   manufacturer's guidelines. (The form itself says "steps or porch,
+   whichever is higher".) Measure porch height from the ground on the
+   edge where the first platform connects, at the lowest point along
+   that edge. Measure grade with a **line level from the porch
    corner to the proposed landing**: subtract if the grade goes up, add
    if it goes down. Map obstructions, the door and parking on the map
    sheet. Photos: the entire yard, the door (open), and at least two
@@ -103,6 +108,12 @@ on this page supplements it.
   transition) or 8° (lower transition + support top) in plan view.
 - **Underground utilities**: locate them before driving tie-down augers
   or a ground rod.
+- **Never build over service access points (PMS house standard).**
+  Keep the ramp, platforms and legs off the **septic tank access**, the
+  **main water line shut-off valve** and any **plumbing clean-out**.
+  Find them on the site visit, before laying out the ramp. Common
+  related work: removing bushes and modifying existing porch handrails
+  where the platform connects.
 - **Headroom and obstructions**: awnings, AC units, window boxes.
 - **Route**: to the driveway or parking, not just to the door.
 - **Handrails**: on both sides when the rise is over 6 in, 34–38 in

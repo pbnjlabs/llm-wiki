@@ -30,8 +30,9 @@ standard above, which comes from Performance Medical Supply's
    step count, because step heights vary. If the ground slopes away from
    the house, the effective rise grows with distance.
    PMS formula ([[PMS Ramp Site Evaluation Form]]): **exterior threshold
-   + initial rise (steps or porch, whichever is higher) ± grade
-   variation**. Grade is measured with a line level from the porch
+   + porch height ± grade variation**. Steps up to the porch don't count
+   (PMS house rule) except for a [[SUITCASE-Ramps]] over the steps,
+   which follows the manufacturer's guidelines. Grade is measured with a line level from the porch
    corner to the proposed landing: subtract if it goes up, add if it
    goes down.
 2. **Ramp run in feet = rise in inches, rounded UP to the next whole

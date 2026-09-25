@@ -72,7 +72,7 @@ Door and porch (form fields):
 | Porch? | Y / N |
 | Porch height (if porch) | ___ in |
 | Height to bottom of door (if no porch) | ___ in |
-| Step rise, if steps are higher than the porch (C) | ___ in |
+| Step rise (C): **SUITCASE only**, per manufacturer; otherwise 0 | ___ in |
 | Threshold height, inside | ___ in |
 | Threshold height, outside (H) | ___ in |
 | Door swing | in / out |
@@ -100,6 +100,10 @@ Yard and site:
 - [ ] **Obstructions mapped** (trees, shrubs, lawn ornaments,
       mailboxes, power poles, awnings, AC units): ___
 - [ ] **Underground utilities** located before any augers or ground rod
+- [ ] **Service access points found and kept clear (house standard):**
+      septic tank access ___, main water shut-off valve ___, plumbing
+      clean-out ___
+- [ ] Bushes to remove / porch handrails to modify: ___
 - [ ] Storm-prone site? Tie-downs needed: Y / N
 - [ ] Existing railings, steps or structures to remove or work around: ___
 
@@ -114,14 +118,16 @@ Photos (missing ones can delay the quote):
 
 Measurements and slope math ([[Ramp-Slope-and-Length]]):
 
-**Total rise = exterior threshold (H) + initial rise (steps C or porch E,
-whichever is higher) ± grade** (subtract if the grade goes up, add if
-it goes down).
+**Total rise = exterior threshold (H) + porch height (E) ± grade**
+(subtract if the grade goes up, add if it goes down). Steps up to the
+porch don't count except for a SUITCASE ramp over them.
+Porch height: from the ground, on the edge where the first platform
+connects, at the lowest point along that edge.
 
 | Item | Value |
 |---|---|
 | Exterior threshold (H) | ___ in |
-| Initial rise (C or E) | ___ in |
+| Porch height (E) | ___ in |
 | Grade variation (±) | ___ in |
 | **Total rise** | ___ in |
 | Ramp run needed at 1:12 (rise in inches → feet, **round up**) | ___ ft |
