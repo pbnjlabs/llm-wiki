@@ -19,7 +19,7 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 - Options: **iLevel** power seat elevator.
 - Controller: joystick part # **CTL143976**. Family (Q-Logic 3 or other)
   TBD; the Stretto ships with Q-Logic 3.
-- Serial: **JE702226191020**. Customer ref: TBD
+- Serial: **JE702226191020**
 
 ## Symptom
 

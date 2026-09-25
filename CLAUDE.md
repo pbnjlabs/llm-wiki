@@ -144,6 +144,9 @@ Frontmatter: `type: field-note`, `manufacturer`, `model`, `date` (the job
 date), `status: open | resolved`, and `tags`. Sections: Unit, Symptom,
 Checked, Root cause, Fix, Parts used, Takeaways, See also. Start the note
 as soon as the human describes the job, and fill it in as they report back.
+**No customer information in field notes:** no customer names, addresses,
+phone numbers or other customer references. Identify the unit by model and
+serial number only.
 
 Link each note from its model page (under a `## Field notes` section),
 from any troubleshooting source or concept page it used, and from the
