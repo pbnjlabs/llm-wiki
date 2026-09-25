@@ -58,6 +58,11 @@ From the form's Total Rise Diagram:
   - **Steps straight up to the outer threshold (no porch):** initial
     rise is the **step rise (C)**.
   - **No steps:** initial rise is 0.
+- **PMS clarification (2026-09-25): threshold (H).** In practice the
+  ramp's total rise is **porch height ± grade** (the laser-level
+  reading), without H. The threshold is handled at the door, e.g. with a
+  threshold ramp. Exception: when the first platform is built on the
+  porch flush with the threshold, add H.
 - Reminders on the form: 1 in of rise needs 1 ft of ramp, and a ramp
   can't run more than 30 ft without a platform break.
 

@@ -126,9 +126,16 @@ Photos (missing ones can delay the quote):
 
 Measurements and slope math ([[Ramp-Slope-and-Length]]):
 
-**Total rise = exterior threshold (H) + initial rise ± grade**
-(subtract if the grade goes up, add if it goes down). Initial rise
-depends on the entry:
+**Ramp total rise = initial rise ± grade** (subtract if the grade goes
+up, add if it goes down). With a porch, this is the **laser-level
+reading**. The exterior threshold (H) is **not** included:
+
+- **Usually:** the threshold is handled **at the door**, e.g. with a
+  threshold ramp ([[TRANSITIONS-Threshold-Ramps]]).
+- **Sometimes:** the **first platform is built on the porch, flush with
+  the threshold**. Then add H: ramp total rise = laser reading + H.
+
+Initial rise depends on the entry:
 
 - **Steps up to a porch:** porch height (E). The steps don't count
   (except for a SUITCASE ramp over them, per the manufacturer). Porch
@@ -141,6 +148,7 @@ depends on the entry:
 | Item | Value |
 |---|---|
 | Exterior threshold (H) | ___ in |
+| Threshold handled by | threshold ramp at door / first platform on porch, flush (add H) |
 | Entry type | steps to porch / steps to threshold / no steps |
 | Initial rise (E, C or 0) | ___ in |
 | Grade variation (±) (laser reading − porch height) | ___ in |

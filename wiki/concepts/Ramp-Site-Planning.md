@@ -37,10 +37,20 @@ on this page supplements it.
 6. Building blocks: ramp sections 2–8 ft, platforms up to 8 × 5 ft (see
    [[PATHWAY-3G]]).
 7. **Fill in the [[PMS Ramp Site Evaluation Form]] (Part A).** Enter 0
-   for any measurement that doesn't apply. Total rise = **exterior
-   threshold (H) + initial rise ± grade variation**. The form's "steps
-   or porch, whichever is higher" means the initial rise depends on the
-   entry (PMS clarification):
+   for any measurement that doesn't apply.
+
+   **Ramp total rise = initial rise ± grade variation** (PMS practice;
+   with a porch, this is the laser-level reading below). The form adds
+   the exterior threshold (H), but PMS handles the threshold separately:
+   - **Usually:** the threshold is dealt with **at the door**, e.g. with
+     a [[TRANSITIONS-Threshold-Ramps]] threshold ramp. H is not part of
+     the ramp's rise.
+   - **Sometimes:** the **first platform is built on the porch, flush
+     with the threshold**. Then the ramp starts at threshold height, so
+     add H: ramp total rise = laser reading + H.
+
+   The form's "steps or porch, whichever is higher" means the initial
+   rise depends on the entry (PMS clarification):
    - **Steps up to a porch:** initial rise = **porch height (E)**. The
      steps themselves don't count, except for a [[SUITCASE-Ramps]] over
      them, which follows the manufacturer's guidelines. Measure porch
@@ -52,10 +62,14 @@ on this page supplements it.
      includes H; don't add it twice.)
    - **No steps:** initial rise = 0. H is measured from the ground.
 
-   Measure grade from the porch corner to the proposed landing with a
-   **laser level** (the form calls it a "line level"; PMS uses a laser
-   level): subtract if the grade goes up, add if it goes down. Map obstructions, the door and parking on the map
-   sheet. Photos: the entire yard, the door (open), and at least two
+   **Laser-level method** (the form calls it a "line level"): set the
+   laser level on the porch corner, make sure it's level, and aim it
+   at where the ramp will land (usually near parking). Tape down from
+   the laser line to the ground. **That reading is the ramp's total
+   rise; record it.** Grade = reading − porch height (more: the ground
+   drops, add; less: it rises, subtract). Ignore the laser's own height.
+
+   Map obstructions, the door and parking on the map sheet. Photos: the entire yard, the door (open), and at least two
    angles showing parking relative to the ramp. **Missing information
    can delay the quote.**
 
