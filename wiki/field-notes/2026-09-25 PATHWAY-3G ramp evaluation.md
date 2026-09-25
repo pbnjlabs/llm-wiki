@@ -94,9 +94,14 @@ Depends on the entry. A home has one of three:
 
 ### Porch depth and width, door location on porch
 
-- Tool:
+- Tool: **measuring tape**.
 - From / to:
-- Method:
+  - **Depth:** from the **front door** to the **edge of the porch**.
+  - **Width:** from **edge to edge** of the porch.
+  - Where the porch has **handrails or posts**, measure to their
+    **inside edges**, not the outer edge of the porch.
+- Method: measure depth, then width, with the tape.
+- Door location on porch: ___
 - Snags:
 
 ### Door width and swing
@@ -182,6 +187,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   ramp), steps straight up to the threshold (use step rise), or no
   steps (0). This is what the form's "steps or porch, whichever is
   higher" means.
+- **Porch depth and width are measured to the inside edges of any
+  handrails or posts**, not to the outer edge of the porch deck.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
