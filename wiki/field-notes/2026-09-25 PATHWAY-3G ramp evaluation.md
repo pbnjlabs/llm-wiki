@@ -56,10 +56,12 @@ Same method for both sides of the door.
 
 ### Porch height (E), or height to bottom of door if no porch
 
-- Tool:
-- From / to:
-- Method:
+- Tool: **measuring tape**.
+- From / to: from the **ground** up to the **top of the porch
+  surface**.
+- Method: measure the porch height with the tape.
 - Snags:
+- No porch (height to bottom of door): ___
 
 ### Step rise (C)
 
