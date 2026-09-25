@@ -204,7 +204,7 @@ checks, root cause, fix, parts). Manuals still win on specs and procedures.
 
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
-| 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
+| 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | open (post-swap check) | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
 
 ## Sources
 

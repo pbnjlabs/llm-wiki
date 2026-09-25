@@ -778,3 +778,5 @@ Investigated the discrepancy flagged earlier today. All 10 Harmar image/CSV asse
 Started the first field note and the new `field-notes/` section. Linked it from [[Q6-Edge-3-Stretto]] (the closest model page, since there's no standard Edge 3 page), from [[Q6 Edge Basic Troubleshooting]] and from index.md. The root cause and fix are still TBD.
 ## [2026-09-25] field-note | Pride Q6 Edge 3 (standard) + iLevel — completely dark, no power (resolved)
 Return visit: the function test passed and all functions work. Marked the note resolved in the note, index.md and [[Q6-Edge-3-Stretto]]. Why the old batteries ran down is still unknown, and the list of things to rule out stays in the note.
+## [2026-09-25] field-note | Pride Q6 Edge 3 (standard) + iLevel — frayed joystick cable, joystick replaced (open)
+The charger completed a full cycle on the new batteries. The joystick cable was frayed, so the joystick is being replaced with the same part (CTL143976), with the old joystick's SD card moved to the new one to keep the customer's config. Reopened the note until the post-swap check. Updated index.md and [[Q6-Edge-3-Stretto]].

@@ -3,13 +3,13 @@ type: field-note
 manufacturer: Pride
 model: Q6-Edge-3
 date: 2026-09-25
-status: resolved
+status: open
 tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 ---
 
 # 2026-09-25 — Q6 Edge 3 (standard) with iLevel: no power
 
-**Status: resolved.** Replaced both batteries. The chair powers on, and on the return visit it passed the full function test. Why the old batteries ran down is still unknown.
+**Status: open.** Replaced both batteries. The chair powers on, and on the return visit it passed the full function test and the charger completed a full cycle. Why the old batteries ran down is still unknown. On the same visit the joystick was found with a frayed cable and is being replaced. Check the chair after the joystick swap, then close the note.
 
 ## Unit
 
@@ -17,7 +17,8 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
   has no manual or model page for the standard Edge 3; the closest is
   [[Q6-Edge-3-Stretto]]. Don't assume Stretto specs carry over.
 - Options: **iLevel** power seat elevator.
-- Controller: TBD (Stretto ships with Q-Logic 3; confirm on this unit).
+- Controller: joystick part # **CTL143976**. Family (Q-Logic 3 or other)
+  TBD; the Stretto ships with Q-Logic 3.
 - Serial / customer ref: TBD
 
 ## Symptom
@@ -77,7 +78,15 @@ Replaced both batteries. **The chair powered on.**
 
 Function test on the return visit, after the new batteries charged:
 **passed, all functions working** (drive, controller, iLevel up/down,
-other seat functions).
+other seat functions). **The charger completed a full cycle** on the new
+batteries, so a charger that doesn't work at all is ruled out as the
+cause.
+
+**Joystick replaced (return visit).** The joystick cable was frayed. It
+was replaced with a new joystick with the same part number, **CTL143976**.
+The **SD card from the old joystick was moved into the new one**, so the
+customer's programming and settings carry over. Post-swap check:
+**pending**.
 
 ## Parts used
 
@@ -85,6 +94,8 @@ other seat functions).
   - 55 Ah is one of the two capacities listed for the Edge 3 Stretto (40 or
     55 Ah; see [[Q6-Edge-3-Stretto]]). The wiki has no spec sheet for the
     standard Edge 3.
+- 1 × joystick controller, **CTL143976** (same part number as the one
+  removed). The old joystick's SD card was reused.
 
 ## Takeaways
 
@@ -106,6 +117,13 @@ other seat functions).
   before closing the job.** Otherwise the replacement set will die the
   same way. The wiki has no Pride battery warranty terms, so ask Pride or
   the battery supplier about coverage.
+- **Joystick replacement: move the SD card from the old joystick into the
+  new one** so the customer's configuration stays the same. This is PMS
+  field practice; the wiki's sources don't cover the SD card. Check the
+  new part number matches the old one first (here both were CTL143976).
+- **Inspect the joystick cable on any service visit.** The frayed cable
+  here wasn't related to the no-power complaint and was found during the
+  function test visit.
 - More TBD. Note anything the manual's checklist missed, especially
   anything iLevel-specific.
 
