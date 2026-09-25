@@ -818,3 +818,5 @@ An out-swinging door is why the porch or first platform must be 60 x 60 in. Stor
 Tape, inside edge to inside edge, recording the narrowest point; applies to step handrails or rails beside the porch entry.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: handrail narrowest point (open)
 One measurement at the narrowest point, usually the top or bottom of the porch stairs (fanned or decorative stairs).
+## [2026-09-25] clarification | Ramps — grade is measured with a laser level
+The form's "line level" is a laser level in PMS practice. Updated [[Ramp-Site-Planning]] (also fixed a run-on list item), [[Ramp-Slope-and-Length]], [[PMS Ramp Site Evaluation Form]], the template and the field note.

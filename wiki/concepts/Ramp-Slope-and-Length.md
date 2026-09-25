@@ -33,8 +33,8 @@ standard above, which comes from Performance Medical Supply's
    + initial rise ± grade variation**. Initial rise is the **porch
    height** when steps lead up to a porch (the steps don't count), the
    **step rise** when steps lead straight to the threshold, and **0**
-   with no steps. See [[Ramp-Site-Planning]] step 7. Grade is measured with a line level from the porch
-   corner to the proposed landing: subtract if it goes up, add if it
+   with no steps. See [[Ramp-Site-Planning]] step 7. Grade is measured
+   with a laser level (the form's "line level") from the porch corner to the proposed landing: subtract if it goes up, add if it
    goes down.
 2. **Ramp run in feet = rise in inches, rounded UP to the next whole
    foot.** A 24 in rise needs 24 ft of ramp; a 28.5 in rise needs

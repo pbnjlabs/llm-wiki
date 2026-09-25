@@ -135,9 +135,9 @@ Depends on the entry. A home has one of three:
   from the porch or on **decorative stairs**.
 - Snags:
 
-### Grade variation (line level, porch corner to proposed landing)
+### Grade variation (porch corner to proposed landing)
 
-- Tool:
+- Tool: **laser level** (the form calls it a "line level").
 - From / to:
 - Method:
 - Snags:

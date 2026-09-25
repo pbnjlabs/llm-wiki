@@ -35,7 +35,8 @@ wasn't scanned.
 - Obstructions inside the door? Yes / no.
 - Where the customer parks (on the map sheet).
 - **Grade**: up or down, measured with a **line level from the corner
-  of the porch to the proposed landing of the ramp**.
+  of the porch to the proposed landing of the ramp**. PMS uses a
+  **laser level** for this (per the human, 2026-09-25).
 - **Total rise** and the **surface where the ramp will land**.
 
 ## Total rise formula

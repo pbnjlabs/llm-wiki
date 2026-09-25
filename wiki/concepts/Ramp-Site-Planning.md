@@ -50,9 +50,11 @@ on this page supplements it.
      **step rise (C)**, from the ground to the top step. H is measured
      from the top step. (A single ground-to-threshold reading already
      includes H; don't add it twice.)
-   - **No steps:** initial rise = 0. H is measured from the ground. Measure grade with a **line level from the porch
-   corner to the proposed landing**: subtract if the grade goes up, add
-   if it goes down. Map obstructions, the door and parking on the map
+   - **No steps:** initial rise = 0. H is measured from the ground.
+
+   Measure grade from the porch corner to the proposed landing with a
+   **laser level** (the form calls it a "line level"; PMS uses a laser
+   level): subtract if the grade goes up, add if it goes down. Map obstructions, the door and parking on the map
    sheet. Photos: the entire yard, the door (open), and at least two
    angles showing parking relative to the ramp. **Missing information
    can delay the quote.**

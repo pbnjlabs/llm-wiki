@@ -87,7 +87,7 @@ Door and porch (form fields):
 Yard and site:
 
 - [ ] **Grade** from the porch corner to the proposed landing, with a
-      **line level**: up / down ___ in
+      **laser level**: up / down ___ in
 - [ ] Surface where the ramp will land: concrete / pavers / grass /
       soft soil (soft soil → feet on concrete pads)
 - [ ] Where the customer parks: ___ (map)
