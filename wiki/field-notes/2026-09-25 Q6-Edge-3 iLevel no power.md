@@ -3,13 +3,13 @@ type: field-note
 manufacturer: Pride
 model: Q6-Edge-3
 date: 2026-09-25
-status: open
+status: resolved
 tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 ---
 
 # 2026-09-25 — Q6 Edge 3 (standard) with iLevel: no power
 
-**Status: open.** Replaced both batteries. The chair powers on, and on the return visit it passed the full function test and the charger completed a full cycle. Why the old batteries ran down is still unknown. On the same visit the joystick was found with a frayed cable and is being replaced. Check the chair after the joystick swap, then close the note.
+**Status: resolved.** Replaced both batteries. The chair powers on, and on the return visit it passed the full function test and the charger completed a full cycle. Why the old batteries ran down is still unknown. On the same visit the joystick was found with a frayed cable and was replaced. After the swap the update finished, the customer's settings carried over, and all functions work.
 
 ## Unit
 
@@ -86,9 +86,9 @@ cause.
 was replaced with a new joystick with the same part number, **CTL143976**.
 The **SD card from the old joystick was moved into the new one**, so the
 customer's programming and settings carry over. **On power-up with the
-old SD card, the new joystick forced an update.** Details (what was
-updated, how long it took, whether it finished cleanly) TBD. Post-swap
-check: **pending**.
+old SD card, the new joystick forced an update.** The update finished.
+The customer's settings carried over, and the post-swap function check
+**passed, all functions working**.
 
 ## Parts used
 

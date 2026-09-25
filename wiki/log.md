@@ -782,3 +782,5 @@ Return visit: the function test passed and all functions work. Marked the note r
 The charger completed a full cycle on the new batteries. The joystick cable was frayed, so the joystick is being replaced with the same part (CTL143976), with the old joystick's SD card moved to the new one to keep the customer's config. Reopened the note until the post-swap check. Updated index.md and [[Q6-Edge-3-Stretto]].
 ## [2026-09-25] field-note | Pride Q6 Edge 3 (standard) + iLevel — joystick forced an update after swap (open)
 The new joystick forced an update on first power-up with the old SD card. Added to Fix and Takeaways; details and the post-swap check are still pending.
+## [2026-09-25] field-note | Pride Q6 Edge 3 (standard) + iLevel — completely dark, no power; joystick replaced (resolved)
+The joystick update finished, the customer's settings carried over via the reused SD card, and all functions work. Closed the note and marked it resolved in index.md and [[Q6-Edge-3-Stretto]]. Why the original batteries ran down is still unknown.
