@@ -794,3 +794,5 @@ Rebuilt the ramp evaluation template around the PMS form's fields and rise formu
 Per the human, this note records how each measurement is taken (tool, reference points, method, snags) rather than the values. The template is unchanged.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: threshold measurement method (open)
 Threshold heights (outside and inside) are measured with a tape; a pen balanced on the threshold makes the reading and the photo easier to read. Added to Checked, Photos and Takeaways.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: threshold reference points (open)
+Outside threshold measured from the closest solid surface (porch, top step or ground); inside from the bare interior floor, moving rugs or mats first.

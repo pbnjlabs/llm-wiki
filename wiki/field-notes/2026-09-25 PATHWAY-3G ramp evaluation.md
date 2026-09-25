@@ -40,13 +40,19 @@ For each one, record:
 Same method for both sides of the door.
 
 - Tool: **measuring tape**, plus the evaluator's **pen**.
-- From / to: ___
+- From / to, up to the top of the threshold:
+  - **Outside (H):** from the **closest solid surface** below the
+    threshold: the porch, the top step, the ground, whichever it is.
+  - **Inside:** from the **interior floor**.
 - Method: measure the outside threshold height with the tape, then
   the inside.
-- Snags: the tape can be **hard to read at the threshold**. Fix:
-  **balance a pen on the door's threshold** and read the tape where the
-  pen crosses it. This also makes the **photos of the measurement
-  easier to read**.
+- Snags:
+  - **Rug, mat or anything else on the interior floor:** move it,
+    then measure from the bare floor.
+  - The tape can be **hard to read at the threshold**. Fix:
+    **balance a pen on the door's threshold** and read the tape where the
+    pen crosses it. This also makes the **photos of the measurement
+    easier to read**.
 
 ### Porch height (E), or height to bottom of door if no porch
 
@@ -139,6 +145,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
+- **Threshold reference points:** outside, measure from the closest
+  solid surface (porch, top step or ground). Inside, measure from the
+  bare interior floor, moving any rug or mat first.
 
 ## See also
 
