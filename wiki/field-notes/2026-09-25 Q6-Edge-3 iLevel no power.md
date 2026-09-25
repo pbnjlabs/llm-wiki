@@ -85,8 +85,10 @@ cause.
 **Joystick replaced (return visit).** The joystick cable was frayed. It
 was replaced with a new joystick with the same part number, **CTL143976**.
 The **SD card from the old joystick was moved into the new one**, so the
-customer's programming and settings carry over. Post-swap check:
-**pending**.
+customer's programming and settings carry over. **On power-up with the
+old SD card, the new joystick forced an update.** Details (what was
+updated, how long it took, whether it finished cleanly) TBD. Post-swap
+check: **pending**.
 
 ## Parts used
 
@@ -121,6 +123,9 @@ customer's programming and settings carry over. Post-swap check:
   new one** so the customer's configuration stays the same. This is PMS
   field practice; the wiki's sources don't cover the SD card. Check the
   new part number matches the old one first (here both were CTL143976).
+  **Expect a forced update** when the new joystick first powers up with the
+  old SD card, and let it finish before testing. The wiki's sources don't
+  cover joystick updates.
 - **Inspect the joystick cable on any service visit.** The frayed cable
   here wasn't related to the no-power complaint and was found during the
   function test visit.
