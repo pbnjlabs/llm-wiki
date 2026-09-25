@@ -840,3 +840,5 @@ Tape from the first platform cone edge toward the landing, cone the end; add pla
 Common width interference: trees, gazebo, fencing. Move if movable, otherwise build around. Handrail width is measured for the same reason.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: landing surface (open)
 Concrete good; grass acceptable with a landing pad; rooty ground bad.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: rooty ground and landing pad (open)
+Rooty ground avoided; dig out roots if unavoidable. Grass gets an EZ-ACCESS MLP landing pad. Pad size unconfirmed: the human thinks 4 x 4 ft; the layout/install-time sheet says 5 ft ALP.

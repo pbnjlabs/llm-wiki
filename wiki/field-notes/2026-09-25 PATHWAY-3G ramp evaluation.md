@@ -208,8 +208,15 @@ Laying out the run:
 - Method:
 - Landing surface:
   - **Concrete:** good.
-  - **Grass:** acceptable; PMS **adds a landing pad**.
-  - **Rooty ground:** bad.
+  - **Grass:** acceptable; PMS **adds a landing pad**, the EZ-ACCESS
+    **MLP** (modular aluminum landing pad). It goes at the bottom of the
+    run on soft or uneven ground, with the ramp's lower transition (MRLT)
+    resting fully on it ([[Pathway Modular Access System Assembly Manual]]
+    §6.6; [[PATHWAY-3G]]).
+    **Size unconfirmed:** thought to be 4 × 4 ft, but
+    [[EZ Access Layout Key and Install Time]] lists it as "5' ALP".
+  - **Rooty ground:** bad. **Avoid it.** If there's no other option,
+    **dig out the roots**.
 - Snags:
 
 ### Photos and map sheet
@@ -292,8 +299,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   platform wherever the run would exceed 30 ft or the ramp turns.
 - **Width interference** is usually trees, a gazebo or fencing. Move
   it if it can be moved; otherwise build around it.
-- **Landing surface:** concrete is good, grass is acceptable with a
-  landing pad added, rooty ground is bad.
+- **Landing surface:** concrete is good, grass is acceptable with an
+  EZ-ACCESS landing pad (MLP) added, and rooty ground is avoided (dig
+  out the roots if there's no other choice).
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
