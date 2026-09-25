@@ -816,3 +816,5 @@ Tape, door fully open, inside jamb to inside jamb. Record swing for both the mai
 An out-swinging door is why the porch or first platform must be 60 x 60 in. Storm doors are removed mainly when they hang lower than the outer threshold.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: handrail width method (open)
 Tape, inside edge to inside edge, recording the narrowest point; applies to step handrails or rails beside the porch entry.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: handrail narrowest point (open)
+One measurement at the narrowest point, usually the top or bottom of the porch stairs (fanned or decorative stairs).
