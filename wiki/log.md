@@ -790,3 +790,5 @@ Started from the ramp evaluation template (`field-notes/Templates/`). Product de
 Copied `PMS_RampEval.pdf` from the out-of-repo drop into `MANUALS/Ramps/`. One page, scanned upside down, undated. New source page under `sources/EZ-ACCESS/General/`. Added the total-rise formula (exterior threshold + steps or porch, whichever is higher, ± grade by line level), the "enter 0" rule and the photo list to [[Ramp-Site-Planning]] and [[Ramp-Slope-and-Length]]; listed under [[PATHWAY-3G]] documents; linked from [[Ramps Handbook]]. Open item: the form refers to a Fig. 4 and a map sheet that aren't in the PDF (probably a Part B).
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation (open, restarted)
 Rebuilt the ramp evaluation template around the PMS form's fields and rise formula, and restarted today's note from it. No site data had been entered yet, so nothing was lost.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation, refocused on measurement methods (open)
+Per the human, this note records how each measurement is taken (tool, reference points, method, snags) rather than the values. The template is unchanged.

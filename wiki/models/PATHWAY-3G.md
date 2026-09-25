@@ -262,6 +262,6 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
 
 ## Field notes
 
-- [[2026-09-25 PATHWAY-3G ramp evaluation]]: ramp evaluation (open)
+- [[2026-09-25 PATHWAY-3G ramp evaluation]]: ramp evaluation, measurement methods (open)
 
 Related: [[EZ-ACCESS]], [[Ramp-Site-Planning]], [[ADA-Ramp-Requirements]]
