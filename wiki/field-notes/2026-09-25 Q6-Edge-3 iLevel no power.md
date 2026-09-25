@@ -62,8 +62,9 @@ look at how they were charged or stored. Things to rule out, from
 - The charger plugged into an outlet controlled by a wall switch that
   was turned off.
 - An extension cord (Pride prohibits them for charging).
-- Charged too rarely or too briefly (Pride says 8–14 hrs after use, and
-  at least weekly even when the chair isn't used).
+- Charged too rarely or too briefly. Pride says to charge overnight
+  (8–14 hrs) with daily use, and for 12–14 hrs at least once a week even
+  when the chair isn't used.
 - The chair stored or left sitting without being charged or unplugged
   from the batteries.
 - The charger itself not working. Test it on the new batteries: its
