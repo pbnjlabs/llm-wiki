@@ -137,9 +137,15 @@ Depends on the entry. A home has one of three:
 
 ### Grade variation (porch corner to proposed landing)
 
-- Tool: **laser level** (the form calls it a "line level").
-- From / to:
+- Tool: **laser level** (the form calls it a "line level") and a
+  **measuring tape**.
+- From / to: from the **porch corner** to the **area where the ramp
+  will land**, typically **near where the customer parks**.
 - Method:
+  1. Set the laser level **on the porch corner**.
+  2. Aim it at the general area where the ramp will land.
+  3. At that spot, **measure down with the tape** from the laser line
+     to the ground.
 - Snags:
 
 ### Run space, side clearance, and obstruction distances
@@ -215,6 +221,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Handrail width: inside edge to inside edge, at the narrowest
   point**, on the step handrails or the rails beside the porch entry.
   The narrowest point is usually the top or bottom of the stairs.
+- **Grade: laser level on the porch corner, aimed at where the ramp
+  will land (usually near parking), then tape down from the laser line
+  to the ground.**
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
