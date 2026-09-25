@@ -160,6 +160,15 @@ Depends on the entry. A home has one of three:
 
 ### Run space, side clearance, and obstruction distances
 
+**First, decide where the first platform goes.** The ramp run is
+measured from there, so this comes before any run measurement.
+
+- **Most jobs:** a **first platform** comes off the porch, and the
+  first ramp run starts **off the platform**.
+- **Some jobs:** the existing porch is **big enough** to build the
+  ramp **directly off the porch**, with no first platform.
+- First platform location: ___ (how it was chosen: ___)
+
 - Tool:
 - From / to:
 - Method:
@@ -244,6 +253,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   the ramp will land (usually near parking), then tape down from the
   laser line to the ground. Grade = reading − porch height** (positive:
   add; negative: subtract).
+- **Locate the first platform before measuring the ramp run.** Most
+  jobs put a platform off the porch and start the first run from it;
+  a big enough porch lets the ramp come straight off the porch.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.

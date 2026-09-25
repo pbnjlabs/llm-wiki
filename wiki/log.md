@@ -828,3 +828,5 @@ Laser must be level. Grade = tape reading - porch height; more than porch height
 Added the laser-level steps and grade math to the template. Per the human, the laser reading (laser line down to the ground at the landing) is the ramp's total rise and must be recorded; added to the template worksheet and the field note.
 ## [2026-09-25] clarification | Ramps — ramp total rise excludes the threshold
 Per the human: ramp total rise = porch height +/- grade (the laser reading). The threshold is handled at the door (e.g. threshold ramp), except when the first platform is built on the porch flush with the threshold, then H is added. Also moved the full laser-level method into [[Ramp-Site-Planning]]. Updated [[Ramp-Slope-and-Length]], [[PMS Ramp Site Evaluation Form]], the template and the field note.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: locate first platform before run (open)
+The first platform location is decided before measuring the ramp run. Most jobs: platform off the porch, first run off the platform. Some: porch big enough to run the ramp directly off it.
