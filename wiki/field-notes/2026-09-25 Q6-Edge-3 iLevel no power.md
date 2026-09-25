@@ -30,10 +30,10 @@ display. No error code shown.
 Starting point is the "dead system" checklist from
 [[Q6 Edge Basic Troubleshooting]] (p. 1):
 
-- [ ] Batteries installed and wired correctly
-- [ ] Battery terminal connections tight
+- [x] Batteries installed and wired correctly: OK
+- [x] Battery terminal connections tight: OK
 - [ ] Battery quick-disconnect harness fully joined
-- [ ] Main circuit breaker reset button pushed in
+- [x] Main circuit breaker reset button pushed in: not tripped
 - [ ] Joystick fully connected to the power module
 - Battery voltage (each / pack): TBD
 
@@ -51,8 +51,11 @@ TBD
 
 ## Takeaways
 
-TBD. Note anything the manual's checklist missed, especially anything
-iLevel-specific.
+- **Main circuit breaker location (standard Edge 3):** above the **left
+  drive motor**. The troubleshooting sheet says to reset it but doesn't
+  say where it is.
+- More TBD. Note anything the manual's checklist missed, especially
+  anything iLevel-specific.
 
 ## See also
 
