@@ -9,7 +9,7 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 
 # 2026-09-25 — Q6 Edge 3 (standard) with iLevel: no power
 
-**Status: open.** The chair powers on with new batteries; function test in progress.
+**Status: open.** The chair powers on with new batteries. New batteries are charging, and a return visit is needed for the function test.
 
 ## Unit
 
@@ -75,8 +75,9 @@ look at how they were charged or stored. Things to rule out, from
 
 Replaced both batteries. **The chair powered on.**
 
-Function test (drive, controller, iLevel up/down, other seat functions):
-TBD.
+Function test (drive, controller, iLevel up/down, other seat functions,
+charger completes a cycle): **pending**. Do it on the return visit, once
+the new batteries are fully charged.
 
 ## Parts used
 
