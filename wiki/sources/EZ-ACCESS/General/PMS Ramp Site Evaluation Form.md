@@ -49,10 +49,14 @@ From the form's Total Rise Diagram:
   higher**.
 - **Grade goes up** toward the landing: **subtract** it. **Grade goes
   down**: **add** it.
-- **PMS clarification (2026-09-25):** steps leading up to the porch
-  don't count for a PATHWAY ramp, so initial rise is the porch height.
-  Steps only matter for a [[SUITCASE-Ramps]] over them, sized by the
-  manufacturer's guidelines.
+- **PMS clarification (2026-09-25):** "whichever is higher" covers
+  the three kinds of entry:
+  - **Steps up to a porch:** initial rise is the **porch height (E)**.
+    The steps don't count, except for a [[SUITCASE-Ramps]] over them,
+    sized by the manufacturer's guidelines.
+  - **Steps straight up to the outer threshold (no porch):** initial
+    rise is the **step rise (C)**.
+  - **No steps:** initial rise is 0.
 - Reminders on the form: 1 in of rise needs 1 ft of ramp, and a ramp
   can't run more than 30 ft without a platform break.
 

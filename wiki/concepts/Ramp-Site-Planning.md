@@ -38,13 +38,19 @@ on this page supplements it.
    [[PATHWAY-3G]]).
 7. **Fill in the [[PMS Ramp Site Evaluation Form]] (Part A).** Enter 0
    for any measurement that doesn't apply. Total rise = **exterior
-   threshold + porch height ± grade variation**. **Steps leading up to
-   the porch don't count** for a PATHWAY ramp (PMS house rule); they only
-   matter for a [[SUITCASE-Ramps]] over the steps, which follows the
-   manufacturer's guidelines. (The form itself says "steps or porch,
-   whichever is higher".) Measure porch height from the ground on the
-   edge where the first platform connects, at the lowest point along
-   that edge. Measure grade with a **line level from the porch
+   threshold (H) + initial rise ± grade variation**. The form's "steps
+   or porch, whichever is higher" means the initial rise depends on the
+   entry (PMS clarification):
+   - **Steps up to a porch:** initial rise = **porch height (E)**. The
+     steps themselves don't count, except for a [[SUITCASE-Ramps]] over
+     them, which follows the manufacturer's guidelines. Measure porch
+     height from the ground on the edge where the first platform
+     connects, at the lowest point along that edge.
+   - **Steps straight up to the threshold (no porch):** initial rise =
+     **step rise (C)**, from the ground to the top step. H is measured
+     from the top step. (A single ground-to-threshold reading already
+     includes H; don't add it twice.)
+   - **No steps:** initial rise = 0. H is measured from the ground. Measure grade with a **line level from the porch
    corner to the proposed landing**: subtract if the grade goes up, add
    if it goes down. Map obstructions, the door and parking on the map
    sheet. Photos: the entire yard, the door (open), and at least two

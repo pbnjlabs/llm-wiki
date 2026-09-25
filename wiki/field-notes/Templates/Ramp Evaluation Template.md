@@ -72,7 +72,7 @@ Door and porch (form fields):
 | Porch? | Y / N |
 | Porch height (if porch) | ___ in |
 | Height to bottom of door (if no porch) | ___ in |
-| Step rise (C): **SUITCASE only**, per manufacturer; otherwise 0 | ___ in |
+| Step rise (C): steps straight to the threshold, or SUITCASE over porch steps; otherwise 0 | ___ in |
 | Threshold height, inside | ___ in |
 | Threshold height, outside (H) | ___ in |
 | Door swing | in / out |
@@ -118,16 +118,23 @@ Photos (missing ones can delay the quote):
 
 Measurements and slope math ([[Ramp-Slope-and-Length]]):
 
-**Total rise = exterior threshold (H) + porch height (E) ± grade**
-(subtract if the grade goes up, add if it goes down). Steps up to the
-porch don't count except for a SUITCASE ramp over them.
-Porch height: from the ground, on the edge where the first platform
-connects, at the lowest point along that edge.
+**Total rise = exterior threshold (H) + initial rise ± grade**
+(subtract if the grade goes up, add if it goes down). Initial rise
+depends on the entry:
+
+- **Steps up to a porch:** porch height (E). The steps don't count
+  (except for a SUITCASE ramp over them, per the manufacturer). Porch
+  height: from the ground, on the edge where the first platform
+  connects, at the lowest point along that edge.
+- **Steps straight up to the threshold (no porch):** step rise (C),
+  ground to top step. H is measured from the top step.
+- **No steps:** 0.
 
 | Item | Value |
 |---|---|
 | Exterior threshold (H) | ___ in |
-| Porch height (E) | ___ in |
+| Entry type | steps to porch / steps to threshold / no steps |
+| Initial rise (E, C or 0) | ___ in |
 | Grade variation (±) | ___ in |
 | **Total rise** | ___ in |
 | Ramp run needed at 1:12 (rise in inches → feet, **round up**) | ___ ft |

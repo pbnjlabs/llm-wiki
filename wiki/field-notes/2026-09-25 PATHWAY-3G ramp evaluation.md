@@ -79,10 +79,18 @@ first platform, and it feeds **total rise**.
 
 ### Step rise (C)
 
-- **Not measured for a PATHWAY ramp.** The steps leading up to the
-  porch don't matter; porch height is what counts.
-- Only for a [[SUITCASE-Ramps]] over the steps, and then **follow the
-  manufacturer's guidelines**.
+Depends on the entry. A home has one of three:
+
+- **Steps up to a porch:** not measured. Porch height is the initial
+  rise. The only exception is a [[SUITCASE-Ramps]] over the steps, which
+  follows the **manufacturer's guidelines**.
+- **Steps straight up to the outer threshold (no porch):** step rise
+  is the initial rise.
+  - Tool:
+  - From / to:
+  - Method:
+  - Snags:
+- **No steps:** 0.
 
 ### Porch depth and width, door location on porch
 
@@ -141,8 +149,17 @@ first platform, and it feeds **total rise**.
 
 How total rise was worked out from the measurements above:
 
-**Total rise = exterior threshold (H) + porch height (E) ± grade** (subtract if the grade goes up, add if
-it goes down). See [[Ramp-Slope-and-Length]].
+**Total rise = exterior threshold (H) + initial rise ± grade**
+(subtract if the grade goes up, add if it goes down). Initial rise
+depends on the entry:
+
+- **Steps up to a porch:** porch height (E). The steps don't count
+  (except for a SUITCASE ramp over them, per the manufacturer). Porch
+  height: from the ground, on the edge where the first platform
+  connects, at the lowest point along that edge.
+- **Steps straight up to the threshold (no porch):** step rise (C),
+  ground to top step. H is measured from the top step.
+- **No steps:** 0. See [[Ramp-Slope-and-Length]].
 
 - How H, C/E and the grade were combined here, and any judgment calls:
 - Cross-check used (e.g. a second method, or a direct measurement from
@@ -160,8 +177,11 @@ None yet (evaluation only).
 
 Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 
-- **Steps up to the porch don't count** for a PATHWAY ramp; only a
-  SUITCASE ramp over them, per the manufacturer's guidelines.
+- **Three kinds of entry** decide the initial rise: steps up to a
+  porch (use porch height; the steps don't count except for a SUITCASE
+  ramp), steps straight up to the threshold (use step rise), or no
+  steps (0). This is what the form's "steps or porch, whichever is
+  higher" means.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
