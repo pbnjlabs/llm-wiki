@@ -35,19 +35,18 @@ For each one, record:
   handled.
 - Value (optional): ___
 
-### Exterior threshold height (H)
+### Threshold height, outside (H) and inside
 
-- Tool:
-- From / to:
-- Method:
-- Snags:
+Same method for both sides of the door.
 
-### Interior threshold height
-
-- Tool:
-- From / to:
-- Method:
-- Snags:
+- Tool: **measuring tape**, plus the evaluator's **pen**.
+- From / to: ___
+- Method: measure the outside threshold height with the tape, then
+  the inside.
+- Snags: the tape can be **hard to read at the threshold**. Fix:
+  **balance a pen on the door's threshold** and read the tape where the
+  pen crosses it. This also makes the **photos of the measurement
+  easier to read**.
 
 ### Porch height (E), or height to bottom of door if no porch
 
@@ -108,6 +107,8 @@ For each one, record:
 ### Photos and map sheet
 
 - What was shot, and from where:
+  - Threshold heights: photographed with the pen balanced on the
+    threshold (see above), so the tape reading shows clearly.
 - How the obstructions, door and parking were mapped:
 - Snags:
 
@@ -135,7 +136,9 @@ None yet (evaluation only).
 
 Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 
--
+- **Pen trick for threshold heights:** if the tape is hard to read at
+  the threshold, balance a pen on the threshold and read the tape where
+  the pen crosses it. It makes the photo readable too.
 
 ## See also
 

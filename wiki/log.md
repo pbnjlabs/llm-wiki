@@ -792,3 +792,5 @@ Copied `PMS_RampEval.pdf` from the out-of-repo drop into `MANUALS/Ramps/`. One p
 Rebuilt the ramp evaluation template around the PMS form's fields and rise formula, and restarted today's note from it. No site data had been entered yet, so nothing was lost.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation, refocused on measurement methods (open)
 Per the human, this note records how each measurement is taken (tool, reference points, method, snags) rather than the values. The template is unchanged.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: threshold measurement method (open)
+Threshold heights (outside and inside) are measured with a tape; a pen balanced on the threshold makes the reading and the photo easier to read. Added to Checked, Photos and Takeaways.
