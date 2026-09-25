@@ -116,7 +116,13 @@ Depends on the entry. A home has one of three:
   **out**.
   - Main door: in / out
   - Storm door: in / out / none
+- Why swing matters: an **out-swinging door is why the porch or first
+  platform must be 60 × 60 in**. The user needs room to sit clear of the
+  door while it swings open.
 - Snags:
+  - **Storm door hangs lower than the outer threshold:** the platform
+    would sit in its swing path. This is the usual reason PMS
+    **removes the storm door**. Otherwise it normally stays.
 
 ### Handrail width
 
@@ -199,6 +205,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Door width: door fully open, inside jamb to inside jamb.** Check
   for a storm door and record the swing of both doors; usually one
   swings in and one swings out.
+- **Out-swinging door → porch or first platform must be 60 × 60 in.**
+  Check the bottom of the storm door: if it hangs below the outer
+  threshold, plan to remove it.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
