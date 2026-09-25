@@ -154,6 +154,8 @@ Depends on the entry. A home has one of three:
        by the difference. **Subtract** it.
      - The laser's own height above the porch is small enough to
        ignore.
+- **The step 3 reading is the ramp's TOTAL RISE. Always record it.**
+- Total rise (laser reading): ___ in
 - Snags:
 
 ### Run space, side clearance, and obstruction distances

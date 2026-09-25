@@ -86,8 +86,16 @@ Door and porch (form fields):
 
 Yard and site:
 
-- [ ] **Grade** from the porch corner to the proposed landing, with a
-      **laser level**: up / down ___ in
+- [ ] **Grade and total rise with the laser level:**
+      1. Set the laser level on the **porch corner** and make sure it is
+         **level**.
+      2. Aim it at the general area where the ramp will land, typically
+         **near where the customer parks**.
+      3. At that spot, **tape down from the laser line to the ground**.
+         **This reading is the ramp's TOTAL RISE. Record it:** ___ in
+      4. Grade = reading − porch height: ___ in. More than the porch
+         height means the ground goes **down** (add); less means it goes
+         **up** (subtract). Ignore the laser's own height.
 - [ ] Surface where the ramp will land: concrete / pavers / grass /
       soft soil (soft soil → feet on concrete pads)
 - [ ] Where the customer parks: ___ (map)
@@ -135,8 +143,8 @@ depends on the entry:
 | Exterior threshold (H) | ___ in |
 | Entry type | steps to porch / steps to threshold / no steps |
 | Initial rise (E, C or 0) | ___ in |
-| Grade variation (±) | ___ in |
-| **Total rise** | ___ in |
+| Grade variation (±) (laser reading − porch height) | ___ in |
+| **Total rise (laser reading, recorded on site)** | ___ in |
 | Ramp run needed at 1:12 (rise in inches → feet, **round up**) | ___ ft |
 | Number of runs (max 30 ft of continuous ramp per run) | ___ |
 | Intermediate rest landings (60 in) | ___ |
