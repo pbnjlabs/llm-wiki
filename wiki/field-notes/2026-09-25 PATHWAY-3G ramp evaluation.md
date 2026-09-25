@@ -56,10 +56,17 @@ Same method for both sides of the door.
 
 ### Porch height (E), or height to bottom of door if no porch
 
+Why it matters: porch height sets the **ramp's leg height** at the
+first platform, and it feeds **total rise**.
+
 - Tool: **measuring tape**.
 - From / to: from the **ground** up to the **top of the porch
   surface**.
-- Method: measure the porch height with the tape.
+- Where: on the **edge where the first platform will connect**. If the
+  ramp comes off the north side of the porch, measure on the north side;
+  a reading from the west side isn't accurate.
+- Method: along that edge, find the **lowest point of the ground**
+  and measure the porch height there.
 - Snags:
 - No porch (height to bottom of door): ___
 
@@ -150,6 +157,10 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Threshold reference points:** outside, measure from the closest
   solid surface (porch, top step or ground). Inside, measure from the
   bare interior floor, moving any rug or mat first.
+- **Porch height is measured on the side you're building off of**, at
+  the edge where the first platform connects, and at the **lowest point**
+  along that edge. It sets the leg height as well as the total rise, so
+  a reading from another side of the porch is wrong.
 
 ## See also
 

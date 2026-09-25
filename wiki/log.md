@@ -798,3 +798,5 @@ Threshold heights (outside and inside) are measured with a tape; a pen balanced 
 Outside threshold measured from the closest solid surface (porch, top step or ground); inside from the bare interior floor, moving rugs or mats first.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch height method (open)
 Porch height measured with a tape from the ground to the top of the porch.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch height location (open)
+Porch height is taken on the edge where the first platform connects, at the lowest point along it; it sets leg height and feeds total rise.
