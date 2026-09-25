@@ -80,7 +80,10 @@ TBD.
 
 ## Parts used
 
-- 2 × 12 V batteries (type and Ah TBD)
+- 2 × **Interstate DCM0055**, 12 V 55 Ah
+  - 55 Ah is one of the two capacities listed for the Edge 3 Stretto (40 or
+    55 Ah; see [[Q6-Edge-3-Stretto]]). The wiki has no spec sheet for the
+    standard Edge 3.
 
 ## Takeaways
 
