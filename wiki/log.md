@@ -822,3 +822,5 @@ One measurement at the narrowest point, usually the top or bottom of the porch s
 The form's "line level" is a laser level in PMS practice. Updated [[Ramp-Site-Planning]] (also fixed a run-on list item), [[Ramp-Slope-and-Length]], [[PMS Ramp Site Evaluation Form]], the template and the field note.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: grade method (open)
 Laser level on the porch corner, aimed at the landing area (usually near parking); tape down from the laser line to the ground.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: grade math (open)
+Laser must be level. Grade = tape reading - porch height; more than porch height means the ground drops (add), less means it rises (subtract). Laser height ignored.
