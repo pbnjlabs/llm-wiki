@@ -206,6 +206,10 @@ Laying out the run:
 - Tool:
 - From / to:
 - Method:
+- Landing surface:
+  - **Concrete:** good.
+  - **Grass:** acceptable; PMS **adds a landing pad**.
+  - **Rooty ground:** bad.
 - Snags:
 
 ### Photos and map sheet
@@ -288,6 +292,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   platform wherever the run would exceed 30 ft or the ramp turns.
 - **Width interference** is usually trees, a gazebo or fencing. Move
   it if it can be moved; otherwise build around it.
+- **Landing surface:** concrete is good, grass is acceptable with a
+  landing pad added, rooty ground is bad.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.

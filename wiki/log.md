@@ -838,3 +838,5 @@ First platform marked with 4 cones in a 60 x 60 in square once its location is s
 Tape from the first platform cone edge toward the landing, cone the end; add platforms where the run exceeds 30 ft or the ramp turns.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: side clearance (open)
 Common width interference: trees, gazebo, fencing. Move if movable, otherwise build around. Handrail width is measured for the same reason.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: landing surface (open)
+Concrete good; grass acceptable with a landing pad; rooty ground bad.
