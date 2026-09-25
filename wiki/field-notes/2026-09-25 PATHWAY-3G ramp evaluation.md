@@ -126,6 +126,9 @@ Depends on the entry. A home has one of three:
 
 ### Handrail width
 
+Why it matters: existing handrails can **limit how wide the ramp can
+be**, the same way trees or fencing can along the run.
+
 - Tool: **measuring tape**.
 - Which handrails: the ones **along the steps leading up to the porch**,
   or the ones **on either side of the porch entry**.
@@ -188,7 +191,11 @@ Laying out the run:
      - the run is **over 30 ft** (rest platform needed), or
      - the ramp **turns** (turn platform needed).
      Mark each extra platform with cones the same way and continue.
-- Side clearance: ___
+- Side clearance: check that the ramp's full width fits along the run.
+  - Most common interference: **trees, a gazebo or fencing**.
+  - **Movable:** move it. **Not movable:** **build around it**.
+  - Existing handrails can also limit the width; that's why the
+    **handrail width** is measured (see Handrail width above).
 - Snags:
   - **Don't build over** a septic tank access, the main water line
     shut-off valve or a plumbing clean-out. Find them before laying
@@ -279,6 +286,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Lay out the run with the tape and cones:** tape from the first
   platform's cone edge toward the landing and cone the end. Add a
   platform wherever the run would exceed 30 ft or the ramp turns.
+- **Width interference** is usually trees, a gazebo or fencing. Move
+  it if it can be moved; otherwise build around it.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
