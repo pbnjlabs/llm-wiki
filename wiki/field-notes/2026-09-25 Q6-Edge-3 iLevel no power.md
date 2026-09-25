@@ -35,9 +35,9 @@ Starting point is the "dead system" checklist from
 - [ ] Battery quick-disconnect harness fully joined
 - [x] Main circuit breaker reset button pushed in: not tripped
 - [ ] Joystick fully connected to the power module
-- **Battery voltage: 4 V.** Normal is about 12 V per battery and about
-  24 V for the pair. It's still unclear whether 4 V was per battery or the
-  pair.
+- **Battery voltage: 4 V per battery**, measured directly at each battery's
+  terminals with a multimeter on the 200 V DC range. Normal is about 12 V
+  per battery, or about 24 V for the pair.
 
 ## Root cause
 
@@ -70,6 +70,15 @@ TBD
   say where it is.
 - **Dark chair + 4 V batteries = over-discharged batteries.** The charger
   can't recover them. Check battery voltage early, before chasing wiring.
+- **Two ways to check voltage:**
+  1. **At each battery:** measure across each battery's terminals, with the
+     meter on a DC range above 24 V (e.g. 200 V). This is what was done here.
+     It shows each battery separately, so a single dead battery stands out.
+  2. **At the charger port:** measure the whole pack (about 24 V) without
+     removing the shrouds. It's quicker, but it only shows the total, so a
+     low reading doesn't tell you which battery is bad. The wiki has no
+     pinout for the Q-Logic 3 charger port, so find the +/− pins before
+     probing.
 - More TBD. Note anything the manual's checklist missed, especially
   anything iLevel-specific.
 
