@@ -800,3 +800,5 @@ Outside threshold measured from the closest solid surface (porch, top step or gr
 Porch height measured with a tape from the ground to the top of the porch.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: porch height location (open)
 Porch height is taken on the edge where the first platform connects, at the lowest point along it; it sets leg height and feeds total rise.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: no-porch height and site snags (open)
+No porch: measure ground to threshold. Common snags: bushes to remove, porch handrails to modify. Never build over a septic tank access, main water shut-off valve or plumbing clean-out.

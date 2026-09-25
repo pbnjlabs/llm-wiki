@@ -54,7 +54,7 @@ Same method for both sides of the door.
     pen crosses it. This also makes the **photos of the measurement
     easier to read**.
 
-### Porch height (E), or height to bottom of door if no porch
+### Porch height (E), or ground to threshold if no porch
 
 Why it matters: porch height sets the **ramp's leg height** at the
 first platform, and it feeds **total rise**.
@@ -67,8 +67,15 @@ first platform, and it feeds **total rise**.
   a reading from the west side isn't accurate.
 - Method: along that edge, find the **lowest point of the ground**
   and measure the porch height there.
-- Snags:
-- No porch (height to bottom of door): ___
+- No porch: measure with the tape from the **ground to the threshold**.
+- Snags (common ones at the porch edge):
+  - **Bushes** in the way that will need removing.
+  - **Existing porch handrails** that will need modifying where the
+    platform connects.
+  - Access points the ramp **must not be built over**:
+    - septic tank access
+    - main water line shut-off valve
+    - plumbing clean-out
 
 ### Step rise (C)
 
@@ -111,6 +118,9 @@ first platform, and it feeds **total rise**.
 - From / to:
 - Method:
 - Snags:
+  - **Don't build over** a septic tank access, the main water line
+    shut-off valve or a plumbing clean-out. Find them before laying
+    out the ramp (see Porch height above).
 
 ### Level space at the door and at the landing (60 in)
 
@@ -161,6 +171,10 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   the edge where the first platform connects, and at the **lowest point**
   along that edge. It sets the leg height as well as the total rise, so
   a reading from another side of the porch is wrong.
+- **Before laying out the ramp, find the septic tank access, main
+  water shut-off valve and plumbing clean-out, and keep the ramp off
+  them.** Also plan for bushes to remove and porch handrails to modify
+  where the platform connects.
 
 ## See also
 
