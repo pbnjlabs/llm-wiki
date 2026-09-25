@@ -834,3 +834,5 @@ The first platform location is decided before measuring the ramp run. Most jobs:
 Porch at least 60 x 60 in can take the ramp directly. First platform placed for the shortest, most direct ramp to where the customer parks or wants to land.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: marking the first platform (open)
 First platform marked with 4 cones in a 60 x 60 in square once its location is set.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: laying out the run (open)
+Tape from the first platform cone edge toward the landing, cone the end; add platforms where the run exceeds 30 ft or the ramp turns.

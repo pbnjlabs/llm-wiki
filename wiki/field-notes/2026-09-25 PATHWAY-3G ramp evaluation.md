@@ -175,9 +175,20 @@ measured from there, so this comes before any run measurement.
   60 × 60 in square** to show the first platform.
 - First platform location: ___
 
-- Tool:
-- From / to:
+Laying out the run:
+
+- Tool: **measuring tape** and **cones**.
+- From / to: from the **edge of the first platform's cones** toward
+  the landing.
 - Method:
+  1. Tape out from the cone edge toward the landing. (Run length at
+     1:12 = total rise in inches, in feet, rounded up.)
+  2. **Cone the end** of the run.
+  3. Decide whether **more platforms** are needed:
+     - the run is **over 30 ft** (rest platform needed), or
+     - the ramp **turns** (turn platform needed).
+     Mark each extra platform with cones the same way and continue.
+- Side clearance: ___
 - Snags:
   - **Don't build over** a septic tank access, the main water line
     shut-off valve or a plumbing clean-out. Find them before laying
@@ -265,6 +276,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   porch. Place the platform for the shortest, most direct ramp to where
   the customer parks or wants to land, then **mark it with 4 cones in a
   60 × 60 in square**.
+- **Lay out the run with the tape and cones:** tape from the first
+  platform's cone edge toward the landing and cone the end. Add a
+  platform wherever the run would exceed 30 ft or the ramp turns.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
