@@ -36,6 +36,15 @@ on this page supplements it.
    **Lay out the design with small cones** and photograph that.
 6. Building blocks: ramp sections 2–8 ft, platforms up to 8 × 5 ft (see
    [[PATHWAY-3G]]).
+7. **Fill in the [[PMS Ramp Site Evaluation Form]] (Part A).** Enter 0
+   for any measurement that doesn't apply. Total rise = **exterior
+   threshold + initial rise (steps or porch, whichever is higher) ±
+   grade variation**. Measure grade with a **line level from the porch
+   corner to the proposed landing**: subtract if the grade goes up, add
+   if it goes down. Map obstructions, the door and parking on the map
+   sheet. Photos: the entire yard, the door (open), and at least two
+   angles showing parking relative to the ramp. **Missing information
+   can delay the quote.**
 
 ## 1. Intake questions ([[Residential Ramps - Where Do I Begin]])
 
@@ -61,7 +70,7 @@ on this page supplements it.
 ## 3. Site survey ([[Configuration Factors for Residential Ramp Systems]], [[Wheelchair Ramp Slope Calculator Guide]])
 
 - **Rise**: measure the total rise, and check whether the ground slopes
-  away. **Slope is always 1:12**: 1 ft of run per inch of rise, 4.8° on
+  away (the PMS form's formula is in step 7 above). **Slope is always 1:12**: 1 ft of run per inch of rise, 4.8° on
   an angle meter (see [[Ramp-Slope-and-Length]]). The only exception is
   temporary-use [[SUITCASE-Ramps]].
 - **Run space**: yard, driveway, walkway and landscaping. Use existing

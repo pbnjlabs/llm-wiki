@@ -148,6 +148,10 @@ as soon as the human describes the job, and fill it in as they report back.
 phone numbers or other customer references. Identify the unit by model and
 serial number only.
 
+**Ramp evaluations:** the ramp product is always an **EZ-ACCESS PATHWAY
+(3G)** unless the human says otherwise. Start ramp notes from
+`wiki/field-notes/Templates/Ramp Evaluation Template.md`.
+
 Link each note from its model page (under a `## Field notes` section),
 from any troubleshooting source or concept page it used, and from the
 Field notes table in `index.md`. If the unit has no model page, link it

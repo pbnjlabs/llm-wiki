@@ -253,9 +253,15 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
 - [[Ramps Handbook]]: PMS in-house evaluation and design training
   (the highest authority for PMS ramp design; points to EZ-ACCESS's
   30-minute PATHWAY 3G install video on the product page, under Videos)
+- [[PMS Ramp Site Evaluation Form]]: PMS site evaluation form, Part A
+  (undated; Fig. 4 and the map sheet are missing)
 - [[EZ Access Parts and Pieces]]: parts and sizes sheet (2018, origin
   unknown)
 - [[EZ Access Layout Key and Install Time]]: layout symbols and install
   times (2019, origin unknown)
+
+## Field notes
+
+- [[2026-09-25 PATHWAY-3G ramp evaluation]]: ramp evaluation (open)
 
 Related: [[EZ-ACCESS]], [[Ramp-Site-Planning]], [[ADA-Ramp-Requirements]]

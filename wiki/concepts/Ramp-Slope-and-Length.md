@@ -29,6 +29,11 @@ standard above, which comes from Performance Medical Supply's
    starts to the top of the entry, porch or landing. Never estimate from
    step count, because step heights vary. If the ground slopes away from
    the house, the effective rise grows with distance.
+   PMS formula ([[PMS Ramp Site Evaluation Form]]): **exterior threshold
+   + initial rise (steps or porch, whichever is higher) ± grade
+   variation**. Grade is measured with a line level from the porch
+   corner to the proposed landing: subtract if it goes up, add if it
+   goes down.
 2. **Ramp run in feet = rise in inches, rounded UP to the next whole
    foot.** A 24 in rise needs 24 ft of ramp; a 28.5 in rise needs
    **29 ft**. Rounding down makes the ramp too steep: 28 ft over
