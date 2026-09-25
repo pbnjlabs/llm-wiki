@@ -65,7 +65,7 @@ PMS field experience. It ranks below the manuals on specs and procedures.
 Note that these may be for the **standard** Edge 3, not the Stretto.
 
 - [[2026-09-25 Q6-Edge-3 iLevel no power]]: standard Edge 3 with iLevel,
-  completely dark (open)
+  completely dark; batteries replaced (resolved)
 
 ## See also
 

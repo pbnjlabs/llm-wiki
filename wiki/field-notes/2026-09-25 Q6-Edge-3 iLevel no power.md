@@ -3,13 +3,13 @@ type: field-note
 manufacturer: Pride
 model: Q6-Edge-3
 date: 2026-09-25
-status: open
+status: resolved
 tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 ---
 
 # 2026-09-25 — Q6 Edge 3 (standard) with iLevel: no power
 
-**Status: open.** The chair powers on with new batteries. New batteries are charging, and a return visit is needed for the function test.
+**Status: resolved.** Replaced both batteries. The chair powers on, and on the return visit it passed the full function test. Why the old batteries ran down is still unknown.
 
 ## Unit
 
@@ -75,9 +75,9 @@ look at how they were charged or stored. Things to rule out, from
 
 Replaced both batteries. **The chair powered on.**
 
-Function test (drive, controller, iLevel up/down, other seat functions,
-charger completes a cycle): **pending**. Do it on the return visit, once
-the new batteries are fully charged.
+Function test on the return visit, after the new batteries charged:
+**passed, all functions working** (drive, controller, iLevel up/down,
+other seat functions).
 
 ## Parts used
 
