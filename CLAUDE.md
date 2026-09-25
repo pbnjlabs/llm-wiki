@@ -48,6 +48,7 @@ wiki/
     Seat-Systems.md
     Troubleshooting.md
     ...
+  field-notes/           one page per real-world job (see Field notes)
   sources/               one summary page per raw manual, organized by
                          manufacturer then product-line subdirectory
     Bruno/Bruno Curved SL/2110-TS Tech Support Guide.md
@@ -134,6 +135,24 @@ page they touch should state them.
   loading a scooter into a van) and are exempt from the 1:12 rule.
   GATEWAY 3G is **not** exempt. It can technically be moved, but PMS
   treats it as a permanent, long-term ramp.
+
+### Field notes
+
+Real-world job notes from PMS techs, one page per job, in
+`wiki/field-notes/`. Name them `YYYY-MM-DD <Model> <short symptom>.md`.
+Frontmatter: `type: field-note`, `manufacturer`, `model`, `date` (the job
+date), `status: open | resolved`, and `tags`. Sections: Unit, Symptom,
+Checked, Root cause, Fix, Parts used, Takeaways, See also. Start the note
+as soon as the human describes the job, and fill it in as they report back.
+
+Link each note from its model page (under a `## Field notes` section),
+from any troubleshooting source or concept page it used, and from the
+Field notes table in `index.md`. If the unit has no model page, link it
+from the closest one and say so. Field notes are PMS field experience.
+They rank **below manuals** on specs and procedures, but they are the
+place for fixes and gotchas that the manuals miss. A proven fix becomes a
+house standard only if the human says so. Log them as
+`## [YYYY-MM-DD] field-note | <Manufacturer> <Model> — <symptom> (<status>)`.
 
 ## Operations
 

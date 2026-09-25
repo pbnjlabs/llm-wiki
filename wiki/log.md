@@ -774,3 +774,5 @@ Investigated the discrepancy flagged earlier today. All 10 Harmar image/CSV asse
 - The third pass found the same files again, copied them in (hence the repo mtimes of 2026-09-17), excluded them, and added 10 to the earlier 7 to get "17".
 - Only 6 drop files are dated 2026-09-17 (4 Hybrid manuals + 2 duplicate Helix files), which matches what the third pass reported as new.
 - No files are missing, and the human made no changes to the folder. index.md is corrected to 10. The 2026-09-12 log entry's "7" is left as written (the log is append-only) and is superseded by this entry.
+## [2026-09-25] field-note | Pride Q6 Edge 3 (standard) + iLevel — completely dark, no power (open)
+Started the first field note and the new `field-notes/` section. Linked it from [[Q6-Edge-3-Stretto]] (the closest model page, since there's no standard Edge 3 page), from [[Q6 Edge Basic Troubleshooting]] and from index.md. The root cause and fix are still TBD.

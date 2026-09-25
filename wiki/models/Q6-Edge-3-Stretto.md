@@ -59,6 +59,14 @@ also be built with instead of/alongside iLevel.
   rotating rear shroud clips + quick-release battery connectors, vs. J6's
   fastener-based shrouds.
 
+## Field notes
+
+PMS field experience. It ranks below the manuals on specs and procedures.
+Note that these may be for the **standard** Edge 3, not the Stretto.
+
+- [[2026-09-25 Q6-Edge-3 iLevel no power]]: standard Edge 3 with iLevel,
+  completely dark (open)
+
 ## See also
 
 - [[Pride]]

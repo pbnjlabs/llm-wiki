@@ -39,3 +39,5 @@ Explicitly a supplement to the owner's manual, not a replacement — see
 [[Q6-Edge-3-Stretto]] for the model page and its operator manual source.
 
 Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]].
+
+Field notes using this checklist: [[2026-09-25 Q6-Edge-3 iLevel no power]].

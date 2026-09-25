@@ -197,6 +197,15 @@ backlog); Troubleshooting (general, non-Bruno-specific — Pride's
 [[C-450 C-625 Technical Manual]] are candidate sources if this gets
 written).
 
+## Field notes
+
+One page per job in `field-notes/`: PMS field experience (symptom,
+checks, root cause, fix, parts). Manuals still win on specs and procedures.
+
+| Date | Unit | Symptom | Status | Page |
+|---|---|---|---|---|
+| 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power | open | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
+
 ## Sources
 
 Bruno Straight SL (6 of 6 ingested) — see `wiki/sources/Bruno/Bruno Straight SL/`:
