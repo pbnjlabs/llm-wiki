@@ -832,3 +832,5 @@ Per the human: ramp total rise = porch height +/- grade (the laser reading). The
 The first platform location is decided before measuring the ramp run. Most jobs: platform off the porch, first run off the platform. Some: porch big enough to run the ramp directly off it.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: choosing the first platform location (open)
 Porch at least 60 x 60 in can take the ramp directly. First platform placed for the shortest, most direct ramp to where the customer parks or wants to land.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: marking the first platform (open)
+First platform marked with 4 cones in a 60 x 60 in square once its location is set.

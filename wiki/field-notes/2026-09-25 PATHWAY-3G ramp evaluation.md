@@ -171,6 +171,8 @@ measured from there, so this comes before any run measurement.
 - **Choosing the spot:** start from **where the customer parks** (or
   otherwise wants to land), and place the first platform to give the
   **shortest, most direct ramp** there.
+- **Mark it:** once the location is set, put down **4 cones in a
+  60 × 60 in square** to show the first platform.
 - First platform location: ___
 
 - Tool:
@@ -261,7 +263,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   jobs put a platform off the porch and start the first run from it;
   a porch of at least 60 × 60 in lets the ramp come straight off the
   porch. Place the platform for the shortest, most direct ramp to where
-  the customer parks or wants to land.
+  the customer parks or wants to land, then **mark it with 4 cones in a
+  60 × 60 in square**.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
