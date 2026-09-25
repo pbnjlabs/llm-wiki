@@ -38,6 +38,8 @@ Starting point is the "dead system" checklist from
 - **Battery voltage: 4 V per battery**, measured directly at each battery's
   terminals with a multimeter on the 200 V DC range. Normal is about 12 V
   per battery, or about 24 V for the pair.
+- **Battery age: less than 1 year.** Worn-out batteries don't explain this,
+  so something ran them down.
 
 ## Root cause
 
@@ -53,6 +55,21 @@ Edge 3 since both use the same 24 V two-battery system:
   won't bring these back.
 - Batteries that are deeply discharged or stored without a full charge
   "may be permanently damaged" (OM p. 19 of the PDF).
+
+**Why they ran down: TBD.** The batteries are less than a year old, so
+look at how they were charged or stored. Things to rule out, from
+[[Q6 Edge Basic Troubleshooting]] (p. 1) and the OM:
+- The charger plugged into an outlet controlled by a wall switch that
+  was turned off.
+- An extension cord (Pride prohibits them for charging).
+- Charged too rarely or too briefly (Pride says 8–14 hrs after use, and
+  at least weekly even when the chair isn't used).
+- The chair stored or left sitting without being charged or unplugged
+  from the batteries.
+- The charger itself not working. Test it on the new batteries: its
+  output, and whether it finishes a charge.
+- Something draining the batteries while the chair is off. This is a
+  guess, not from any source; the wiki doesn't cover it.
 
 ## Fix
 
@@ -79,6 +96,10 @@ TBD
      low reading doesn't tell you which battery is bad. The wiki has no
      pinout for the Q-Logic 3 charger port, so find the +/− pins before
      probing.
+- **New batteries (less than a year old) dead at 4 V: find the cause
+  before closing the job.** Otherwise the replacement set will die the
+  same way. The wiki has no Pride battery warranty terms, so ask Pride or
+  the battery supplier about coverage.
 - More TBD. Note anything the manual's checklist missed, especially
   anything iLevel-specific.
 
