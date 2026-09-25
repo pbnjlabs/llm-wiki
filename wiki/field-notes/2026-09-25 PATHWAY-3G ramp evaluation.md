@@ -165,9 +165,13 @@ measured from there, so this comes before any run measurement.
 
 - **Most jobs:** a **first platform** comes off the porch, and the
   first ramp run starts **off the platform**.
-- **Some jobs:** the existing porch is **big enough** to build the
-  ramp **directly off the porch**, with no first platform.
-- First platform location: ___ (how it was chosen: ___)
+- **Some jobs:** the existing porch is **big enough (at least 60 × 60
+  in)** to build the ramp **directly off the porch**, with no first
+  platform.
+- **Choosing the spot:** start from **where the customer parks** (or
+  otherwise wants to land), and place the first platform to give the
+  **shortest, most direct ramp** there.
+- First platform location: ___
 
 - Tool:
 - From / to:
@@ -255,7 +259,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   add; negative: subtract).
 - **Locate the first platform before measuring the ramp run.** Most
   jobs put a platform off the porch and start the first run from it;
-  a big enough porch lets the ramp come straight off the porch.
+  a porch of at least 60 × 60 in lets the ramp come straight off the
+  porch. Place the platform for the shortest, most direct ramp to where
+  the customer parks or wants to land.
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.

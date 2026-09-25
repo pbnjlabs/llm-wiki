@@ -830,3 +830,5 @@ Added the laser-level steps and grade math to the template. Per the human, the l
 Per the human: ramp total rise = porch height +/- grade (the laser reading). The threshold is handled at the door (e.g. threshold ramp), except when the first platform is built on the porch flush with the threshold, then H is added. Also moved the full laser-level method into [[Ramp-Site-Planning]]. Updated [[Ramp-Slope-and-Length]], [[PMS Ramp Site Evaluation Form]], the template and the field note.
 ## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: locate first platform before run (open)
 The first platform location is decided before measuring the ramp run. Most jobs: platform off the porch, first run off the platform. Some: porch big enough to run the ramp directly off it.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation: choosing the first platform location (open)
+Porch at least 60 x 60 in can take the ramp directly. First platform placed for the shortest, most direct ramp to where the customer parks or wants to land.
