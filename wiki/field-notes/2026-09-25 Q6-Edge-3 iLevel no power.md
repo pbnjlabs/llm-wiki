@@ -9,7 +9,7 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 
 # 2026-09-25 — Q6 Edge 3 (standard) with iLevel: no power
 
-**Status: open** — job in progress.
+**Status: open.** The chair powers on with new batteries; function test in progress.
 
 ## Unit
 
@@ -43,10 +43,9 @@ Starting point is the "dead system" checklist from
 
 ## Root cause
 
-**Likely: the batteries were discharged to nearly zero.** At 4 V there's
+**Confirmed: the batteries were discharged to nearly zero.** At 4 V there's
 far too little voltage for the controller to power up, which explains the
-completely dark joystick. Not yet confirmed that new batteries bring it
-back.
+completely dark joystick. The chair powered on as soon as new batteries went in.
 
 From the Edge 3 Stretto OM, which we assume also applies to the standard
 Edge 3 since both use the same 24 V two-battery system:
@@ -56,7 +55,7 @@ Edge 3 since both use the same 24 V two-battery system:
 - Batteries that are deeply discharged or stored without a full charge
   "may be permanently damaged" (OM p. 19 of the PDF).
 
-**Why they ran down: TBD.** The batteries are less than a year old, so
+**Why they ran down: unknown.** The cause wasn't found on this job. The batteries are less than a year old, so
 look at how they were charged or stored. Things to rule out, from
 [[Q6 Edge Basic Troubleshooting]] (p. 1) and the OM:
 - The charger plugged into an outlet controlled by a wall switch that
@@ -74,12 +73,14 @@ look at how they were charged or stored. Things to rule out, from
 
 ## Fix
 
-TBD. Expected: replace both batteries as a pair. Then check whether the
-chair powers up and iLevel works.
+Replaced both batteries. **The chair powered on.**
+
+Function test (drive, controller, iLevel up/down, other seat functions):
+TBD.
 
 ## Parts used
 
-TBD
+- 2 × 12 V batteries (type and Ah TBD)
 
 ## Takeaways
 
