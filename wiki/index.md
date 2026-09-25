@@ -205,7 +205,7 @@ checks, root cause, fix, parts). Manuals still win on specs and procedures.
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
 | 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
-| 2026-09-25 | EZ-ACCESS PATHWAY 3G | Ramp evaluation, focused on how the measurements are taken | open | [[2026-09-25 PATHWAY-3G ramp evaluation]] |
+| 2026-09-25 | EZ-ACCESS PATHWAY 3G | Ramp evaluation measurement methods (tape, pen trick, laser-level total rise, cone layout, landing surface); adopted as house practice | resolved | [[2026-09-25 PATHWAY-3G ramp evaluation]] |
 
 ## Sources
 

@@ -3,37 +3,33 @@ type: field-note
 manufacturer: EZ-ACCESS
 model: PATHWAY-3G
 date: 2026-09-25
-status: open
+status: resolved
 tags: [ramp, evaluation, site-survey, measurement-method, field-note]
 ---
 
 # 2026-09-25 — PATHWAY 3G ramp evaluation: measurement methods
 
-**Status: open.** This note records **how** each measurement was
-taken: the tools, where the reference points were, and what made each
-one tricky. The values themselves matter less here. The goal is a
-repeatable method that can go back into [[Ramp-Site-Planning]].
+**Status: resolved (closed 2026-09-25).** This note is a write-up of
+**how** PMS takes each ramp evaluation measurement: the tools, the
+reference points, and the usual snags. It doesn't record a specific
+site's values or design. The methods are now **house practice**, in
+[[Ramp-Site-Planning]] ("PMS measurement methods") and the ramp
+evaluation template (`field-notes/Templates/`).
 
 ## Unit
 
 - EZ-ACCESS [[PATHWAY-3G]] (house default).
-- Site in brief (no customer details): ___
+- Site: not recorded (method write-up).
 
 ## Symptom
 
-The access need, in a line or two: ___
+Not recorded. This note documents the measurement methods, not one
+site's access need.
 
 ## Checked
 
-One block per measurement on the [[PMS Ramp Site Evaluation Form]].
-For each one, record:
-
-- **Tool**: tape, level, line level, angle meter, laser, etc.
-- **From / to**: the exact reference points.
-- **Method**: the steps, in order.
-- **Snags**: anything that made it hard or uncertain, and how it was
-  handled.
-- Value (optional): ___
+One block per measurement on the [[PMS Ramp Site Evaluation Form]]:
+the tool, the reference points, the method and the usual snags.
 
 ### Threshold height, outside (H) and inside
 
@@ -85,11 +81,7 @@ Depends on the entry. A home has one of three:
   rise. The only exception is a [[SUITCASE-Ramps]] over the steps, which
   follows the **manufacturer's guidelines**.
 - **Steps straight up to the outer threshold (no porch):** step rise
-  is the initial rise.
-  - Tool:
-  - From / to:
-  - Method:
-  - Snags:
+  is the initial rise. (Method not covered in this write-up.)
 - **No steps:** 0.
 
 ### Porch depth and width, door location on porch
@@ -104,7 +96,6 @@ Depends on the entry. A home has one of three:
 - Method: measure depth, then width, with the tape.
 - Door location on porch: **sketched on the map sheet**, not
   measured.
-- Snags:
 
 ### Door width and swing
 
@@ -136,7 +127,6 @@ be**, the same way trees or fencing can along the run.
 - Method: measure once, at the **narrowest point**. That's usually the
   **top or bottom of the porch stairs**, e.g. where stairs **fan out**
   from the porch or on **decorative stairs**.
-- Snags:
 
 ### Grade variation (porch corner to proposed landing)
 
@@ -158,8 +148,6 @@ be**, the same way trees or fencing can along the run.
      - The laser's own height above the porch is small enough to
        ignore.
 - **The step 3 reading is the ramp's TOTAL RISE. Always record it.**
-- Total rise (laser reading): ___ in
-- Snags:
 
 ### Run space, side clearance, and obstruction distances
 
@@ -176,7 +164,6 @@ measured from there, so this comes before any run measurement.
   **shortest, most direct ramp** there.
 - **Mark it:** once the location is set, put down **4 cones in a
   60 × 60 in square** to show the first platform.
-- First platform location: ___
 
 Laying out the run:
 
@@ -201,11 +188,10 @@ Laying out the run:
     shut-off valve or a plumbing clean-out. Find them before laying
     out the ramp (see Porch height above).
 
-### Level space at the door and at the landing (60 in)
+### Level space and landing surface
 
-- Tool:
-- From / to:
-- Method:
+- Level space at the door: see the 60 × 60 in rule under Door width
+  and swing, and the first platform under Run space.
 - Landing surface:
   - **Concrete:** good.
   - **Grass:** acceptable; PMS **adds a landing pad**, the EZ-ACCESS
@@ -218,7 +204,6 @@ Laying out the run:
     spec sheet.
   - **Rooty ground:** bad. **Avoid it.** If there's no other option,
     **dig out the roots**.
-- Snags:
 
 ### Photos and map sheet
 
@@ -227,12 +212,12 @@ Laying out the run:
     threshold (see above), so the tape reading shows clearly.
   - **The cones laid out**: the first platform square, the end of each
     run and any extra platforms.
-- How the obstructions, door and parking were mapped:
-- Snags:
+- Obstructions, door and parking: mapped on the form's map sheet
+  (sketching method not detailed here).
 
 ## Root cause
 
-How total rise was worked out from the measurements above:
+How total rise is worked out from the measurements above:
 
 **Ramp total rise = initial rise ± grade** (subtract if the grade goes
 up, add if it goes down). With a porch, this is the **laser-level
@@ -253,23 +238,19 @@ Initial rise depends on the entry:
   ground to top step. H is measured from the top step.
 - **No steps:** 0. See [[Ramp-Slope-and-Length]].
 
-- Threshold handled by: threshold ramp at the door / first platform on
-  the porch, flush with the threshold (add H):
-- How the measurements were combined here, and any judgment calls:
-- Cross-check used (e.g. a second method, or a direct measurement from
-  the threshold down to the landing point):
-
 ## Fix
 
-The design recommended, in brief: ___
+No design recorded (method write-up). See [[Ramp-Site-Planning]] for
+the layout method: first platform, cones, runs and extra platforms.
 
 ## Parts used
 
-None yet (evaluation only).
+None (method write-up).
 
 ## Takeaways
 
-Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
+Method lessons. **All are now in [[Ramp-Site-Planning]] and the
+template.**
 
 - **Three kinds of entry** decide the initial rise: steps up to a
   porch (use porch height; the steps don't count except for a SUITCASE
@@ -303,8 +284,8 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
 - **Width interference** is usually trees, a gazebo or fencing. Move
   it if it can be moved; otherwise build around it.
 - **Landing surface:** concrete is good, grass is acceptable with an
-  EZ-ACCESS landing pad (MLP, most likely 5 × 5 ft) added, and rooty ground is avoided (dig
-  out the roots if there's no other choice).
+  EZ-ACCESS landing pad (MLP, most likely 5 × 5 ft) added, and rooty
+  ground is avoided (dig out the roots if there's no other choice).
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
   the pen crosses it. It makes the photo readable too.
@@ -317,8 +298,9 @@ Method lessons worth adding to [[Ramp-Site-Planning]] or the template:
   a reading from another side of the porch is wrong.
 - **Before laying out the ramp, find the septic tank access, main
   water shut-off valve and plumbing clean-out, and keep the ramp off
-  them.** Now a **house standard** (see [[Ramp-Site-Planning]]). Also plan for bushes to remove and porch handrails to modify
-  where the platform connects.
+  them.** Now a **house standard** (see [[Ramp-Site-Planning]]). Also
+  plan for bushes to remove and porch handrails to modify where the
+  platform connects.
 
 ## See also
 

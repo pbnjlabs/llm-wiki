@@ -846,3 +846,5 @@ Rooty ground avoided; dig out roots if unavoidable. Grass gets an EZ-ACCESS MLP 
 Photos must show the cones laid out. Landing pad (MLP) most likely 5 x 5 ft per the human, matching the layout sheet; added to [[PATHWAY-3G]].
 ## [2026-09-25] house-standard | Ramps — PMS measurement methods adopted
 Per the human, the measurement methods from [[2026-09-25 PATHWAY-3G ramp evaluation]] are now house practice. Added a "PMS measurement methods" section to [[Ramp-Site-Planning]] (door and porch, laser-level total rise, tape-and-cone layout, landing surfaces) and rebuilt the template's Checked section around them (method column in the form table, ordered layout checklist, extra photo items). Updated index.md.
+## [2026-09-25] field-note | EZ-ACCESS PATHWAY 3G — ramp evaluation measurement methods (resolved)
+Closed the note. It is a method write-up, not a specific site record; empty site/value/design placeholders removed. All methods are now in [[Ramp-Site-Planning]] and the template. Open item carried forward: MLP landing pad size (most likely 5 x 5 ft) unconfirmed. Updated index.md and [[PATHWAY-3G]].
