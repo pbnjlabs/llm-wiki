@@ -9,6 +9,11 @@ LOG="$REPO_DIR/.sync.log"
 cd "$REPO_DIR"
 ts() { date '+%Y-%m-%d %H:%M:%S'; }
 
+if [ ! -d "$REPO_DIR/.git" ]; then
+  echo "$(ts) FAILED: $REPO_DIR is not a git clone -- see README (Option B: git clone)" >> "$LOG"
+  exit 1
+fi
+
 if ! git diff --quiet || ! git diff --cached --quiet; then
   echo "$(ts) skip: local changes pending" >> "$LOG"
   exit 0

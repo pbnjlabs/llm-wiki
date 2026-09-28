@@ -9,7 +9,14 @@ function Write-Log($msg) {
     "$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') $msg" | Out-File -Append -FilePath $Log
 }
 
-$status = git status --porcelain
+if (-not (Test-Path (Join-Path $RepoDir ".git"))) {
+    Write-Log "FAILED: $RepoDir is not a git clone -- see README (Option B: git clone)"
+    exit 1
+}
+
+# Untracked files (e.g. Obsidian's Welcome.md) don't block the pull;
+# git pull --ff-only still refuses if it would overwrite one.
+$status = git status --porcelain --untracked-files=no
 if ($status) {
     Write-Log "skip: local changes pending"
     exit 0
