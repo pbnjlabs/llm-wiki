@@ -25,17 +25,7 @@ that only needs a snapshot and won't be kept current):
 Option B — git clone with auto-sync (recommended if this device should
 always have the latest wiki):
 
-WinGet Set Up (do this first, once per device — skip if `winget` already
-works in a terminal). From an elevated PowerShell:
-```
-$progressPreference = 'silentlyContinue'
-Write-Host "Installing WinGet PowerShell module from PSGallery..."
-Install-PackageProvider -Name NuGet -Force | Out-Null
-Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
-Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
-Repair-WinGetPackageManager -AllUsers
-Write-Host "Done."
-```
+
 
 Then install Git non-interactively (no manual download):
 ```
@@ -55,10 +45,12 @@ don't have to remember to `git pull` before asking Claude a question.
 
 
 Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
-your clone location. Runs once a day at 8:30am:
+your clone location (C:\Users\[NAME]\... ). Runs once a day at 8:30am:
 ```
 schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
-  /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
+...
+...
+ "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
 
@@ -67,6 +59,17 @@ If the script finds local uncommitted changes it skips the pull rather
 than risk clobbering in-progress work — check `.sync.log` in the repo
 root if the wiki ever seems stale.
 
+
+WinGet Set Up. From an elevated PowerShell:
+```
+$progressPreference = 'silentlyContinue'
+Write-Host "Installing WinGet PowerShell module from PSGallery..."
+Install-PackageProvider -Name NuGet -Force | Out-Null
+Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+Repair-WinGetPackageManager -AllUsers
+Write-Host "Done."
+```
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Obsidian's vault is where all of this information will live--locally on your device.  
