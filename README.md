@@ -27,7 +27,8 @@ that only needs a snapshot and won't be kept current):
 Option B — git clone with auto-sync (recommended if this device should
 always have the latest wiki):
 
-
+First make sure `winget` works in a terminal. If it doesn't, do WinGet
+Set Up below first.
 
 Then install Git non-interactively (no manual download):
 ```
@@ -47,10 +48,9 @@ don't have to remember to `git pull` before asking Claude a question.
 
 
 Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
-your clone location (C:\Users\[NAME]\... ). Runs once a day at 8:30am:
+your clone location (C:\Users\[NAME]\...). Runs once a day at 8:30am:
 ```
-schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
- "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
+schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
 
@@ -61,7 +61,8 @@ root if the wiki ever seems stale. The log will also show an error if the
 folder isn't a git clone.
 
 
-WinGet Set Up. From an elevated PowerShell:
+WinGet Set Up (once per device, only if `winget` doesn't already work in a
+terminal), from an elevated PowerShell:
 ```
 $progressPreference = 'silentlyContinue'
 Write-Host "Installing WinGet PowerShell module from PSGallery..."
