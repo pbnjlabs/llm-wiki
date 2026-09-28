@@ -48,10 +48,6 @@ Windows (Task Scheduler), from an elevated PowerShell, path adjusted to
 your clone location (C:\Users\[NAME]\... ). Runs once a day at 8:30am:
 ```
 schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
-...
-
-
-...
  "powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Users\[NAME]\Documents\LLM-Wiki\scripts\sync-wiki.ps1"
 ```
 
