@@ -1,7 +1,7 @@
 This is an LLM-Wiki for Performance Medical Supply. 
-To implement install Obsidian and Claude Pro.
+To set it up, install Obsidian and Claude Pro.
 
-Obsidian Set UP:
+Obsidian Set Up:
 - https://obsidian.md/
 - Create new vault
 - Vault name: LLM-Wiki
@@ -14,12 +14,14 @@ Claude Set Up:
 
 Option A — one-time download, no auto-sync (simplest; fine for a device
 that only needs a snapshot and won't be kept current):
-- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub
+- Tell Claude, "create a new project called LLM-Wiki. Here is the GitHub repo:
   https://github.com/pbnjlabs/llm-wiki. Save the project to
   Documents\LLM-Wiki."
 - This device's copy is a one-time download. If the wiki changes later
   (new manuals ingested, pages updated), it will NOT pick those changes
   up on its own — you'd need to redo this step to refresh it.
+- Don't set up the sync task (Sync Set Up below) on an Option A copy —
+  it only works on a git clone. Use Option B if you want auto-sync.
 
 
 Option B — git clone with auto-sync (recommended if this device should
@@ -38,9 +40,9 @@ winget install --id Git.Git -e --source winget
 - Confirm it worked: open a terminal in Documents\LLM-Wiki and run `git remote -v` — it should show `origin  https://github.com/pbnjlabs/llm-wiki.git`.
 - Then follow Sync Set Up below.
 
-Sync Set Up (Do this once per device, after cloning the repo):
+Sync Set Up (do this once per device, after cloning the repo):
 
-This keeps the `wiki/` folder current from GitHub automatically, so you
+This keeps the LLM-Wiki folder current from GitHub automatically, so you
 don't have to remember to `git pull` before asking Claude a question.
 
 
@@ -55,7 +57,8 @@ schtasks /Create /SC DAILY /ST 08:30 /TN "LLM-Wiki Sync" ^
 
 If the script finds local uncommitted changes it skips the pull rather
 than risk clobbering in-progress work — check `.sync.log` in the repo
-root if the wiki ever seems stale.
+root if the wiki ever seems stale. The log will also show an error if the
+folder isn't a git clone.
 
 
 WinGet Set Up. From an elevated PowerShell:
@@ -71,20 +74,20 @@ Write-Host "Done."
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Obsidian's vault is where all of this information will live--locally on your device.  
-Claude's default working directory is \Documents.  
+The wiki lives in Documents\LLM-Wiki.  
 
 
-Claude must be told to query/consult/check the Wiki at the beginning of each session in order to use the Wiki. Otherwise Claude will search the web for answers. 
+Claude must be told to query/consult/check the wiki at the beginning of each session in order to use the wiki. Otherwise Claude will search the web for answers. 
 
 
-To add Source Materials drag/drop, copy/paste, or copy/past the path to the new material and tell Claude to “ingest the [source material] to the Wiki.” And then tell Claude to perform a Lint. Please understand, Obsidian is a library for Claude to maintain, and the Obsidian vault should not need any human curation.
+To add source material, drag and drop it, copy and paste it, or paste its path, and tell Claude to "ingest the [source material] to the wiki." Then tell Claude to run a lint. Please understand, Obsidian is a library for Claude to maintain, and the Obsidian vault should not need any human curation.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Example prompt: "check the /path/to/source-material folder for new sources and ingesting them."
+Example prompt: "check the /path/to/source-material folder for new sources and ingest them."
 
 Example prompt: "I'm done ingesting for the day. Perform a lint."
 
-Example Prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the llm-wiki."
+Example prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the LLM-Wiki."
 
 
 
@@ -92,8 +95,8 @@ Example Prompt: "Help me troubleshoot a Bruno VPL that won't move. Consult the l
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Sources: https://git-scm.com/install/windows (Windows Git install), 
-         https://learn.microsoft.com/en-us/windows/package-manager/winget/ (Winget install), 
-         https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f (LLM-Wiki, Kaparthy)
+         https://learn.microsoft.com/en-us/windows/package-manager/winget/ (WinGet install), 
+         https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f (LLM-Wiki, Karpathy)
 
 
 Contact: Lucas@PerformanceMedicalSupply.com 
