@@ -85,6 +85,21 @@ individual per-model manual exists)
 - Anchor plate (center-seat-post mobility devices) or U-bolt kit
   (tubular-frame devices) for strap-type securement models
 
+## PMS estimate workflow ([[Vehicle Lift Workflow]])
+
+PMS house practice for quoting these lifts:
+
+1. Complete the phone interview sheet ([[Vehicle Lift Phone Interview Form]]).
+2. Pick the lift with the **harmar.com vehicle compatibility
+   calculator**: **AL100 series for scooters**, **AL301XL series for
+   power wheelchairs**, **"HD" models for larger devices**.
+3. **Swing-away** for any vehicle that needs rear access (SUV, truck,
+   hatchback, minivan, Jeep). Check the lift's options box on harmar.com
+   offers one.
+4. **Every install has a hitch adapter; put it on the estimate.** See
+   the adapter notes under Installation.
+5. No receiver hitch? Order one from etrailer.com or etowing.com.
+
 ## Operation notes
 - **NOT for human transport** — occupied use voids the warranty
 - Always walk the mobility device on/off manually (never drive it on)

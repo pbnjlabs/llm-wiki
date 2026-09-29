@@ -15,7 +15,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
-| Harmar | [[Harmar]] | 75 | 37 source pages (see note — several consolidate multiple low-narrative files) |
+| Harmar | [[Harmar]] | 76 | 38 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 9 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (18 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
@@ -258,7 +258,9 @@ Noise, Boom Lift Strap Replacement, Pinnacle Seat Swivel Modifications,
 New Harmar Interlock Introduction, Pinnacle Seat/Footrest Supply Chain
 Changes, Highlander II PCB Moisture Protection Plate, AL1232 Hitch
 Adapter Cold Welds, Pinnacle Rail Length Change, License Plate Riser
-Installation, AL1235U Universal Drop Hitch Adapter); Hoist Vehicle Lift Brochure (revealed the entire
+Installation, AL1235U Universal Drop Hitch Adapter); [[Vehicle Lift Workflow]] (PMS estimate
+workflow: lift by device, swing-away, hitch adapter on every estimate;
+phone number and login omitted); Hoist Vehicle Lift Brochure (revealed the entire
 [[Hoist-Series-Inside-Vehicle-Lifts]] product category); and four
 consolidated reference pages — Harmar Evaluation and Order Forms (6
 files), Harmar Product Spec Sheets (4 files), Harmar Parts Diagrams (9
