@@ -196,10 +196,10 @@ closure kit. **Bridge plates**: MBP36/48/60 are 8 in deep; MDBP is
 - **Platform tie strap** (MPTS): joins a platform to a porch, deck or
   threshold with little or no gap, **½ in max for an ADA install**.
 - **Landing pad** (MLP): at the ramp bottom on soft or uneven ground,
-  used with an MRLT. **4.5 × 4.5 ft** (confirmed by the human,
-  2026-09-29). The layout sheet's "5' ALP" is a rounded name, and the
-  assembly manual gives no size. PMS adds one when the ramp lands on
-  grass.
+  used with an MRLT. **5 ft**, per the layout sheet ("5' ALP",
+  [[EZ Access Layout Key and Install Time]]); the wiki follows the sheet
+  (per the human). The assembly manual gives no size. PMS adds one when
+  the ramp lands on grass.
 - **Lightning ground rod** (MLGRK): aluminum conducts electricity.
   Drive the rod within 1½ ft of a support tube, leaving about 2 in
   exposed, with #8 copper wire to a brace band. **Locate utilities

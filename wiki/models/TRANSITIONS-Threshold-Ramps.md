@@ -107,6 +107,9 @@ Install time: 40 min for 3–5 in, 20 min for ½–2½ in rubber thresholds
   PMS)**: at an entry door, the Angled Entry Ramp's leveling feet can
   sometimes be removed to get the right height. Some entryways still won't sit flush with the
   transition, so check this on site. See [[Ramp-Site-Planning]].
+- **Mat vs. Angled Entry Ramp:** PMS has **no house rule** for which
+  to use. Choose by the measured threshold height and each product's
+  range.
 - Threshold install rule (from [[How to Measure and Install a Ramp]]):
   seat the ramp firmly against the threshold with no gap.
 

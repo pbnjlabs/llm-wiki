@@ -20,7 +20,7 @@ job, add up the components on the layout drawing. Times are per piece.
 | Platform 4×5 (MP45), 5×4 (MP54), 5×5 (MP55), 5×6 (MP56T), 6×5 (MP65), 6×6 (MP66) | 35 min each |
 | Platform 8×5 turn-back (MP85TB) | 40 min |
 | Double platform (2 × MP45T) | 50 min |
-| Landing pad (5' ALP; actual size 4.5 × 4.5 ft) | 15 min |
+| Landing pad (5' ALP) | 15 min |
 | Stairs | 60 min |
 | Ramp bracing (green dot on layout) | 15 min each |
 | Platform bracing (red dot on layout) | 20 min each |

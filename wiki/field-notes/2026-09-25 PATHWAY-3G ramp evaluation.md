@@ -199,9 +199,8 @@ Laying out the run:
     run on soft or uneven ground, with the ramp's lower transition (MRLT)
     resting fully on it ([[Pathway Modular Access System Assembly Manual]]
     §6.6; [[PATHWAY-3G]]).
-    **Size: 4.5 × 4.5 ft** (confirmed by the human, 2026-09-29).
-    [[EZ Access Layout Key and Install Time]] calls it a "5' ALP"; treat
-    that as a rounded name, not the size.
+    **Size: 5 ft**, per [[EZ Access Layout Key and Install Time]]
+    ("5' ALP").
   - **Rooty ground:** bad. **Avoid it.** If there's no other option,
     **dig out the roots**.
 
@@ -284,7 +283,7 @@ template.**
 - **Width interference** is usually trees, a gazebo or fencing. Move
   it if it can be moved; otherwise build around it.
 - **Landing surface:** concrete is good, grass is acceptable with an
-  EZ-ACCESS landing pad (MLP, 4.5 × 4.5 ft) added, and rooty
+  EZ-ACCESS landing pad (MLP, 5 ft) added, and rooty
   ground is avoided (dig out the roots if there's no other choice).
 - **Pen trick for threshold heights:** if the tape is hard to read at
   the threshold, balance a pen on the threshold and read the tape where
