@@ -382,6 +382,8 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
+Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
+
 PMS (5 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking

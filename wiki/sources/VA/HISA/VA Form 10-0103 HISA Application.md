@@ -2,7 +2,7 @@
 type: source
 manufacturer: VA
 doc_type: Government Form
-source: "MANUALS/Misc./HISSA 100103.pdf"
+source: "MANUALS/Misc./VA Paperwork/HISSA 100103.pdf"
 date: 2025-03-01
 tags: [va, hisa, form, home-improvement, structural-alteration, funding]
 ---
@@ -46,4 +46,4 @@ care. It isn't sent by PMS.
 
 - [[PMS-Office-Procedures]] (VA jobs)
 
-Raw PDF: `MANUALS/Misc./HISSA 100103.pdf`
+Raw PDF: `MANUALS/Misc./VA Paperwork/HISSA 100103.pdf`

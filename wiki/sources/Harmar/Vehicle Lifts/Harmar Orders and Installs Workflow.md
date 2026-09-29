@@ -2,7 +2,7 @@
 type: source
 manufacturer: Harmar
 doc_type: Internal Workflow
-source: "MANUALS/Misc./harmar_orders_workflow.pdf; MANUALS/Misc./vl_workflow.pdf"
+source: "MANUALS/Misc./Vehicle Lifts/harmar_orders_workflow.pdf; MANUALS/Misc./Vehicle Lifts/vl_workflow.pdf"
 date: 2021-09-14
 tags: [harmar, vehicle-lift, ordering, invoicing, workflow, pms]
 ---
@@ -86,5 +86,5 @@ For installs PMS does **for Harmar**, through Harmar's **Lift Squad**:
 - [[AL-Series-Outside-Vehicle-Lifts]]: PMS ordering and invoicing
 - [[PMS-Office-Procedures]]
 
-Raw PDFs: `MANUALS/Misc./harmar_orders_workflow.pdf`,
-`MANUALS/Misc./vl_workflow.pdf`
+Raw PDFs: `MANUALS/Misc./Vehicle Lifts/harmar_orders_workflow.pdf`,
+`MANUALS/Misc./Vehicle Lifts/vl_workflow.pdf`

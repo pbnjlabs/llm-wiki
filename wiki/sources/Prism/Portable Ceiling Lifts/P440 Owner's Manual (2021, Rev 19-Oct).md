@@ -17,7 +17,7 @@ throughout (product photos show a "handicare P-440" nameplate on the
 lift itself) rather than staying silent on manufacturer identity the
 way the 2017 manual did.
 
-**Another copy:** `MANUALS/Misc./Owners-Manual_P-440-Portable-Ceiling-Lift_…_My-Mobility-Store.pdf`
+**Another copy:** `MANUALS/Misc./Ceiling Lifts/Owners-Manual_P-440-Portable-Ceiling-Lift_…_My-Mobility-Store.pdf`
 (24 pages, PDF dated Apr–Jun 2021, from a retailer's site) is the same
 Handicare-branded owner's manual text, likely an earlier 2021 printing
 of this revision. No separate page.

@@ -2,7 +2,7 @@
 type: source
 manufacturer: VA
 doc_type: Request for Quote
-source: "MANUALS/Misc./BATHROOM_GRAB-BAR.pdf"
+source: "MANUALS/Misc./Grab Bars/BATHROOM_GRAB-BAR.pdf"
 date: 2026-05-26
 tags: [va, psas, grab-bar, bathroom, ada, rfq, install, bid]
 ---
@@ -78,4 +78,4 @@ Awarded to the vendor giving **the best overall value to the veterans**.
   [[Grab-Bar-Installation]].
 - The quote deadline (9 June 2026) has passed.
 
-Raw PDF: `MANUALS/Misc./BATHROOM_GRAB-BAR.pdf`
+Raw PDF: `MANUALS/Misc./Grab Bars/BATHROOM_GRAB-BAR.pdf`
