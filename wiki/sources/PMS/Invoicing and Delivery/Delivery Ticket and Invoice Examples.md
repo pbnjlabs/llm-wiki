@@ -74,12 +74,13 @@ Two kinds. **Use the right one for the payer.**
 
 Marked "for reference".
 
-- **Bill to: Dorn VA Hospital** (Columbia SC). The handwritten note by
-  it is only partly legible.
+- **Bill to: Dorn VA Hospital** (Columbia SC). A partly legible
+  handwritten note next to it is left out, as agreed.
 - Header: Veteran ID, VA P.O. number, technician initials, PA, serial,
   equipment (e.g. PWC).
 - **Serial number:** include the letter prefix (e.g. **JE** on a Pride
-  serial). **"No letters if Harmar."**
+  serial). **Harmar serials: no letter prefix** (confirmed by the
+  human).
 - **When converting the estimate: remove the "evaluate" part** of the
   description, so the invoice says what was repaired.
 - Example lines: MISC repair description ("Repair Pride J6 PWC … batteries

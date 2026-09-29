@@ -10,8 +10,8 @@ tags: [bruno, va, property-owner, consent, form]
 
 A one-page, undated letter to the veteran to get **the property
 owner's permission** before the VA installs equipment. Blank form; it
-doesn't say who wrote it. The file name ties it to **Bruno lead** jobs;
-the form itself doesn't mention Bruno.
+doesn't say who wrote it. Used on **Bruno lead** jobs (confirmed by the
+human), although the form itself doesn't mention Bruno.
 
 ## Two sections
 
