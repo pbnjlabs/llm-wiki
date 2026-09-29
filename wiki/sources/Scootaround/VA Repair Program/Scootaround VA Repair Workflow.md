@@ -56,11 +56,11 @@ placeholder veteran name and address.
 
 ## Parts pricing (p. 3, PMS handwritten notes)
 
-- **Part price billed = MSRP × 0.75.** Scootaround gets **25% off
-  MSRP**.
+- **Part price billed = MSRP × 0.75.** PMS makes **75% of MSRP**;
+  Scootaround gets **25% off MSRP**.
 - **Golden Technologies parts: 2 × what PMS is charged.**
-- The note at the top reads **"We make 70% of MSRP"**. That doesn't
-  match the × 0.75 rule, so it's recorded as written and unconfirmed.
+- The handwritten "70% of MSRP" at the top of the page is a slip;
+  **75% is correct** (confirmed by the human, 2026-09-29).
 
 ## Sample PMS invoice (p. 4)
 
@@ -76,8 +76,9 @@ Billed to Scootaround Inc., with these fields: Veteran ID, **P.O. number
 | Parts | Part # and **MSRP × .75** (sample: $780 MSRP → $585) |
 | Sales tax | 0% |
 
-PMS's invoice uses **30-minute increments for travel**, while
-Scootaround's sample quote says all labor in 15-minute increments.
+**Travel is billed in 30-minute increments** (confirmed by the human),
+even though Scootaround's sample quote shows all labor in 15-minute
+increments. Assessment and repair labor stay at 15 minutes.
 
 ## Feeds
 

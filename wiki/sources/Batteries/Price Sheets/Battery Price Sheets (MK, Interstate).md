@@ -82,26 +82,26 @@ and handling on UPS battery shipments. MK can change prices at any time.
 
 ## Interstate Batteries Mobility Price Sheet (p. 3)
 
-| Part # | Group | Ah | Multi-pack | HCPCS | Dealer | Retail |
-|---|---|---|---|---|---|---|
-| DCM0012 | — | 12 | 4 | K0733 | 4750 | $62.95 |
-| DCM0018 | — | 18 | 2 | K0733 | 6510 | $84.95 |
-| DCM0026 | — | 26 | 1 | K0733 | 8260 | $109.95 |
-| DCM0035 | U1 | 35 | 1 | E2365 | 9440 | $119.95 |
-| DCM0035L | U1 | 35 | 1 | E2365 | 9440 | $119.95 |
-| DCM0040 | — | 40 | 1 | — | 12790 | $154.95 |
-| DCM0055 | 22NF | 55 | 1 | E2361 | 16710 | $209.95 |
-| DCM0055U | 22NF | 55 | 1 | E2361 | 16710 | $209.95 |
-| DCM0060 | 34 | 60 | 1 | — | 19415 | $224.95 |
-| DCM0075 | 24 | 75 | 1 | E2363 | 21950 | $259.95 |
-| DCM0075U | 24 | 75 | 1 | E2363 | 21410 | $249.95 |
-| DCM0090 | 27 | 90 | 1 | E2371 | 24000 | $279.95 |
-| DCM0100 | 31 | 100 | 1 | — | 26890 | $309.95 |
-| DCM0100L | 31 | 100 | 1 | — | 26860 | $309.95 |
-| DCM0157 (6 V) | 27 | 180 | 1 | — | 25720 | $299.95 |
+| Part # | Group | Ah | Multi-pack | HCPCS | Retail |
+|---|---|---|---|---|---|
+| DCM0012 | — | 12 | 4 | K0733 | $62.95 |
+| DCM0018 | — | 18 | 2 | K0733 | $84.95 |
+| DCM0026 | — | 26 | 1 | K0733 | $109.95 |
+| DCM0035 | U1 | 35 | 1 | E2365 | $119.95 |
+| DCM0035L | U1 | 35 | 1 | E2365 | $119.95 |
+| DCM0040 | — | 40 | 1 | — | $154.95 |
+| DCM0055 | 22NF | 55 | 1 | E2361 | $209.95 |
+| DCM0055U | 22NF | 55 | 1 | E2361 | $209.95 |
+| DCM0060 | 34 | 60 | 1 | — | $224.95 |
+| DCM0075 | 24 | 75 | 1 | E2363 | $259.95 |
+| DCM0075U | 24 | 75 | 1 | E2363 | $249.95 |
+| DCM0090 | 27 | 90 | 1 | E2371 | $279.95 |
+| DCM0100 | 31 | 100 | 1 | — | $309.95 |
+| DCM0100L | 31 | 100 | 1 | — | $309.95 |
+| DCM0157 (6 V) | 27 | 180 | 1 | — | $299.95 |
 
-The **Dealer** column is printed without a decimal point. It most likely
-means cents (4750 = $47.50), but the sheet doesn't say.
+The sheet's **"Dealer" column is left out**: those numbers are dealer
+reference numbers, not prices, and PMS doesn't use them (per the human).
 
 ## Feeds
 
