@@ -56,6 +56,14 @@ individual per-model manual exists)
 ## Installation
 - Hitch classes 1, 2, 3, 5; per-model tongue-weight table plus a
   ~40-part-number hitch-adapter sizing chart (by HV/D1/D2 hitch geometry)
+- **AL1235U Universal Class 3 drop hitch adapter**: one adapter set up
+  as no drop or a 2, 3 or 5 in drop. Measure **hitch-to-ground height**
+  from the bottom of the receiver, round to the nearest inch, and pick
+  the setting from the chart. Standard AL107 post: no drop up to 18 in,
+  2 in at 19–20, 3 in at 21, 5 in at 22–23. Swing-away (AL105/AL105L):
+  no drop up to 16 in, 2 in at 17–18, 3 in at 19, 5 in at 20–21. Higher
+  than that: call Harmar. Fasteners **75 ft-lb**. See
+  [[Bulletin - AL1235U Universal Drop Hitch Adapter]].
 - 23' vehicle wiring harness (SAE J1128), black wire to battery negative
   first / red to positive last, 20A self-resetting circuit breaker; a
   stand-alone battery pack (BAT141386) is offered for hybrid/EV vehicles
@@ -80,6 +88,8 @@ individual per-model manual exists)
   revision, same model/hitch-weight coverage confirmed unchanged
 - [[Bulletin - AL1232 Hitch Adapter Cold Welds]] (2015-batch safety
   recall — inspect and destroy affected hitch adapters)
+- [[Bulletin - AL1235U Universal Drop Hitch Adapter]] (630-00072 Rev C,
+  2019; drop setting by hitch-to-ground height)
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
 - [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
   drawing also referenced there actually belongs to
