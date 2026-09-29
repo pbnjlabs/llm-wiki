@@ -103,9 +103,9 @@ PMS house practice for quoting these lifts:
 **Ordering and invoicing** ([[Harmar Orders and Installs Workflow]]):
 email the Harmar order contact with subject `New order for <veteran's
 last name>`, listing vehicle, mobility device, lift, swing-away and hitch
-adapter class/drop. The VA invoice lists the lift, swing-away, the vehicle's receiver
-hitch and the drop adapter (installation included), the GSA contract line and a travel
-zone charge. Harmar **Lift Squad** installs are invoiced to Harmar
+adapter class/drop. The VA invoice lists the lift, swing-away, the
+vehicle's receiver hitch and the drop adapter (installation included),
+the GSA contract line and a **VA-only** travel zone charge. Harmar **Lift Squad** installs are invoiced to Harmar
 Mobility, with the paperwork, invoice and install photos emailed to
 PMS billing.
 

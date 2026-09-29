@@ -57,7 +57,10 @@ equipment ("VEH LIFT").
 | HITCH CLASS III | Class 3 **receiver hitch for the vehicle**, installation included | $241.21 |
 | Parts | Universal drop (the Harmar drop hitch adapter) | $200.00 |
 | GSA FSS-65 II F | Contract number **36F79721D0058**, patient mobility devices, vehicle lifts | $0.00 |
-| ZONE 6 | Travel zone charge, by county (zone chart not yet on file) | $190.00 |
+| ZONE 6 | **VA-specific** travel zone charge, by county (zone chart not yet on file) | $190.00 |
+
+The **zone charge applies only to VA jobs**; non-VA invoices don't carry
+it.
 
 Total on the sample: $2,949.81. Prices are from 2021 and are only a
 reference for the invoice layout.
