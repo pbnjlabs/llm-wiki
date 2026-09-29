@@ -18,7 +18,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Harmar | [[Harmar]] | 74 | 36 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 8 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (17 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 9 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (18 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` physically holds 21 files, but the table
 attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
@@ -132,7 +132,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
-| TRANSITIONS threshold plates/ramps/mats (5 products, full size tables) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
+| TRANSITIONS threshold plates/ramps/mats (5 products, full size tables; Angled Entry Mat install sheet: 9 heights ½–2½ in, 850 lb, ¼ in fit, trim height only) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
 | PATHWAY 3G residential modular ramp system ("Pathway" and "3G" are the same product; 850 lb per its 2015 manual) | EZ-ACCESS | [[PATHWAY-3G]] |
@@ -373,7 +373,7 @@ Calculator Guide, Understanding ADA Ramp Requirements, Understanding
 Ramp Incline, How to Measure and Install a Ramp, Residential Ramps -
 Where Do I Begin. PATHWAY 3G: Configuration Factors for Residential Ramp
 Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
-Is Right for Your Needs. TRANSITIONS: Different Types of Threshold
+Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
 Standards (1 of 1 ingested), see `wiki/sources/Standards/ADA/`: ADA

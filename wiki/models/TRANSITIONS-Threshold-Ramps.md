@@ -12,6 +12,9 @@ tracks and single low steps. Five products. Specs come from a **2021
 web article** ([[Different Types of Threshold Ramps]]), overridden
 where noted by the parts sheet [[EZ Access Parts and Pieces]] (2018,
 origin unknown), which gives part numbers and narrower height ranges.
+The Angled Entry Mat also has a manufacturer instruction sheet
+([[TRANSITIONS Angled Entry Mat Instructions]], 2025), which overrides
+both on that product.
 
 ## Sizing tables
 
@@ -57,6 +60,23 @@ note below about removing the leveling feet applies to this product.
 **Angled Entry Mat** (TAEM; "rubber threshes"/RT on the parts sheet):
 one-piece recycled rubber, can be trimmed down,
 tapered edge only 0.125 in. Sold in both the Work and Home collections.
+
+Per the manufacturer's instructions
+([[TRANSITIONS Angled Entry Mat Instructions]], 2025-07-23), which
+override the article below:
+
+- **Heights:** 1/2, 3/4, 1, 1-1/4, 1-1/2, 1-3/4, 2, 2-1/4 and 2-1/2 in.
+- **Capacity: 850 lb**, not the 700 lb of the other TRANSITIONS
+  products.
+- **Fit:** the mat's top edge must be within **1/4 in** of the landing
+  height and **flush against it**. If the landing is lower, **trim the
+  height down**; it can also be notched for the door jamb. **Never trim
+  the width.**
+- **Anchor** with 2 fasteners, about 1 in in from each lower corner:
+  the supplied #10 × 3-1/2 in screws into wood, or 1/4 × 1-1/4 in drive
+  pin anchors into concrete (1/4 in masonry bit, 2 in deep).
+
+The article's two-size table (still useful for footprint):
 
 | Part # | Size | Threshold up to | Usable width | Parts-sheet RT heights |
 |---|---|---|---|---|
