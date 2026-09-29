@@ -378,6 +378,12 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
+VA (1 of 1 ingested), see `wiki/sources/VA/Grab Bars/`:
+[[RFQ - Bathroom Grab Bars (VA, 2026)]]. A VA request for quote to install
+PSAS-supplied ADA grab bars (12–32 in, shower and toilet, tile and
+fiberglass, 350 lb, 2-year labor warranty). Raw file in `MANUALS/Misc./`.
+Requester contact details omitted.
+
 Standards (1 of 1 ingested), see `wiki/sources/Standards/ADA/`: ADA
 Technical Guide - Ramps and Curb Ramps (U.S. Access Board, July 2015;
 raw file `MANUALS/Ramps/ADA_Rules_ramps.pdf`). This is the
