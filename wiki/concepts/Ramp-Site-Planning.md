@@ -137,7 +137,7 @@ reading is the ramp's total rise; record it.**
 6. **Side clearance:** usually trees, a gazebo or fencing. **Move it
    if it can be moved; otherwise build around it.**
 7. **Landing surface:** **concrete** is good. **Grass** is acceptable
-   with an EZ-ACCESS **MLP landing pad** (most likely 5 × 5 ft; see
+   with an EZ-ACCESS **MLP landing pad** (4.5 × 4.5 ft; see
    [[PATHWAY-3G]]). **Rooty ground**: avoid it; if there's no other
    choice, dig out the roots.
 8. **Photograph the cones laid out**, along with the form's photo list.

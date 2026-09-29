@@ -128,7 +128,7 @@ Layout (in this order):
       up to 6 in takes a bridge plate)
 - [ ] 60 in level landing at the bottom: Y / N
 - [ ] **Landing surface:** concrete (good) / grass (OK, add an
-      EZ-ACCESS MLP landing pad, likely 5 × 5 ft) / rooty ground (avoid;
+      EZ-ACCESS MLP landing pad, 4.5 × 4.5 ft) / rooty ground (avoid;
       dig out roots if no choice) / other: ___
 - [ ] Bushes to remove / porch handrails to modify: ___
 - [ ] **Obstructions mapped** (trees, shrubs, lawn ornaments,
