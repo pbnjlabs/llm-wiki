@@ -100,6 +100,15 @@ PMS house practice for quoting these lifts:
    the adapter notes under Installation.
 5. No receiver hitch? Order one from etrailer.com or etowing.com.
 
+**Ordering and invoicing** ([[Harmar Orders and Installs Workflow]]):
+email the Harmar order contact with subject `New order for <veteran's
+last name>`, listing vehicle, mobility device, lift, swing-away and hitch
+adapter class/drop. The VA invoice lists the lift, swing-away, hitch
+and drop (installation included), the GSA contract line and a travel
+zone charge. Harmar **Lift Squad** installs are invoiced to Harmar
+Mobility, with the paperwork, invoice and install photos emailed to
+PMS billing.
+
 ## Operation notes
 - **NOT for human transport** — occupied use voids the warranty
 - Always walk the mobility device on/off manually (never drive it on)

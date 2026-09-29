@@ -82,6 +82,6 @@ increments. Assessment and repair labor stay at 15 minutes.
 
 ## Feeds
 
-Stand-alone PMS process reference; no model or concept page yet.
+- [[PMS-Office-Procedures]]
 
 Raw PDF: `MANUALS/Misc./scootaround_workflow.pdf`
