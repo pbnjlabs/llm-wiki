@@ -137,4 +137,5 @@ The customer's settings carried over, and the post-swap function check
 - [[Q6-Edge-3-Stretto]]
 - [[Q6 Edge Basic Troubleshooting]]
 - [[Joystick-Controllers]]
+- [[Mobility-Batteries]] (DCM0055 equivalents)
 - [[Tru-Balance-3-Power-Positioning]]

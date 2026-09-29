@@ -168,6 +168,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
+| Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes | [[Mobility-Batteries]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
@@ -377,6 +378,18 @@ Where Do I Begin. PATHWAY 3G: Configuration Factors for Residential Ramp
 Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
+
+Batteries (1 of 1 ingested), see `wiki/sources/Batteries/Price Sheets/`:
+[[Battery Price Sheets (MK, Interstate)]]. MK Battery MSRP (Dec 2024) and
+dealer program (Mar 2025) sheets and the Interstate mobility price sheet
+(Jun 2024): specs, prices, HCPCS codes, MK chargers. Raw file in
+`MANUALS/Misc./`. Cross-referenced on [[Mobility-Batteries]].
+
+Scootaround (1 of 1 ingested), see `wiki/sources/Scootaround/VA Repair Program/`:
+[[Scootaround VA Repair Workflow]]. PMS process for VA repairs through
+Scootaround: 8-step work order → quote → PO → completion flow, quote
+rules, parts at MSRP × 0.75, $80/hr labor lines. Raw file in
+`MANUALS/Misc./`. Phone numbers and sample customer details omitted.
 
 VA (1 of 1 ingested), see `wiki/sources/VA/Grab Bars/`:
 [[RFQ - Bathroom Grab Bars (VA, 2026)]]. A VA request for quote to install
