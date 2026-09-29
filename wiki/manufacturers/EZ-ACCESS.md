@@ -55,8 +55,10 @@ folders TRANSITIONS, Portable Ramps (SUITCASE and GATEWAY), PATHWAY 3G
 and PATHWAY HD. Cross-cutting planning and ADA articles go in General.
 
 Lifetime warranty on PATHWAY (register at ezaccess.com/warranty-satisfaction)
-and on the TRANSITIONS Angled Entry Ramp. The warranty terms for other
-lines aren't on file.
+and on the TRANSITIONS Angled Entry Ramp and Angled Entry Mat (mat:
+register at ezaccess.com/product-registration, per
+[[TRANSITIONS Angled Entry Mat Instructions]]). The warranty terms for
+other lines aren't on file.
 
 ## Cross-cutting topics
 
