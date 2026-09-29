@@ -54,10 +54,10 @@ equipment ("VEH LIFT").
 | MISC | "Install a vehicle lift on veteran's <year make model>", with the PMD (e.g. GT GC440 4-wheel scooter) | $0.00 |
 | AL 100 | Universal scooter lift, installation included | $1,891.46 |
 | AL 105 | Swing-away option (400 lb capacity), installation included | $427.14 |
-| HITCH CLASS III | Class 3 hitch, installation included | $241.21 |
-| Parts | Universal drop | $200.00 |
+| HITCH CLASS III | Class 3 **receiver hitch for the vehicle**, installation included | $241.21 |
+| Parts | Universal drop (the Harmar drop hitch adapter) | $200.00 |
 | GSA FSS-65 II F | Contract number **36F79721D0058**, patient mobility devices, vehicle lifts | $0.00 |
-| ZONE 6 | Travel zone charge, by county | $190.00 |
+| ZONE 6 | Travel zone charge, by county (zone chart not yet on file) | $190.00 |
 
 Total on the sample: $2,949.81. Prices are from 2021 and are only a
 reference for the invoice layout.
