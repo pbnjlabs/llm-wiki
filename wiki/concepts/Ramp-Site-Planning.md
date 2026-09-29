@@ -228,6 +228,21 @@ porch handrails where the platform connects.
   top and bottom. Check each run reads **4.8°** on an angle meter,
   then **do a test run with the user's actual device**.
 
+### Ramp completion pictures (PMS)
+
+PMS house list. Take all of these when the install is finished:
+
+1. Panoramic of the door thresholds
+2. Beginning of the ramp
+3. Middle of the ramp, looking up
+4. Middle of the ramp, looking down
+5. End of the ramp
+6. **Digital angle meter's reading on each ramp run**
+7. Each tie-down (if any)
+8. Angle braces (if any)
+9. Panoramic of the whole ramp (multiple pictures if needed)
+10. **Signed delivery ticket**
+
 ## Labor estimate
 
 Add up per-component install times from [[Ramp-Install-Time-Estimates]].

@@ -215,6 +215,19 @@ Labor estimate ([[Ramp-Install-Time-Estimates]]): ___ hrs
 - [ ] Handrails secure and continuous
 - [ ] **Test run with the user's actual device**: passed / issues: ___
 
+**Ramp completion pictures** ([[Ramp-Site-Planning]]):
+
+- [ ] Panoramic of the door thresholds
+- [ ] Beginning of the ramp
+- [ ] Middle of the ramp, looking up
+- [ ] Middle of the ramp, looking down
+- [ ] End of the ramp
+- [ ] Digital angle meter's reading on each ramp run
+- [ ] Each tie-down (if any)
+- [ ] Angle braces (if any)
+- [ ] Panoramic of the whole ramp (multiple pictures if needed)
+- [ ] Signed delivery ticket
+
 ## Parts used
 
 Quote / bill of materials (EZ-ACCESS PATHWAY 3G unless stated;
