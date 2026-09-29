@@ -73,8 +73,9 @@ Awarded to the vendor giving **the best overall value to the veterans**.
 
 ## Notes
 
-- The wiki has **no grab bar install or ADA grab bar source** yet. The
-  RFQ asks for mounting and blocking methods but doesn't give any.
+- **PMS's reply:** [[PMS Grab Bar Quote Response (2026)]]. PMS does tile
+  and drywall but **not fiberglass**. Methods are on
+  [[Grab-Bar-Installation]].
 - The quote deadline (9 June 2026) has passed.
 
 Raw PDF: `MANUALS/Misc./BATHROOM_GRAB-BAR.pdf`

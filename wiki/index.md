@@ -169,6 +169,8 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes | [[Mobility-Batteries]] |
+| Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
+| Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
@@ -380,9 +382,13 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
-PMS (1 of 1 ingested), see `wiki/sources/PMS/Parts and Repairs/`:
-[[Ordering and Returning Parts]] (parts ordering steps, Repair Eval
-Information form, returns with RA and tracking numbers). Harmar-specific
+PMS (3 ingested), see `wiki/sources/PMS/`:
+[[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
+steps, Repair Eval Information form, returns with RA and tracking
+numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
+to the VA RFQ, tile/drywall yes, fiberglass no, pricing);
+[[Ambulatory Aids Training]] (Training: 5-part fitting training with
+videos). Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
 [[PMS-Office-Procedures]]. Raw files in `MANUALS/Misc./`. Customer and

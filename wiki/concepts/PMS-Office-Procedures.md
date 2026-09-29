@@ -31,3 +31,5 @@ into the wiki; look them up on the raw files.
 | VA repairs through Scootaround (work order → quote → PO → completion; MSRP × 0.75; $80/hr) | [[Scootaround VA Repair Workflow]] |
 | Ramp evaluation, measurement and completion photos | [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] |
 | Battery prices and cross-reference | [[Mobility-Batteries]] |
+| Grab bar installs (VA RFQ, PMS reply, methods, pricing) | [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]] |
+| Staff training: fitting canes, crutches, walkers, rollators, knee walkers | [[Ambulatory-Aids-Fitting]], [[Ambulatory Aids Training]] |
