@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 20 | 20 |
+| Bruno | [[Bruno]] | 20 (+2 in `MANUALS/Misc./`) | 22 (2 in `sources/Bruno/General/`: lifts price list, lead sign-off form) |
 | Golden | [[Golden]] | 66 | 66 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -382,13 +382,16 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
-PMS (3 ingested), see `wiki/sources/PMS/`:
+PMS (5 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
 to the VA RFQ, tile/drywall yes, fiberglass no, pricing);
 [[Ambulatory Aids Training]] (Training: 5-part fitting training with
-videos). Harmar-specific
+videos). [[Stairlift Evaluation Measurements and Photos]] (Stairlift
+Evaluations: 5 measurements, acceptable/unacceptable photos);
+[[Delivery Ticket and Invoice Examples]] (Invoicing and Delivery: VA vs.
+private pay tickets and invoices). Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
 [[PMS-Office-Procedures]]. Raw files in `MANUALS/Misc./`. Customer and
@@ -406,7 +409,7 @@ Scootaround: 8-step work order → quote → PO → completion flow, quote
 rules, parts at MSRP × 0.75, $80/hr labor lines. Raw file in
 `MANUALS/Misc./`. Phone numbers and sample customer details omitted.
 
-VA (1 of 1 ingested), see `wiki/sources/VA/Grab Bars/`:
+VA (2 ingested), see `wiki/sources/VA/`: [[VA Form 10-0103 HISA Application]] (HISA/, blank VA form, Mar 2025);
 [[RFQ - Bathroom Grab Bars (VA, 2026)]]. A VA request for quote to install
 PSAS-supplied ADA grab bars (12–32 in, shower and toilet, tile and
 fiberglass, 350 lb, 2-year labor warranty). Raw file in `MANUALS/Misc./`.

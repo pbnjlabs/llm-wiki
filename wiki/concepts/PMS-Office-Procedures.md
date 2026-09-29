@@ -20,16 +20,42 @@ into the wiki; look them up on the raw files.
   credit. RA number on the box in two places, and tracking and RA
   numbers in the patient file.
 
-## By workflow
+## By job type
 
-| Workflow | Page |
-|---|---|
-| Ordering parts from a vendor; returning parts (our fault / their fault) | [[Ordering and Returning Parts]] |
-| Repair evaluation form (eval/repair time, shop repair, two techs, replacement recommended) | [[Ordering and Returning Parts]] |
-| Vehicle lift phone interview and estimate | [[Vehicle Lift Workflow]], [[Vehicle Lift Phone Interview Form]] |
-| Ordering a Harmar lift; VA lift invoice; Harmar Lift Squad installs | [[Harmar Orders and Installs Workflow]] |
-| VA repairs through Scootaround (work order → quote → PO → completion; MSRP × 0.75; $80/hr) | [[Scootaround VA Repair Workflow]] |
-| Ramp evaluation, measurement and completion photos | [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] |
-| Battery prices and cross-reference | [[Mobility-Batteries]] |
-| Grab bar installs (VA RFQ, PMS reply, methods, pricing) | [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]] |
-| Staff training: fitting canes, crutches, walkers, rollators, knee walkers | [[Ambulatory-Aids-Fitting]], [[Ambulatory Aids Training]] |
+**Stairlifts**
+- Evaluation measurements and photos: [[Stairlift Evaluation Measurements and Photos]]
+- Harmar camera measuring: [[Staircase-Measuring-System]]
+
+**Vehicle lifts**
+- Phone interview and estimate: [[Vehicle Lift Workflow]], [[Vehicle Lift Phone Interview Form]]
+- Ordering a Harmar lift, VA lift invoice, Harmar Lift Squad installs: [[Harmar Orders and Installs Workflow]]
+- Bruno lift prices (MSRP / dealer): [[Bruno Lifts Price List (PMS SC-0307)]]
+
+**Ramps**
+- Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]]
+
+**Grab bars**
+- Methods and VA jobs: [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]]
+
+**Repairs**
+- Repair eval form: [[Ordering and Returning Parts]]
+- VA repairs through Scootaround (MSRP × 0.75; $80/hr): [[Scootaround VA Repair Workflow]]
+- Batteries: [[Mobility-Batteries]]
+
+**Ambulatory aids**
+- Fitting and staff training: [[Ambulatory-Aids-Fitting]], [[Ambulatory Aids Training]]
+
+## By paperwork
+
+**Delivery tickets and invoices**
+- VA Delivery Ticket / Plan of Care vs. private pay/DSN ticket; private pay and VA invoice examples: [[Delivery Ticket and Invoice Examples]]
+- Private pay: assessment fee $85 (more if far from the shop); parts = cost ÷ 0.65, taxed; SC sales tax 6%; lift chair sales are final.
+- VA: bill the VA hospital; serial with letter prefix (none for Harmar); drop the "evaluate" wording when converting an estimate; VA-only zone charge.
+
+**VA paperwork**
+- HISA application (veteran submits; PMS bid attached): [[VA Form 10-0103 HISA Application]]
+- Property owner consent before a VA install: [[Bruno Lead Sign Off Form]]
+- VA grab bar RFQ: [[RFQ - Bathroom Grab Bars (VA, 2026)]]
+
+**Parts**
+- Ordering and returns: [[Ordering and Returning Parts]]
