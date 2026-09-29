@@ -61,6 +61,12 @@ cell borders; check against the PDF (p. 2) if a reading lands on an edge.
 Refer to the lift's Installation and Owner's manuals for the rest of the
 install.
 
+**Beyond this chart** (PMS note): Harmar also has a **6 in drop
+standard adapter (AL1236)**, and **Extra Long** adapters that clear a
+rear-mounted spare tire. See [[AL-Series-Outside-Vehicle-Lifts]] and the
+Hitch Adapter Size Chart in
+[[Outside Vehicle Lifts Install Manual (2025, Rev D)]].
+
 ## Feeds
 
 - [[AL-Series-Outside-Vehicle-Lifts]]: hitch adapter selection

@@ -64,6 +64,20 @@ individual per-model manual exists)
   no drop up to 16 in, 2 in at 17–18, 3 in at 19, 5 in at 20–21. Higher
   than that: call Harmar. Fasteners **75 ft-lb**. See
   [[Bulletin - AL1235U Universal Drop Hitch Adapter]].
+- **More drop: AL1236, a 6 in drop standard adapter.** Hitch-to-ground
+  20–24 in standard, 18–22 in with a swing-away. HD (AL1236HD) and
+  Class 5 (AL1236V) versions exist. 8 in drop (AL1238) covers 24–26 in.
+  From the Hitch Adapter Size Chart in
+  [[Outside Vehicle Lifts Install Manual (2025, Rev D)]] (pp. 10–11).
+- **Rear-mounted spare tire: use an extended adapter.** Harmar's
+  **Extra Long** adapters reach **7.5–13.5 in** behind the pin hole
+  (D1), vs. 8 in or less on standard adapters, to clear a spare tire
+  mounted on the back of the vehicle. The line covers standard (AL125HD)
+  and 2, 5, 6 and 8 in drops (AL1252, AL1255HD, AL1256, AL1258HD, plus
+  HD versions). Same chart.
+  **These are Harmar's own adapters.** The manual strictly prohibits
+  aftermarket **hitch expanders and extenders**; use only Harmar-approved
+  adapters.
 - 23' vehicle wiring harness (SAE J1128), black wire to battery negative
   first / red to positive last, 20A self-resetting circuit breaker; a
   stand-alone battery pack (BAT141386) is offered for hybrid/EV vehicles
