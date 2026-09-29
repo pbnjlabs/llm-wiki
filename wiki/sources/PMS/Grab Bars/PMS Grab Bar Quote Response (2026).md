@@ -66,12 +66,13 @@ drywall but **not fiberglass**.
 | 12 in grab bar, any surface | $50.00 each |
 | 18 in grab bar, any surface | $55.00 each |
 | 24 in grab bar, any surface | $60.00 each |
+| 32 in grab bar, any surface | — (left blank on purpose) |
 | Trip charge, 0–30 mi one way from the VA hospital | $175.00 |
 | Trip charge, 31–60 mi | $225.00 |
 | Trip charge, 61–90 mi | $275.00 |
 
-**Gap:** the RFQ lists **32 in** bars too, but the response prices only
-12, 18 and 24 in.
+The RFQ lists **32 in** bars too. The response doesn't price them, and
+the 32 in price is **left blank on purpose** (per the human).
 
 ## Feeds
 

@@ -878,3 +878,5 @@ Per the human: the HITCH CLASS III line is the vehicle's receiver hitch; the sep
 Per the human: the travel zone charge on invoices applies only to VA jobs. Updated [[Harmar Orders and Installs Workflow]] and [[AL-Series-Outside-Vehicle-Lifts]].
 ## [2026-09-29] ingest | PMS — Grab bar quote response (VA, 2026) and Ambulatory Aids Training
 Copied `grabbarsinstall.pdf` and `ambulatory_aids_training.pdf` into `MANUALS/Misc./`. New source pages under `sources/PMS/Grab Bars/` ([[PMS Grab Bar Quote Response (2026)]]: PMS reply to the VA RFQ; tile and drywall yes, fiberglass no; methods, 12/18/24 in pricing, trip charges; 32 in not priced) and `sources/PMS/Training/` ([[Ambulatory Aids Training]]: 5 parts scanned out of order, fitting points, video links). New concepts [[Grab-Bar-Installation]] and [[Ambulatory-Aids-Fitting]]. Linked from [[RFQ - Bathroom Grab Bars (VA, 2026)]] and [[PMS-Office-Procedures]]. Omitted PMS phone/fax and the staff name and email. Updated index.md.
+## [2026-09-29] clarification | PMS grab bars — 32 in price left blank
+Per the human: the 32 in grab bar price stays blank. Added a blank row to [[PMS Grab Bar Quote Response (2026)]].
