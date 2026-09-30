@@ -2,7 +2,7 @@
 type: source
 manufacturer: Bruno
 doc_type: Installation Manual
-source: "MANUALS/Bruno/ASL-250 INSTALLATION_03-12-2019.pdf"
+source: "MANUALS/Bruno/Vehicle Lifts/ASL-250 INSTALLATION_03-12-2019.pdf"
 date: 2019-03-12
 tags: [bruno, vehicle-lift, out-sider, hitch-mounted, legacy]
 ---
