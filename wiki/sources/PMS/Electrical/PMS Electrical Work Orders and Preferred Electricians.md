@@ -78,12 +78,8 @@ it.
 | MB Electric | Florence, SC | — | — |
 | Rytec Electric, LLC (handwritten) | Lexington, SC | office | 803-899-8879 |
 | Deluxe Electric LLC (handwritten) | — | office | — |
-| Mister Sparky of Augusta (sticky note) | Augusta area | — | 256-624-1011 (as written) |
+| Mister Sparky of Augusta (sticky note + pink note) | Augusta area | Nancy | 843-897-2585 (Nancy); 256-624-1011 (sticky note, as written) |
 | CEF Electric (from the 2024 work order) | — | Jerry Freezon | 803-518-9715 |
-
-A pink handwritten note beside MB Electric and Rytec reads **"Nancy,
-nancymrsparky@…, 843-897-2585"**. It looks like another Mister Sparky
-contact, but the list doesn't say which company.
 
 ## Feeds
 
