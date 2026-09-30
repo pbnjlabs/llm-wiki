@@ -20,8 +20,9 @@ right-side-up scan of the same form (same fields).
 
 The "sheet provided" for mapping the door, obstructions and parking is
 **Part B** ([[PMS Ramp Assessment and Approval Forms (Part B)]]), a
-1 ft grid drawing sheet with the customer agreement. **"Fig. 4" is still
-missing**; it isn't in either scan.
+1 ft grid drawing sheet with the customer agreement. The form's "See
+Fig. 4" is a leftover reference: **there is no Fig. 4 in PMS's forms**
+(per the human), so ignore it.
 
 ## Fields on the form
 

@@ -373,7 +373,7 @@ warranty/troubleshooting/diagnostics/wiring/EMC sections through page
 sections are not documented in this wiki). See [[Red Hawk]] for the full
 multi-brand breakdown.
 
-EZ-ACCESS (all technical files ingested; pay scales skipped), see `wiki/sources/EZ-ACCESS/`. PMS in-house: Ramps Handbook and [[PMS Ramp Site Evaluation Form]] (Part A; undated, Fig. 4 and map sheet missing) (General). Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Reference sheets (General): EZ Access Parts and Pieces (2018), EZ Access Layout Key and Install Time (2019). Web clippings: these are EZ-ACCESS
+EZ-ACCESS (all technical files ingested; pay scales skipped), see `wiki/sources/EZ-ACCESS/`. PMS in-house: Ramps Handbook and [[PMS Ramp Site Evaluation Form]] (Part A; undated; map sheet = [[PMS Ramp Assessment and Approval Forms (Part B)]]) (General). Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Reference sheets (General): EZ Access Parts and Pieces (2018), EZ Access Layout Key and Install Time (2019). Web clippings: these are EZ-ACCESS
 blog articles saved with Obsidian Web Clipper, copied from the vault's
 `Clippings/` folder to `MANUALS/Clippings/`. doc_type: Web Article.
 General: How Long Should a Wheelchair Ramp Be, Wheelchair Ramp Slope
