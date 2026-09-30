@@ -16,8 +16,9 @@ hospital** under PMS's **FSS contract**, using PMS's Columbia office for
 the fax, payments and books.
 
 Two companies are involved: **Performance Medical Supply ("Supply")**,
-which holds the FSS schedule, and **Performance Medical Solutions
-("Solutions")**, which runs the Asheville office.
+which holds the FSS schedule, and its **sister company, Performance
+Medical Solutions ("Solutions")**, which runs the Asheville office
+(confirmed by the human).
 
 **Left out on purpose:** staff and VA contact names and the fax number.
 Staff are described by role.

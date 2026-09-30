@@ -18,9 +18,9 @@ and stair lift installs, from two scans:
 - `elecricians_preffered.pdf`: "Electricians 2024", PMS's list of
   electricians, with handwritten additions
 
-**Left out on purpose:** customer names, addresses and phones; PMS
-staff and electrician contact names; personal emails; all phone
-numbers.
+**Left out on purpose:** customer names, addresses and phones, and PMS
+staff names and phones. **Electrician names and phone numbers are
+included** (per the human).
 
 ## How a work order is set up
 
@@ -59,24 +59,31 @@ the VPL** and tested ([[Porch-Lift-Evaluation]]).
 - **Don't hide it under crawl spaces or inside closets.**
 - **Check the outlet for proper operation.**
 
-The PMS stair lift eval form says the outlet must be **within 4 ft of the
-stairs** ([[Stairlift-Evaluation]]); the work order asks for **3–5 ft**.
+**Techs go by the eval form: within 4 ft of the stairs**
+([[Stairlift-Evaluation]]), per the human. The example work order's
+"3–5 ft" is older wording; write 4 ft on new work orders.
 
 ## Preferred electricians (2024)
 
-Companies only; contacts are on the raw file.
+Names and phone numbers included per the human (2026-09-30). Handwritten
+entries are read from the scan; double-check a number before relying on
+it.
 
-| Company | Area |
-|---|---|
-| Now Electric, LLC | Lancaster, SC |
-| Infinity Electrical Services | Lexington, SC |
-| Sunrise Electric | Columbia, SC |
-| Mister Sparky of the Upstate | Upstate SC |
-| MB Electric | Florence, SC |
-| Rytec Electric, LLC (handwritten) | Lexington, SC |
-| Deluxe Electric LLC (handwritten) | not given |
-| Mister Sparky of Augusta (sticky note) | Augusta area |
-| CEF Electric (on the 2024 work order) | not given |
+| Company | Area | Contact | Phone |
+|---|---|---|---|
+| Now Electric, LLC | Lancaster, SC | William | 803-804-5513 (cell) |
+| Infinity Electrical Services | Lexington, SC | Donald Buzzard | 803-600-7374 |
+| Sunrise Electric | Columbia, SC | office; D. Adams (handwritten) | 803-261-7434 (office); 803-816-1664 (D. Adams, cell) |
+| Mister Sparky of the Upstate | Upstate SC | Rivers Dawson | 864-571-4897 |
+| MB Electric | Florence, SC | — | — |
+| Rytec Electric, LLC (handwritten) | Lexington, SC | office | 803-899-8879 |
+| Deluxe Electric LLC (handwritten) | — | office | — |
+| Mister Sparky of Augusta (sticky note) | Augusta area | — | 256-624-1011 (as written) |
+| CEF Electric (from the 2024 work order) | — | Jerry Freezon | 803-518-9715 |
+
+A pink handwritten note beside MB Electric and Rytec reads **"Nancy,
+nancymrsparky@…, 843-897-2585"**. It looks like another Mister Sparky
+contact, but the list doesn't say which company.
 
 ## Feeds
 
