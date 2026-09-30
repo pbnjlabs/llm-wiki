@@ -31,9 +31,12 @@ It's intermittent, so it may not show up on a bench test.
 
 ## Root cause
 
-**A design flaw in the S-Drive connectors lets them work loose** (PMS
-field experience). A connector that's partly unseated loses contact when
-the scooter jolts over a bump, and the scooter cuts out.
+**The design flaw is the strain on the wires going into the S-Drive
+connectors.** The wiring is routed so it pulls on the connectors, and
+**that strain can't be relieved**; it's built into the design (PMS field
+experience). Over time the pull works the connectors loose, and a
+partly unseated connector loses contact when the scooter jolts over a
+bump, so the scooter cuts out.
 
 PG's own guide lists **poor battery connections** as a cause of
 intermittent trips and says to check all connections to the motor,
@@ -43,9 +46,11 @@ brakes, batteries and controller before blaming the controller
 ## Fix
 
 1. **Unplug and reseat the S-Drive connectors.**
-2. Relieve any strain on the wires going into them, so they aren't
-   pulling the connectors loose again.
-3. Test drive over bumps to confirm the power stays on.
+2. Test drive over bumps to confirm the power stays on.
+
+**The strain on the wires can't be relieved**, so reseating is the fix,
+and **the problem can come back**. Tell the customer it may recur and to
+call if the scooter starts cutting out again.
 
 Because PG controllers have **no serviceable parts**, don't open the
 S-Drive. If reseating doesn't fix it, follow [[PG-Drives-Trip-Codes]]
@@ -61,6 +66,8 @@ None (reseat only).
   connectors first**, and look for strained wires leading into them.
 - It's intermittent, so a scooter that works in the shop may still have
   the problem. Reproduce it by driving over bumps.
+- **Don't try to reroute or relieve the wiring**; the strain is part of
+  the design and can't be fixed. Expect repeat visits.
 
 ## See also
 
