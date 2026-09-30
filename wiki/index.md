@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 20 (+2 in `MANUALS/Misc./`) | 22 (2 in `sources/Bruno/General/`: lifts price list, lead sign-off form) |
-| Golden | [[Golden]] | 66 | 66 |
+| Golden | [[Golden]] | 68 | 68 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -174,6 +174,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Stairlift evaluation (PMS form, measurements, outlet/overrun/seat rules, photos) | [[Stairlift-Evaluation]] |
 | Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
+| PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
@@ -292,7 +293,7 @@ files the second pass had already excluded. All 10 have been in the drop
 folder since 2026-09-11, before either pass. The earlier "running total
 of 17" double-counted them. **The true exclusion total is 10.**
 
-Golden (66 of 66 ingested — fully ingested) — see `wiki/sources/Golden/`: GA541 Avenger IPB,
+Golden (68 of 68 ingested — fully ingested) — see `wiki/sources/Golden/`: [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock

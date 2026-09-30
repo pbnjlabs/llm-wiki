@@ -78,3 +78,5 @@ Seat codes: takes SM5, SM4 (Opt), SME, and SMP (Pro-Flex, Option) — see
 [[Golden]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
 [[TruCharge-Diagnostics]], [[LiNX-Diagnostics]],
 [[Golden-Wheelchair-Warranty]], [[Golden-Seating-Systems]]
+
+PG controller trip codes (programmer): [[PG-Drives-Trip-Codes]].

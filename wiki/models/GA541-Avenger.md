@@ -59,3 +59,5 @@ Avenger-specific) — see [[Golden-Scooter-Warranty]].
 [[Golden]], [[TruCharge-Diagnostics]], [[Golden-Scooter-Warranty]]
 
 Ramp compatibility: the operator manual gives a max recommended incline of 8.0° (see [[GA541 Avenger Operator Manual]]). For which ramp ratios that allows, see [[Ramp-Slope-and-Length]].
+
+PG controller trip codes (programmer): [[PG-Drives-Trip-Codes]]. S-Drive specs: [[PG Drives S-Drive Brochure]].

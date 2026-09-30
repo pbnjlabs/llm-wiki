@@ -118,6 +118,8 @@ actual topic rather than one page per document:
   Golden maintains distinct warranty documents for scooters vs. power
   wheelchairs (GP162, GP205, GP207, GP605, GP620 named).
 
+PG controller trip codes: [[PG-Drives-Trip-Codes]] (from the [[PG Drives Mobility Diagnostic Guide]]; S-Drive specs on [[PG Drives S-Drive Brochure]]).
+
 Golden uses at least four controller brands (PG S-Drive/VR2, LiNX,
 Dynamics R-Series, and GP605's "SHARK") and three diagnostic schemes
 across scooters and wheelchairs — always check the controller before

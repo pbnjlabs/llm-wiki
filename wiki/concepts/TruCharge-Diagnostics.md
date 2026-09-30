@@ -18,6 +18,11 @@ see [[Flash-Beep-Diagnostics]]) or on GP162's LiNX-controller variant (see
 both its scooter and power-wheelchair ranges; check the controller, not
 the model name or product category, before assuming a table applies.
 
+**Programmer codes:** the 4-digit trip codes a PG programmer reads
+(e.g. 2C00 low battery, 1500 brake) are on [[PG-Drives-Trip-Codes]],
+from PG's own [[PG Drives Mobility Diagnostic Guide]]. Use them when the
+bar count isn't enough.
+
 ## GA541 Avenger (single-motor scooter)
 
 | Bars | Fault | Self-help |

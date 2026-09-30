@@ -10,6 +10,12 @@ tags: [golden, gp303, ally, wiring-harness]
 
 # GP303 "Ally" Main Wiring Harness Replacement
 
+**Raw file replaced (2026-09-30):** the wiki's earlier copy of this PDF
+was damaged (its text didn't render on the pages, though the text layer
+was readable, which is what this page was written from). It was replaced
+with an intact copy with the same name, size and text. The content here
+is unchanged.
+
 10-page procedure (title has a typo: "Hanress" for "Harness") for
 replacing the main wiring harness on the **GP303 "Ally"** — a foldable
 power wheelchair, distinct from and unrelated to the GP600-series Compass
