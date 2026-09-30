@@ -55,4 +55,19 @@ glass doors**) and the **gate hinge side** (standing in the lift).
   pays up to the veteran's HISA maximum; the veteran pays PMS anything
   over it. See [[VA Form 10-0103 HISA Application]].
 
+## At install
+
+Go through the handover checklist with the customer
+([[PMS Porch Lift Install Instructions and HISA Final Payment]]):
+safety platform, **one passenger and chair, 600 lb max** (per the form),
+key switch, emergency down crank, **check the GFI monthly and after
+storms**, DC battery charging vs. AC (works only with power), owner's
+manual, and the **annual preventive maintenance program** offer.
+
+**VA/HISA jobs:** the veteran signs the **statement of satisfaction and
+request for final payment**; attach the **final invoice** (materials,
+labor, permits, inspections) and **color photos** of the finished work.
+The installer signs the **UFAS / Southern Building Code** compliance
+statement.
+
 Related: [[PMS-Office-Procedures]]

@@ -236,6 +236,19 @@ Labor estimate ([[Ramp-Install-Time-Estimates]]): ___ hrs
 - [ ] Angle braces (if any)
 - [ ] Panoramic of the whole ramp (multiple pictures if needed)
 - [ ] Signed delivery ticket
+- [ ] Close-ups: corner kits, closure kits, threshold ramps, bridge
+      plates, lightning rods, modifications; loops visible in the
+      whole-ramp shot
+
+**Installation sign-off** ([[PMS Ramp Installation Sign-Off]]):
+
+- [ ] Platforms level within 1:50, water runoff away from the building
+- [ ] Braces on support tubes over 36 in (one set per platform side)
+- [ ] Inside corner kits on turn/turnback platforms
+- [ ] Closure kits on openings 10 in or wider
+- [ ] Loops on runs without a corner/closure kit
+- [ ] Debris and metal chips cleaned up
+- [ ] End user (and owner, if different) signed
 
 ## Parts used
 

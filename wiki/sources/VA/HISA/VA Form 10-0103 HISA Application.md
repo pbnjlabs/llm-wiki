@@ -42,6 +42,13 @@ care. It isn't sent by PMS.
   Warranty and service come from the installer and manufacturer.
 - US states, territories, DC and Puerto Rico only.
 
+## At the end of the job
+
+The veteran signs a **HISA statement of satisfaction and request for
+final payment**, with the final invoice and color photos attached, and
+the installer signs a compliance statement. See
+[[PMS Porch Lift Install Instructions and HISA Final Payment]].
+
 ## Feeds
 
 - [[PMS-Office-Procedures]] (VA jobs)

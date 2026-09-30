@@ -19,6 +19,12 @@ manufacturer manual or ADA grab bar guide yet.
   warranty is the grab bar maker's (if bought from PMS).
 - About **1 hour per grab bar**.
 
+## Before you drill
+
+Have the customer sign the **grab bar waiver of liability**
+([[PMS Grab Bar Waiver of Liability]]): PMS isn't responsible for
+cracked tile or damaged fiberglass from the install.
+
 ## Mounting
 
 **Ceramic tile**

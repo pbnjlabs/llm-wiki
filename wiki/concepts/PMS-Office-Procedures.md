@@ -28,6 +28,7 @@ into the wiki; look them up on the raw files.
 
 **Porch lifts (VPL)**
 - Evaluation packet (site limits, sketch, HISA agreement): [[Porch-Lift-Evaluation]], [[PMS Porch Lift (VPL) Evaluation Packet]]
+- Install handover and HISA final payment: [[PMS Porch Lift Install Instructions and HISA Final Payment]]
 
 **Ceiling lifts**
 - Evaluation form: [[Ceiling Lift Evaluation Form]]
@@ -38,10 +39,10 @@ into the wiki; look them up on the raw files.
 - Bruno lift prices (MSRP / dealer): [[Bruno Lifts Price List (PMS SC-0307)]]
 
 **Ramps**
-- Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] (Part A), [[PMS Ramp Assessment and Approval Forms (Part B)]]
+- Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] (Part A), [[PMS Ramp Assessment and Approval Forms (Part B)]], [[PMS Ramp Installation Sign-Off]]
 
 **Grab bars**
-- Methods and VA jobs: [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]]
+- Methods and VA jobs: [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]], waiver: [[PMS Grab Bar Waiver of Liability]]
 
 **Repairs**
 - Repair eval form: [[Ordering and Returning Parts]]
@@ -60,6 +61,7 @@ into the wiki; look them up on the raw files.
 
 **VA paperwork**
 - HISA application (veteran submits; PMS bid attached): [[VA Form 10-0103 HISA Application]]
+- HISA final payment request (final invoice + color photos; UFAS compliance): [[PMS Porch Lift Install Instructions and HISA Final Payment]]
 - Property owner consent before a VA install: [[Bruno Lead Sign Off Form]]
 - VA grab bar RFQ: [[RFQ - Bathroom Grab Bars (VA, 2026)]]
 

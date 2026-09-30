@@ -232,6 +232,26 @@ porch handrails where the platform connects.
   top and bottom. Check each run reads **4.8°** on an angle meter,
   then **do a test run with the user's actual device**.
 
+### Installation sign-off (PMS)
+
+Complete the [[PMS Ramp Installation Sign-Off]] at the end of every
+install:
+
+- Installed per the layout drawing; level and slope haven't shifted;
+  fasteners secure; debris and metal chips cleaned up; walk the system
+  for movement.
+- Every run 1:12 or less; **platforms level within 1:50**, water running
+  away from the building.
+- **Braces on every support tube over 36 in**, and **one set on each of
+  a platform's four sides**.
+- **Inside corner kits** on turn/turnback platforms; **closure kits** on
+  openings **10 in or wider**; **loops** on runs without a corner or
+  closure kit.
+- **Mobility equipment test** by the end user.
+- End user signs; the property owner/landlord/manager signs if
+  different. Tell the user to stop using the ramp and call if they see
+  damage.
+
 ### Ramp completion pictures (PMS)
 
 PMS house list. Take all of these when the install is finished:
@@ -246,6 +266,11 @@ PMS house list. Take all of these when the install is finished:
 8. Angle braces (if any)
 9. Panoramic of the whole ramp (multiple pictures if needed)
 10. **Signed delivery ticket**
+
+The sign-off form also asks for **close-ups of corner kits, closure
+kits, threshold ramps, bridge plates, lightning rods and any
+modifications to the home**, and for the loops to be visible in the
+whole-ramp shot.
 
 ## Labor estimate
 
