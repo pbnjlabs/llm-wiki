@@ -31,18 +31,20 @@ pages, blank. House practice. Summarized with the PMS photo guidance on
   2. **Back to knee**
   3. **Seat width, hip to hip**
 
-  **Feasibility rule (PMS):** add **back to knee + hip to hip**. That
-  total must **fit within the stair width while the user is seated on the
-  lift**. The limit is **stair width minus 5 in**; e.g. a
-  new-construction standard **34 in** stairway allows up to **29 in**.
+  **Feasibility rule (PMS and VA):** **back to knee + hip to hip + 6 in**
+  must be **no more than the stair width**. E.g. on a new-construction
+  standard **34 in** stairway, back to knee + hip to hip can be up to
+  **28 in**.
   
-  1. Check the fit with the **handrail in place** (width to the handrail).
-  2. If it doesn't fit, check again with the **handrail removed** (full
-     width).
-  3. Fits only without the handrail: **the handrail has to be removed**.
-  4. Doesn't fit either way: **"no bid."**
+  1. Check with the **handrail in place** (width to the handrail).
+  2. If it fails, check again with the **handrail removed** (full width).
+  3. Passes only without the handrail: **the handrail has to be removed**.
+  4. Fails either way: **"no bid."**
   
-  (Per the human, 2026-09-30.)
+  **Why:** this is a **general VA rule**. The user could usually still ride
+  (they can turn their body to fit), but **the VA won't approve a stair
+  lift that fails this check**. PMS applies the same rule. (Per the human,
+  2026-09-30.)
 
 ## Page 3: straight stair lift measurements
 
