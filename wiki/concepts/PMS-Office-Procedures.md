@@ -45,6 +45,12 @@ into the wiki; look them up on the raw files.
 - Ordering a Harmar lift, VA lift invoice, Harmar Lift Squad installs: [[Harmar Orders and Installs Workflow]]
 - Bruno lift prices (MSRP / dealer): [[Bruno Lifts Price List (PMS SC-0307)]]
 
+**Electrical (outlets for lifts)**
+- Work orders to electricians (PMS pays; approval limits $450 VPL / $350 stair lift) and the preferred electrician list: [[PMS Electrical Work Orders and Preferred Electricians]]
+
+**Hospital beds**
+- MedMizer AC GOV beds (two-tech rule, splitting for transport, training sign-off): [[MedMizer-AC-GOV-Bed]], [[MedMizer AC GOV Hospital Bed Training]]
+
 **Ramps**
 - Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] (Part A), [[PMS Ramp Assessment and Approval Forms (Part B)]], [[PMS Ramp Installation Sign-Off]]
 
@@ -64,6 +70,7 @@ into the wiki; look them up on the raw files.
 **Delivery tickets and invoices**
 - VA Delivery Ticket / Plan of Care vs. private pay/DSN ticket; private pay and VA invoice examples: [[Delivery Ticket and Invoice Examples]]
 - Blank tickets, client Rights & Responsibilities notice, communication log: [[PMS Delivery Paperwork (Blank Forms)]]
+- Asheville office FSS sales (RFQs, estimates and POs through harmarlifts@; Supply QuickBooks; credit card payment; monthly × 0.96 reconciliation to Solutions): [[Asheville FSS Sales Guidelines (2025)]]
 - VA ramp bid (Part B + EZ-ACCESS layout + estimate with FSS lines + eval site pictures; labor is in the markup, billed separately only for porch modification or debris clean-up): [[VA Ramp Bid Package Example (2026)]]
 - Private pay: assessment fee $85 (more if far from the shop); parts = cost ÷ 0.65, taxed; SC sales tax 6%; lift chair sales are final.
 - VA: bill the VA hospital; serial with letter prefix (none for Harmar); drop the "evaluate" wording when converting an estimate; VA-only zone charge.

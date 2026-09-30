@@ -32,7 +32,7 @@ porch/deck surface.
 | Check | Limit |
 |---|---|
 | Concrete pad | **At least 5 ft × 5 ft × 4 in**, or N/A if one must be poured |
-| GFI outlet | **Within 10 ft of the VPL**, or N/A if one must be installed. **Test it.** |
+| GFI outlet | **Within 10 ft of the VPL**, or N/A if one must be installed. **Test it.** If needed, order a **110 V GFI** from an electrician (reset button reachable by the homeowner, not under decks or crawl spaces; **$450 approval limit**): [[PMS Electrical Work Orders and Preferred Electricians]] |
 | Bottom call box | **Within 10 ft of the VPL** |
 | Head clearance | **100 in**, or **120 in for a 72 in VPL** (53 in rise platform / 77 in tower) |
 | Garage doors | Lift height must clear them. **Check all headroom from the entry door to the VPL.** |

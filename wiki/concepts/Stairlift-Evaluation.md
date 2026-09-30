@@ -55,7 +55,10 @@ and door width**.
 ## 3. Rules and options
 
 - **Outlet within 4 ft of the stairs** (top or bottom), or an
-  **electrician is required**.
+  **electrician is required**. PMS's electrician work order asks for one
+  120 V outlet **within 3–5 ft of the top or bottom, on the lift's side**,
+  not in a closet or crawl space; **$350 approval limit**. See
+  [[PMS Electrical Work Orders and Preferred Electricians]].
 - **Rail position is decided by management** when the eval is reviewed.
 - **Folding track:** only if the track at the bottom would obstruct or
   there isn't enough room. **Straight rails only.**

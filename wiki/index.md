@@ -15,6 +15,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
+| MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
 | Harmar | [[Harmar]] | 76 | 39 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -117,6 +118,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Ally GP303 | Golden | [[GP303-Ally]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
+| AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
 | C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
 | P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
 | Castor 2 Post Lift Stand (accessory) | Prism | [[Prism-Castor-2-Post-Lift-Stand]] |
@@ -388,7 +390,7 @@ Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
 Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
 
-PMS (12 ingested), see `wiki/sources/PMS/`, sorted by job type:
+PMS (14 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
@@ -406,12 +408,12 @@ Part A, repair eval and ceiling lift eval forms (noted on their existing
 pages). Install forms (raw files in `MANUALS/Admin/Paperwork/Installs/`):
 [[PMS Porch Lift Install Instructions and HISA Final Payment]] (Install
 Forms), [[PMS Grab Bar Waiver of Liability]] (Grab Bars), and the ramp
-[[PMS Ramp Installation Sign-Off]] (filed under EZ-ACCESS/General). Blank delivery paperwork (raw files in `MANUALS/Admin/Paperwork/Misc.
+[[PMS Ramp Installation Sign-Off]] (filed under EZ-ACCESS/General). Electrical: [[PMS Electrical Work Orders and Preferred Electricians]] (`sources/PMS/Electrical/`; raw in `MANUALS/Admin/`). Blank delivery paperwork (raw files in `MANUALS/Admin/Paperwork/Misc.
 Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
 tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
 Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
 [[EZ-ACCESS Invoice Examples (Historical)]] (layout only; PMS doesn't take
-EZ-ACCESS work); that folder's other three files
+EZ-ACCESS work); [[Asheville FSS Sales Guidelines (2025)]] (Asheville office FSS process); that folder's other three files
 duplicate ones already ingested from `Misc./`. Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
