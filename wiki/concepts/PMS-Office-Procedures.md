@@ -19,7 +19,8 @@ into the wiki; look them up on the raw files.
 - **VA returns: 10% restocking fee plus manufacturer shipping**, or
   charge the PO in full and keep the parts for reuse. **Often the VA says
   to keep them as "VA Stock"**, used for other veterans' ramps
-  ([[VA Ramp Returns and Restocking Fee (2025)]]).
+  ([[VA Ramp Returns and Restocking Fee (2025)]]). VA Stock is tracked
+  in a local Excel log (vet's name, item number/description, used for).
 - **Returns need a tracking number.** No tracking number, no return
   credit. RA number on the box in two places, and tracking and RA
   numbers in the patient file.

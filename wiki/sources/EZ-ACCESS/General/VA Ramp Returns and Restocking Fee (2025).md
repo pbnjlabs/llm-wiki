@@ -39,6 +39,18 @@ PMS presents both options to the VA and lets the VA choose.
 **keep the ramp parts as "VA Stock."** PMS holds them and **pulls from
 VA Stock to build ramps for other veterans** (per the human).
 
+**VA Stock log:** tracked in an **Excel spreadsheet kept locally on a
+co-worker's PC** (not in the wiki). Columns, roughly:
+
+| Column | What goes in it |
+|---|---|
+| Vet's name | The veteran the parts were originally ordered for |
+| Item number / description | The ramp part |
+| Used for: | The job the part was later used on |
+
+Check the log before ordering parts for a VA ramp, and record any VA
+Stock you use.
+
 **Example:** on this order the 10% restocking fee came to **$658.40**
 (an order of about $6,584), before shipping.
 
