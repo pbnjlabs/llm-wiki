@@ -66,6 +66,7 @@ programmer code for detail.
 | 7125–7137 (group) | **Omni+ trip / input device** | Omni+ faulty or not getting a valid input signal. 712A: sip-and-puff calibration; 7136: analog input calibration (steps in the guide). |
 | 7821, 7902 | **Thermal foldback** | Controller too hot; current limited or goes to standby to cool. Logged. |
 | 7825 | **Thermal shutdown** | Power cut and brakes applied. Logged. |
+| (no code) cuts out over bumps, GA541 Avenger | Loose S-Drive connectors | Look for strained wires into the connectors; unplug and reseat. See [[2026-09-30 GA541-Avenger S-Drive loose connectors]]. |
 | Any other code | Possibly internal to the controller | Check all connections first; poor battery connections can cause intermittent codes. |
 
 ## Faults with no code

@@ -34,6 +34,12 @@ Filed under Golden/General because Golden uses the S-Drive on the
   showing charge remaining, which also **flash to show faults** (see
   [[TruCharge-Diagnostics]]).
 
+## Field experience
+
+PMS has found the S-Drive's connectors **work loose** on the Avenger,
+cutting power over bumps. See
+[[2026-09-30 GA541-Avenger S-Drive loose connectors]].
+
 ## Feeds
 
 - [[PG-Drives-Trip-Codes]], [[TruCharge-Diagnostics]]

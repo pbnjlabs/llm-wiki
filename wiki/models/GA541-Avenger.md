@@ -54,6 +54,13 @@ Golden's largest 4-wheel scooter — captain's seat, rear-wheel drive,
 Covered by Golden's shared scooter warranty across many models (not
 Avenger-specific) — see [[Golden-Scooter-Warranty]].
 
+## Field notes
+
+- [[2026-09-30 GA541-Avenger S-Drive loose connectors]]: **loses power
+  over bumps**. The S-Drive connectors work loose (design flaw, PMS field
+  experience). Look for strained wires into the connectors; unplug and
+  reseat them.
+
 ## See also
 
 [[Golden]], [[TruCharge-Diagnostics]], [[Golden-Scooter-Warranty]]
