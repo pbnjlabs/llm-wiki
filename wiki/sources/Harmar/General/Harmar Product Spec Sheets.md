@@ -3,6 +3,7 @@ type: source
 manufacturer: Harmar
 doc_type: Spec Sheets
 tags: [harmar, spec-sheet, vpl, hoist-lift]
+source: "MANUALS/Harmar/Harmar-MKT-000126-C-HighlanderII-SpecSheet-V1.pdf; MANUALS/Harmar/Harmar-MKT-000203-B-VPL-400-X-SpecSheet-V1.pdf; MANUALS/Harmar/Harmar-MKT-000030-C-AL425-SS.pdf; MANUALS/Harmar/Harmar-MKT-000031-C-AL435T-SS.pdf"
 ---
 
 # Harmar Product Spec Sheets

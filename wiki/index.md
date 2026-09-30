@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 20 (+2 in `MANUALS/Misc./`) | 22 (2 in `sources/Bruno/General/`: lifts price list, lead sign-off form) |
+| Bruno | [[Bruno]] | 21 (+ 20 duplicate copies in subfolders; +2 in `MANUALS/Misc./`) | 22 (2 in `sources/Bruno/General/`: lifts price list, lead sign-off form) |
 | Golden | [[Golden]] | 68 | 68 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -21,8 +21,12 @@ Entry point for every query — check here first before opening raw manuals.
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 10 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (19 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
-Note: `MANUALS/Bruno/` physically holds 21 files, but the table
-attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
+Note: `MANUALS/Bruno/` physically holds **41** files: 21 at the top
+level and **20 byte-identical copies** of them in the product-line
+subfolders (`Bruno Curved SL/`, `Bruno Straight SL/`, `Vehicle Lifts/`,
+`VPL/`; only `ASL-250 INSTALLATION_03-12-2019.pdf` is top-level only).
+Source pages point at the subfolder copies. Counting unique files, the
+folder holds 21, and the table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
 Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
 counted under Harmar instead, a different manufacturer's document not
 moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
@@ -402,8 +406,7 @@ Evaluations: 5 measurements, acceptable/unacceptable photos);
 private pay tickets and invoices). Evaluation Forms (raw files in `MANUALS/Admin/Paperwork/Evals/`):
 [[PMS Stair Lift Evaluation Form (Rev Mar 2024)]] and
 [[PMS Porch Lift (VPL) Evaluation Packet]]. The same folder also held
-ramp Part B and approval forms (filed under EZ-ACCESS: [[PMS Ramp
-Assessment and Approval Forms (Part B)]]) and newer copies of the ramp
+ramp Part B and approval forms (filed under EZ-ACCESS: [[PMS Ramp Assessment and Approval Forms (Part B)]]) and newer copies of the ramp
 Part A, repair eval and ceiling lift eval forms (noted on their existing
 pages). Install forms (raw files in `MANUALS/Admin/Paperwork/Installs/`):
 [[PMS Porch Lift Install Instructions and HISA Final Payment]] (Install

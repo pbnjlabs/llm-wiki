@@ -3,6 +3,7 @@ type: source
 manufacturer: Harmar
 doc_type: Engineering Wiring Schematics
 tags: [harmar, wiring-schematic, helix, sl600, vpl400-x, pinnacle]
+source: "MANUALS/Harmar/Harmar-640-00008_D.pdf; MANUALS/Harmar/Harmar-640-00028-REVA.pdf; MANUALS/Harmar/Harmar-640-00033-_Rev-B.pdf; MANUALS/Harmar/Harmar-650-00010-_Rev-B.pdf; MANUALS/Harmar/Harmar-650-00001-01_K.pdf; MANUALS/Harmar/Harmar-650-00011-_REV_A.pdf"
 ---
 
 # Harmar Wiring Schematics

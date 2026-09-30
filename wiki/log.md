@@ -934,3 +934,11 @@ Copied `elecricians_preffered.pdf`, `Invoicing and Delivery/ashville_fss.pdf`, `
 Per the human: include electrician names and phone numbers (added to [[PMS Electrical Work Orders and Preferred Electricians]]; handwritten entries flagged as read from the scan). Performance Medical Solutions is PMS's sister company (noted on [[Asheville FSS Sales Guidelines (2025)]]). Techs go by the eval form's 4 ft for stair lift outlet distance, not the work order's 3-5 ft (updated [[Stairlift-Evaluation]] and the electrical page).
 ## [2026-09-30] clarification | PMS electricians — Nancy is Mister Sparky of Augusta
 Per the human: the pink "Nancy" note (843-897-2585) belongs to Mister Sparky of Augusta. Moved it into that row of [[PMS Electrical Work Orders and Preferred Electricians]].
+## [2026-09-30] lint | 3 wrapped links, 4 missing source: fields, stale Bruno count; Bruno duplicates flagged
+- Broken links outside the log: 3, all wikilinks split across a line break (index.md, [[PG-Drives-Trip-Codes]], [[TRANSITIONS Angled Entry Mat Instructions]]). Fixed. Broken links inside log.md are historical (renamed pages, examples) and left as written.
+- Orphan pages: none. Field notes: all 3 in the index table.
+- Frontmatter: the 4 consolidated Harmar General pages had no `source:`; added the file lists (all paths exist).
+- Stale wording (5 ft pad, 4.5 ft, minus 5 in, Fig. 4, EZ-ACCESS program, 70%): none outside the log.
+- Raw files not referenced: only the known exclusions (10 Harmar images/CSVs, 2 EZ pay scales) and the P440 duplicate (referenced by an abbreviated name).
+- Duplicates: `MANUALS/Bruno/` holds 20 byte-identical top-level copies of its subfolder files (41 files, 21 unique); index count and note corrected. Known duplicates elsewhere unchanged (GP162 PTC, Harmar al-100 dupe1, AL100/300/301 Outside Lifts manuals). No raw files moved or deleted; asked the human about the Bruno copies.
+- Counts: Golden 68 files / 67 pages (GP162 PTC duplicate shares a page); Harmar 75 in folder + 1 under Bruno = 76.

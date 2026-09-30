@@ -13,8 +13,7 @@ tags: [ez-access, threshold-ramp, transitions, angled-entry-mat, install]
 EZ-ACCESS instruction sheet for the **TRANSITIONS Angled Entry Mat**
 (TAEM), the one-piece rubber threshold mat. Doc **20516**, dated
 **07-23-2025**. Four pages, scanned. This is a manufacturer manual, so
-it **overrides the 2021 web article** ([[Different Types of Threshold
-Ramps]]) on this product.
+it **overrides the 2021 web article** ([[Different Types of Threshold Ramps]]) on this product.
 
 ## Covers
 

@@ -3,6 +3,7 @@ type: source
 manufacturer: Harmar
 doc_type: Sales Order Forms
 tags: [harmar, sales-process, order-form]
+source: "MANUALS/Harmar/Harmar-MKF-000021-S-SL600-OF-V2.pdf; MANUALS/Harmar/Harmar-MKF-000050-L-SL300-OF-V2.pdf; MANUALS/Harmar/Harmar-MKF-000060-G-HighlanderII-OF-V2.pdf; MANUALS/Harmar/Harmar-MKTF-000002-L-Helix-OF.pdf; MANUALS/Harmar/Harmar-MKTF-000064-A-VA-HelixPhone-OF.pdf; MANUALS/Harmar/Harmar-MKTF-000065-B-VPL400-X-OF.pdf"
 ---
 
 # Harmar Evaluation & Order Forms

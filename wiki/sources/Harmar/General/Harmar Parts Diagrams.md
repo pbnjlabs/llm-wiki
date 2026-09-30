@@ -3,6 +3,7 @@ type: source
 manufacturer: Harmar
 doc_type: Engineering Parts Diagrams
 tags: [harmar, parts-diagram, bom, pinnacle, hoist-lift, outside-lift]
+source: "MANUALS/Harmar/Harmar-SL300 Chassis.pdf; MANUALS/Harmar/Harmar-SL600 Chassis.pdf; MANUALS/Harmar/Harmar-Chassis with obstruction sensors.pdf; MANUALS/Harmar/Harmar-Lower Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-Upper Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-al-100-12_L.pdf; MANUALS/Harmar/Harmar-al-100-12_L_dupe1.pdf; MANUALS/Harmar/Harmar-al-301xl-12_M.pdf; MANUALS/Harmar/Harmar-al-600-12_R.pdf; MANUALS/Harmar/Harmar-al425_N.pdf; MANUALS/Harmar/Harmar-al435_L.pdf; MANUALS/Harmar/Harmar-al825_J.pdf"
 ---
 
 # Harmar Parts Diagrams (Manufacturing BOMs)

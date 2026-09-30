@@ -6,8 +6,7 @@ tags: [diagnostics, pg-drives, trip-codes, s-drive, vr2, vsi, pilot-plus, contro
 # PG Drives Trip Codes
 
 The **4-digit trip codes** PG Drives Technology (PGDT) controllers
-report to a **PG programmer**, from the [[PG Drives Mobility Diagnostic
-Guide]] (2017). Covers **newVSI, VSI, VR2, Pilot+, S-Drive, EGIS and
+report to a **PG programmer**, from the [[PG Drives Mobility Diagnostic Guide]] (2017). Covers **newVSI, VSI, VR2, Pilot+, S-Drive, EGIS and
 Solo**. Golden uses the **S-Drive** on the [[GA541-Avenger]] and the
 **VR2** on the [[GP162-LiteRider-Envy]] PTC variant.
 
