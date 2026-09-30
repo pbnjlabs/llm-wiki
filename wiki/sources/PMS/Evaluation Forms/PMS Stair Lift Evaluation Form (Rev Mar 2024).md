@@ -32,9 +32,9 @@ pages, blank. House practice. Summarized with the PMS photo guidance on
   3. **Seat width, hip to hip**
 
   **Feasibility rule (PMS and VA):** **back to knee + hip to hip + 6 in**
-  must be **no more than the stair width**. E.g. on a new-construction
-  standard **34 in** stairway, back to knee + hip to hip can be up to
-  **28 in**.
+  must be **no more than the stair width**. On a new-construction
+  standard **34 in** stairway, PMS uses **29 in** as the limit for back to
+  knee + hip to hip (per the human).
   
   1. Check with the **handrail in place** (width to the handrail).
   2. If it fails, check again with the **handrail removed** (full width).
