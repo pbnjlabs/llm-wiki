@@ -68,3 +68,4 @@ into the wiki; look them up on the raw files.
 
 **Parts**
 - Ordering and returns: [[Ordering and Returning Parts]]
+- VA order that can't be installed (e.g. a custom ramp): charge the PO in full and hold or reuse the parts, or return with a 10% restocking fee plus manufacturer shipping, under the FSS return goods policy. Example: [[VA Ramp Return Email (2025)]]

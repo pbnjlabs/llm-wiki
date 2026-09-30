@@ -159,6 +159,10 @@ porch handrails where the platform connects.
 - DIY or dealer install? (A dealer install takes hours.)
 - Budget and funding (insurance, Medicare)?
 - Does the municipality require a **permit**, and what specs?
+- **Any planned yard or home work** (sod, irrigation, concrete,
+  landscaping), and how long will it take? A 2025 VA ramp was delayed for
+  months by yard work nobody mentioned at the eval
+  ([[VA Ramp Return Email (2025)]]).
 
 ## 2. Pick the ramp class
 
