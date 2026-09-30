@@ -32,7 +32,7 @@ Appointment date, project name, end user, phone, property address
 - **Ratio:** all platforms at the right height so **no ramp run is
   steeper than 1:12**, "unless specified on layout". PMS's house
   standard is 1:12 on every run ([[Ramp-Slope-and-Length]]), so this
-  exception shouldn't come up.
+  exception doesn't apply (confirmed by the human).
 - **Platforms:** level **within 1:50**, with **water runoff directed
   away from the building**.
 - **Brace assembly kits** on all **support tubes over 36 in** (platforms
