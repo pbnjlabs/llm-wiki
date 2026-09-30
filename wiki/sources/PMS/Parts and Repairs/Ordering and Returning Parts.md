@@ -68,6 +68,11 @@ The form techs fill in on a repair evaluation, for the office:
    number.
 6. **Copy the RA number into the patient file.**
 
+**VA orders that can't be installed** (e.g. a custom ramp): see
+[[VA Ramp Returns and Restocking Fee (2025)]]. Custom-configured items may
+not be returnable; PMS offers a **10% restocking fee plus manufacturer
+shipping**, or charges the PO in full and keeps the parts for reuse.
+
 **Why it matters:** items don't get mailed back, or PMS can't produce
 the tracking number to prove they were. **No tracking number, no return
 credit.**

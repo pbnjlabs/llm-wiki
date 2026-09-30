@@ -162,7 +162,7 @@ porch handrails where the platform connects.
 - **Any planned yard or home work** (sod, irrigation, concrete,
   landscaping), and how long will it take? A 2025 VA ramp was delayed for
   months by yard work nobody mentioned at the eval
-  ([[VA Ramp Return Email (2025)]]).
+  ([[VA Ramp Returns and Restocking Fee (2025)]]).
 
 ## 2. Pick the ramp class
 
@@ -275,6 +275,13 @@ The sign-off form also asks for **close-ups of corner kits, closure
 kits, threshold ramps, bridge plates, lightning rods and any
 modifications to the home**, and for the loops to be visible in the
 whole-ramp shot.
+
+## VA returns and restocking
+
+If a VA ramp order can't be installed: a custom-configured ramp may not
+be returnable; PMS can charge a **10% restocking fee plus manufacturer
+shipping**, or **charge the PO in full and hold or reuse the parts**.
+The VA chooses. See [[VA Ramp Returns and Restocking Fee (2025)]].
 
 ## Labor estimate
 
