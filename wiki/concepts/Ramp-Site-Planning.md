@@ -278,7 +278,7 @@ whole-ramp shot.
 
 ## VA bid package
 
-A VA ramp bid has three parts (example: [[VA Ramp Bid Package Example (2026)]]):
+A VA ramp bid has four parts (example: [[VA Ramp Bid Package Example (2026)]]):
 
 1. **Part B drawing** filled in on site: total rise, entrance,
    thresholds, device, door swing, landing surface, and the sketch on the
@@ -289,7 +289,11 @@ A VA ramp bid has three parts (example: [[VA Ramp Bid Package Example (2026)]]):
    (e.g. PRUT → 3×6 → two 5×5 → … → PRLT).
 3. **PMS estimate to the VA hospital:** a MISC job line, the **GSA FSS
    contract line** at $0, the PATHWAY "P" part codes, then an **FSS
-   discount** line; no sales tax.
+   discount** line; no sales tax. **Labor is included in PMS's markup.**
+   Add a labor line **only** for extra work such as **porch
+   modification** or **debris clean-up**.
+4. **Site pictures taken during the eval** (see the photo list in
+   section 0 and on the [[PMS Ramp Site Evaluation Form]]).
 
 **EZ-ACCESS program jobs** (EZ-ACCESS pays PMS): see
 [[EZ-ACCESS Program Invoice Examples]]: $75 base evaluation, mileage per

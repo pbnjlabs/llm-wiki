@@ -10,8 +10,9 @@ tags: [pms, ramp, va, bid, estimate, pathway, part-numbers, job-example]
 # VA Ramp Bid Package Example (2026)
 
 A **real, complete VA ramp bid package**, 3 pages, dated 29–30 Sep 2026.
-It shows the three pieces PMS sends for a VA modular ramp bid, in
-order. Customer details are partly blacked out on the scan.
+It shows three of the four pieces PMS sends for a VA modular ramp bid.
+The fourth, **site pictures taken during the eval**, is part of every
+bid package but isn't in this file (per the human). Customer details are partly blacked out on the scan.
 
 **Left out on purpose:** the customer's and evaluator's names, address,
 phone numbers, the estimate number and the project reference number.
@@ -78,11 +79,19 @@ Patterns worth copying:
 
 - A **MISC line** describing the job, then the **GSA FSS contract line**
   at $0, then parts, then an **FSS discount line**.
+- **No labor line.** Labor is **included in PMS's markup**. PMS adds a
+  labor line **only** for extra work such as **porch modification** or
+  **debris clean-up** (per the human).
 - **No zone charge** appears on this estimate (compare the VA repair and
   lift invoices on [[Delivery Ticket and Invoice Examples]] and
   [[Harmar Orders and Installs Workflow]]).
 - The **PATHWAY 3G "P" part codes** used for ordering (PPS55, PRSTL8,
   PRUT, PRLT, PSL…PR and so on) are listed on [[PATHWAY-3G]].
+
+## 4. Site pictures (not in this file)
+
+Every VA bid package also includes the **site pictures taken during the
+eval**.
 
 ## Feeds
 
