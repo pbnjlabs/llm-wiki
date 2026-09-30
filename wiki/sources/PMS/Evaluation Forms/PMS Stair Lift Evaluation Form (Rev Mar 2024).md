@@ -31,6 +31,11 @@ pages, blank. House practice. Summarized with the PMS photo guidance on
   2. **Back to knee**
   3. **Seat width, hip to hip**
 
+  **Feasibility rule (PMS):** **back to knee + hip to hip must add up to
+  29 in or more** for a stair glide to be feasible. **Under 29 in is a "no
+  bid."** The same total also decides **whether the handrail has to be
+  removed** (per the human).
+
 ## Page 3: straight stair lift measurements
 
 - **Rail position: decided by management** when the eval is reviewed.
