@@ -17,10 +17,15 @@ camera-based measuring, see [[Staircase-Measuring-System]].
 - User seated measurements: **seat to head**, **back to knee**, **hip
   to hip**.
 
-  **Feasibility rule (PMS):** **back to knee + hip to hip must add up to
-  29 in or more** for a stair glide to be feasible. **Under 29 in is a "no
-  bid."** The same total also decides **whether the handrail has to be
-  removed** (per the human).
+  **Feasibility rule (PMS):** add **back to knee + hip to hip**. That
+  total must **fit within the stair width while the user is seated on the
+  lift**. If it doesn't fit, it's a **"no bid."** The same check decides
+  **whether the handrail has to be removed** (per the human).
+  
+  The **29 in** figure is the limit for a **new-construction standard
+  stairway, 34 in wide**: a total over 29 in won't fit on a standard 34 in
+  stair. On a wider or narrower stair, compare against that stair's
+  width.
 - Stair type: straight, curved/spiral, or straight with a flat or
   sloped landing. Indoor or outdoor.
 

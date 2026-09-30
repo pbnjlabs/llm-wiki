@@ -920,3 +920,5 @@ Per the human: a design flaw lets the S-Drive connectors work loose, so the Aven
 Per the human: the strain on the wires into the S-Drive connectors is the design flaw and cannot be relieved. Removed the "relieve the strain" step; the fix is to reseat, and the fault can recur. Updated [[2026-09-30 GA541-Avenger S-Drive loose connectors]].
 ## [2026-09-30] house-standard | Stairlifts — back-to-knee + hip-to-hip feasibility rule
 Per the human: back to knee + hip to hip must total 29 in or more for a stair glide to be feasible; under 29 in is a no bid. The same total determines whether the handrail must be removed. Added to [[Stairlift-Evaluation]] and [[PMS Stair Lift Evaluation Form (Rev Mar 2024)]].
+## [2026-09-30] correction | Stairlifts — feasibility rule restated
+Per the human: the seated user's back-to-knee + hip-to-hip total must fit within the stair width; the 29 in figure assumes a new-construction standard stairway 34 in wide. Replaces the earlier "29 in or more" wording, which had the direction wrong. Same check decides handrail removal. Updated [[Stairlift-Evaluation]] and [[PMS Stair Lift Evaluation Form (Rev Mar 2024)]].
