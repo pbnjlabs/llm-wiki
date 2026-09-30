@@ -17,6 +17,9 @@ name, PO and invoice numbers, equipment serial numbers, and all phone
 numbers (including PMS's office list and the 24/7 service line printed
 on the ticket).
 
+Blank copies of both tickets, plus the Rights & Responsibilities notice
+and the communication log, are on [[PMS Delivery Paperwork (Blank Forms)]].
+
 ## Delivery tickets (`delivery_ticket_ex.pdf`)
 
 Two kinds. **Use the right one for the payer.**

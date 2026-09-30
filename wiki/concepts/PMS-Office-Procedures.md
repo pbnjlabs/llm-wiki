@@ -56,6 +56,7 @@ into the wiki; look them up on the raw files.
 
 **Delivery tickets and invoices**
 - VA Delivery Ticket / Plan of Care vs. private pay/DSN ticket; private pay and VA invoice examples: [[Delivery Ticket and Invoice Examples]]
+- Blank tickets, client Rights & Responsibilities notice, communication log: [[PMS Delivery Paperwork (Blank Forms)]]
 - Private pay: assessment fee $85 (more if far from the shop); parts = cost ÷ 0.65, taxed; SC sales tax 6%; lift chair sales are final.
 - VA: bill the VA hospital; serial with letter prefix (none for Harmar); drop the "evaluate" wording when converting an estimate; VA-only zone charge.
 
