@@ -35,6 +35,10 @@ When a VA ramp order can't be installed, under the **FSS contract
 
 PMS presents both options to the VA and lets the VA choose.
 
+**What usually happens: "VA Stock."** In many cases the VA tells PMS to
+**keep the ramp parts as "VA Stock."** PMS holds them and **pulls from
+VA Stock to build ramps for other veterans** (per the human).
+
 **Example:** on this order the 10% restocking fee came to **$658.40**
 (an order of about $6,584), before shipping.
 

@@ -17,7 +17,8 @@ into the wiki; look them up on the raw files.
 - **Manufacturer quotes go to PMS's quotes inbox**
   (quotes@performancemedicalsupply.com).
 - **VA returns: 10% restocking fee plus manufacturer shipping**, or
-  charge the PO in full and keep the parts for reuse
+  charge the PO in full and keep the parts for reuse. **Often the VA says
+  to keep them as "VA Stock"**, used for other veterans' ramps
   ([[VA Ramp Returns and Restocking Fee (2025)]]).
 - **Returns need a tracking number.** No tracking number, no return
   credit. RA number on the box in two places, and tracking and RA
@@ -71,4 +72,4 @@ into the wiki; look them up on the raw files.
 
 **Parts**
 - Ordering and returns: [[Ordering and Returning Parts]]
-- **VA returns and restocking:** custom-configured orders may not be returnable; **10% restocking fee plus manufacturer shipping**, or charge the PO in full and hold/reuse the parts. VA chooses. [[VA Ramp Returns and Restocking Fee (2025)]]
+- **VA returns and restocking:** custom-configured orders may not be returnable; **10% restocking fee plus manufacturer shipping**, or charge the PO in full and hold/reuse the parts. VA chooses; often it's **"VA Stock"** for other veterans' ramps. [[VA Ramp Returns and Restocking Fee (2025)]]

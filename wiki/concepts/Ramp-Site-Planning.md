@@ -281,7 +281,9 @@ whole-ramp shot.
 If a VA ramp order can't be installed: a custom-configured ramp may not
 be returnable; PMS can charge a **10% restocking fee plus manufacturer
 shipping**, or **charge the PO in full and hold or reuse the parts**.
-The VA chooses. See [[VA Ramp Returns and Restocking Fee (2025)]].
+The VA chooses. **Often the VA says to keep the parts as "VA Stock"**,
+which PMS pulls from to build ramps for other veterans. See
+[[VA Ramp Returns and Restocking Fee (2025)]].
 
 ## Labor estimate
 

@@ -72,6 +72,8 @@ The form techs fill in on a repair evaluation, for the office:
 [[VA Ramp Returns and Restocking Fee (2025)]]. Custom-configured items may
 not be returnable; PMS offers a **10% restocking fee plus manufacturer
 shipping**, or charges the PO in full and keeps the parts for reuse.
+Often the VA says to keep them as **"VA Stock"**, which PMS pulls from
+for other veterans' ramps.
 
 **Why it matters:** items don't get mailed back, or PMS can't produce
 the tracking number to prove they were. **No tracking number, no return
