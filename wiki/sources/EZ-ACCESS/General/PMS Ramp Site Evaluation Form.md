@@ -15,10 +15,13 @@ down. The PDF has no date. Filed under EZ-ACCESS/General next to the
 It's a PMS document, so it ranks with the handbook, above the EZ-ACCESS
 articles.
 
-**Incomplete:** the form refers to a **"Fig. 4"** and to a **map
-"sheet provided"** for the door location, obstructions and parking.
-Neither is in this PDF, so there's probably a Part B or a map page that
-wasn't scanned.
+**Clean copy:** `MANUALS/Admin/Paperwork/Evals/ramp_eval_A.pdf` is a
+right-side-up scan of the same form (same fields).
+
+The "sheet provided" for mapping the door, obstructions and parking is
+**Part B** ([[PMS Ramp Assessment and Approval Forms (Part B)]]), a
+1 ft grid drawing sheet with the customer agreement. **"Fig. 4" is still
+missing**; it isn't in either scan.
 
 ## Fields on the form
 

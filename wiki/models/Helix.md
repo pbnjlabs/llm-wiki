@@ -64,3 +64,5 @@ see [[Harmar-Warranty]].
 [[Harmar]], [[Pinnacle-SL300]], [[Pinnacle-SL600]],
 [[Harmar-Stairlift-Beep-Codes]], [[Harmar-Warranty]],
 [[Staircase-Measuring-System]], [[Overspeed-Safety-Brake]]
+
+Site evaluation: [[Stairlift-Evaluation]] (PMS stair lift evaluation form and photo guide).

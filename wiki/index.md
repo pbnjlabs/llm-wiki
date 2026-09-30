@@ -171,6 +171,8 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes | [[Mobility-Batteries]] |
 | Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
 | Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
+| Stairlift evaluation (PMS form, measurements, outlet/overrun/seat rules, photos) | [[Stairlift-Evaluation]] |
+| Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
@@ -384,7 +386,7 @@ Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
 Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
 
-PMS (5 ingested), see `wiki/sources/PMS/`, sorted by job type:
+PMS (7 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
@@ -393,7 +395,13 @@ to the VA RFQ, tile/drywall yes, fiberglass no, pricing);
 videos). [[Stairlift Evaluation Measurements and Photos]] (Stairlift
 Evaluations: 5 measurements, acceptable/unacceptable photos);
 [[Delivery Ticket and Invoice Examples]] (Invoicing and Delivery: VA vs.
-private pay tickets and invoices). Harmar-specific
+private pay tickets and invoices). Evaluation Forms (raw files in `MANUALS/Admin/Paperwork/Evals/`):
+[[PMS Stair Lift Evaluation Form (Rev Mar 2024)]] and
+[[PMS Porch Lift (VPL) Evaluation Packet]]. The same folder also held
+ramp Part B and approval forms (filed under EZ-ACCESS: [[PMS Ramp
+Assessment and Approval Forms (Part B)]]) and newer copies of the ramp
+Part A, repair eval and ceiling lift eval forms (noted on their existing
+pages). Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
 [[PMS-Office-Procedures]]. Raw files in `MANUALS/Misc./`. Customer and

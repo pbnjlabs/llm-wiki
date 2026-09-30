@@ -23,8 +23,14 @@ into the wiki; look them up on the raw files.
 ## By job type
 
 **Stairlifts**
-- Evaluation measurements and photos: [[Stairlift Evaluation Measurements and Photos]]
+- Evaluation (form, measurements, rules, photos): [[Stairlift-Evaluation]], [[PMS Stair Lift Evaluation Form (Rev Mar 2024)]], [[Stairlift Evaluation Measurements and Photos]]
 - Harmar camera measuring: [[Staircase-Measuring-System]]
+
+**Porch lifts (VPL)**
+- Evaluation packet (site limits, sketch, HISA agreement): [[Porch-Lift-Evaluation]], [[PMS Porch Lift (VPL) Evaluation Packet]]
+
+**Ceiling lifts**
+- Evaluation form: [[Ceiling Lift Evaluation Form]]
 
 **Vehicle lifts**
 - Phone interview and estimate: [[Vehicle Lift Workflow]], [[Vehicle Lift Phone Interview Form]]
@@ -32,7 +38,7 @@ into the wiki; look them up on the raw files.
 - Bruno lift prices (MSRP / dealer): [[Bruno Lifts Price List (PMS SC-0307)]]
 
 **Ramps**
-- Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]]
+- Evaluation, measurement methods, completion photos: [[Ramp-Site-Planning]], [[PMS Ramp Site Evaluation Form]] (Part A), [[PMS Ramp Assessment and Approval Forms (Part B)]]
 
 **Grab bars**
 - Methods and VA jobs: [[Grab-Bar-Installation]], [[PMS Grab Bar Quote Response (2026)]]

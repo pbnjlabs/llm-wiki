@@ -70,7 +70,11 @@ on this page supplements it.
    rise; record it.** Grade = reading − porch height (more: the ground
    drops, add; less: it rises, subtract). Ignore the laser's own height.
 
-   Map obstructions, the door and parking on the map sheet. Photos: the entire yard, the door (open), and at least two
+   Map obstructions, the door and parking on the map sheet: **Part B**,
+   a 1 ft grid ([[PMS Ramp Assessment and Approval Forms (Part B)]]).
+   The customer (and the property owner, if different) signs Part B, and
+   the client signs the ramp approval. **On VA jobs, once the sketch is
+   submitted and the PO arrives, the layout can't change.** Photos: the entire yard, the door (open), and at least two
    angles showing parking relative to the ramp. **Missing information
    can delay the quote.**
 

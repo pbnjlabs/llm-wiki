@@ -145,6 +145,15 @@ Photos (missing ones can delay the quote):
 - [ ] **The cones laid out**: first platform square, end of each run,
       any extra platforms
 
+Paperwork:
+
+- [ ] Part A filled in ([[PMS Ramp Site Evaluation Form]])
+- [ ] **Part B drawing** (1 square = 1 ft) with obstacles, signed by the
+      customer and any other property owner
+      ([[PMS Ramp Assessment and Approval Forms (Part B)]])
+- [ ] **Ramp approval** signed by client/veteran and PMS. VA jobs:
+      layout is locked once the PO arrives
+
 ## Root cause
 
 Measurements and slope math ([[Ramp-Slope-and-Length]]):

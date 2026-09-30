@@ -76,3 +76,5 @@ same chassis-and-wheels subassembly and control software
 ## See also
 [[Harmar]], [[Helix]], [[Pinnacle-SL600]],
 [[Harmar-Stairlift-Beep-Codes]], [[Harmar-Warranty]]
+
+Site evaluation: [[Stairlift-Evaluation]] (PMS stair lift evaluation form and photo guide).

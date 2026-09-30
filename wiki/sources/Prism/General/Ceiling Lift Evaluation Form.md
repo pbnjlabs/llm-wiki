@@ -8,6 +8,11 @@ tags: [prism, ceiling-lift, site-survey, install-planning]
 
 # Ceiling Lift Evaluation Form
 
+**Another version:** `MANUALS/Admin/Paperwork/Evals/cl_eval.pdf` is a
+**2-page** copy of the same form (patient and amputee info, lift purpose,
+site-built vs. mobile home, attic/ceiling access, joist direction, room
+dimensions and ceiling heights). Same questions, fewer pages.
+
 4-page blank pre-install site-survey form (Performance Medical Supply's own
 form, not a Prism-authored document) used to assess a home before a ceiling
 lift install. Not model-specific — generic to ceiling-lift installs, not

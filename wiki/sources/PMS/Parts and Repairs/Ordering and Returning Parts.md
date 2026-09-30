@@ -37,6 +37,10 @@ The form techs fill in on a repair evaluation, for the office:
   - **Two techs needed for repair?**
   - Notes
 - **Replacement recommended?**
+- **Newer version** (`MANUALS/Admin/Paperwork/Evals/tech_eval.pdf`, same
+  title) adds a **"Repair completed @ eval?"** checkbox and an email
+  checkbox, and asks "Repairs need to be done in the shop?" and "Are two
+  techs needed for repair?". Otherwise the same.
 - Manufacturer tech/rep, quote #
 - **Reminder: the PO is the user's last name, and all quotes from the
   manufacturer are emailed to PMS's quotes inbox**

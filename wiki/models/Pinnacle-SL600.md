@@ -65,3 +65,5 @@ other parts/electrical, 1yr batteries — stronger coverage than SL300's
 ## See also
 [[Harmar]], [[Helix]], [[Pinnacle-SL300]],
 [[Harmar-Stairlift-Beep-Codes]], [[Harmar-Warranty]]
+
+Site evaluation: [[Stairlift-Evaluation]] (PMS stair lift evaluation form and photo guide).
