@@ -119,6 +119,13 @@ Clippings are marketing or consumer guidance, so they carry **less
 weight than a manual**. Say so on the pages they feed, and let any
 manual override them.
 
+### Manufacturer prices and pay scales
+
+PMS doesn't take work from manufacturers (EZ-ACCESS is only a
+manufacturer, not a source of jobs). Treat any **manufacturer prices,
+rates or pay scales** as **manufacturer suggestions**, never as PMS
+rates or as work PMS does for the manufacturer.
+
 ### House standards
 
 Some rules come from Performance Medical Supply itself, not from any

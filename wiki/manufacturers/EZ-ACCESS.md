@@ -69,6 +69,14 @@ other lines aren't on file.
 - [[Ramp-Site-Planning]]: intake questions, configuration factors, and
   install and test steps.
 
+## Prices and pay scales
+
+**PMS doesn't take work from EZ-ACCESS; EZ-ACCESS is only a
+manufacturer.** Treat any EZ-ACCESS prices, rates or pay scales (the pay
+scale sheets, the install times on [[Ramp-Install-Time-Estimates]], the
+old invoices on [[EZ-ACCESS Invoice Examples (Historical)]]) as
+**manufacturer suggestions**, not PMS rates.
+
 ## Not yet ingested
 
 Nothing. Every technical file in `MANUALS/Ramps/` is ingested. The two

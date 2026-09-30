@@ -65,7 +65,6 @@ into the wiki; look them up on the raw files.
 - VA Delivery Ticket / Plan of Care vs. private pay/DSN ticket; private pay and VA invoice examples: [[Delivery Ticket and Invoice Examples]]
 - Blank tickets, client Rights & Responsibilities notice, communication log: [[PMS Delivery Paperwork (Blank Forms)]]
 - VA ramp bid (Part B + EZ-ACCESS layout + estimate with FSS lines + eval site pictures; labor is in the markup, billed separately only for porch modification or debris clean-up): [[VA Ramp Bid Package Example (2026)]]
-- Billing EZ-ACCESS for eval / install / service on EZ-ACCESS projects (project ID as PO; $75 eval, mileage, $115 service eval): [[EZ-ACCESS Program Invoice Examples]]
 - Private pay: assessment fee $85 (more if far from the shop); parts = cost ÷ 0.65, taxed; SC sales tax 6%; lift chair sales are final.
 - VA: bill the VA hospital; serial with letter prefix (none for Harmar); drop the "evaluate" wording when converting an estimate; VA-only zone charge.
 

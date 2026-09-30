@@ -6,20 +6,20 @@ source: "MANUALS/Admin/Invoicing and Delivery/vpl_invoice_ex.pdf"
 tags: [pms, ez-access, ramp, invoice, mileage, evaluation, install, service, job-example]
 ---
 
-# EZ-ACCESS Program Invoice Examples
+# EZ-ACCESS Invoice Examples (Historical)
 
-Three PMS invoice examples **billed to EZ-ACCESS** for modular ramp
-work, each marked by hand as an example ("Evaluation example", "Install
-example", "Service example"). The raw file is named
+Three old PMS invoices **billed to EZ-ACCESS** for modular ramp work
+(2021 and later), each marked by hand as an example ("Evaluation
+example", "Install example", "Service example"). The raw file is named
 `vpl_invoice_ex.pdf`, but all three are for **mod ramps**, not VPLs.
 
-PMS bills EZ-ACCESS directly for field work on EZ-ACCESS projects,
-identified by an **EZ-ACCESS project ID**. This is like the Harmar Lift
-Squad installs on [[Harmar Orders and Installs Workflow]].
+**PMS doesn't take work from EZ-ACCESS.** EZ-ACCESS is only a
+manufacturer (per the human). Treat these invoices as **historical
+examples of invoice layout**, and treat **any EZ-ACCESS rates, prices or
+pay scales as manufacturer suggestions**, not PMS rates.
 
-**Left out on purpose:** invoice numbers and the veteran details and
-narrative specifics beyond what's needed as an example. PMS's phone
-number is left out.
+**Left out on purpose:** invoice numbers, veteran details and PMS's
+phone number.
 
 ## How the invoices are filled in
 
@@ -38,7 +38,7 @@ number is left out.
 
 | Item | Description | Price |
 |---|---|---|
-| Base evaluation | EZ-ACCESS base evaluation fee | **$75.00** |
+| Base evaluation | EZ-ACCESS base evaluation fee | $75.00 |
 | Mileage eval | Rate per mile, **round trip to evaluate** | per mile |
 
 **Install** (paid 21 Jul 2021)
@@ -54,8 +54,8 @@ itself isn't on it.
 
 | Item | Description | Qty | Price | Amount |
 |---|---|---|---|---|
-| Mileage install | Rate per mile, round trip to service ramp | 202 mi | **$1.35/mi** | $272.70 |
-| Service call | **Service evaluation of an existing ramp (includes minor repairs)** | 1 | **$115.00** | $115.00 |
+| Mileage install | Rate per mile, round trip to service ramp | 202 mi | $1.35/mi | $272.70 |
+| Service call | Service evaluation of an existing ramp (includes minor repairs) | 1 | $115.00 | $115.00 |
 | MISC | Narrative of the outcome | | | $0.00 |
 
 The MISC note records what happened: the existing ramp was missing all
@@ -67,7 +67,6 @@ note in a MISC line** when a job doesn't go ahead.
 
 ## Feeds
 
-- [[PMS-Office-Procedures]]
-- [[Ramp-Site-Planning]]
+- [[EZ-ACCESS]]
 
 Raw PDF: `MANUALS/Admin/Invoicing and Delivery/vpl_invoice_ex.pdf`

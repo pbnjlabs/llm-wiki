@@ -408,7 +408,8 @@ Forms), [[PMS Grab Bar Waiver of Liability]] (Grab Bars), and the ramp
 Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
 tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
 Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
-[[EZ-ACCESS Program Invoice Examples]]; that folder's other three files
+[[EZ-ACCESS Invoice Examples (Historical)]] (layout only; PMS doesn't take
+EZ-ACCESS work); that folder's other three files
 duplicate ones already ingested from `Misc./`. Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:

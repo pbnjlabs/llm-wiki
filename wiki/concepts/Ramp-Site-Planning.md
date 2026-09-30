@@ -295,9 +295,8 @@ A VA ramp bid has four parts (example: [[VA Ramp Bid Package Example (2026)]]):
 4. **Site pictures taken during the eval** (see the photo list in
    section 0 and on the [[PMS Ramp Site Evaluation Form]]).
 
-**EZ-ACCESS program jobs** (EZ-ACCESS pays PMS): see
-[[EZ-ACCESS Program Invoice Examples]]: $75 base evaluation, mileage per
-mile round trip, $115 service evaluation of an existing ramp.
+PMS doesn't take work from EZ-ACCESS. Any EZ-ACCESS rates, prices or
+pay scales are **manufacturer suggestions** only (see [[EZ-ACCESS]]).
 
 ## VA returns and restocking
 
