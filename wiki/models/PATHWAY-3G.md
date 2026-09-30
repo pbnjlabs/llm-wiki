@@ -114,6 +114,28 @@ closure kit. **Bridge plates**: MBP36/48/60 are 8 in deep; MDBP is
 
 **Install times** per component are on [[Ramp-Install-Time-Estimates]].
 
+## Ordering codes used on PMS estimates (2026)
+
+The **"P" part codes** PMS orders by, from a 2026 VA estimate
+([[VA Ramp Bid Package Example (2026)]]). They differ from the 2015
+manual's "M" codes. Prices are 2026 VA estimate prices.
+
+| Code | Part | 2026 price |
+|---|---|---|
+| PRSTL4 / 5 / 6 / 8 | Solid ramp, 4 / 5 / 6 / 8 ft, two-line handrail | $729.93 / $816.46 / $908.43 / $1,062.08 |
+| PPS55 (PPS55TL on the layout) | 5 × 5 ft solid platform, two-line handrail | $1,358.70 |
+| PRUT | Ramp upper transition | $54.60 |
+| PRLT | Ramp lower transition | $64.93 |
+| PRRUC | Universal connector, ramp to ramp | $128.98 |
+| PPPC | Connector to platform | $66.59 |
+| PPCTL | Platform closure, two-line handrail | $105.61 |
+| PRHBPR | Ramp handrail end bracket (pair) | $35.09 |
+| PRHP | Ramp hanger pair | $27.91 |
+| PRHRLL / PRHRLU | Handrail end loop, lower / upper | $56.09 each |
+| PSL10PR | Support leg 10 in (pair, set at 13 in) | $48.91 |
+| PSL22PR | Support leg (pair, set at 25 in) | $60.11 |
+| PSL28PR | Support leg 28 in (pair, set at 31 in) | $65.80 |
+
 ## Components (manual §1)
 
 | Part # | Part |
@@ -265,6 +287,7 @@ Lifetime warranty; register at ezaccess.com/warranty-satisfaction
 
 ## Field notes
 
+- [[VA Ramp Bid Package Example (2026)]]: real VA bid (31 in rise, 41 linear ft, two 5×5 platforms)
 - [[2026-09-25 PATHWAY-3G ramp evaluation]]: ramp evaluation measurement methods (resolved; now house practice)
 
 Related: [[EZ-ACCESS]], [[Ramp-Site-Planning]], [[ADA-Ramp-Requirements]]

@@ -386,7 +386,7 @@ Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
 Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
 
-PMS (10 ingested), see `wiki/sources/PMS/`, sorted by job type:
+PMS (12 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
@@ -406,7 +406,10 @@ pages). Install forms (raw files in `MANUALS/Admin/Paperwork/Installs/`):
 Forms), [[PMS Grab Bar Waiver of Liability]] (Grab Bars), and the ramp
 [[PMS Ramp Installation Sign-Off]] (filed under EZ-ACCESS/General). Blank delivery paperwork (raw files in `MANUALS/Admin/Paperwork/Misc.
 Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
-tickets, Rights & Responsibilities, communication log). Harmar-specific
+tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
+Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
+[[EZ-ACCESS Program Invoice Examples]]; that folder's other three files
+duplicate ones already ingested from `Misc./`. Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
 [[PMS-Office-Procedures]]. Raw files in `MANUALS/Misc./`. Customer and

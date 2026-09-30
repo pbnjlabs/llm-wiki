@@ -17,6 +17,11 @@ name, PO and invoice numbers, equipment serial numbers, and all phone
 numbers (including PMS's office list and the 24/7 service line printed
 on the ticket).
 
+More examples: [[VA Ramp Bid Package Example (2026)]] (VA ramp estimate)
+and [[EZ-ACCESS Program Invoice Examples]] (billing EZ-ACCESS). The
+`delivery_ticket_ex.pdf` and `invoice_ex.pdf` files also appear, identical,
+in `MANUALS/Admin/Invoicing and Delivery/`.
+
 Blank copies of both tickets, plus the Rights & Responsibilities notice
 and the communication log, are on [[PMS Delivery Paperwork (Blank Forms)]].
 

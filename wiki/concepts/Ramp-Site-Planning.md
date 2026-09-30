@@ -276,6 +276,25 @@ kits, threshold ramps, bridge plates, lightning rods and any
 modifications to the home**, and for the loops to be visible in the
 whole-ramp shot.
 
+## VA bid package
+
+A VA ramp bid has three parts (example: [[VA Ramp Bid Package Example (2026)]]):
+
+1. **Part B drawing** filled in on site: total rise, entrance,
+   thresholds, device, door swing, landing surface, and the sketch on the
+   1 ft grid (porch size, obstructions such as an A/C unit, parking,
+   route and platforms). Signed by the homeowner.
+2. **EZ-ACCESS layout printout** from EZ-ACCESS's design tool: surface,
+   handrail type, width and **linear feet**, with each section labeled
+   (e.g. PRUT → 3×6 → two 5×5 → … → PRLT).
+3. **PMS estimate to the VA hospital:** a MISC job line, the **GSA FSS
+   contract line** at $0, the PATHWAY "P" part codes, then an **FSS
+   discount** line; no sales tax.
+
+**EZ-ACCESS program jobs** (EZ-ACCESS pays PMS): see
+[[EZ-ACCESS Program Invoice Examples]]: $75 base evaluation, mileage per
+mile round trip, $115 service evaluation of an existing ramp.
+
 ## VA returns and restocking
 
 If a VA ramp order can't be installed: a custom-configured ramp may not
