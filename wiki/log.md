@@ -904,3 +904,5 @@ Per the human, the restocking policy is the main takeaway. Renamed the page to [
 Per the human: the VA often tells PMS to keep undelivered ramp parts as "VA Stock", which PMS pulls from to build ramps for other veterans. Added to [[VA Ramp Returns and Restocking Fee (2025)]], [[Ramp-Site-Planning]], [[PMS-Office-Procedures]] and [[Ordering and Returning Parts]].
 ## [2026-09-30] note | PMS — VA Stock log
 Per the human: VA Stock is tracked in an Excel log kept locally on a co-worker's PC, with columns Vet's Name, Item Number/Description and Used For. Added to [[VA Ramp Returns and Restocking Fee (2025)]] and [[PMS-Office-Procedures]]. The log itself is not in the wiki.
+## [2026-09-30] note | PMS — PMS Stock
+Per the human: PMS keeps its own "PMS Stock" of small consumable ramp parts (legs, feet, transitions, hardware) left over from builds or salvaged from repairs. Unlike VA Stock, it has no tracker log. Added to [[VA Ramp Returns and Restocking Fee (2025)]], [[PMS-Office-Procedures]] and [[Ramp-Site-Planning]].

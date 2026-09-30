@@ -21,6 +21,8 @@ into the wiki; look them up on the raw files.
   to keep them as "VA Stock"**, used for other veterans' ramps
   ([[VA Ramp Returns and Restocking Fee (2025)]]). VA Stock is tracked
   in a local Excel log (vet's name, item number/description, used for).
+- **PMS Stock:** PMS's own leftover and salvaged small ramp parts (legs,
+  feet, transitions, hardware). **Not tracked in any log.**
 - **Returns need a tracking number.** No tracking number, no return
   credit. RA number on the box in two places, and tracking and RA
   numbers in the patient file.

@@ -51,6 +51,11 @@ co-worker's PC** (not in the wiki). Columns, roughly:
 Check the log before ordering parts for a VA ramp, and record any VA
 Stock you use.
 
+**PMS Stock is different.** PMS also keeps its own **"PMS Stock"** of
+smaller consumable ramp parts: **legs, feet, transitions and
+hardware**, left over from builds or **salvaged from repairs**. **There
+is no tracker log for PMS Stock** (per the human).
+
 **Example:** on this order the 10% restocking fee came to **$658.40**
 (an order of about $6,584), before shipping.
 
