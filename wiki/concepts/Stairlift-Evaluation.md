@@ -19,13 +19,16 @@ camera-based measuring, see [[Staircase-Measuring-System]].
 
   **Feasibility rule (PMS):** add **back to knee + hip to hip**. That
   total must **fit within the stair width while the user is seated on the
-  lift**. If it doesn't fit, it's a **"no bid."** The same check decides
-  **whether the handrail has to be removed** (per the human).
+  lift**. The limit is **stair width minus 5 in**; e.g. a
+  new-construction standard **34 in** stairway allows up to **29 in**.
   
-  The **29 in** figure is the limit for a **new-construction standard
-  stairway, 34 in wide**: a total over 29 in won't fit on a standard 34 in
-  stair. On a wider or narrower stair, compare against that stair's
-  width.
+  1. Check the fit with the **handrail in place** (width to the handrail).
+  2. If it doesn't fit, check again with the **handrail removed** (full
+     width).
+  3. Fits only without the handrail: **the handrail has to be removed**.
+  4. Doesn't fit either way: **"no bid."**
+  
+  (Per the human, 2026-09-30.)
 - Stair type: straight, curved/spiral, or straight with a flat or
   sloped landing. Indoor or outdoor.
 
