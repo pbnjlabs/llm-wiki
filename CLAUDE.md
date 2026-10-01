@@ -62,8 +62,9 @@ ingest. Derive the subdirectory names from that manufacturer's own
 `manufacturers/<Name>.md` page (its model-family/product-line groupings),
 not from however the raw files happen to be organized under `MANUALS/`
 (which may be flat, or split differently, or even misfiled into another
-manufacturer's folder — see the Harmar-doc-under-Bruno and
-AutoSlide/Open-Sesame cases). Always include a catch-all `General`
+manufacturer's folder — see the Harmar-doc-under-Bruno case; the
+AutoSlide RFID manual under Open Sesame turned out to be filed there on
+purpose). Always include a catch-all `General`
 subdirectory for docs that are genuinely cross-cutting/not tied to one
 product line (accessories, chargers, warranty text, etc.) rather than
 forcing them into a product-line folder they don't belong in.

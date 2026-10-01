@@ -34,8 +34,8 @@ determines whether the door's drag force needs the Standard or Elite motor.
 - [[AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock)]] —
   full install/setup/troubleshooting/warranty manual for the drive system
 - [[RFID Pet Sensor Operation Instructions]] — accessory pet-door sensor
-  add-on, physically filed under a mismatched `MANUALS/Open Sesame/` folder
-  (see that page's filing note)
+  add-on, filed under `MANUALS/Open Sesame/` because Open Sesame uses the
+  same reader (see that page's filing note)
 
 ## Operating modes
 
@@ -105,3 +105,4 @@ handles walls/frames without enough header depth.
 ## See also
 
 - [[AutoSlide]] — manufacturer page
+- [[AutoSwing]] — AutoSlide's swing-door operator; [[Automatic-Door-Operators]] — choosing sliding vs. swing

@@ -17,7 +17,8 @@ Entry point for every query — check here first before opening raw manuals.
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
 | Harmar | [[Harmar]] | 78 | 39 source pages (see note — several consolidate multiple low-narrative files) |
-| AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
+| AutoSlide | [[AutoSlide]] | 3 | 3 (+ AutoSwing) — **different product category**, see note below |
+| Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 10 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (19 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
@@ -48,19 +49,14 @@ Note: Golden's 66-file on-disk count includes one byte-identical duplicate
 PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
 65 source pages. See [[Golden]] for details.
 
-Note: **AutoSlide is not mobility equipment** — it's an automatic sliding-
-door retrofit kit, a different product category from every other
-manufacturer in this wiki. Its 2 raw files were found outside this repo (at
-`/home/lu/Work/MANUALS/`, not `/home/lu/Work/llm-wiki/MANUALS/`) and copied
-in preserving their original foldering: `MANUALS/AutoSlide/` (the main
-install manual) and `MANUALS/Open Sesame/` (an RFID pet-sensor accessory
-manual that is, confusingly, entirely AutoSlide-branded). Confirmed via web
-search: **Open Sesame is a real, separate manufacturer** (automatic
-swing-door operators, a different mechanism from AutoSlide's sliding-door
-track) commonly sold alongside AutoSlide by the same door-access dealers —
-so this file is a **misfile**, not a distributor name AutoSlide itself uses.
-See [[AutoSlide]] for details, including the still-open question of whether
-either brand belongs in this wiki's stated scope at all.
+Note: **AutoSlide and Open Sesame are not mobility equipment.** They're
+automatic door operators: AutoSlide makes a sliding-door drive and the
+AutoSwing swing operator, and Open Sesame makes swing operators. Their raw
+folders are `MANUALS/AutoSlide/` and `MANUALS/Open Sesame/`. The
+AutoSlide RFID manual in the Open Sesame folder is there on purpose,
+because Open Sesame's proximity tag system uses that reader. See
+[[Automatic-Door-Operators]]. Whether these brands belong in the wiki's
+scope is still an open question on [[AutoSlide]].
 
 Note: **"Red Hawk" is not a brand name** — it's Performance Medical
 Supply's own folder name for 5 folding-power-wheelchair manuals covering
@@ -129,6 +125,9 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 | Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower) | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
+| AutoSwing (ASW8-1) — automatic swing-door operator, pull or push arm | AutoSlide | [[AutoSwing]] |
+| Model 133 — residential swing-door operator, free swing by hand | Open Sesame | [[Open-Sesame-Model-133]] |
+| Model 233 — public-access / storm-door operator, clutch acts as closer | Open Sesame | [[Open-Sesame-Model-233]] |
 | Air Hawk / Eagle HD — same product, dual-branded | Red Hawk | [[Air-Hawk-Eagle-HD]] |
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
@@ -145,6 +144,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 |---|---|
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant) | [[Overspeed-Safety-Brake]] |
 | Folding rail (manual/power) | [[Folding-Rail]] |
+| Automatic door operators (AutoSlide vs. AutoSwing vs. Open Sesame 133/233; swing-door site survey; activation options) | [[Automatic-Door-Operators]] |
 | Rail mounting/anchoring guidance | [[Rail-Mounting-Guidance]] |
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
 | Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
@@ -359,10 +359,23 @@ not a Prism document, but its cross-compatibility tables confirmed two
 new Prism model numbers, C-800/C-1000 and P-600, with no manuals of
 their own on file — see [[Vancare]]).
 
-AutoSlide (2 of 2 ingested — fully ingested) — see `wiki/sources/AutoSlide/`:
+AutoSlide (3 of 3 ingested — fully ingested) — see `wiki/sources/AutoSlide/`:
 AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock), RFID
-Pet Sensor Operation Instructions (physically filed under
-`MANUALS/Open Sesame/` — confirmed misfile, see [[AutoSlide]]).
+Pet Sensor Operation Instructions (filed under `MANUALS/Open Sesame/`,
+which Open Sesame's proximity system uses), [[AutoSwing Installation Manual]]
+(`AutoSwing/`).
+
+Open Sesame (17 of 17 ingested — fully ingested) — see `wiki/sources/Open Sesame/`:
+Swing Door Operators/ — [[Open Sesame Installation Guide]],
+[[Open Sesame Owner's Manual (2025)]],
+[[Open Sesame Model 133 and 233 Specifications (2025)]] (2 sheets),
+[[Open Sesame Mounting Instruction Sheets]] (3 sheets),
+[[Open Sesame M210 Circuit Board Sheet (2022)]]. Accessories/ —
+[[Open Sesame Remote Control Programming (2025)]],
+[[Open Sesame Voice Interface Quick Guide]],
+[[Open Sesame Proximity Tag Reader Wiring]],
+[[Open Sesame Electric Strike Dimension Sheets]] (4 sheets). General/ —
+[[Open Sesame Field Survey Forms]] (residential + public).
 
 Red Hawk (5 of 5 ingested — fully ingested) — see `wiki/sources/Red Hawk/`:
 Air Hawk Owner's Manual, Eagle HD Owner's Manual (confirmed
@@ -462,7 +475,7 @@ human).
 
 ### Harmar — fully ingested (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
-### AutoSlide — fully ingested, no backlog remaining. Two accessories mentioned in the FAQ (Bluetooth module + AutoPlus Hub phone control, home-automation relay/key-switch cable) have no manual on file yet — not a missing-ingest issue since no such document exists on disk. See [[AutoSlide]] for the open scope question this manufacturer raised, plus a **new possible backlog category**: "Open Sesame" is a confirmed real, separate manufacturer (automatic swing-door operators) that PMS keeps a raw-source folder for, but no genuine Open Sesame manuals have been found yet — worth asking the human if any exist.
+### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 
 ### Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 

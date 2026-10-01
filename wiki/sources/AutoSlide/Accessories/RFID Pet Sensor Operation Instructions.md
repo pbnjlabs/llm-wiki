@@ -4,7 +4,7 @@ manufacturer: AutoSlide
 model: AutoSlide
 doc_type: Accessory Operation Instructions
 source: "MANUALS/Open Sesame/autoslide-V2-RFID-Instructions.pdf"
-tags: [autoslide, automatic-door, rfid, pet-sensor, misfiled]
+tags: [autoslide, open-sesame, automatic-door, rfid, pet-sensor]
 ---
 
 # RFID Sensor Operation Instructions (AutoSlide K9 Pet Tag)
@@ -16,17 +16,12 @@ wired into the pet Sensor port on an **AutoSlide/Multidrive Controller**
 AutoSlide, distinct from the standard drive system documented in
 [[AutoSlide Installation Manual (Standard, iLock, Elite, Elite iLock)]]).
 
-**Filing note (confirmed misfile):** this document is physically located at
-`MANUALS/Open Sesame/autoslide-V2-RFID-Instructions.pdf`, but its content is
-entirely AutoSlide-branded (AutoSlide logo throughout, `autoslide.com`
-support contact). Confirmed via web search that **Open Sesame is a real,
-separate manufacturer** (Open Sesame Door Systems, Inc.,
-opensesamedoor.com — automatic swing-door operators, a different mechanism
-from AutoSlide's sliding-door retrofit track) commonly sold alongside
-AutoSlide by the same door-access dealers — not a distributor name AutoSlide
-itself uses. This file simply landed in the wrong company's raw-source
-folder, parallel to the pre-existing [[Harmar]]-doc-under-Bruno-folder case.
-Not moved, per the raw-sources-are-immutable convention.
+**Filing note:** this AutoSlide manual is filed at
+`MANUALS/Open Sesame/autoslide-V2-RFID-Instructions.pdf`. That was first
+thought to be a misfile, but Open Sesame's proximity tag system uses this
+same AutoSlide reader (see [[Open Sesame Proximity Tag Reader Wiring]]),
+so the folder is right. The source page stays under AutoSlide because the
+document is AutoSlide's.
 
 ## Covers
 
@@ -63,4 +58,4 @@ Not moved, per the raw-sources-are-immutable convention.
   maximum trigger distance high enough to cover the thicker side.
 
 ## Feeds into
-[[AutoSlide-Drive-System]]
+[[AutoSlide-Drive-System]], [[AutoSwing]], [[Open Sesame]], [[Automatic-Door-Operators]]

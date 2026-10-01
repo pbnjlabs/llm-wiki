@@ -41,6 +41,9 @@ M24 = group 24, and so on); Interstate lists its groups.
 - Pride Q6 Edge 3 (standard): 2 × Interstate **DCM0055** (22NF, 55 Ah).
   See [[2026-09-25 Q6-Edge-3 iLevel no power]].
 
+- Open Sesame door operators: 12 V 1.2 Ah sealed lead-acid, **MK
+  ES1.2-12** or equivalent, 3–5 year life ([[Automatic-Door-Operators]]).
+
 ## Related
 
 [[Golden-Battery-Charging]], [[Battery-Charger-LED-Diagnostics]],

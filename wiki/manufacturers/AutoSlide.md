@@ -27,18 +27,22 @@ the scope described in `CLAUDE.md`'s project overview.
   installation) covers mounting, DIP-switch configuration, four operating
   modes (Auto/Stacker/Secure/Pet), width programming, rehanding, and
   troubleshooting.
-- RFID pet-door sensor accessory — see
-  [[RFID Pet Sensor Operation Instructions]], physically filed under a
-  **misfiled raw-source folder** (`MANUALS/Open Sesame/` — confirmed
-  misfile, see below). Confirms AutoSlide also sells/supports a second
-  controller product name, "Multidrive," not otherwise documented in this
-  wiki.
+- **[[AutoSwing]]**: AutoSlide's swing-door operator (ASW8-1), with a
+  pull arm for in-swing doors and a push arm for out-swing. It uses the
+  same app, sensors and AutoPlus Gateway. See [[AutoSwing Installation Manual]].
+- RFID pet-door sensor accessory: see
+  [[RFID Pet Sensor Operation Instructions]], filed in
+  `MANUALS/Open Sesame/` because Open Sesame uses the same reader (see
+  below). It mentions a second controller name, "Multidrive", that isn't
+  otherwise documented in this wiki.
 
 ## Not yet ingested / not yet on file
 
 Two accessories are named in the installation manual's FAQ but have no
 manual on disk yet: a **Bluetooth module** (phone-app control, paired with
-an "AutoPlus Hub") and a **home-automation relay/key-switch cable**.
+an "AutoPlus Hub") and a **home-automation relay/key-switch cable**. The
+AutoSwing manual covers setting up the **AutoPlus Gateway** (Ethernet to
+the router, then pair it in the app; LED colors and reset).
 
 ## Warranty / return policy
 
@@ -51,27 +55,16 @@ rather than a separate warranty document, unlike every other manufacturer in
 this wiki (compare [[Harmar-Warranty]], [[Golden-Scooter-Warranty]],
 [[Warranty]] for Bruno).
 
-## Resolved: "Open Sesame" is a real, separate manufacturer — this file is a misfile
+## Open Sesame and the RFID reader
 
-Confirmed via web search: **Open Sesame** (Open Sesame Door Systems, Inc.,
-opensesamedoor.com) is a genuine, independent manufacturer of automatic
-**swing-door** operators (Model 133, Keyless Entry Pad, wheelchair-logo push
-pads) — a different mechanism from AutoSlide's **sliding-door** retrofit
-track. The two brands are commonly sold *together* by residential
-door-access dealers (e.g., Next Day Access, Gentleman Door Automation),
-which is almost certainly why Performance Medical Supply keeps a raw-source
-folder for each. There is currently no genuine Open Sesame content on
-disk — the sole file in `MANUALS/Open Sesame/` is 100% AutoSlide-branded
-(RFID pet sensor manual) and simply ended up in the wrong company's folder,
-parallel to the pre-existing [[Harmar]]-doc-under-Bruno-folder case. Not
-moved, per the raw-sources-are-immutable convention.
-
-**Possible new backlog category**: since Open Sesame is a real
-accessibility-door manufacturer PMS apparently has a folder for, it may be
-worth asking the human whether real Open Sesame manuals exist elsewhere
-(not yet found in this repo or at `/home/lu/Work/MANUALS/`) — similar to how
-the Ramps folder surfaced as an un-ingested category. That turned out
-to be [[EZ-ACCESS]], now fully ingested.
+**Open Sesame** (Open Sesame Door Systems, Inc.) is a separate company
+that makes automatic **swing-door** operators. It now has its own page,
+[[Open Sesame]], built from 17 manuals added 2026-10-01. The AutoSlide
+RFID manual in `MANUALS/Open Sesame/` was thought to be misfiled, but it
+**belongs there**: Open Sesame's proximity tag system uses AutoSlide's
+RFID reader, wired to the Open Sesame board with a 6-wire cable (see
+[[Open Sesame Proximity Tag Reader Wiring]]). Open Sesame also sells an
+"Autoslide" residential bundle.
 
 ## Open question for the human
 
@@ -82,5 +75,6 @@ currently mention either.
 
 ## See also
 
+- [[Open Sesame]], [[AutoSwing]], [[Automatic-Door-Operators]]
 - [[Bruno]], [[Golden]], [[Harmar]], [[Pride]], [[Prism]] — other
   manufacturers in this wiki (all mobility equipment, unlike AutoSlide)
