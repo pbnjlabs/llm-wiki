@@ -213,6 +213,7 @@ checks, root cause, fix, parts). Manuals still win on specs and procedures.
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
 | 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
+| 2026-10-01 | Bruno VPL (3100B / 3200B) | Door stuck locked; spring-loaded door interlock can partially fail; test by pushing the lock rod down at the top of the post | open | [[2026-10-01 Bruno-VPL door interlock spring]] |
 | 2026-09-30 | Golden GA541 Avenger (PG S-Drive) | Loses power over bumps; S-Drive connectors work loose (design flaw); check for strained wires, unplug and reseat | resolved | [[2026-09-30 GA541-Avenger S-Drive loose connectors]] |
 | 2026-09-25 | EZ-ACCESS PATHWAY 3G | Ramp evaluation measurement methods (tape, pen trick, laser-level total rise, cone layout, landing surface); adopted as house practice | resolved | [[2026-09-25 PATHWAY-3G ramp evaluation]] |
 
