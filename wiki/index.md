@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 21 (+2 in `MANUALS/Misc./`) | 22 (2 in `sources/Bruno/General/`: lifts price list, lead sign-off form) |
+| Bruno | [[Bruno]] | 21 (+2 in `MANUALS/Misc./`) | 23 (3 in `sources/Bruno/General/`: lifts price list, lead sign-off form, warranty summary from `MANUALS/Admin/`) |
 | Golden | [[Golden]] | 68 | 68 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -149,7 +149,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
 | Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
 | Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
-| Bruno warranty (stairlift + vehicle lift variants) | [[Warranty]] |
+| Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 | Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
 | Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
@@ -168,7 +168,7 @@ metadata exports) were deliberately excluded as non-manual assets. See
 | Golden brake replacement (3 model families, complexity ranges from 5-step puck swap to 28-step full drive-assembly pull) | [[Brake-Replacement]] |
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
-| Harmar warranty (6 product lines/SKU groups, each with its own distinct term) | [[Harmar-Warranty]] |
+| Harmar warranty (6 product lines/SKU groups, each with its own distinct term; dealer registration/RMA/labor process) | [[Harmar-Warranty]] |
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes | [[Mobility-Batteries]] |
 | Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
 | Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
@@ -390,13 +390,13 @@ Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
 Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
 
-PMS (14 ingested), see `wiki/sources/PMS/`, sorted by job type:
+PMS (16 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
 to the VA RFQ, tile/drywall yes, fiberglass no, pricing);
 [[Ambulatory Aids Training]] (Training: 5-part fitting training with
-videos). [[Stairlift Evaluation Measurements and Photos]] (Stairlift
+videos); [[PMS Porch Lift Layout Example]] (Training: hand-drawn VPL site plan and marked-up photo); [[PMS Stair Lift Charger Cord Policy (2019)]] (Install Forms: charger cords in a CordMate C110 cover). `MANUALS/Admin/bruno_warranty.pdf` is split into [[Bruno Warranty Summary]] (Bruno/General) and [[Harmar Warranty Policy (2018)]] (Harmar/General). [[Stairlift Evaluation Measurements and Photos]] (Stairlift
 Evaluations: 5 measurements, acceptable/unacceptable photos);
 [[Delivery Ticket and Invoice Examples]] (Invoicing and Delivery: VA vs.
 private pay tickets and invoices). Evaluation Forms (raw files in `MANUALS/Admin/Paperwork/Evals/`):

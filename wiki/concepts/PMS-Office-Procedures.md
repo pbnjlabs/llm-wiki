@@ -32,9 +32,11 @@ into the wiki; look them up on the raw files.
 **Stairlifts**
 - Evaluation (form, measurements, rules, photos): [[Stairlift-Evaluation]], [[PMS Stair Lift Evaluation Form (Rev Mar 2024)]], [[Stairlift Evaluation Measurements and Photos]]
 - Harmar camera measuring: [[Staircase-Measuring-System]]
+- Install: required completion pictures, and charger cords covered with a CordMate C110 (kept in stock): [[Stairlift-Evaluation]], [[PMS Stair Lift Charger Cord Policy (2019)]]
 
 **Porch lifts (VPL)**
 - Evaluation packet (site limits, sketch, HISA agreement): [[Porch-Lift-Evaluation]], [[PMS Porch Lift (VPL) Evaluation Packet]]
+- Layout sketch example: [[PMS Porch Lift Layout Example]]
 - Install handover and HISA final payment: [[PMS Porch Lift Install Instructions and HISA Final Payment]]
 
 **Ceiling lifts**

@@ -27,8 +27,10 @@ vertical platform lifts (VPL).
   - Also found: an "Elite 2010 conversion" doc that's actually
     [[SRE-2010]] content (opposite-hand conversion), not curved-rail —
     folded into the SRE-2010 page instead.
-  - The general Bruno stairlift warranty (5yr major components/2yr parts)
-    is documented once at [[Warranty]] rather than per-model.
+  - The general Bruno stairlift warranty (5yr major components/2yr parts;
+    **limited lifetime** on SRE-3000/2010/2010C made after 2 Apr 2018, per
+    [[Bruno Warranty Summary]]) is documented once at [[Warranty]] rather
+    than per-model.
 - **Bruno Straight SL** — straight-rail stair lifts. **Fully ingested.**
   - [[SRE-2010]] ("Elite") — recommended for scoot-pivot transfers / leg
     weakness that Elan can't safely handle

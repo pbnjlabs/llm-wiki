@@ -9,7 +9,30 @@ Bruno uses the "Bruno Gold Limited Warranty" name for more than one
 product category, with different terms per category — don't assume the
 stairlift terms apply to vehicle lifts or vice versa.
 
-## Stairlifts — 5yr major components / 2yr parts
+## Newer summary: lifetime on post-2018 straight rail, VPL terms
+
+Bruno's warranty summary sheet ([[Bruno Warranty Summary]], 2018 or
+later) is newer than the 2014 card below and changes these terms:
+
+- **SRE-3000, SRE-2010, SRE-2010C made after 2 Apr 2018:** 2 yr all
+  parts, **limited lifetime** on rail, gearbox and motor, provided the
+  customer maintains the lift (misuse or neglect can void it). Made
+  before that date: 5 yr / 2 yr as below.
+- **SRE-2010E, CRE-2110, CRE-2110E:** 5 yr major / 2 yr all parts (same
+  as below).
+- **SRE-3050:** not listed on the summary. Check the unit's own
+  paperwork.
+- **Vertical platform lifts ([[VPL-3100B]], [[VPL-3200B]]):** 1 yr all
+  parts, **2 yr major parts** (motor, acme screw, drive nut, brake,
+  pulleys, belt, screw bearings).
+- **Valet Plus / Turny (HD/Orbit), Valet Limited:** 3 yr all parts.
+- **Labor:** 30 days from installation, all products.
+- **Demo units sold by a dealer:** vehicle lifts made after March 2003, 3
+  yr from installation. Elevators: 2 yr all parts, 5 yr major.
+- **Refurbished units sold by Bruno:** 1 yr all parts.
+- **Replacement parts:** 90 days from delivery (repair or exchange).
+
+## Stairlifts — 5yr major components / 2yr parts (2014 card)
 
 Identical warranty text appears standalone (`Bruno Stair Lift Warranty.pdf`)
 and embedded in the [[CRE-2110 Install Manual]]. Confirmed to apply to the
@@ -58,4 +81,5 @@ Contact: Bruno Independent Living Aids, Inc. — Attn: Service Department,
 ## See also
 
 [[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]],
-[[PUL-1100]], [[ASL-275]], [[ASL-250]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[VPL-3100B]], [[VPL-3200B]],
+[[Bruno Warranty Summary]]

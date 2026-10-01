@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [stairlift, evaluation, pms, measurements, photos]
+tags: [stairlift, evaluation, pms, measurements, photos, install]
 ---
 
 # Stairlift Evaluation
@@ -94,5 +94,13 @@ finished:
 4. Serial number
 5. **Outlet with the lift plugged in**
 6. Curves (if any)
+
+## 6. Install policy: charger cords (PMS)
+
+**The charger cord must be covered by a cord cover** (PMS policy,
+effective 13 Sep 2019). Use the Legrand CordMate kit **C110** (Lowe's
+item # 65449). Every office that does stair lift installs keeps it in
+stock. Run the channel straight down from the outlet and along the top
+of the baseboard. See [[PMS Stair Lift Charger Cord Policy (2019)]].
 
 Related: [[PMS-Office-Procedures]], [[Harmar-Stairlift-Beep-Codes]]

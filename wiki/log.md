@@ -956,3 +956,9 @@ Per the human: when an electrician is hired for a stair lift outlet, the outlet 
 Per the human: required pictures for stair lift installs are top, bottom, folding rail, serial number, outlet with the lift plugged in, and curves. Added as section 5 of [[Stairlift-Evaluation]] (folding rail and curves marked "if any"); index row updated.
 ## [2026-10-01] clarification | PMS stair lift eval — customer email required for DocuSign
 Per the human: techs must get the customer's email at the stair lift eval; it's required for the customer's DocuSign e-signature approving the stair lift layout. Added to section 1 of [[Stairlift-Evaluation]]; index row updated.
+## [2026-10-01] ingest | PMS Admin — cord policy, warranty sheet, VPL layout example
+Three new scans in `MANUALS/Admin/` (copied from the out-of-repo drop, same paths):
+- `sl_cord_organizatio.pdf` → [[PMS Stair Lift Charger Cord Policy (2019)]] (sources/PMS/Install Forms). Charger cords must be in a cord cover, Legrand CordMate C110 (Lowe's 65449), kept in stock. Added as section 6 of [[Stairlift-Evaluation]] and to [[PMS-Office-Procedures]].
+- `bruno_warranty.pdf` → split in two: page 1 [[Bruno Warranty Summary]] (sources/Bruno/General; limited lifetime on SRE-3000/2010/2010C made after 2 Apr 2018, VPL 1 yr/2 yr major, Valet/Turny, demo, refurb, 90-day parts) and page 2 [[Harmar Warranty Policy (2018)]] (sources/Harmar/General; registration within 10 days, RMA process, labor only if pre-authorized). Updated [[Warranty]] (newer terms override the 2014 card for post-2018 straight rail), [[Harmar-Warranty]], [[Bruno]], [[VPL-3100B]], [[VPL-3200B]].
+- `Training/morgan_vpl layout.pdf` → [[PMS Porch Lift Layout Example]] (sources/PMS/Training; titled without the customer's name). Linked from [[Porch-Lift-Evaluation]] and [[PMS-Office-Procedures]].
+Index updated (Bruno count 23, PMS 16).

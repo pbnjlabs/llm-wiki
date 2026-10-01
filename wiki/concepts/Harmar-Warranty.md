@@ -35,6 +35,22 @@ term**, confirmed from each product's own owner's manual:
 - Registered mailing address for all warranty forms: 1500 Independence
   Blvd., Suite 220, Sarasota, FL 34234; fax 1-866-234-5680
 
+## Dealer warranty process (2018 policy)
+
+From [[Harmar Warranty Policy (2018)]], which covers the process, not
+product terms:
+
+- **Register within 10 days of install** (form in the box, or online at
+  harmar.com). **No form filed: the warranty starts on the ship date**,
+  not the install date. Dealer stock starts 180 days after shipment.
+- **Claims go through the dealer** to Harmar Technical Support,
+  1-800-833-0478 or techservices@harmar.com.
+- **RMA:** Harmar ships the part and bills the dealer, then credits part
+  and freight once the returned part is confirmed defective.
+- **Labor isn't covered** unless Harmar Technical Services authorizes it
+  in writing first: $65/hr mobility, $75/hr accessibility (Harmar's
+  rates, not PMS rates), claimed in writing within 45 days.
+
 ## Resolved: SL600 Power Swivel/Footrest
 Confirmed to exist (SKUs SL600-PS/SL600-PF/SL600-PSPF) via the
 [[Pinnacle Power Swivel and Power Footrest Install Supplement]] — the
@@ -43,5 +59,5 @@ term is given for these options; they fall under the base SL600 terms
 above.
 
 ## See also
-[[Harmar]], [[Warranty]], [[Golden-Scooter-Warranty]],
+[[Harmar]], [[Harmar Warranty Policy (2018)]], [[Warranty]], [[Golden-Scooter-Warranty]],
 [[Golden-Wheelchair-Warranty]]

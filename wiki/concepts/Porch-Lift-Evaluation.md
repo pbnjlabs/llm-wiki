@@ -47,6 +47,9 @@ glass doors**) and the **gate hinge side** (standing in the lift).
   fences, door widths and distances, HVAC vents, outlets, problem areas.
 - **VA requires pictures of all entry doors**, a full view of the front
   of the home and site, sidewalks, parking/driveway and problem areas.
+- Example of a finished layout: [[PMS Porch Lift Layout Example]]
+  (pad size, lift and tower position, gate, call/send post, GFI
+  location, path from parking, plus a marked-up site photo).
 
 ## Paperwork
 
