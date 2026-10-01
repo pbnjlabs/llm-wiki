@@ -952,3 +952,5 @@ Per the human: the door interlock is spring-loaded and the spring can partially 
 Per the human: applies to both VPL-3100B and VPL-3200B. A failed spring shows as the lock rod not springing back or springing back slowly; pushing the rod down unlocks the door. Fix: replace the whole interlock assembly, VPL-31452L (left hand); right-hand part number not recorded. Interlock description confirmed. Updated the note, both model pages and the index.
 ## [2026-10-01] clarification | PMS stair lift — outlet before install scheduling
 Per the human: when an electrician is hired for a stair lift outlet, the outlet must be installed before the stair lift install is scheduled. Added to [[PMS Electrical Work Orders and Preferred Electricians]], [[Stairlift-Evaluation]] and [[PMS-Office-Procedures]].
+## [2026-10-01] clarification | PMS stair lift — install completion pictures
+Per the human: required pictures for stair lift installs are top, bottom, folding rail, serial number, outlet with the lift plugged in, and curves. Added as section 5 of [[Stairlift-Evaluation]] (folding rail and curves marked "if any"); index row updated.

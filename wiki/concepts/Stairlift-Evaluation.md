@@ -80,4 +80,16 @@ areas away from the stairs (hallways, rooms) to show room for the rail
 and the park position. Photos that cut off part of a landing or the
 staircase aren't acceptable.
 
+## 5. Install completion pictures (PMS)
+
+PMS house list (per the human). Take all of these when the install is
+finished:
+
+1. Top
+2. Bottom
+3. Folding rail (if any)
+4. Serial number
+5. **Outlet with the lift plugged in**
+6. Curves (if any)
+
 Related: [[PMS-Office-Procedures]], [[Harmar-Stairlift-Beep-Codes]]
