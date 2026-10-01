@@ -2,7 +2,7 @@
 type: source
 manufacturer: Scootaround
 doc_type: Workflow
-source: "MANUALS/Admin/scootaround_workflow.pdf"
+source: "MANUALS/Admin/Scootaround/scootaround_workflow.pdf"
 date: 2024-01-30
 tags: [scootaround, va, repair, billing, workflow, pms]
 ---
@@ -60,7 +60,10 @@ placeholder veteran name and address.
   Scootaround gets **25% off MSRP**.
 - **Golden Technologies parts: 2 × what PMS is charged.**
 - The handwritten "70% of MSRP" at the top of the page is a slip;
-  **75% is correct** (confirmed by the human, 2026-09-29).
+  **75% is correct** (confirmed by the human, 2026-09-29). A later note
+  on the vendor guide scan says **"Batteries – 30% off MSRP"**, which may
+  be what the 70% referred to. Not yet confirmed; see
+  [[Scootaround-VA-Repairs]].
 
 ## Sample PMS invoice (p. 4)
 
@@ -82,6 +85,7 @@ increments. Assessment and repair labor stay at 15 minutes.
 
 ## Feeds
 
-- [[PMS-Office-Procedures]]
+- [[Scootaround-VA-Repairs]], [[PMS-Office-Procedures]]
+- Newer detail: [[Scootaround VA Repair Vendor Guide and Contract Update (2025)]], [[Scootaround Work Order and Invoice Examples (2025)]]
 
-Raw PDF: `MANUALS/Admin/scootaround_workflow.pdf`
+Raw PDF: `MANUALS/Admin/Scootaround/scootaround_workflow.pdf`

@@ -175,6 +175,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Stairlift evaluation (PMS form, **customer email for DocuSign layout approval**, measurements, outlet/overrun/seat rules, photos; **install completion pictures** list) | [[Stairlift-Evaluation]] |
 | Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
+| Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates, OEM-only parts) | [[Scootaround-VA-Repairs]] |
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
@@ -439,11 +440,13 @@ dealer program (Mar 2025) sheets and the Interstate mobility price sheet
 (Jun 2024): specs, prices, HCPCS codes, MK chargers. Raw file in
 `MANUALS/Admin/`. Cross-referenced on [[Mobility-Batteries]].
 
-Scootaround (1 of 1 ingested), see `wiki/sources/Scootaround/VA Repair Program/`:
-[[Scootaround VA Repair Workflow]]. PMS process for VA repairs through
-Scootaround: 8-step work order → quote → PO → completion flow, quote
-rules, parts at MSRP × 0.75, $80/hr labor lines. Raw file in
-`MANUALS/Admin/`. Phone numbers and sample customer details omitted.
+Scootaround (4 of 4 ingested), see `wiki/sources/Scootaround/VA Repair Program/`
+(raw files in `MANUALS/Admin/Scootaround/`): [[Scootaround VA Repair Workflow]]
+(8-step flow, quote rules, MSRP × 0.75, $80/hr);
+[[Scootaround VA Repair Vendor Guide and Contract Update (2025)]] (scope,
+deadlines, not-billable list, OEM-only parts, warranty and cancellation
+rules); [[Scootaround Work Order and Invoice Examples (2025)]]. Synthesis:
+[[Scootaround-VA-Repairs]]. Phone numbers and personal contacts omitted.
 
 VA (2 ingested), see `wiki/sources/VA/`: [[VA Form 10-0103 HISA Application]] (HISA/, blank VA form, Mar 2025);
 [[RFQ - Bathroom Grab Bars (VA, 2026)]]. A VA request for quote to install

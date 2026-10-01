@@ -62,7 +62,7 @@ into the wiki; look them up on the raw files.
 
 **Repairs**
 - Repair eval form: [[Ordering and Returning Parts]]
-- VA repairs through Scootaround (MSRP × 0.75; $80/hr): [[Scootaround VA Repair Workflow]]
+- VA repairs through Scootaround (MSRP × 0.75; $80/hr; 24 h / day 7 / day 20 deadlines; quote checklist): [[Scootaround-VA-Repairs]], [[Scootaround VA Repair Workflow]]
 - Batteries: [[Mobility-Batteries]]
 
 **Ambulatory aids**

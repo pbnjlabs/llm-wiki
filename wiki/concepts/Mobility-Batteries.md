@@ -43,6 +43,8 @@ M24 = group 24, and so on); Interstate lists its groups.
 
 ## In the field
 
+- **Scootaround VA repairs:** batteries are the one non-OEM part allowed, from **MK, Interstate or Electro Battery** only ([[Scootaround-VA-Repairs]]).
+
 - Pride Q6 Edge 3 (standard): 2 × Interstate **DCM0055** (22NF, 55 Ah).
   See [[2026-09-25 Q6-Edge-3 iLevel no power]].
 
