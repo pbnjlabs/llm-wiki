@@ -973,3 +973,5 @@ Per the human: ingested the Open Sesame folder and the AutoSwing manual, copied 
 - **Correction:** the AutoSlide RFID manual in `MANUALS/Open Sesame/` is not a misfile. Open Sesame's proximity tag system uses that reader ([[Open Sesame Proximity Tag Reader Wiring]]). Updated [[AutoSlide]], [[RFID Pet Sensor Operation Instructions]], [[AutoSlide-Drive-System]], index, and the CLAUDE.md example.
 - Conflict noted: hold-open 5–50 s (2025 spec sheets) vs 5–35 s (install guide, owner's manual, M210 sheet).
 - Battery cross-ref added to [[Mobility-Batteries]] (MK ES1.2-12).
+## [2026-10-01] reorg | Old P440 copy deleted, MANUALS/Misc./ removed
+Per the human: deleted `MANUALS/Misc./Ceiling Lifts/Owners-Manual_P-440-…_My-Mobility-Store.pdf`, an older revision (Rev 12 Mar 2021) of the manual on [[P440 Owner's Manual (2021, Rev 19-Oct)]]. `MANUALS/Misc./` was empty after that and was removed. Updated that source page and the index. The repo's `MANUALS/` now has the same folders as the human's.

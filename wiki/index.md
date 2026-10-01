@@ -401,7 +401,7 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
-PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). Only `MANUALS/Misc./Ceiling Lifts/` (an extra P440 copy) is left of the old `Misc./` folder.
+PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). The old `Misc./` folder is gone; its last file, an older P440 copy, was deleted.
 
 PMS (16 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering

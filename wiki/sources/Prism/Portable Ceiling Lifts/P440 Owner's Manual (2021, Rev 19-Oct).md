@@ -17,10 +17,10 @@ throughout (product photos show a "handicare P-440" nameplate on the
 lift itself) rather than staying silent on manufacturer identity the
 way the 2017 manual did.
 
-**Another copy:** `MANUALS/Misc./Ceiling Lifts/Owners-Manual_P-440-Portable-Ceiling-Lift_…_My-Mobility-Store.pdf`
-(24 pages, PDF dated Apr–Jun 2021, from a retailer's site) is the same
-Handicare-branded owner's manual text, likely an earlier 2021 printing
-of this revision. No separate page.
+**Older copy removed:** a retailer download of the earlier revision
+(Rev 12 Mar 2021, 24 pages) used to sit in `MANUALS/Misc./Ceiling Lifts/`.
+It was deleted on 2026-10-01, per the human, because this revision
+supersedes it.
 
 ## Resolves an old open question
 [[C-450-C-625]]'s page has long flagged that its
