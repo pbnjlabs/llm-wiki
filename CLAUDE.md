@@ -156,6 +156,13 @@ Frontmatter: `type: field-note`, `manufacturer`, `model`, `date` (the job
 date), `status: open | resolved`, and `tags`. Sections: Unit, Symptom,
 Checked, Root cause, Fix, Parts used, Takeaways, See also. Start the note
 as soon as the human describes the job, and fill it in as they report back.
+
+**Always ask the human for key takeaways** when creating a field note:
+things learned from experience, or that the manual doesn't cover. Don't
+fill this in from the manual or your own troubleshooting. Put the
+human's takeaways in a **"Key takeaways (per the human)"** callout right
+under the status line, and list them first in the Takeaways section,
+ahead of any diagnostic tips. Lead the note's index row with them.
 **No customer information in field notes:** no customer names, addresses,
 phone numbers or other customer references. Identify the unit by model and
 serial number only.
