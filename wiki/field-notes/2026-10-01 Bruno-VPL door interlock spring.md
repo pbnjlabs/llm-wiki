@@ -55,8 +55,9 @@ its own.
 ## Parts used
 
 - **VPL-31452L**: interlock assembly, **left hand** (per the human; the
-  part number isn't in the Bruno manuals on file). The right-hand part
-  number isn't recorded yet.
+  part number isn't in the Bruno manuals on file). **Right-hand part
+  number unknown**; confirm it with Bruno when ordering for a right-hand
+  door.
 
 ## Takeaways
 
