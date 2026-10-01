@@ -47,6 +47,7 @@ into the wiki; look them up on the raw files.
 
 **Electrical (outlets for lifts)**
 - Work orders to electricians (PMS pays; approval limits $450 VPL / $350 stair lift) and the preferred electrician list: [[PMS Electrical Work Orders and Preferred Electricians]]
+- Stair lift: the electrician's outlet must be in **before** the stair lift install is scheduled
 
 **Hospital beds**
 - MedMizer AC GOV beds (two-tech rule, splitting for transport, training sign-off): [[MedMizer-AC-GOV-Bed]], [[MedMizer AC GOV Hospital Bed Training]]

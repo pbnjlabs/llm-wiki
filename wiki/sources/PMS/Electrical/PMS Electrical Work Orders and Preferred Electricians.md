@@ -58,6 +58,10 @@ the VPL** and tested ([[Porch-Lift-Evaluation]]).
 - **Accessible for the technicians** doing the install.
 - **Don't hide it under crawl spaces or inside closets.**
 - **Check the outlet for proper operation.**
+- **The outlet must be installed before the stair lift install is
+  scheduled** (per the human, 2026-10-01). Don't book the install until
+  the electrician has finished. Unlike the 2024 porch lift example, where
+  the lift went in first.
 
 **Techs go by the eval form: within 4 ft of the stairs**
 ([[Stairlift-Evaluation]]), per the human. The example work order's

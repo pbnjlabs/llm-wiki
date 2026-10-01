@@ -60,6 +60,9 @@ and door width**.
   one 120 V outlet on the lift's side, not in a closet or crawl space;
   **$350 approval limit**. See
   [[PMS Electrical Work Orders and Preferred Electricians]].
+- **Outlet first, then schedule the install.** When an electrician is
+  hired, the outlet must be installed **before** the stair lift install
+  is scheduled (per the human).
 - **Rail position is decided by management** when the eval is reviewed.
 - **Folding track:** only if the track at the bottom would obstruct or
   there isn't enough room. **Straight rails only.**
