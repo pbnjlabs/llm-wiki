@@ -12,6 +12,13 @@ tags: [prism, handicare, p440, ceiling-lift, portable-lift, batteries, charging,
 **Status: resolved. The batteries were bad.** PMS field experience on a
 [[P440]] portable ceiling lift.
 
+> **Key takeaways (per the human):**
+> 1. **Tape the batteries together** so they keep a good connection.
+>    This applies to ceiling lifts ([[P440]] and [[C-450-C-625]]).
+> 2. **Replace both batteries**, never just the bad one. House standard
+>    for every device: replace every battery in the device
+>    ([[Mobility-Batteries]]).
+
 ## Unit
 
 - Prism/Handicare [[P440]] portable ceiling lift. Serial number not
@@ -57,12 +64,9 @@ and showed green.
 
 ## Takeaways
 
-- **Per the human: on these ceiling lifts ([[P440]] and
-  [[C-450-C-625]]), tape the batteries together so they keep a good
-  connection.** Do this whenever the batteries are replaced or the case
-  is opened.
-- **House standard (per the human), every device: always replace every
-  battery in the device** (the whole set), never just the bad one. See [[Mobility-Batteries]].
+- **Most important (see the callout at the top): tape the batteries
+  together, and replace both.** Tape them whenever the batteries are
+  replaced or the case is opened.
 - **Red lift light + green charger light = suspect the batteries.** The
   charger has finished but the lift still reads flat. Measure each
   battery. A big gap between the two points to a failing battery.

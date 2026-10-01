@@ -991,3 +991,5 @@ New [[2026-10-01 P440 batteries no lift]]. Lift light RED while plugged in, char
 Per the human: both batteries were replaced on [[2026-10-01 P440 batteries no lift]]. New **house standard, every device: always replace both batteries.** Added to [[Mobility-Batteries]] (callout and an In the field entry), the field note and [[P440]]. The battery-taping tip also applies to [[C-450-C-625]]; added a Field notes section there.
 ## [2026-10-01] house-standard | Battery replacement rule widened to the whole set
 Per the human: the rule is **always replace every battery in the device** (the whole set), not just both of a pair. Reworded in CLAUDE.md, [[Mobility-Batteries]], [[P440]], [[C-450-C-625]], [[2026-10-01 P440 batteries no lift]] and the index.
+## [2026-10-01] field-note | Prism P440 — key takeaways moved to the top (resolved)
+Per the human: the most important takeaways from [[2026-10-01 P440 batteries no lift]] are taping the batteries together and replacing both. Added a key-takeaways callout at the top of the note and led the index row with them.
