@@ -11,13 +11,13 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 21 (+3 in `MANUALS/Admin/`) | 23 (3 in `sources/Bruno/General/`: lifts price list, lead sign-off form, warranty summary from `MANUALS/Admin/`) |
-| Golden | [[Golden]] | 68 | 68 |
+| Golden | [[Golden]] | 68 | 67 source pages (one duplicate PDF shares a page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 78 | 39 source pages (see note — several consolidate multiple low-narrative files) |
-| AutoSlide | [[AutoSlide]] | 3 | 3 (+ AutoSwing) — **different product category**, see note below |
+| Harmar | [[Harmar]] | 78 | 40 source pages (see note — several consolidate multiple low-narrative files; 1 is filed from `MANUALS/Admin/`) |
+| AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 10 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (19 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
@@ -45,9 +45,9 @@ writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
 
-Note: Golden's 66-file on-disk count includes one byte-identical duplicate
-PDF saved under two filenames (confirmed by md5) — 65 distinct documents,
-65 source pages. See [[Golden]] for details.
+Note: Golden's 68 files include one byte-identical duplicate PDF saved
+under two filenames (the GP162 LiteRider PTC service guide, confirmed by
+md5): 67 distinct documents, 67 source pages. See [[Golden]] for details.
 
 Note: **AutoSlide and Open Sesame are not mobility equipment.** They're
 automatic door operators: AutoSlide makes a sliding-door drive and the
@@ -71,20 +71,19 @@ and Anhui JBH Medical Apparatus Company Limited (sold as "Pegasus Plus"
 [[Red Hawk]] for the full breakdown, including a truncated-manual
 limitation on the DC02/Pegasus Plus source.
 
-Note: Harmar's 74-file on-disk count (73 files in `MANUALS/Harmar/` after
-three ingest passes, plus the 1 misfiled Bruno-folder file already
-counted under Bruno) includes several sets of byte-identical duplicate
-PDFs (AL100/AL300/AL301 owner's manuals; AL100/AL300/AL301 install
-manuals; an al-100-12 assembly-drawing pair; 4 exact-duplicate Helix
-files across the two source drops, not even copied into the wiki's
-MANUALS folder since the content was already on file) confirmed by md5.
-The 36 source pages also **consolidate** several low-narrative-value
-file groups — 6 sales order/evaluation forms into one page, 4 marketing
-spec sheets into one page, 9 engineering parts-diagram drawings into one
-page, 6 wiring-schematic drawings into one page — rather than a strict
-1:1 file-to-page mapping. 17 image/CSV files (product photos, 2 DAM
-metadata exports) were deliberately excluded as non-manual assets. See
-[[Harmar]] for details.
+Note: Harmar's 78-file count is 77 files in `MANUALS/Harmar/` plus the 1
+misfiled file under `MANUALS/Bruno/` (counted under Bruno too). The
+folder holds only 70 distinct files by md5: byte-identical duplicates
+include the AL100/AL300/AL301 owner's and install manuals, an al-100-12
+assembly-drawing pair, and two Helix manuals also saved under Harmar
+part-number names (`Harmar-610-00039-01-D-Helix-OM.pdf`,
+`Harmar-610-00016-01-C-Helix-Measure-Guide-V2.pdf`, added 2026-10-01 to
+match the human's folder). The 40 source pages also **consolidate**
+low-narrative file groups (6 order/evaluation forms, 4 spec sheets, 9
+parts diagrams, 6 wiring schematics, one page each), and one page
+([[Harmar Warranty Policy (2018)]]) comes from `MANUALS/Admin/`. 10
+image/CSV files (8 AL425 product photos, 2 DAM metadata exports) were
+deliberately excluded as non-manual assets. See [[Harmar]] for details.
 
 ## Models
 

@@ -19,6 +19,9 @@ dedicated `MANUALS/Harmar/` folder the human created. See
 [[Staircase-Measuring-System]] for the cross-manufacturer comparison with
 Bruno's Picture Perfect system.
 
+**Duplicate:** `MANUALS/Harmar/Harmar-610-00016-01-C-Helix-Measure-Guide-V2.pdf`
+is a byte-identical copy under its part-number name.
+
 ## Notable content (not diffed line-by-line against Rev B)
 - Explicitly requires a **minimum of 14 targets / 7 markers per photo**,
   and includes a "Common Errors" section with labeled sample-error photos

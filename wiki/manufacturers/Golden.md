@@ -50,8 +50,8 @@ rather than split into product-line subfolders.
     Companion line (GC240/340/440) — confirmed in the IPB.
   - Brake mechanism shared with Buzzaround XL/Lite (GB106/116/146) — same
     brake body, model-specific handle.
-  - Battery replacement doc also covers GP160 LiteRider PTC (not yet
-    ingested).
+  - Battery replacement doc also covers GP160 LiteRider PTC (no GP160
+    manual of its own on file).
 - **GP1xx/GP6xx Compass / Alante / LiteRider Envy / Ally** — power
   wheelchairs. **Fully ingested.**
   - [[GP162-LiteRider-Envy]] — sold under one model number with **two
@@ -128,7 +128,7 @@ own documentation.
 
 ## Not yet ingested
 
-Nothing — **all 66 Golden manuals on disk have been ingested**, as 65
+Nothing — **all 68 Golden manuals on disk have been ingested**, as 67
 distinct documents: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
 `LITERIDER PTC_GP162_ SG_REVA_ 051614.pdf` are byte-identical duplicates
 (confirmed by md5) of the same file under two filenames, so both map to

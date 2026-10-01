@@ -37,7 +37,7 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
   procedures exist (retrofit vs. like-for-like swap) — see
   [[Brake-Replacement]] for the comparison.
 - **Battery replacement**: same 2-battery-pack design as GP160 LiteRider
-  PTC (not yet ingested).
+  PTC (no GP160 manual of its own on file).
 - **Voltmeter/ohmmeter diagnostics**: the Service Guide's Appendix A/B
   give generic multimeter usage instructions — likely reusable across any
   future Golden ingest that needs voltage/continuity troubleshooting.

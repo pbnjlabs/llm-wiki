@@ -26,5 +26,8 @@ is Harmar's marketing name for the CSL-series curved stairlift.
 - Major-fault beep-code table (1-9) — see [[Harmar-Stairlift-Beep-Codes]]
 - Limited lifetime warranty (motor/gearbox/rail) — see [[Harmar-Warranty]]
 
+**Duplicate:** `MANUALS/Harmar/Harmar-610-00039-01-D-Helix-OM.pdf` is a
+byte-identical copy under its part-number name.
+
 ## Feeds into
 [[Helix]], [[Harmar-Stairlift-Beep-Codes]], [[Harmar-Warranty]]

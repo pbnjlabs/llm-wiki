@@ -975,3 +975,11 @@ Per the human: ingested the Open Sesame folder and the AutoSwing manual, copied 
 - Battery cross-ref added to [[Mobility-Batteries]] (MK ES1.2-12).
 ## [2026-10-01] reorg | Old P440 copy deleted, MANUALS/Misc./ removed
 Per the human: deleted `MANUALS/Misc./Ceiling Lifts/Owners-Manual_P-440-…_My-Mobility-Store.pdf`, an older revision (Rev 12 Mar 2021) of the manual on [[P440 Owner's Manual (2021, Rev 19-Oct)]]. `MANUALS/Misc./` was empty after that and was removed. Updated that source page and the index. The repo's `MANUALS/` now has the same folders as the human's.
+## [2026-10-01] lint | Stale counts fixed; structure clean
+- Broken links outside the log: none. Orphan pages: none. Duplicate page names: none. Pages missing frontmatter or `source:`: none. All `source:` paths resolve. Every model, concept, manufacturer and field-note page is linked from the index.
+- Raw files not referenced: only the 10 known Harmar exclusions (8 AL425 photos, 2 metadata CSVs).
+- Stale counts fixed in index.md: Golden 68 files / 67 pages (table said 68/68; note said 66/65); Harmar note rewritten (said 74 files / 36 pages / 17 excluded; now 78 / 40 / 10, with the two new Helix part-number duplicates listed); Harmar table 39 → 40 source pages; AutoSlide row now says where its 3 files are. [[Golden]] page said 66/65; fixed.
+- Helix source pages now note their byte-identical part-number copies.
+- "GP160 LiteRider PTC (not yet ingested)" on [[Golden]] and [[GL110-140-LiteRider]] reworded: there's no GP160 manual on disk to ingest.
+- Open conflicts still flagged on their pages: Open Sesame hold-open 5–50 s vs 5–35 s; AutoSwing door weight 220.5 vs 198.4 lb.
+- Possible gap: ceiling lifts (9 tagged pages) have no evaluation/concept page like [[Stairlift-Evaluation]] or [[Porch-Lift-Evaluation]]. Not created; asked the human.
