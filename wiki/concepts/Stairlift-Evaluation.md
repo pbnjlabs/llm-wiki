@@ -13,6 +13,9 @@ camera-based measuring, see [[Staircase-Measuring-System]].
 ## 1. Job and user
 
 - Who requested it: private pay, VA medical center or other.
+- **Customer's email: required.** The customer approves the stair lift
+  layout by **e-signature (DocuSign)**, which needs their email. Techs
+  must get it at the eval (per the human).
 - User height and weight.
 - User seated measurements: **seat to head**, **back to knee**, **hip
   to hip**.

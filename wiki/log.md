@@ -954,3 +954,5 @@ Per the human: applies to both VPL-3100B and VPL-3200B. A failed spring shows as
 Per the human: when an electrician is hired for a stair lift outlet, the outlet must be installed before the stair lift install is scheduled. Added to [[PMS Electrical Work Orders and Preferred Electricians]], [[Stairlift-Evaluation]] and [[PMS-Office-Procedures]].
 ## [2026-10-01] clarification | PMS stair lift — install completion pictures
 Per the human: required pictures for stair lift installs are top, bottom, folding rail, serial number, outlet with the lift plugged in, and curves. Added as section 5 of [[Stairlift-Evaluation]] (folding rail and curves marked "if any"); index row updated.
+## [2026-10-01] clarification | PMS stair lift eval — customer email required for DocuSign
+Per the human: techs must get the customer's email at the stair lift eval; it's required for the customer's DocuSign e-signature approving the stair lift layout. Added to section 1 of [[Stairlift-Evaluation]]; index row updated.
