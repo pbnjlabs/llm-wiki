@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Quote Response
-source: "MANUALS/Misc./Grab Bars/grabbarsinstall.pdf"
+source: "MANUALS/Grab Bars/grabbarsinstall.pdf"
 date: 2026-06-03
 tags: [pms, grab-bar, bathroom, va, quote, install, pricing]
 ---
@@ -80,4 +80,4 @@ the 32 in price is **left blank on purpose** (per the human).
 - [[RFQ - Bathroom Grab Bars (VA, 2026)]]
 - [[PMS-Office-Procedures]]
 
-Raw PDF: `MANUALS/Misc./Grab Bars/grabbarsinstall.pdf`
+Raw PDF: `MANUALS/Grab Bars/grabbarsinstall.pdf`

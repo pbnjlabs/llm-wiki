@@ -2,7 +2,7 @@
 type: source
 manufacturer: Bruno
 doc_type: Internal Sales Form
-source: "MANUALS/Misc./VA Paperwork/Bruno Lead Sign Off Form.pdf"
+source: "MANUALS/Admin/VA Paperwork/Bruno Lead Sign Off Form.pdf"
 tags: [bruno, va, property-owner, consent, form]
 ---
 
@@ -30,4 +30,4 @@ own, e.g. a stairlift or vehicle lift job.
 - [[Bruno]]
 - [[PMS-Office-Procedures]] (VA jobs)
 
-Raw PDF: `MANUALS/Misc./VA Paperwork/Bruno Lead Sign Off Form.pdf`
+Raw PDF: `MANUALS/Admin/VA Paperwork/Bruno Lead Sign Off Form.pdf`

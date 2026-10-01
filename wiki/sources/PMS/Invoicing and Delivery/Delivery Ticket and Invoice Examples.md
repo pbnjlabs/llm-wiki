@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Internal Workflow
-source: "MANUALS/Misc./Invoicing and Delivery/delivery_ticket_ex.pdf; MANUALS/Misc./Invoicing and Delivery/invoice_ex.pdf"
+source: "MANUALS/Admin/Invoicing and Delivery/delivery_ticket_ex.pdf; MANUALS/Admin/Invoicing and Delivery/invoice_ex.pdf"
 tags: [pms, delivery-ticket, invoice, va, private-pay, billing]
 ---
 
@@ -104,5 +104,5 @@ Marked "for reference".
 - [[Mobility-Batteries]] (MU-1 on the VA example)
 - [[J6]]
 
-Raw PDFs: `MANUALS/Misc./Invoicing and Delivery/delivery_ticket_ex.pdf`,
-`MANUALS/Misc./Invoicing and Delivery/invoice_ex.pdf`
+Raw PDFs: `MANUALS/Admin/Invoicing and Delivery/delivery_ticket_ex.pdf`,
+`MANUALS/Admin/Invoicing and Delivery/invoice_ex.pdf`

@@ -2,7 +2,7 @@
 type: source
 manufacturer: Bruno
 doc_type: Price Sheet
-source: "MANUALS/Misc./Vehicle Lifts/BRUNOCurrent Price Lists _ PMS _ SC-0307.pdf"
+source: "MANUALS/Admin/Vehicle Lifts/BRUNOCurrent Price Lists _ PMS _ SC-0307.pdf"
 tags: [bruno, pricing, vehicle-lift, asl-275, asl-700, vsl-4400, vsl-6000, pul-1100]
 ---
 
@@ -82,4 +82,4 @@ side option (PUL-1100 only) $600 / $240, where the printout cuts off.
 - [[ASL-275]], [[PUL-1100]]
 - [[Bruno]]
 
-Raw PDF: `MANUALS/Misc./Vehicle Lifts/BRUNOCurrent Price Lists _ PMS _ SC-0307.pdf`
+Raw PDF: `MANUALS/Admin/Vehicle Lifts/BRUNOCurrent Price Lists _ PMS _ SC-0307.pdf`

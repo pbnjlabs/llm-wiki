@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Internal Workflow
-source: "MANUALS/Misc./Repairs/order_return_parts.pdf"
+source: "MANUALS/Admin/Invoicing and Delivery/order_return_parts.pdf"
 tags: [pms, parts, ordering, returns, repair-eval, workflow]
 ---
 
@@ -83,4 +83,4 @@ credit.**
 
 - [[PMS-Office-Procedures]]
 
-Raw PDF: `MANUALS/Misc./Repairs/order_return_parts.pdf`
+Raw PDF: `MANUALS/Admin/Invoicing and Delivery/order_return_parts.pdf`

@@ -2,7 +2,7 @@
 type: source
 manufacturer: Scootaround
 doc_type: Workflow
-source: "MANUALS/Misc./Repairs/scootaround_workflow.pdf"
+source: "MANUALS/Admin/scootaround_workflow.pdf"
 date: 2024-01-30
 tags: [scootaround, va, repair, billing, workflow, pms]
 ---
@@ -84,4 +84,4 @@ increments. Assessment and repair labor stay at 15 minutes.
 
 - [[PMS-Office-Procedures]]
 
-Raw PDF: `MANUALS/Misc./Repairs/scootaround_workflow.pdf`
+Raw PDF: `MANUALS/Admin/scootaround_workflow.pdf`

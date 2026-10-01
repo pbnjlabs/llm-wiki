@@ -10,13 +10,13 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 21 (+2 in `MANUALS/Misc./`) | 23 (3 in `sources/Bruno/General/`: lifts price list, lead sign-off form, warranty summary from `MANUALS/Admin/`) |
+| Bruno | [[Bruno]] | 21 (+3 in `MANUALS/Admin/`) | 23 (3 in `sources/Bruno/General/`: lifts price list, lead sign-off form, warranty summary from `MANUALS/Admin/`) |
 | Golden | [[Golden]] | 68 | 68 |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 76 | 39 source pages (see note — several consolidate multiple low-narrative files) |
+| Harmar | [[Harmar]] | 78 | 39 source pages (see note — several consolidate multiple low-narrative files) |
 | AutoSlide | [[AutoSlide]] | 2 | 2 — **different product category**, see note below |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 10 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (19 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
@@ -388,7 +388,7 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
-Raw files in `MANUALS/Misc./` are sorted into job-type subfolders (Stairlift Evaluations, Vehicle Lifts, Grab Bars, Repairs, Invoicing and Delivery, VA Paperwork, Training, Ceiling Lifts); a one-time reorganization, see log 2026-09-29.
+PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). Only `MANUALS/Misc./Ceiling Lifts/` (an extra P440 copy) is left of the old `Misc./` folder.
 
 PMS (16 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
@@ -412,29 +412,29 @@ Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
 tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
 Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
 [[EZ-ACCESS Invoice Examples (Historical)]] (layout only; PMS doesn't take
-EZ-ACCESS work); [[Asheville FSS Sales Guidelines (2025)]] (Asheville office FSS process); that folder's other three files
-duplicate ones already ingested from `Misc./`. Harmar-specific
+EZ-ACCESS work); [[Asheville FSS Sales Guidelines (2025)]] (Asheville office FSS process); that folder also holds the
+delivery ticket, invoice and parts-return examples. Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:
-[[PMS-Office-Procedures]]. Raw files in `MANUALS/Misc./`. Customer and
+[[PMS-Office-Procedures]]. Raw files in `MANUALS/Admin/`. Customer and
 staff details omitted.
 
 Batteries (1 of 1 ingested), see `wiki/sources/Batteries/Price Sheets/`:
 [[Battery Price Sheets (MK, Interstate)]]. MK Battery MSRP (Dec 2024) and
 dealer program (Mar 2025) sheets and the Interstate mobility price sheet
 (Jun 2024): specs, prices, HCPCS codes, MK chargers. Raw file in
-`MANUALS/Misc./`. Cross-referenced on [[Mobility-Batteries]].
+`MANUALS/Admin/`. Cross-referenced on [[Mobility-Batteries]].
 
 Scootaround (1 of 1 ingested), see `wiki/sources/Scootaround/VA Repair Program/`:
 [[Scootaround VA Repair Workflow]]. PMS process for VA repairs through
 Scootaround: 8-step work order → quote → PO → completion flow, quote
 rules, parts at MSRP × 0.75, $80/hr labor lines. Raw file in
-`MANUALS/Misc./`. Phone numbers and sample customer details omitted.
+`MANUALS/Admin/`. Phone numbers and sample customer details omitted.
 
 VA (2 ingested), see `wiki/sources/VA/`: [[VA Form 10-0103 HISA Application]] (HISA/, blank VA form, Mar 2025);
 [[RFQ - Bathroom Grab Bars (VA, 2026)]]. A VA request for quote to install
 PSAS-supplied ADA grab bars (12–32 in, shower and toilet, tile and
-fiberglass, 350 lb, 2-year labor warranty). Raw file in `MANUALS/Misc./`.
+fiberglass, 350 lb, 2-year labor warranty). Raw file in `MANUALS/Grab Bars/`.
 Requester contact details omitted.
 
 Standards (1 of 1 ingested), see `wiki/sources/Standards/ADA/`: ADA

@@ -2,7 +2,7 @@
 type: source
 manufacturer: VA
 doc_type: Government Form
-source: "MANUALS/Misc./VA Paperwork/HISSA 100103.pdf"
+source: "MANUALS/Admin/VA Paperwork/HISSA 100103.pdf"
 date: 2025-03-01
 tags: [va, hisa, form, home-improvement, structural-alteration, funding]
 ---
@@ -53,4 +53,4 @@ the installer signs a compliance statement. See
 
 - [[PMS-Office-Procedures]] (VA jobs)
 
-Raw PDF: `MANUALS/Misc./VA Paperwork/HISSA 100103.pdf`
+Raw PDF: `MANUALS/Admin/VA Paperwork/HISSA 100103.pdf`

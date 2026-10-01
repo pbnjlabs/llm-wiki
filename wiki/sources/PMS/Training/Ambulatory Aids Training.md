@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Training Handbook
-source: "MANUALS/Misc./Training/ambulatory_aids_training.pdf"
+source: "MANUALS/Admin/Training/ambulatory_aids_training.pdf"
 tags: [pms, training, ambulatory-aids, cane, crutches, walker, rollator, knee-walker, fitting]
 ---
 
@@ -49,4 +49,4 @@ could be misread.
 - [[Ambulatory-Aids-Fitting]]
 - [[PMS-Office-Procedures]]
 
-Raw PDF: `MANUALS/Misc./Training/ambulatory_aids_training.pdf`
+Raw PDF: `MANUALS/Admin/Training/ambulatory_aids_training.pdf`

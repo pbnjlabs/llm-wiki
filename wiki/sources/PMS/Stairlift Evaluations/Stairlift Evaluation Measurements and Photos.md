@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Training Handbook
-source: "MANUALS/Misc./Stairlift Evaluations/Important Stairlift Eval Items.pdf; MANUALS/Misc./Stairlift Evaluations/Evaluation Do's & Don'ts.pdf"
+source: "MANUALS/Admin/Training/Important Stairlift Eval Items.pdf; MANUALS/Admin/Training/Evaluation Do's & Don'ts.pdf"
 tags: [pms, stairlift, evaluation, measurements, photos, training]
 ---
 
@@ -54,5 +54,5 @@ rails, the lift's park position, etc.**
 - [[PMS-Office-Procedures]] (stairlift jobs)
 - [[Staircase-Measuring-System]]
 
-Raw PDFs: `MANUALS/Misc./Stairlift Evaluations/Important Stairlift Eval Items.pdf`,
-`MANUALS/Misc./Stairlift Evaluations/Evaluation Do's & Don'ts.pdf`
+Raw PDFs: `MANUALS/Admin/Training/Important Stairlift Eval Items.pdf`,
+`MANUALS/Admin/Training/Evaluation Do's & Don'ts.pdf`

@@ -2,7 +2,7 @@
 type: source
 manufacturer: MK Battery; Interstate Batteries
 doc_type: Price Sheet
-source: "MANUALS/Misc./Repairs/mk_prices.pdf"
+source: "MANUALS/Admin/mk_prices.pdf"
 date: 2025-03-01
 tags: [battery, pricing, mk-battery, interstate, hcpcs, charger]
 ---
@@ -108,4 +108,4 @@ reference numbers, not prices, and PMS doesn't use them (per the human).
 - [[Mobility-Batteries]]: cross-reference by size, HCPCS codes
 - [[2026-09-25 Q6-Edge-3 iLevel no power]]: used Interstate DCM0055
 
-Raw PDF: `MANUALS/Misc./Repairs/mk_prices.pdf`
+Raw PDF: `MANUALS/Admin/mk_prices.pdf`
