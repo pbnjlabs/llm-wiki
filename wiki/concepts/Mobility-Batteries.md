@@ -15,6 +15,11 @@ capacity only**. Confirm the dimensions, terminal type and chemistry
 one chemistry. For charging, see [[Golden-Battery-Charging]] and
 [[Battery-Charger-LED-Diagnostics]].
 
+> **House standard (per the human): always replace both batteries.**
+> This applies to every device. When a device runs on two batteries,
+> replace both as a matched pair, even if only one has failed. Don't
+> just swap the bad one.
+
 ## Cross-reference (12 V)
 
 MK size groups are read from the part names (MU-1 = U1, M22NF = 22NF,
@@ -40,6 +45,11 @@ M24 = group 24, and so on); Interstate lists its groups.
 
 - Pride Q6 Edge 3 (standard): 2 × Interstate **DCM0055** (22NF, 55 Ah).
   See [[2026-09-25 Q6-Edge-3 iLevel no power]].
+
+- Prism P440 ceiling lift: 2 × 12 V 2.3 Ah sealed lead-acid, both
+  replaced. On ceiling lifts ([[P440]], [[C-450-C-625]]), **tape the
+  batteries together** so they keep a good connection. See
+  [[2026-10-01 P440 batteries no lift]].
 
 - Open Sesame door operators: 12 V 1.2 Ah sealed lead-acid, **MK
   ES1.2-12** or equivalent, 3–5 year life ([[Automatic-Door-Operators]]).

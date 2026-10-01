@@ -48,19 +48,21 @@ and showed green.
 
 ## Fix
 
-Batteries replaced.
+**Both batteries replaced.**
 
 ## Parts used
 
-- Batteries, 12 V 2.3 Ah sealed lead-acid (spec per the manual). The
-  quantity and part number weren't recorded. Replace them as a matched
-  pair.
+- **2 ×** batteries, 12 V 2.3 Ah sealed lead-acid (spec per the
+  manual). Part number not recorded.
 
 ## Takeaways
 
-- **Per the human: on these ceiling lifts, tape the batteries together
-  so they keep a good connection.** Do this whenever the batteries are
-  replaced or the case is opened.
+- **Per the human: on these ceiling lifts ([[P440]] and
+  [[C-450-C-625]]), tape the batteries together so they keep a good
+  connection.** Do this whenever the batteries are replaced or the case
+  is opened.
+- **House standard (per the human), every device: always replace both
+  batteries**, never just the bad one. See [[Mobility-Batteries]].
 - **Red lift light + green charger light = suspect the batteries.** The
   charger has finished but the lift still reads flat. Measure each
   battery. A big gap between the two points to a failing battery.
@@ -71,7 +73,8 @@ Batteries replaced.
 
 ## See also
 
-- [[P440]]
+- [[P440]], [[C-450-C-625]]
+- [[Mobility-Batteries]]
 - [[P440 Owner's Manual (2021, Rev 19-Oct)]]: charging and indicators on
   pp. 7 and 14–15, troubleshooting on p. 19
   (`MANUALS/Prism/753001-19-Oct-2021-P-440-Owners-Manual-English.pdf`)
