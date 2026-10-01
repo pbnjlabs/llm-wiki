@@ -168,7 +168,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Joystick controllers (Q-Logic + Q-Logic 3: end-user ops, error codes, full provider programming) | [[Joystick-Controllers]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term; dealer registration/RMA/labor process) | [[Harmar-Warranty]] |
-| Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes; house standard: always replace both batteries | [[Mobility-Batteries]] |
+| Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes; house standard: always replace every battery in the device | [[Mobility-Batteries]] |
 | Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
 | Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
 | Ceiling lift evaluation (PMS form, structure and mounting method, pick-up points, outlet within 2 ft of track end, span limits, 150% load test) | [[Ceiling-Lift-Evaluation]] |
@@ -213,7 +213,7 @@ checks, root cause, fix, parts). Manuals still win on specs and procedures.
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
 | 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
-| 2026-10-01 | Prism P440 | Won't go up or down; lift light RED on charge, charger GREEN; batteries 12.9 V / 12.3 V, charger 27.3 V (good); bad batteries, both replaced; tape ceiling-lift batteries together; house standard: always replace both batteries | resolved | [[2026-10-01 P440 batteries no lift]] |
+| 2026-10-01 | Prism P440 | Won't go up or down; lift light RED on charge, charger GREEN; batteries 12.9 V / 12.3 V, charger 27.3 V (good); bad batteries, both replaced; tape ceiling-lift batteries together; house standard: always replace every battery in the device | resolved | [[2026-10-01 P440 batteries no lift]] |
 | 2026-10-01 | Bruno VPL (3100B / 3200B) | Door stuck locked; spring-loaded door interlock can partially fail; lock rod slow or doesn't spring back; replace interlock assembly VPL-31452L (LH) | resolved | [[2026-10-01 Bruno-VPL door interlock spring]] |
 | 2026-09-30 | Golden GA541 Avenger (PG S-Drive) | Loses power over bumps; S-Drive connectors work loose (design flaw); check for strained wires, unplug and reseat | resolved | [[2026-09-30 GA541-Avenger S-Drive loose connectors]] |
 | 2026-09-25 | EZ-ACCESS PATHWAY 3G | Ramp evaluation measurement methods (tape, pen trick, laser-level total rise, cone layout, landing surface); adopted as house practice | resolved | [[2026-09-25 PATHWAY-3G ramp evaluation]] |

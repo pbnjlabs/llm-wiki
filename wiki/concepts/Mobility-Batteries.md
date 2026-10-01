@@ -15,10 +15,10 @@ capacity only**. Confirm the dimensions, terminal type and chemistry
 one chemistry. For charging, see [[Golden-Battery-Charging]] and
 [[Battery-Charger-LED-Diagnostics]].
 
-> **House standard (per the human): always replace both batteries.**
-> This applies to every device. When a device runs on two batteries,
-> replace both as a matched pair, even if only one has failed. Don't
-> just swap the bad one.
+> **House standard (per the human): always replace every battery in the
+> device.** This applies to every device. Replace the whole set as a
+> matched set, even if only one battery has failed. Don't just swap the
+> bad one.
 
 ## Cross-reference (12 V)
 

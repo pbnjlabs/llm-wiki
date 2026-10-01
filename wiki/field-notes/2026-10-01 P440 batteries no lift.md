@@ -61,8 +61,8 @@ and showed green.
   [[C-450-C-625]]), tape the batteries together so they keep a good
   connection.** Do this whenever the batteries are replaced or the case
   is opened.
-- **House standard (per the human), every device: always replace both
-  batteries**, never just the bad one. See [[Mobility-Batteries]].
+- **House standard (per the human), every device: always replace every
+  battery in the device** (the whole set), never just the bad one. See [[Mobility-Batteries]].
 - **Red lift light + green charger light = suspect the batteries.** The
   charger has finished but the lift still reads flat. Measure each
   battery. A big gap between the two points to a failing battery.
