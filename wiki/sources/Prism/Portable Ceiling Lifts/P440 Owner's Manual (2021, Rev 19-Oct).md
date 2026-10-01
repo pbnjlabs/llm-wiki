@@ -64,3 +64,7 @@ write-up.
 
 ## Feeds into
 [[P440]], [[Prism]]
+
+## Field notes
+- [[2026-10-01 P440 batteries no lift]]: used this manual's charging,
+  indicator and troubleshooting sections
