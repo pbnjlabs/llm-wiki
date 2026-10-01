@@ -143,6 +143,10 @@ page they touch should state them.
   loading a scooter into a van) and are exempt from the 1:12 rule.
   GATEWAY 3G is **not** exempt. It can technically be moved, but PMS
   treats it as a permanent, long-term ramp.
+- **Always replace both batteries**, on every device. When a device runs
+  on two batteries, replace them as a matched pair even if only one has
+  failed. Stated on `Mobility-Batteries` (from the 2026-10-01 P440 field
+  note).
 
 ### Field notes
 
