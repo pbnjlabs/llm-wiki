@@ -171,6 +171,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes | [[Mobility-Batteries]] |
 | Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
 | Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
+| Ceiling lift evaluation (PMS form, structure and mounting method, pick-up points, outlet within 2 ft of track end, span limits, 150% load test) | [[Ceiling-Lift-Evaluation]] |
 | Stairlift evaluation (PMS form, **customer email for DocuSign layout approval**, measurements, outlet/overrun/seat rules, photos; **install completion pictures** list) | [[Stairlift-Evaluation]] |
 | Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |

@@ -77,4 +77,4 @@ documented anywhere else in this wiki:
   lift line to one track manufacturer
 
 ## Feeds into
-[[Vancare]], [[Prism]], [[C-450-C-625]], [[P440]]
+[[Ceiling-Lift-Evaluation]] (planning, mounting methods, span table, testing), [[Vancare]], [[Prism]], [[C-450-C-625]], [[P440]]

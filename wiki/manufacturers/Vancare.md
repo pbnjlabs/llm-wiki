@@ -17,9 +17,9 @@ on Vancare track hardware, alongside part numbers for **three competing
 track brands** — Mikyway, Guldman, and ArjoTrack — that Prism's portable
 lifts also support via different trolley adapters.
 
-This is a different situation from the AutoSlide/Open Sesame or
-Harmar/Bruno misfiles elsewhere in this wiki: those were raw files that
-ended up in the wrong company's folder by accident. This one is filed
+This is a different situation from the Harmar/Bruno misfile elsewhere in
+this wiki, where a raw file ended up in the wrong company's folder by
+accident. This one is filed
 under Prism because it's the **track-system supplier documentation** a
 Prism ceiling-lift dealer would actually need — a legitimate cross-brand
 OEM relationship (like most ceiling-lift companies, Prism doesn't
@@ -61,4 +61,4 @@ it.
 
 ## See also
 
-[[Prism]], [[C-450-C-625]], [[P440]]
+[[Ceiling-Lift-Evaluation]], [[Prism]], [[C-450-C-625]], [[P440]]

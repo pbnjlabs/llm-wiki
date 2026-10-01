@@ -77,5 +77,6 @@ replacement rather than Bruno's field reset.
 
 ## See also
 
+- [[Ceiling-Lift-Evaluation]] — evaluating a home and planning track
 - [[P440]], [[Vancare]], [[Prism-Castor-2-Post-Lift-Stand]]
 - [[Golden]], [[Bruno]], [[Pride]] — other manufacturers in this wiki

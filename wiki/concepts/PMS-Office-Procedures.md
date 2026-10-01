@@ -40,7 +40,7 @@ into the wiki; look them up on the raw files.
 - Install handover and HISA final payment: [[PMS Porch Lift Install Instructions and HISA Final Payment]]
 
 **Ceiling lifts**
-- Evaluation form: [[Ceiling Lift Evaluation Form]]
+- Evaluation, track rules and install tests: [[Ceiling-Lift-Evaluation]], [[Ceiling Lift Evaluation Form]]
 
 **Vehicle lifts**
 - Phone interview and estimate: [[Vehicle Lift Workflow]], [[Vehicle Lift Phone Interview Form]]
