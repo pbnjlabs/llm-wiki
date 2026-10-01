@@ -60,10 +60,10 @@ placeholder veteran name and address.
   Scootaround gets **25% off MSRP**.
 - **Golden Technologies parts: 2 × what PMS is charged.**
 - The handwritten "70% of MSRP" at the top of the page is a slip;
-  **75% is correct** (confirmed by the human, 2026-09-29). A later note
-  on the vendor guide scan says **"Batteries – 30% off MSRP"**, which may
-  be what the 70% referred to. Not yet confirmed; see
-  [[Scootaround-VA-Repairs]].
+  **75% is correct** (confirmed by the human, 2026-09-29). **Batteries
+  are the exception: MSRP × 0.70** (30% off MSRP), per a note on the
+  vendor guide scan. Confirmed by the human for Scootaround jobs only
+  (2026-10-01). See [[Scootaround-VA-Repairs]].
 
 ## Sample PMS invoice (p. 4)
 

@@ -175,7 +175,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Stairlift evaluation (PMS form, **customer email for DocuSign layout approval**, measurements, outlet/overrun/seat rules, photos; **install completion pictures** list) | [[Stairlift-Evaluation]] |
 | Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
-| Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates, OEM-only parts) | [[Scootaround-VA-Repairs]] |
+| Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates incl. batteries at MSRP × 0.70, OEM-only parts) | [[Scootaround-VA-Repairs]] |
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |

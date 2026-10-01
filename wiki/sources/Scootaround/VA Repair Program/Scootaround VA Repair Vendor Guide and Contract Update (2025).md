@@ -18,8 +18,8 @@ number. Rules are collected on [[Scootaround-VA-Repairs]].
 | 1 | **"VA Contract Update", email of 25 Apr 2025** from Scootaround's vendor network manager, near the first anniversary of the VA Wheeled Mobility contract |
 | 2 | Repair Process flyer, 8 steps (the same as page 1 of [[Scootaround VA Repair Workflow]]) |
 | 3–6 | **Repair Vendor Guide**, an FAQ (undated) |
-| 7 | Example email: "Purchase Order Approved – Proceed with Repair" (19 Mar 2025) asking for the completion email. Handwritten: "1. Tech 2. Date of completion 3. WO #" and **"Note: Batteries – 30% off MSRP"** |
-| 8 | Scootaround's sample quote (Step 4). Handwritten: **"Golden Tech: MSRP = double dealer quote"**, and "MSRP pricing" and "S/H" beside the parts lines |
+| 7 | Example email: "Purchase Order Approved – Proceed with Repair" (19 Mar 2025) asking for the completion email. Handwritten: "1. Tech 2. Date of completion 3. WO #" and **"Note: Batteries – 30% off MSRP"**. That's the Scootaround battery rate, MSRP × 0.70 (confirmed by the human) |
+| 8 | Scootaround's sample quote (Step 4). Handwritten: **"Golden Tech: MSRP = double dealer quote"**, and "MSRP pricing" and "S/H" beside the parts lines. "S/H" is a reminder to cover shipping somewhere else, such as the markup, since it can't be billed (per the human) |
 
 ## Contract update (25 Apr 2025)
 

@@ -67,6 +67,11 @@ Aim for 3.
 **Never bill:** round-trip travel, shipping, hazmat fees, shop supplies,
 flat service-call rates, or unapproved aftermarket or generic parts.
 
+**Shipping:** it can't go on the quote as a line, so PMS has to cover it
+some other way, for example in the parts markup. That's what the "S/H"
+note on the sample quote is for (per the human, 2026-10-01). There's no
+set method yet.
+
 ## PMS rates
 
 | Line | Rate |
@@ -76,7 +81,7 @@ flat service-call rates, or unapproved aftermarket or generic parts.
 | Repair labor | $80/hr, **15-min steps** |
 | Parts | **MSRP × 0.75** |
 | Golden Technologies parts | No MSRP published: **MSRP = 2 × PMS's dealer price**, then × 0.75 |
-| Batteries | Handwritten note: **"30% off MSRP"** (MSRP × 0.70). **Unconfirmed.** See below |
+| Batteries | **MSRP × 0.70** (30% off MSRP). Scootaround jobs only (confirmed by the human, 2026-10-01) |
 
 ## Parts rules
 
@@ -92,14 +97,6 @@ flat service-call rates, or unapproved aftermarket or generic parts.
 - **Cancelled after parts were bought:** the VA pays the **restocking
   fee**. Quote the assessment, one-way travel and restocking fee, and
   attach the manufacturer's invoice.
-
-## Open questions
-
-- **Battery pricing:** is it MSRP × 0.70 ("30% off MSRP") for batteries,
-  and MSRP × 0.75 for everything else? The earlier "70%" note on the
-  workflow scan was treated as a slip.
-- **"S/H"** is written beside the parts lines on the sample quote, but
-  the vendor guide says shipping isn't billable.
 
 ## Related
 
