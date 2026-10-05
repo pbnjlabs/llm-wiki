@@ -31,8 +31,10 @@ Batteries" inserts)
 - AC input switch: 115VAC (USA/Canada) vs. 230VAC (overseas) — confirm
   before switching.
 - XLR cable connects to the unit's off-board charging port.
-- LED states: red only = charging normally; red+green = full charge; no
-  LEDs = check AC input switch, ON/OFF switch, and connections.
+- LED states: red (Power) + yellow (Charge) = charging normally;
+  red + green = full charge; red with Charge LED off = battery not
+  connected; no LEDs = check AC input switch, ON/OFF switch, and
+  connections.
 - Fuse: 10A 125V/250V, replace only when charger is off and unplugged.
 
 ## MRC24-4LX charger
@@ -40,6 +42,14 @@ Batteries" inserts)
 - MRC Technology Inc., 29.5VDC / 4A output, 120VAC 1.5A input.
 - Two LEDs only: red = charger powered on; red+green together = 100%
   charge (no yellow "charging" state, unlike the HP8204B).
+
+## In the field
+
+- **Per the human: when the call is "batteries not charging," check the
+  charger.**
+- **Charger green the whole time, even on drained batteries = it isn't
+  charging**, even with a normal no-load voltage (28 V). Swap in a
+  known-good charger to confirm. See [[2026-10-05 GP162 bad charger stays green]].
 
 ## See also
 

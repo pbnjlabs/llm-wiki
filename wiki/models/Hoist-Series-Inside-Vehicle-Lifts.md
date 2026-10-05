@@ -64,5 +64,9 @@ docking device (may require bending/kneeling/hand dexterity).
 No owner's or install manual narrative text is on file yet for any Hoist
 model — only the brochure, one service bulletin, and parts diagrams.
 
+**Missing manuals:** all ten Hoist and truck lifts on Harmar's FSS list
+are contracted equipment with no install or owner's manual on disk.
+Tracked at [[index#Missing manuals]].
+
 ## See also
 [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]]

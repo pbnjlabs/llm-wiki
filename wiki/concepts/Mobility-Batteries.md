@@ -53,6 +53,10 @@ M24 = group 24, and so on); Interstate lists its groups.
   batteries together** so they keep a good connection. See
   [[2026-10-01 P440 batteries no lift]].
 
+- Golden GP162 LiteRider Envy: 2 × MK **ES17-12** (18 Ah). Per the
+  human: when the call is "batteries not charging," **check the charger**
+  first. See [[2026-10-05 GP162 bad charger stays green]].
+
 - Open Sesame door operators: 12 V 1.2 Ah sealed lead-acid, **MK
   ES1.2-12** or equivalent, 3–5 year life ([[Automatic-Door-Operators]]).
 

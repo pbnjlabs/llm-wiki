@@ -19,6 +19,10 @@ covered:** stair or chair lifts, ramps, rollators, equipment the VA
 didn't issue, new add-on accessories, cosmetic damage that doesn't
 affect safe use, and smart drives or power assists.
 
+**Manuals gap:** no manual wheelchair manuals are on disk, and only
+Golden, Pride and Red Hawk power chairs and scooters are. Tracked at
+[[index#Missing manuals]].
+
 Before assigning a job, Scootaround **calls** to confirm PMS can take it
 on time, **has a parts account with the manufacturer**, services that
 kind of device, and that the veteran is **within 2 hours**.

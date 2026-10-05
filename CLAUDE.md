@@ -208,7 +208,9 @@ house standard only if the human says so. Log them as
 4. Create or update the relevant `models/` page(s).
 5. Update any `concepts/` pages this document touches (e.g. a new charger
    manual updates `Battery-Charging.md`).
-6. Update `wiki/index.md`.
+6. Update `wiki/index.md`. If the manual fills a gap on the index's
+   **Missing manuals** checklist, tick it off there and on the pages
+   that point to it.
 7. Append an entry to `wiki/log.md`.
 8. Commit and push (see Git section below) — this is an automatic part of
    ingest, not a separate step to ask about.
@@ -265,6 +267,8 @@ When asked to health-check the wiki, look for:
 - Manuals present in `MANUALS/` with no corresponding `sources/` page
   (nothing yet ingested).
 - Model pages missing despite having manuals on disk.
+- Contracted equipment (FSS price lists, Scootaround scope) with no
+  manual on disk: keep the index's **Missing manuals** checklist current.
 - Orphan pages with no inbound links.
 - Concepts mentioned repeatedly across model pages but lacking their own
   `concepts/` page.

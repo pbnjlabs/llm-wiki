@@ -214,6 +214,7 @@ checks, root cause, fix, parts). Manuals still win on specs and procedures.
 
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
+| 2026-10-05 | Golden GP162 LiteRider Envy | **Key: when the call is "batteries not charging," check the charger.** Won't hold a charge with new batteries (2 × MK ES17-12); charger light green the whole time, 28 V / 3 A at the plug; known-good charger shows charging; bad charger, replaced | resolved | [[2026-10-05 GP162 bad charger stays green]] |
 | 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |
 | 2026-10-01 | Prism P440 | **Key: tape the batteries together and replace both.** Won't go up or down; lift light RED on charge, charger GREEN; batteries 12.9 V / 12.3 V, charger 27.3 V (good); bad batteries, both replaced | resolved | [[2026-10-01 P440 batteries no lift]] |
 | 2026-10-01 | Bruno VPL (3100B / 3200B) | Door stuck locked; spring-loaded door interlock can partially fail; lock rod slow or doesn't spring back; replace interlock assembly VPL-31452L (LH) | resolved | [[2026-10-01 Bruno-VPL door interlock spring]] |
@@ -468,7 +469,57 @@ human).
 
 ## Ingestion backlog
 
-### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check).
+### Missing manuals
+
+Equipment PMS is contracted to sell or repair that has **no install or
+owner's manual on disk**. Checked 2026-10-05 against every file in
+`MANUALS/` (the repo copy and the human's own folder hold the same
+files). Tick an item off when its manual is ingested. Source for most
+missing manuals: the manufacturer's dealer portal or tech support
+(Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
+
+**Supply, 65 II F, Harmar vehicle lifts (36F79721D0058)**, checked
+against [[Harmar VA FSS Price List (2018-2023)]]:
+- [ ] **Inside (hoist) lifts** AL-215, AL-225, AL-425, AL-425HD, AL-435,
+  AL-435T: install and owner's manuals. On file now: brochure, AL425 and
+  AL435T spec sheets, AL425/AL435 parts diagrams, strap bulletin
+  ([[Hoist-Series-Inside-Vehicle-Lifts]]).
+- [ ] **Truck lifts** AL-815CC, AL-825, AL-825CC, AL-835: install and
+  owner's manuals. On file now: brochure, AL825 parts diagram.
+- [ ] **AL-625HD** heavy-duty hybrid van lift: all manuals. The hybrid
+  manuals cover AL600/AL690 and AL6000/AL6000HD only
+  ([[Hybrid-Vehicle-Lifts]]).
+- [ ] **Outlander** (LP, TM, DE, XL, full platform), **Backpacker
+  Plus**, **Commander 450** (2-axis, 3-axis): everything. No wiki page
+  yet.
+- [ ] **Harmar rubber threshold ramps** (RAMPRBKIT 1R–4R): check first
+  whether they're on PMS's contract; nothing on file.
+
+**Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
+against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't
+on file):
+- [ ] **ASL-700 Chariot**: all manuals.
+- [ ] **VSL-4400 Joey**: all manuals.
+- [ ] **VSL-6000 / VSL-6900 Curb-Sider**: all manuals.
+
+**Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
+- [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
+  VA-issued manual chairs.
+- Power chairs and scooters: only Golden, Pride and Red Hawk are on
+  file. Add other brands as VA jobs turn them up.
+
+**Can't check yet:**
+- **Supply, 65 II A, Harmar stair lifts and VPLs (36F79721D0084):**
+  Harmar's list for it isn't on file. Every Harmar line the wiki knows
+  (Helix, Pinnacle SL300/SL600, Highlander II, VPL400-X) has manuals.
+- **Renewed contracts** may have added or dropped models. A QuickBooks
+  export of the FSS items would allow an exact check.
+
+Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
+list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
+ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
+
+### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check). Every Bruno file on disk is ingested, but three contracted vehicle lifts have no manual: see Missing manuals above.
 
 ### Golden — fully ingested, no backlog remaining.
 
@@ -478,7 +529,7 @@ human).
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
-### Harmar — fully ingested (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested; contracted hoist, truck and other lifts still have no manual on disk, see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 

@@ -73,6 +73,12 @@ batteries).
 Seat codes: takes SM5, SM4 (Opt), SME, and SMP (Pro-Flex, Option) — see
 [[Golden-Seating-Systems]].
 
+## Field notes
+- [[2026-10-05 GP162 bad charger stays green]]: won't hold a charge with new batteries (2 × MK ES17-12);
+  charger light green the whole time, 28 V at the plug; a known-good
+  charger charged it. Bad charger, replaced. **Per the human: when the
+  call is "batteries not charging," check the charger.**
+
 ## See also
 
 [[Golden]], [[GP204-Alante-DX]], [[GP6xx-Compass]],

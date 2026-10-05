@@ -71,7 +71,10 @@ and showed green.
   charger has finished but the lift still reads flat. Measure each
   battery. A big gap between the two points to a failing battery.
 - **A charger with no load can show green.** Check its output voltage
-  with a meter (about 27–29 V) to rule it out quickly.
+  with a meter (about 27–29 V) as a quick first check. A good reading
+  doesn't prove the charger actually charges: on
+  [[2026-10-05 GP162 bad charger stays green]] the charger read 28 V and
+  was bad. If in doubt, swap in a known-good charger.
 - With a red light while plugged in, also check that the **Emergency
   Stop is ON**. The lift won't charge with it OFF.
 

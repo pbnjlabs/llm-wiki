@@ -63,3 +63,7 @@ Contents:
 
 Feeds: [[GP162-LiteRider-Envy]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
 [[Golden-Wheelchair-Warranty]]
+
+## Field notes
+- [[2026-10-05 GP162 bad charger stays green]]: used this manual's battery charging and
+  troubleshooting sections

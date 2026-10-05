@@ -53,3 +53,7 @@ Contents:
   itemized here, reference the PDF directly for part numbers.
 
 Feeds: [[GP162-LiteRider-Envy]], [[TruCharge-Diagnostics]]
+
+## Field notes
+- [[2026-10-05 GP162 bad charger stays green]]: used this manual's battery charging and
+  troubleshooting sections

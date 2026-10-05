@@ -77,6 +77,11 @@ Nothing — all Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
 out-of-repo `MANUALS/Bruno/` drop).
 
+**Missing manuals:** three Bruno vehicle lifts on Bruno's price list have
+no manual on disk: **ASL-700 Chariot, VSL-4400 Joey, VSL-6000/6900
+Curb-Sider**. Solutions sells Bruno vehicle lifts to the VA under its
+FSS contract, so these are worth getting. Tracked at [[index#Missing manuals]].
+
 ## See also
 
 [[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],

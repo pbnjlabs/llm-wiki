@@ -107,6 +107,10 @@ until seated).
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,
 plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
+**Missing manual:** the **AL-625HD** heavy-duty hybrid van lift is on
+Harmar's FSS list (and the AL412 wireless remote fits AL625/AL625HD), but
+no manual on disk covers it. Tracked at [[index#Missing manuals]].
+
 ## See also
 [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],
 [[Hoist-Series-Inside-Vehicle-Lifts]], [[Vehicle-Lift-Power-Wiring]],
