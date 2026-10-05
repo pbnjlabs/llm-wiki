@@ -20,7 +20,8 @@ size: small. Pages 10–24 of PMS's [[PMS FSS Contracts Binder]].
 **How PMS uses it (per the human):** a manufacturer's FSS price is the
 **ceiling for what PMS can charge the VA** for that item, and the
 reference for **building VA bids**. Not needed for daily work; it's on
-file for when it's asked for. These are Bruno's prices, not PMS rates.
+file for when it's asked for. **The FSS price lists are already loaded
+into PMS's QuickBooks**, so VA estimates use the QuickBooks items. These are Bruno's prices, not PMS rates.
 **PMS's Bruno dealer (Solutions) has no 65 II A contract and doesn't
 handle any 65 II A work** (per the human). See [[VA-FSS-Contracts]].
 

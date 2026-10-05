@@ -80,7 +80,7 @@ into the wiki; look them up on the raw files.
 
 **VA FSS contracts**
 - Which contract number for which product (Supply: Harmar 65 II A D0084, Harmar vehicle lifts and modular ramps 65 II F D0058; Solutions: Bruno vehicle lifts 65 II F D0128, no 65 II A); manufacturer FSS price = ceiling for what PMS charges the VA and the reference for VA bids; Bruno vs Harmar FSS terms: [[VA-FSS-Contracts]], [[PMS FSS Contracts Binder]]
-- Manufacturer price lists (on request): [[Bruno VA FSS Price List (2021-2026)]], [[Harmar VA FSS Price List (2018-2023)]]
+- Manufacturer price lists: **already loaded into QuickBooks**; wiki copies for when a list is requested: [[Bruno VA FSS Price List (2021-2026)]], [[Harmar VA FSS Price List (2018-2023)]]
 
 **VA paperwork**
 - HISA application (veteran submits; PMS bid attached): [[VA Form 10-0103 HISA Application]]

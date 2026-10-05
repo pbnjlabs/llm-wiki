@@ -130,8 +130,9 @@ rates or as work PMS does for the manufacturer.
 **Exception, VA FSS price lists:** a manufacturer's VA Federal Supply
 Schedule price is the **ceiling for what PMS can charge the VA** for
 that item and the reference for building VA bids (still not a PMS
-rate). These lists matter only when someone asks for them, not for
-daily work. See `concepts/VA-FSS-Contracts.md`.
+rate). They're already loaded into PMS's QuickBooks, so the wiki
+copies matter only when someone asks for a list, not for daily work.
+See `concepts/VA-FSS-Contracts.md`.
 
 ### House standards
 

@@ -17,6 +17,11 @@ modification of 04/15/22, and the GSA pages mention the April 2022
 switch from DUNS to SAM's Unique Entity ID, so it was put together
 around **2022**.
 
+**Already in QuickBooks (per the human):** all of the FSS price lists
+are loaded into PMS's QuickBooks, so VA estimates and invoices pick up
+FSS items and prices there. This binder and its wiki pages are for when
+someone asks for the lists themselves.
+
 **Contracts are current (per the human):** they've been renewed and run
 on **5-year terms**. Supply's 65 II F number (D0058) is still on the 2026
 VA ramp bid. The manufacturer price lists show older contract periods,
@@ -80,17 +85,16 @@ name. **It's how VA purchasing compares contractors' prices for the
 same item.**
 
 The sample search, "AL 100 Universal Scooter Lift", found 349 records.
-Contractors' prices for the AL-100 and similar ranged from about
+Contractors' prices for the AL-100 and similar lifts ranged from about
 **$1,205 to $3,024**. Harmar's own AL-100-12 was $1,935.01.
 
-> [!note] Check PMS's AL160 listing
-> In the sample, PMS Supply's entry is catalog number **AL160**,
-> described as "Universal Scooter Lift Installation Included", at
-> **$2,058.29**. AL-160 is Harmar's *Profile* scooter lift; the
-> Universal is AL-100. That price is also above both Harmar's own FSS
-> prices on the 2022 list (AL-160-13 $1,895.01, AL-100-12 $1,935.01),
-> and the manufacturer price is PMS's ceiling. The two printouts may
-> not be from the same date. Worth checking the current listing.
+The search also matched other lifts with similar descriptions. PMS
+Supply's row in the sample is **AL160** ("Universal Scooter Lift
+Installation Included", $2,058.29). **The AL160 is a different lift
+from the AL-100** (per the human); it showed up because the
+description matched. Its line on Harmar's 2022 list is AL-160-13,
+Profile scooter lift, $1,895.01. The two printouts may be from
+different dates.
 
 ## Left out on purpose
 

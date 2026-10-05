@@ -52,6 +52,9 @@ Per the human:
   can charge the VA** for it.
 - The same price lists are the **reference for building VA bids**.
 - They are still the **manufacturer's** prices, not PMS rates.
+- **All of the FSS price lists are already loaded into PMS's
+  QuickBooks.** Build VA estimates from the QuickBooks items. The wiki
+  copies are for when someone asks for a list itself.
 
 Price lists on file (older contract periods, so check the current list
 first):
@@ -69,8 +72,9 @@ Not in the binder: Harmar's 65 II A list (stair lifts, VPLs), Bruno's
 National Acquisition Center) shows every contractor's FSS price for an
 item side by side. This is how VA purchasing compares PMS with other
 dealers. GSA eLibrary has each contractor's terms and price list. See
-the [[PMS FSS Contracts Binder]] for a sample search, and a flag on
-PMS's AL160 listing.
+the [[PMS FSS Contracts Binder]] for a sample search. A search can
+match lifts with similar descriptions, so check the catalog number: the
+AL160 is a different lift from the AL-100.
 
 ## Bruno vs Harmar FSS terms
 
