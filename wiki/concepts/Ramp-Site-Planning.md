@@ -184,8 +184,9 @@ porch handrails where the platform connects.
   grade to shorten the ramp.
 - **Shape**: straight, L, U or switchback to fit the space.
 - **Landings**: top, bottom, every turn, and at most 30 in of rise per
-  run (30 ft at 1:12). Turning landings must be at least 60 × 60 in
-  (see [[ADA-Ramp-Requirements]]).
+  run (30 ft at 1:12). Top and bottom landings must be at least 60 in
+  long and as wide as the ramp; turning landings must be at least
+  60 × 60 in (see [[ADA-Ramp-Requirements]]).
   A top platform gives a flush transition at the door. Check **door
   swing** and threshold height at the top.
 - **Entry door transition (field note from PMS).** At the door, the

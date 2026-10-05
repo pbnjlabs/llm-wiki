@@ -40,6 +40,15 @@ listed at the bottom.
 
 - **Level landings at the top and bottom of every run.** A landing may
   slope no more than 1:48, which is enough for drainage.
+- **Every landing is at least 60 in long** (§405.7.3) and **at least as
+  wide as the widest run leading to it** (§405.7.2). The guide doesn't
+  print these two figures; they come from the 2010 Standards text
+  (access-board.gov/ada, checked 2026-10-05). A 36 in ramp needs a
+  landing at least 36 in wide × 60 in long.
+- **The door needs a level landing.** The Standards' advisory to §405.7
+  says a level landing at the door lets the user maneuver and operate
+  the door at the same time. A ramp run therefore can't start right at
+  the door sill; it starts from the landing.
 - **Where a ramp changes direction, the landing must be at least 60 ×
   60 in clear.** Handrails, posts and edge protection cannot intrude
   into that space.
@@ -103,7 +112,7 @@ guidelines". They mostly match this guide. Differences:
 | Topic | PMS handbook | ADA (this guide) |
 |---|---|---|
 | Slope | 1:12, slope meter ≤ 4.8° | 1:12 max (1:10/1:8 allowed in some alterations) |
-| Landings | 60 in level at top and bottom of every run and at the door, **as wide as the ramp** | Level at top and bottom; **60 × 60 in** where the ramp changes direction |
+| Landings | 60 in level at top and bottom of every run and at the door, **as wide as the ramp** | Level at top and bottom, **60 in long**, as wide as the widest run (the same as the handbook); **60 × 60 in** where the ramp changes direction |
 | Run limit | 30 ft of continuous ramp without a rest | 30 in max rise per run (the same thing at 1:12) |
 | Handrails | **At least one** continuous handrail | **Both sides** when the rise is over 6 in; 34–38 in high; 12 in extensions |
 
@@ -117,8 +126,8 @@ pair per section anyway (see [[PATHWAY-3G]]).
 ADA governs **public and commercial** facilities, not private homes. PMS
 applies the slope rule everywhere anyway (house standard). For the
 rest, the ADA numbers are good defaults for a residential job unless
-local code says otherwise: 36 in width, landings at the top and bottom,
-60 × 60 in turning landings, rails on both sides above 6 in of rise,
+local code says otherwise: 36 in width, level landings 60 in long at the
+top and bottom (including at the door), 60 × 60 in turning landings, rails on both sides above 6 in of rise,
 34–38 in rail height. The [[PATHWAY-3G]] manual itself refers to ADA
 once: its platform tie strap is limited to a ½ in gap when the ramp is
 installed "per ADA Guidelines."
@@ -132,9 +141,11 @@ System, 48 in usable width).
 
 - It says a landing is needed "every 30 ft of run." The actual rule is
   **30 in max rise per run**. The two match only at exactly 1:12.
-- It gives 60 × 60 in as the size of every landing. The guide requires
-  60 × 60 in **where the ramp changes direction**. Top and bottom
-  landings must be level; their length isn't given in this guide.
+- It gives 60 × 60 in as the size of every landing. The Standards
+  require 60 × 60 in only **where the ramp changes direction**. Other
+  landings must be 60 in long and at least as wide as the ramp
+  (§405.7.2–.3), so the 60 in length is right but the width depends on
+  the ramp.
 - Its clipping is missing the handrail and edge-protection rules, which
   are now covered above.
 
