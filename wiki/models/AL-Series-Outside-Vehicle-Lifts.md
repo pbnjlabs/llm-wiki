@@ -132,10 +132,13 @@ PMS billing.
 - [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
   drawing also referenced there actually belongs to
   [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)
+- [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices, installation included (e.g. AL-100-12 $1,935.01 on the 2022 list); the ceiling for PMS's VA price, see [[VA-FSS-Contracts]]
 
 ## Warranty
 3-year transferable warranty (parts, excludes labor/batteries/paint) — see
 [[Harmar-Warranty]].
+**VA FSS purchases get more:** 3 yr including batteries, paint and covers,
+plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],

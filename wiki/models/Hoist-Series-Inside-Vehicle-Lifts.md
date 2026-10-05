@@ -59,6 +59,7 @@ docking device (may require bending/kneeling/hand dexterity).
   (confirm owner's manual + warranty sheet ship with each unit; no
   separate owner's/install manual text is on file for this product line
   yet)
+- [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices for the AL-215/225/425/435 inside lifts and AL-8xx truck lifts, installation included
 
 No owner's or install manual narrative text is on file yet for any Hoist
 model — only the brochure, one service bulletin, and parts diagrams.

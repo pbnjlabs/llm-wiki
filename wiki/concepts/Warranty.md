@@ -32,6 +32,27 @@ later) is newer than the 2014 card below and changes these terms:
 - **Refurbished units sold by Bruno:** 1 yr all parts.
 - **Replacement parts:** 90 days from delivery (repair or exchange).
 
+## Government version (VA FSS)
+
+"Bruno Gold Government Warranty", attached to Bruno's VA FSS price list
+([[Bruno VA FSS Price List (2021-2026)]], pp. 20–22). Same tiers as
+above, but **two extra conditions**:
+
+- **Indoor stairlift:** lifetime on major components (motor, gearbox
+  drivetrain, stationary rail) **only while the original recipient owns
+  the lift**; 2 yr all other parts. Optional equipment isn't a major
+  component.
+- **Indoor stairlift:** the warranty starts at installation, but **no
+  later than 14 months after the lift shipped from the factory**.
+- Outdoor and custom rail stairlift: 5 yr major / 2 yr parts. VPL: 2 yr
+  major / 1 yr parts. Labor 30 days on all three.
+- Service and warranty issues go to **Bruno and the ordering facility**
+  (the VA). Bruno and the facility can agree to refund instead of
+  repairing.
+
+Bruno's VA returns, restocking and damaged-delivery rules are on the
+price list page and compared with Harmar's on [[VA-FSS-Contracts]].
+
 ## Stairlifts — 5yr major components / 2yr parts (2014 card)
 
 Identical warranty text appears standalone (`Bruno Stair Lift Warranty.pdf`)

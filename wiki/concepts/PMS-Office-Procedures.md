@@ -78,6 +78,10 @@ into the wiki; look them up on the raw files.
 - Private pay: assessment fee $85 (more if far from the shop); parts = cost ÷ 0.65, taxed; SC sales tax 6%; lift chair sales are final.
 - VA: bill the VA hospital; serial with letter prefix (none for Harmar); drop the "evaluate" wording when converting an estimate; VA-only zone charge.
 
+**VA FSS contracts**
+- Which contract number for which product (Supply: Harmar 65 II A D0084, Harmar vehicle lifts and modular ramps 65 II F D0058; Solutions: Bruno vehicle lifts 65 II F D0128, no 65 II A); manufacturer FSS price = ceiling for what PMS charges the VA and the reference for VA bids; Bruno vs Harmar FSS terms: [[VA-FSS-Contracts]], [[PMS FSS Contracts Binder]]
+- Manufacturer price lists (on request): [[Bruno VA FSS Price List (2021-2026)]], [[Harmar VA FSS Price List (2018-2023)]]
+
 **VA paperwork**
 - HISA application (veteran submits; PMS bid attached): [[VA Form 10-0103 HISA Application]]
 - HISA final payment request (final invoice + color photos; UFAS compliance): [[PMS Porch Lift Install Instructions and HISA Final Payment]]

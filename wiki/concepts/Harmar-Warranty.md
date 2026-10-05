@@ -35,6 +35,23 @@ term**, confirmed from each product's own owner's manual:
 - Registered mailing address for all warranty forms: 1500 Independence
   Blvd., Suite 220, Sarasota, FL 34234; fax 1-866-234-5680
 
+## FSS (VA) vehicle-lift warranty
+
+Harmar's VA FSS price list ([[Harmar VA FSS Price List (2018-2023)]],
+65 II F) gives VA purchases **better terms than the retail vehicle-lift
+warranty** in the table above:
+
+- **3 years** from retail purchase on parts, **including batteries,
+  paint and covers** (retail excludes all three).
+- **1 year of labor**, all labor costs, for purchases through Harmar's
+  FSS contract (retail: no labor).
+- Same exclusions otherwise: vehicle defects, maintenance and
+  adjustments, consequential damage, loss of use, misuse or
+  modification. Defective parts go back prepaid for inspection.
+
+FSS returns and restocking terms are on the price list page and on
+[[VA-FSS-Contracts]].
+
 ## Dealer warranty process (2018 policy)
 
 From [[Harmar Warranty Policy (2018)]], which covers the process, not

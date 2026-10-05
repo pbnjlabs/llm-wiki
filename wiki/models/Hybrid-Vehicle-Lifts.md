@@ -100,9 +100,12 @@ until seated).
 - [[Harmar Parts Diagrams]] (`Harmar-al-600-12_R.pdf` — the original,
   thinly-documented AL600 assembly-drawing lead that predates these full
   manuals)
+- [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices for AL-600-12 and AL-625HD-12 and hybrid accessories, installation included
 
 ## Warranty
 3-year limited parts warranty — see [[Harmar-Warranty]].
+**VA FSS purchases get more:** 3 yr including batteries, paint and covers,
+plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
 ## See also
 [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],

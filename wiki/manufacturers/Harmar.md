@@ -64,6 +64,13 @@ same document is now correctly filed under `MANUALS/Harmar/` — see
 [[Staircase-Measuring-System]] for the full comparison with Bruno's
 competing Picture Perfect system.
 
+## VA FSS
+
+Harmar's own VA FSS price list (65 II F: vehicle lifts with installation
+included, threshold ramps, FSS warranty and returns): [[Harmar VA FSS Price List (2018-2023)]]. PMS (Supply) sells Harmar products to the VA
+on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
+65 II F 36F79721D0058 (vehicle lifts). See [[VA-FSS-Contracts]].
+
 ## Cross-cutting concepts
 
 - [[Harmar-Warranty]] — every Harmar product line carries its own

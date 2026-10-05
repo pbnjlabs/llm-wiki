@@ -127,6 +127,12 @@ manufacturer, not a source of jobs). Treat any **manufacturer prices,
 rates or pay scales** as **manufacturer suggestions**, never as PMS
 rates or as work PMS does for the manufacturer.
 
+**Exception, VA FSS price lists:** a manufacturer's VA Federal Supply
+Schedule price is the **ceiling for what PMS can charge the VA** for
+that item and the reference for building VA bids (still not a PMS
+rate). These lists matter only when someone asks for them, not for
+daily work. See `concepts/VA-FSS-Contracts.md`.
+
 ### House standards
 
 Some rules come from Performance Medical Supply itself, not from any

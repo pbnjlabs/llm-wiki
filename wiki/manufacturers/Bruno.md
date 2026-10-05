@@ -64,6 +64,13 @@ vertical platform lifts (VPL).
     [[Battery-Charger-LED-Diagnostics]] — same gate hardware/procedure and
     charger diagnostics reused verbatim across both install manuals.
 
+## VA FSS
+
+Bruno's own VA FSS price list (65 II A: CRE, SRE and VPL units and
+options, government warranty, returns): [[Bruno VA FSS Price List (2021-2026)]]. PMS's Bruno dealer (Solutions) has an FSS contract for
+Bruno **vehicle lifts only** (65 II F); it doesn't handle 65 II A. See
+[[VA-FSS-Contracts]].
+
 ## Not yet ingested
 
 Nothing — all Bruno-authored manuals on disk have been ingested, including
