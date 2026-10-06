@@ -64,6 +64,11 @@ same document is now correctly filed under `MANUALS/Harmar/` — see
 [[Staircase-Measuring-System]] for the full comparison with Bruno's
 competing Picture Perfect system.
 
+**Product Insights (2021–2023):** 11 one-page dealer sheets on lift
+selection, docking devices, hitch adapters, the AL015, Highlander II
+(Guardian System, install prep, 2022 changes), the Pinnacle drive and
+zero-overrun install, Helix remotes and threshold ramps: [[Harmar Product Insights (2021-2023)]].
+
 ## VA FSS
 
 Harmar's own VA FSS price list (65 II F: vehicle lifts with installation
@@ -86,9 +91,10 @@ at [[index#Missing manuals]].
 - [[Harmar-Stairlift-Beep-Codes]] — beeps-only major/minor fault scheme
   shared (with small variations, and one unresolved cross-document
   discrepancy on SL600) across Helix, SL300, and SL600
-- [[Overspeed-Safety-Brake]] — Harmar alone contributes **two** of this
-  concept's four documented mechanisms: HighlanderII's OSG switch on the
-  ACME drive screw, and Helix's mechanical rack/sprocket jammer — neither
+- [[Overspeed-Safety-Brake]] — Harmar alone contributes **three** of this
+  concept's five documented mechanisms: HighlanderII's OSG switch on the
+  ACME drive screw, Helix's mechanical rack/sprocket jammer, and the
+  Pinnacle's mechanical pawl brake — none
   resembles the other, or Bruno's/Prism's governors
 
 ## Known naming/model quirks
@@ -107,6 +113,7 @@ at [[index#Missing manuals]].
 ## Not yet ingested
 
 No narrative owner's/install manual is on file yet for any
-[[Hoist-Series-Inside-Vehicle-Lifts]] model (brochure + one bulletin +
-parts diagrams only). Helix, SL300, and SL600 install manuals are now on
+[[Hoist-Series-Inside-Vehicle-Lifts]] model (brochure, one bulletin,
+parts diagrams and the 2021 docking-device and lift-selection sheets
+only). Helix, SL300, and SL600 install manuals are now on
 file (closed from the previous ingest's backlog note).

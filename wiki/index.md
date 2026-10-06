@@ -16,7 +16,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 78 | 41 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from `MANUALS/Admin/`) |
+| Harmar | [[Harmar]] | 89 | 42 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from `MANUALS/Admin/`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -71,16 +71,16 @@ and Anhui JBH Medical Apparatus Company Limited (sold as "Pegasus Plus"
 [[Red Hawk]] for the full breakdown, including a truncated-manual
 limitation on the DC02/Pegasus Plus source.
 
-Note: Harmar's 78-file count is 77 files in `MANUALS/Harmar/` plus the 1
+Note: Harmar's 89-file count is 88 files in `MANUALS/Harmar/` plus the 1
 misfiled file under `MANUALS/Bruno/` (counted under Bruno too). The
-folder holds only 70 distinct files by md5: byte-identical duplicates
+folder holds only 81 distinct files by md5: byte-identical duplicates
 include the AL100/AL300/AL301 owner's and install manuals, an al-100-12
 assembly-drawing pair, and two Helix manuals also saved under Harmar
 part-number names (`Harmar-610-00039-01-D-Helix-OM.pdf`,
 `Harmar-610-00016-01-C-Helix-Measure-Guide-V2.pdf`, added 2026-10-01 to
-match the human's folder). The 41 source pages also **consolidate**
+match the human's folder). The 42 source pages also **consolidate**
 low-narrative file groups (6 order/evaluation forms, 4 spec sheets, 9
-parts diagrams, 6 wiring schematics, one page each), and two pages
+parts diagrams, 6 wiring schematics, 11 Product Insights sheets, one page each), and two pages
 ([[Harmar Warranty Policy (2018)]], [[Harmar VA FSS Price List (2018-2023)]]) come from `MANUALS/Admin/`. 10
 image/CSV files (8 AL425 product photos, 2 DAM metadata exports) were
 deliberately excluded as non-manual assets. See [[Harmar]] for details.
@@ -191,10 +191,10 @@ applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
 Golden's error codes apply to a Pride chair or vice versa.
 
-[[Overspeed-Safety-Brake]] now spans three manufacturers and **four**
+[[Overspeed-Safety-Brake]] now spans three manufacturers and **five**
 distinct mechanisms (Bruno centrifugal/field-resettable, Prism
-motor-replacement, Harmar HighlanderII's OSG switch, and Harmar Helix's
-own mechanical rack/sprocket jammer — Harmar alone contributes two
+motor-replacement, Harmar HighlanderII's OSG switch, Harmar Helix's
+own mechanical rack/sprocket jammer, and the Harmar Pinnacle's mechanical pawl brake — Harmar alone contributes three
 unrelated mechanisms across its own product lines) — always check which
 manufacturer's *and which product's* variant applies before assuming a
 reset procedure carries over.
@@ -247,7 +247,7 @@ sources; revealed the [[ASL-250]] model page and its "HTP" ramped
 platform variant, undocumented on ASL-275).
 
 Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
-three passes:
+four passes:
 
 *First pass:* CSL Series Photo Measuring Manual (physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
@@ -299,6 +299,14 @@ non-manual assets. **Correction (2026-09-24 lint):** these are the *same*
 files the second pass had already excluded. All 10 have been in the drop
 folder since 2026-09-11, before either pass. The earlier "running total
 of 17" double-counted them. **The true exclusion total is 10.**
+
+*Fourth pass* (2026-10-06, 11 new one-page files in the human's
+`MANUALS/Harmar/`): [[Harmar Product Insights (2021-2023)]], consolidated: lift selection, docking
+devices, hitch adapters, AL015 travel-scooter lift, Highlander II
+Guardian System / install prep / Q4 2022 changes, Pinnacle drive system
+and zero-overrun install, Helix remotes, threshold ramps. Dealer sheets,
+ranked below the manuals; two conflicts flagged (AL1235U 4 in drop,
+Highlander II Service Mode timer).
 
 Golden (68 of 68 ingested — fully ingested) — see `wiki/sources/Golden/`: [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -482,7 +490,8 @@ missing manuals: the manufacturer's dealer portal or tech support
 against [[Harmar VA FSS Price List (2018-2023)]]:
 - [ ] **Inside (hoist) lifts** AL-215, AL-225, AL-425, AL-425HD, AL-435,
   AL-435T: install and owner's manuals. On file now: brochure, AL425 and
-  AL435T spec sheets, AL425/AL435 parts diagrams, strap bulletin
+  AL435T spec sheets, AL425/AL435 parts diagrams, strap bulletin,
+  docking-device and lift-selection sheets
   ([[Hoist-Series-Inside-Vehicle-Lifts]]).
 - [ ] **Truck lifts** AL-815CC, AL-825, AL-825CC, AL-835: install and
   owner's manuals. On file now: brochure, AL825 parts diagram.
@@ -493,7 +502,8 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   Plus**, **Commander 450** (2-axis, 3-axis): everything. No wiki page
   yet.
 - [ ] **Harmar rubber threshold ramps** (RAMPRBKIT 1R–4R): check first
-  whether they're on PMS's contract; nothing on file.
+  whether they're on PMS's contract. Only a selection guide is on file
+  ([[Harmar Product Insights (2021-2023)]]); no install sheet.
 
 **Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
 against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't

@@ -33,7 +33,25 @@ Outdoor installation is still excluded from warranty, same as SL300.
   only goes to 8**, an unresolved cross-document discrepancy (see
   [[Pinnacle SL600 Install Manual]])
 
+## Drive system, overspeed and zero overrun
+From [[Harmar Product Insights (2021-2023)]] (dealer sheets; the manuals win):
+- **Nylon worm and gear rack** (steel-reinforced), same on SL300 and
+  SL600. **No lubrication**. **40–60 trips on battery** after a power
+  outage.
+- **Overspeed brake: mechanical, standard**, works without power;
+  deploys above **70 ft/min** descent and stops within ½ revolution. See
+  [[Overspeed-Safety-Brake]].
+- Track goes on **either side** of the stairs.
+- **Zero overrun at the top landing:** gradually raise the standard
+  brackets toward the top, use **one tall bracket (SL600TB1)** at the
+  upper landing, **cut the track 6–9 in shorter** to the top step's
+  front edge, set the limit cam so the **footrest top is level with the
+  landing**; the swivel brings the seat over the edge. With a door or
+  frame at the top, **load the chassis on the rail before fastening the
+  brackets**.
+
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — drive system, overspeed brake, zero-overrun install (dealer sheets)
 - [[Pinnacle SL600 Owner's Manual]] (2026 Rev H, P/N 76016 — note the
   different numbering scheme from every other Harmar doc in this batch)
 - [[Pinnacle SL600 Install Manual]] (2024, P/N 76015 Rev K)

@@ -58,6 +58,41 @@ circuit-status LEDs) for bench-level troubleshooting, plus 3 momentary
 switches (brake/reset/service) and 3 permanent cuttable configuration
 jumpers (3-stop/TG/AUX).
 
+### Guardian System, service cycle and Service Mode
+From Harmar's Product Insights sheets ([[Harmar Product Insights (2021-2023)]]), which rank below the
+manuals:
+- Harmar calls the top-cap LEDs the **Guardian System**. Green solid: OK.
+  Green flashing: OK, on battery backup or in Service Mode. Amber solid:
+  OK, service recommended. Amber flashing: up **or** down only, minor
+  fault. Red solid: no function, check E-stop and interlocks. Red
+  flashing: **do not use**, major fault.
+- **Cycle count:** service warning at **7,500 cycles**, **shuts down at
+  8,000** until a dealer evaluates the motor and drive and resets it per
+  the install manual. Other service flags follow flood switch, OSG and
+  slowing-travel faults.
+- **Service Mode timer differs by manual:** **30 minutes, up only (not
+  down)** in the no-enclosure install manual (Rev G); **10 minutes** in
+  the with-enclosure Installation and Service Manual. The Product
+  Insights sheets say 15 (2021) and 30 (2022). Go by the unit's manual.
+  Press again to extend; Reset exits early.
+
+### Install prep (Product Insights, 2022)
+- Ships with a **temporary power cord**: **NEC requires permanent wiring
+  within 60–90 days**. No disconnect supplied; battery backup needs a
+  switch.
+- PC board is **static-sensitive**: wear a static strap, watch wire
+  colors and positions on the interlocks.
+- Circuits come pre-jumped per the order form. Use Service Mode, don't
+  add jumpers.
+- **Check the safety nut and retaining bolts** for shipping looseness
+  before first run.
+- Harmar offers a 45-minute online install course (LiftSquad Academy,
+  training@harmar.com).
+- **Q4 2022 changes:** sturdier PC board, new battery-warning voltages
+  and longer fault debounce, Harmar interlock replaces Honeywell (not
+  backwards compatible), **non-slip paint instead of tape** on platforms
+  and ramps.
+
 ## Emergency lowering
 A manual lowering tool (1/4" socket + 3/8" ratchet or cordless drill)
 turns clockwise at a manual-override point under the top cap — the
@@ -66,6 +101,7 @@ raise is substantially higher). A person other than the trapped occupant
 must perform this from outside the platform, at the top of the tower.
 
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — Guardian System, install prep, Q4 2022 changes (dealer sheets)
 - [[Highlander II with Enclosure Owner's Manual]] (2021 Rev A)
 - [[Highlander II with Enclosure Installation and Service Manual]] (2022
   Rev B) — primary technical reference for the Enclosure configuration;

@@ -114,6 +114,7 @@ Install time: 40 min for 3–5 in, 20 min for ½–2½ in rubber thresholds
   seat the ramp firmly against the threshold with no gap.
 
 ## Related
+- Harmar's threshold ramp guide ([[Harmar Product Insights (2021-2023)]]): rubber 1–4 in rise in ½ in steps, 850 lb; aluminum up to 6 in, 600 lb; cites ADA 1:12, same as the PMS house standard.
 
 [[EZ-ACCESS]], [[Ramp-Site-Planning]]. For rises beyond ~6 in, see
 [[SUITCASE-Ramps]], [[GATEWAY-3G]] and [[PATHWAY-3G]].

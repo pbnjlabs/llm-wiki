@@ -28,7 +28,15 @@ ordering/measuring processes compare.
 - Diagnostic port (connector present, no field-service procedure
   documented in the owner's manual on file)
 
+## Remotes (Oct 2021 change)
+Per [[Harmar Product Insights (2021-2023)]]: a new-look remote shipped from **October 2021**, same
+functions, **25% more range**, better encoding, no repeaters needed.
+Fits older Helix lifts **only if the chassis circuit board is replaced
+with the remotes**. Same housing as Pinnacle remotes but **not
+interchangeable**. Helix team: helix@harmar.com, 800-833-0478.
+
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — new remote (dealer sheet)
 - [[Helix Owner's Manual]] — end-user manual (2021 Rev D)
 - [[Helix Install Manual]] — dealer install/service manual (2021 Rev D)
 - [[Helix Photo Measuring Manual (2023, Rev C)]] — Helix PhotoMap

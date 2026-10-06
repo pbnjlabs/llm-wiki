@@ -93,6 +93,7 @@ Rattling while driving = platform not fully docked/locked (press "IN"
 until seated).
 
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — lift selection: hybrids suit medium/low-capability users, keep the device out of the weather and fit in a garage (dealer sheets)
 - [[Hybrid Vehicle Lifts Owner's Manual (AL600-AL690, 2025)]]
 - [[Hybrid Vehicle Lifts Installation and Service Manual (AL600-AL690, 2025)]]
 - [[AL6000 Series Owner's Manual (2021, Rev A)]]

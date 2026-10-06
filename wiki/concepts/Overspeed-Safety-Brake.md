@@ -7,8 +7,8 @@ tags: [safety, stairlift, ceiling-lift, vpl, platform-lift, overspeed, bruno, pr
 
 A safety mechanism that halts a lift if its speed becomes excessive,
 preventing free-fall/runaway — independent of the primary drive/control
-electronics. Documented so far across three manufacturers and **four
-distinct mechanisms** (Harmar alone uses two different ones on two
+electronics. Documented so far across three manufacturers and **five
+distinct mechanisms** (Harmar alone uses three different ones on three
 different product lines):
 
 - **Bruno** straight-rail stairlifts (confirmed on [[SRE-2010]],
@@ -48,6 +48,12 @@ different product lines):
   jammer (trigger like Bruno's governor, stopping action like the jammer
   above) rather than a pure switch, and/or a naming change over time; not
   reconciled. See [[Harmar Wiring Schematics]].
+- **Harmar** [[Pinnacle-SL300]] / [[Pinnacle-SL600]] straight-rail
+  stairlifts — an **integrated mechanical pawl brake**, standard: at high
+  rpm a pawl springs open and catches a housing bolt, stopping the
+  chassis **within ½ revolution** once descent passes **70 ft/min**.
+  Works without power. Source is a dealer sheet ([[Harmar Product Insights (2021-2023)]]); no reset
+  procedure is given there.
 
 The rest of this page documents the Bruno reset/testing procedure in
 detail; the Prism, HighlanderII-OSG, and Helix-jammer mechanisms are

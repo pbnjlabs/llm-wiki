@@ -109,6 +109,24 @@ the GSA contract line and a **VA-only** travel zone charge. Harmar **Lift Squad*
 Mobility, with the paperwork, invoice and install photos emailed to
 PMS billing.
 
+## Choosing a lift and hitch adapter (Product Insights)
+From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
+- **Hitch mount vs hoist vs hybrid:** hitch mount is the easiest to use
+  and the only choice for sedans, but leaves the device in the weather
+  and **sticks out past the vehicle** (garage parking). Low-capability
+  users need a **hold-down** version. Check fit with Harmar's
+  Compatibility Calculator.
+- **Hitch adapter rules:** the platform must **reach the ground and sit
+  level**, and must **not keep running and lift the car** once it
+  touches. Measure bumper distance and hitch height; use the install
+  manual's size chart.
+- **AL1235U drop settings conflict:** the sheet says standard or 2, 3,
+  **4** or 5 in drop; the install bulletin says standard, 2, 3 or 5 in.
+  **Go by [[Bulletin - AL1235U Universal Drop Hitch Adapter]].**
+- **AL015 Profile Micro** (compact 3- and 4-wheel scooters): 150 lb
+  capacity, 65/70 lb installed (3/4-wheel cradle), powered, automatic
+  hold-down foot, **200 lb minimum tongue weight**.
+
 ## Operation notes
 - **NOT for human transport** — occupied use voids the warranty
 - Always walk the mobility device on/off manually (never drive it on)
@@ -119,6 +137,7 @@ PMS billing.
   cap, after unplugging the lift/vehicle harness connectors
 
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — lift selection, hitch adapters, AL015 (dealer sheets)
 - [[Outside Vehicle Lifts Owner's Manual]] (2022 Rev B) — end-user
 - [[Outside Vehicle Lifts Installation and Service Manual]] (2022 Rev
   B) — dealer/installer

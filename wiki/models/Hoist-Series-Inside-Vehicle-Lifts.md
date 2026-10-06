@@ -51,7 +51,21 @@ device is stowed), standing up to 3 minutes during the lift cycle,
 holding continuous pressure on the handheld control, attaching the
 docking device (may require bending/kneeling/hand dexterity).
 
+## Docking devices
+Every hoist and truck lift **needs a docking device** on the mobility
+device (center seat post or four-post seat frame). Harmar's types, per
+[[Harmar Product Insights (2021-2023)]]: **C-arms** (13, scooters and power chairs), **spreader bars** (9,
+power chairs; 19/24/30 in; DD45 is the 4-point carabiner system),
+**straight bar** DD17 (seat-off), **cable harness** DD39 (small folding
+scooters), **manual chair lifting bars** DD22/23/34. The Compatibility
+Calculator picks the exact DD. Full list on the source page.
+
+Lift selection (same sheets): hoists keep the device out of the weather
+and fit in a garage, but are the hardest to operate ("moderate+") and
+suit highly capable users.
+
 ## Documents on file
+- [[Harmar Product Insights (2021-2023)]] — docking devices, lift selection (dealer sheets; still no install or owner's manual)
 - [[Hoist Vehicle Lift Brochure]] — marketing/model-selection overview
 - [[Bulletin - Boom Lift Strap Replacement]] — AL425 lifting-strap service
   procedure
