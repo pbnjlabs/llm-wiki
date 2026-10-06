@@ -1026,3 +1026,12 @@ Per the human ("ingest the docs in Harmar dir"): copied the 11 new one-page file
 - Threshold ramps: noted on [[TRANSITIONS-Threshold-Ramps]]; ADA 1:12 matches the house standard.
 - Conflicts flagged: AL1235U drop settings (sheet 2/3/4/5 in vs bulletin 2/3/5 in; bulletin wins); Highlander II Service Mode (sheets 15 and 30 min; manuals 30 min up-only, no enclosure Rev G, and 10 min, with enclosure); "Pinnacles are commercially rated" vs SL300 residential-only (manual wins).
 - Missing manuals checklist: hoist and threshold-ramp items note the new sheets; neither is closed. Index: Harmar 89 files / 42 source pages / 81 distinct by md5; fourth-pass entry added.
+## [2026-10-06] ingest | Harmar — inside lift, truck lift and AL625 manuals; 2026 mobility chart
+Per the human: 4 new files in the human's `MANUALS/Harmar/`, copied in. New source pages under sources/Harmar/Vehicle Lifts/:
+- [[Inside Lifts Installation and Owner's Manual (2017, Rev F)]] (AL215/225/425/425HD/435/435T; 52 pp; truck-bed base page read from the image because its text layer overlaps).
+- [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]] (AL815CC/825/825CC/835; 44 pp).
+- [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]] (legacy "Freedom Lift Tracker"; wiring page read from the image).
+- [[Harmar Mobility Solutions Chart (2026, Rev F)]] (MK-000173 F, 11 May 2026; read from the page images; AL625 not on it, AL001/AL003/AL300RV new to the wiki).
+Updated [[Hoist-Series-Inside-Vehicle-Lifts]] (model/capacity table, operation, install, troubleshooting, warranty), [[Hybrid-Vehicle-Lifts]] (AL600/AL690 headroom and depth; legacy AL625 section), [[AL-Series-Outside-Vehicle-Lifts]] (2026 lineup), [[Vehicle-Lift-Power-Wiring]] (new Harmar section: 23 ft SAE J1128 harness, 20 A self-resetting breaker, red last, never cut), [[Harmar-Warranty]] (hoist row: 180 days from manufacture, void without Compatibility Calculator approval), [[Harmar]], [[VA-FSS-Contracts]].
+Missing manuals: ticked off hoist lifts, truck lifts and AL-625HD. Still open: Outlander, Backpacker Plus, Commander 450, rubber threshold ramps; Bruno Chariot, Joey, Curb-Sider; manual wheelchairs.
+Flagged: AL815CC/AL825 capacity, 2022 FSS list 150/225 lb vs manual and 2026 chart 135/210 lb (manual wins). Index: Harmar 93 files / 46 source pages / 85 distinct by md5.

@@ -35,6 +35,15 @@ instead of on a hitch). Worth a future side-by-side with
 page is ever justified — not written yet since only Bruno's version
 exists as a concept page today.
 
+## Current lineup (2026 chart)
+Harmar's [[Harmar Mobility Solutions Chart (2026, Rev F)]] lists the hitch-mounted models with capacity, hitch class
+and securement in one table. Models it adds that the manuals don't cover:
+**AL001** (500 lb manual carrier with a 60 in folding ramp, **1-year,
+not transferable** warranty), **AL003** (manual folding chairs, 100 lb)
+and **AL300RV** (RVs, class III+). Most models reach 26 in with the right
+hitch adapter and come with the AL107 hitch post and an AL123 class III
+adapter (AL123HD on the 400–450 lb models).
+
 ## Model differentiation (from the hitch-weight/adapter tables — no
 individual per-model manual exists)
 - **AL003 / AL030** — lightest duty, ball-hitch compatible (25-40 lb lift
@@ -137,6 +146,7 @@ From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
   cap, after unplugging the lift/vehicle harness connectors
 
 ## Documents on file
+- [[Harmar Mobility Solutions Chart (2026, Rev F)]] — current (May 2026) specs for every hitch-mounted model: capacity, hitch class, securement, included adapters, warranty
 - [[Harmar Product Insights (2021-2023)]] — lift selection, hitch adapters, AL015 (dealer sheets)
 - [[Outside Vehicle Lifts Owner's Manual]] (2022 Rev B) — end-user
 - [[Outside Vehicle Lifts Installation and Service Manual]] (2022 Rev

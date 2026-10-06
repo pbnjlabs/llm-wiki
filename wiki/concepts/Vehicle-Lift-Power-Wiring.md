@@ -1,13 +1,14 @@
 ---
 type: concept
-tags: [electrical, vehicle-lift, bruno, wiring]
+tags: [electrical, vehicle-lift, bruno, harmar, wiring]
 ---
 
 # Vehicle Lift Power Wiring
 
 All three Bruno vehicle lifts ([[PUL-1100]], [[ASL-275]], [[ASL-250]])
 share the same battery wiring pattern, described near-identically across
-their install manuals.
+their install manuals. Harmar's inside, truck and hybrid lifts use a
+different pre-made harness; see the Harmar section below.
 
 ## Standard routing
 
@@ -43,6 +44,30 @@ traction battery. Check the vehicle owner's manual for its location.
   incorrect disconnection can cause data loss, wiring damage, or accidental
   airbag deployment.
 
+## Harmar vehicle lifts
+
+Harmar's inside, truck and hybrid lift manuals ([[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]], [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]]) use a
+different, **pre-made harness** instead of a cut-to-length cable:
+
+- **~23 ft harness to SAE J1128** with a **20 A self-resetting circuit
+  breaker** about 6 in from the battery end. The end connector ships
+  loose so the wire fits through small openings.
+- **Black to battery negative first; red to positive at the very end.**
+- **Never connect to a secondary power source**: both leads straight to
+  the battery.
+- **Don't cut or shorten the harness**: coil the excess and tie it to
+  the frame. Grommet any floor hole.
+- Check the pins' retaining flanges after pulling them through, seat
+  them (A = red, B = black), keep the rubber seals in.
+- "Improper wiring is the #1 cause of problems." The motor can draw
+  **up to 30 A**, so a single intact strand reads 12 V on a meter but
+  won't run the motor. **Troubleshoot with a known-good battery**, not
+  just a test light.
+
+Bruno vs Harmar: Bruno uses an inline **30 A ATO fuse**; Harmar uses a
+**20 A self-resetting breaker**. Bruno has you cut the cable to length;
+Harmar says never cut the harness.
+
 ## See also
 
-[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[Bruno]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]

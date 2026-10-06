@@ -16,7 +16,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 89 | 42 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from `MANUALS/Admin/`) |
+| Harmar | [[Harmar]] | 93 | 46 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from `MANUALS/Admin/`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -71,14 +71,14 @@ and Anhui JBH Medical Apparatus Company Limited (sold as "Pegasus Plus"
 [[Red Hawk]] for the full breakdown, including a truncated-manual
 limitation on the DC02/Pegasus Plus source.
 
-Note: Harmar's 89-file count is 88 files in `MANUALS/Harmar/` plus the 1
+Note: Harmar's 93-file count is 92 files in `MANUALS/Harmar/` plus the 1
 misfiled file under `MANUALS/Bruno/` (counted under Bruno too). The
-folder holds only 81 distinct files by md5: byte-identical duplicates
+folder holds only 85 distinct files by md5: byte-identical duplicates
 include the AL100/AL300/AL301 owner's and install manuals, an al-100-12
 assembly-drawing pair, and two Helix manuals also saved under Harmar
 part-number names (`Harmar-610-00039-01-D-Helix-OM.pdf`,
 `Harmar-610-00016-01-C-Helix-Measure-Guide-V2.pdf`, added 2026-10-01 to
-match the human's folder). The 42 source pages also **consolidate**
+match the human's folder). The 46 source pages also **consolidate**
 low-narrative file groups (6 order/evaluation forms, 4 spec sheets, 9
 parts diagrams, 6 wiring schematics, 11 Product Insights sheets, one page each), and two pages
 ([[Harmar Warranty Policy (2018)]], [[Harmar VA FSS Price List (2018-2023)]]) come from `MANUALS/Admin/`. 10
@@ -121,8 +121,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
 | AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
-| Hoist-Series Inside Vehicle Lifts (~12 models, cargo-area mounted) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
-| Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower) | Harmar | [[Hybrid-Vehicle-Lifts]] |
+| Hoist-Series Inside Vehicle Lifts (12 models incl. AL8xx truck lifts, cargo-area mounted; install manuals on file) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
+| Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower; legacy AL625/AL625HD "Tracker") | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
 | AutoSwing (ASW8-1) — automatic swing-door operator, pull or push arm | AutoSlide | [[AutoSwing]] |
 | Model 133 — residential swing-door operator, free swing by hand | Open Sesame | [[Open-Sesame-Model-133]] |
@@ -150,7 +150,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
 | Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms; government version: lifetime only while the original owner has it, start no later than 14 months after shipping) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
-| Vehicle lift power wiring (PUL-1100, ASL-275) | [[Vehicle-Lift-Power-Wiring]] |
+| Vehicle lift power wiring (Bruno PUL-1100, ASL-275; Harmar 23 ft harness, 20 A breaker, red last) | [[Vehicle-Lift-Power-Wiring]] |
 | Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
 | TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2 controllers: GA541 + GP162 PTC variant) | [[TruCharge-Diagnostics]] |
 | Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion + both LiteRider generations) | [[Flash-Beep-Diagnostics]] |
@@ -247,7 +247,7 @@ sources; revealed the [[ASL-250]] model page and its "HTP" ramped
 platform variant, undocumented on ASL-275).
 
 Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
-four passes:
+five passes:
 
 *First pass:* CSL Series Photo Measuring Manual (physically located under
 `MANUALS/Bruno/Bruno Curved SL/HARMAR Camera Measuring Manual.pdf` — a
@@ -307,6 +307,11 @@ Guardian System / install prep / Q4 2022 changes, Pinnacle drive system
 and zero-overrun install, Helix remotes, threshold ramps. Dealer sheets,
 ranked below the manuals; two conflicts flagged (AL1235U 4 in drop,
 Highlander II Service Mode timer).
+
+*Fifth pass* (2026-10-06, 4 files): [[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]], [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]] (legacy
+"Tracker") and [[Harmar Mobility Solutions Chart (2026, Rev F)]]. Closes three Missing manuals items (hoist lifts,
+truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
+150/225 lb vs manual and 2026 chart 135/210 lb.
 
 Golden (68 of 68 ingested — fully ingested) — see `wiki/sources/Golden/`: [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
@@ -488,16 +493,12 @@ missing manuals: the manufacturer's dealer portal or tech support
 
 **Supply, 65 II F, Harmar vehicle lifts (36F79721D0058)**, checked
 against [[Harmar VA FSS Price List (2018-2023)]]:
-- [ ] **Inside (hoist) lifts** AL-215, AL-225, AL-425, AL-425HD, AL-435,
-  AL-435T: install and owner's manuals. On file now: brochure, AL425 and
-  AL435T spec sheets, AL425/AL435 parts diagrams, strap bulletin,
-  docking-device and lift-selection sheets
-  ([[Hoist-Series-Inside-Vehicle-Lifts]]).
-- [ ] **Truck lifts** AL-815CC, AL-825, AL-825CC, AL-835: install and
-  owner's manuals. On file now: brochure, AL825 parts diagram.
-- [ ] **AL-625HD** heavy-duty hybrid van lift: all manuals. The hybrid
-  manuals cover AL600/AL690 and AL6000/AL6000HD only
-  ([[Hybrid-Vehicle-Lifts]]).
+- [x] **Inside (hoist) lifts** AL-215, AL-225, AL-425, AL-425HD, AL-435,
+  AL-435T: [[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], ingested 2026-10-06.
+- [x] **Truck lifts** AL-815CC, AL-825, AL-825CC, AL-835: [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]], ingested
+  2026-10-06.
+- [x] **AL-625HD** hybrid van lift: [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]], ingested 2026-10-06. Not on
+  Harmar's 2026 chart; probably discontinued.
 - [ ] **Outlander** (LP, TM, DE, XL, full platform), **Backpacker
   Plus**, **Commander 450** (2-axis, 3-axis): everything. No wiki page
   yet.
@@ -539,7 +540,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
-### Harmar — fully ingested; contracted hoist, truck and other lifts still have no manual on disk, see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; Outlander, Backpacker Plus, Commander 450 and the rubber threshold ramps still have no manual, see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 

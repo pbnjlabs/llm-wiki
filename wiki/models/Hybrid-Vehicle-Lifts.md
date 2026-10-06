@@ -92,7 +92,34 @@ device positioned unevenly on the platform, not a mechanical fault.
 Rattling while driving = platform not fully docked/locked (press "IN"
 until seated).
 
+## Space needed (2026 chart)
+Per [[Harmar Mobility Solutions Chart (2026, Rev F)]]: AL600 350 lb, 28.5 × 38 in platform (45 in with the 7 in
+wheel cradle), **32 in headroom, 44 in depth**; AL690 275 lb, small
+scooters only, 21.5–29 in adjustable width, **32 in headroom, 55 in
+depth**. Both 4 cam-buckle straps; Q'Straint retractors optional on the
+AL600.
+
+## Legacy: AL625 / AL625HD ("Tracker")
+An older inside-platform van lift, **350 lb**, documented only in a 2012
+manual that calls it the **"Freedom Lift Tracker"** ([[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]]). It's on
+Harmar's 2022 FSS list (AL-625HD-12) but **not on the 2026 chart**, so
+it's probably discontinued; confirm with Harmar before quoting.
+Different design from the AL600/AL690:
+- A **trolley on tracks** with a lead screw and actuator; mounts on bars
+  **U-bolted to the rear seat anchors**, or bolted to the floor.
+- Pendant plus **RF remote** (own fuse); **cut-off switch, "RED IS
+  ON"**, off whenever not in use.
+- Install: trolley as far rearward as possible, remove the **two
+  shipping blocks** from the tracks, level the platform **with the
+  customer's chair on it**, check the alignment pins seat at home.
+- Maintenance: **keep the tracks clear of stones**, hardware monthly,
+  **grease the lead screw twice a year**.
+- Loud clicking after lifting = actuator clutching out: adjust the boom
+  limit switch contact screw.
+
 ## Documents on file
+- [[Harmar Mobility Solutions Chart (2026, Rev F)]] — AL600/AL690 specs
+- [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]] — legacy AL625/AL625HD
 - [[Harmar Product Insights (2021-2023)]] — lift selection: hybrids suit medium/low-capability users, keep the device out of the weather and fit in a garage (dealer sheets)
 - [[Hybrid Vehicle Lifts Owner's Manual (AL600-AL690, 2025)]]
 - [[Hybrid Vehicle Lifts Installation and Service Manual (AL600-AL690, 2025)]]
@@ -108,9 +135,9 @@ until seated).
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,
 plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
-**Missing manual:** the **AL-625HD** heavy-duty hybrid van lift is on
-Harmar's FSS list (and the AL412 wireless remote fits AL625/AL625HD), but
-no manual on disk covers it. Tracked at [[index#Missing manuals]].
+The **AL-625HD** on Harmar's FSS list is now covered by the 2012
+AL625/AL625HD manual (see Legacy above; ticked off at
+[[index#Missing manuals]]).
 
 ## See also
 [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],

@@ -17,7 +17,7 @@ term**, confirmed from each product's own owner's manual:
 | [[HighlanderII]] (VPL400-1400) | Material/mechanical/electrical parts, excl. labor/paint | 3 yr from install date | 1 yr | Paint adhesion/deep rust: 1 yr; coastal (within 1 mi) rust excluded after 90 days |
 | [[HighlanderII]] — VPL400-X specifically | Parts | **2 yr** (shorter than the general line) | — | Residential-only SKU |
 | [[AL-Series-Outside-Vehicle-Lifts]] | Parts, excl. labor/batteries/paint | 3 yr, **transferable**, from retail purchase | — | Does not cover vehicle defects, or lift defects caused by a vehicle defect |
-| [[Hoist-Series-Inside-Vehicle-Lifts]] | Parts | 3 yr, **transferable** | — | Same term as the AL-series outside lifts, per the Hoist brochure |
+| [[Hoist-Series-Inside-Vehicle-Lifts]] | Parts, excl. labor/batteries/paint/rust/covers | 3 yr, **transferable** | — | Per the inside and truck lift manuals: starts at install, **no later than 180 days from manufacture**; certificate back within 10 days; **void if the application isn't approved by Harmar's Compatibility Calculator** |
 | [[Hybrid-Vehicle-Lifts]] (AL600/AL690/AL6000/AL6000HD) | Material, mechanical, electrical parts, excl. labor/paint | 3 yr from retail purchase, to original purchaser | — | Same term worded identically across both hardware generations' manuals |
 | [[Pinnacle-SL300]] | Material/mechanical/electrical parts | 2 yr from retail purchase | 1 yr | **Gear rack: 10 yr** separately; residential-only, outdoor/commercial excluded |
 | [[Pinnacle-SL600]] | Motor, gearbox, worm gear, gear rack | **Limited lifetime** | 1 yr | Other parts/electrical: 3 yr; outdoor excluded, but commercial IS covered (unlike SL300) |

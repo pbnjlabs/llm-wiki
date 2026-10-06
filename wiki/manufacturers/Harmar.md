@@ -76,9 +76,9 @@ included, threshold ramps, FSS warranty and returns): [[Harmar VA FSS Price List
 on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
 65 II F 36F79721D0058 (vehicle lifts). See [[VA-FSS-Contracts]].
 
-**Missing manuals for contracted lifts:** hoist and truck lifts (AL-215
-to AL-835), AL-625HD, Outlander, Backpacker Plus, Commander 450. Tracked
-at [[index#Missing manuals]].
+**Missing manuals for contracted lifts:** Outlander, Backpacker Plus,
+Commander 450 (hoist, truck and AL-625HD closed 2026-10-06). Tracked at
+[[index#Missing manuals]].
 
 ## Cross-cutting concepts
 
@@ -112,8 +112,7 @@ at [[index#Missing manuals]].
 
 ## Not yet ingested
 
-No narrative owner's/install manual is on file yet for any
-[[Hoist-Series-Inside-Vehicle-Lifts]] model (brochure, one bulletin,
-parts diagrams and the 2021 docking-device and lift-selection sheets
-only). Helix, SL300, and SL600 install manuals are now on
+[[Hoist-Series-Inside-Vehicle-Lifts]] now has install and owner's
+manuals ([[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]]); only the AL055/AL065 lack one. Harmar's current
+vehicle-lift lineup and specs: [[Harmar Mobility Solutions Chart (2026, Rev F)]]. Helix, SL300, and SL600 install manuals are now on
 file (closed from the previous ingest's backlog note).
