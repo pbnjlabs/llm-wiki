@@ -267,7 +267,10 @@ an engineer; EZ-ACCESS sales can arrange those.
 ## Warranty
 
 Lifetime warranty; register at ezaccess.com/warranty-satisfaction
-(manual p. 49).
+(manual p. 49). Full terms in [[EZ-ACCESS Lifetime Warranty (2017)]]: parts only (not powder coat or
+non-skid tape), original purchaser only, report defects within 30 days;
+**installation, relocation and soil movement or regrading aren't
+covered**.
 
 ## Documents
 

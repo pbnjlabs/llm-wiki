@@ -57,8 +57,13 @@ and PATHWAY HD. Cross-cutting planning and ADA articles go in General.
 Lifetime warranty on PATHWAY (register at ezaccess.com/warranty-satisfaction)
 and on the TRANSITIONS Angled Entry Ramp and Angled Entry Mat (mat:
 register at ezaccess.com/product-registration, per
-[[TRANSITIONS Angled Entry Mat Instructions]]). The warranty terms for
-other lines aren't on file.
+[[TRANSITIONS Angled Entry Mat Instructions]]). **Full warranty terms**
+([[EZ-ACCESS Lifetime Warranty (2017)]]): lifetime, parts and components only (not powder coat or applied
+non-skid tape), parts and labor free, **original purchaser only, not
+transferable**, proof of purchase, **report defects within 30 days**,
+contact EZ-ACCESS first for an RA or site visit. Excludes installation,
+relocation, improper loads, ground settling or regrading, and weather.
+SUITCASE specs: [[SUITCASE Portable Folding Ramps Brochure]].
 
 ## Cross-cutting topics
 
