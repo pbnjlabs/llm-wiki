@@ -111,8 +111,8 @@ inspector's report is done. Details are on the Bruno price list page.
 ## Missing manuals
 
 Several contracted vehicle lifts have **no install or owner's manual on
-disk**: Harmar's Backpacker Plus and Commander 450 (the Outlander is
-discontinued; its DE is the AL100-DE), and
+disk**: Harmar's Commander 450 (the Outlander is discontinued, its DE is
+the AL100-DE; the Backpacker Plus is the AL600), and
 Bruno's Chariot, Joey and Curb-Sider. (Harmar's hoist and truck lifts and
 the AL-625HD were closed 2026-10-06.) The checklist lives in the index backlog: [[index#Missing manuals]].
 

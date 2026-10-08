@@ -155,7 +155,9 @@ separately". Grouped here by lift family; the scan lists them unsorted.
 Product lines the wiki doesn't cover yet. **Outlander: discontinued**
 (not on Harmar's site, per the human, 2026-10-08). **Outlander DE = AL100-DE**;
 the AL300-FULL is the AL300 equivalent; the AL301XL is also dual entry.
-See [[AL-Series-Outside-Vehicle-Lifts]].
+See [[AL-Series-Outside-Vehicle-Lifts]]. **Backpacker Plus (SSBPPLUS) = AL600**
+(per the human), see [[Hybrid-Vehicle-Lifts]]. Note the Backpacker Plus
+($2,515.32) and AL-600-12 ($2,498.20) are priced as separate lines.
 
 | Catalog # | Description | Price |
 |---|---|---|

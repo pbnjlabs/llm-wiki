@@ -92,6 +92,11 @@ device positioned unevenly on the platform, not a mechanical fault.
 Rattling while driving = platform not fully docked/locked (press "IN"
 until seated).
 
+## Backpacker Plus = AL600
+The **"Backpacker Plus"** (catalog SSBPPLUS on Harmar's 2022 FSS list,
+$2,515.32) is the **AL600** (per the human). The same list also prices
+AL-600-12 separately ($2,498.20). See [[Harmar VA FSS Price List (2018-2023)]].
+
 ## Space needed (2026 chart)
 Per [[Harmar Mobility Solutions Chart (2026, Rev F)]]: AL600 350 lb, 28.5 × 38 in platform (45 in with the 7 in
 wheel cradle), **32 in headroom, 44 in depth**; AL690 275 lb, small
