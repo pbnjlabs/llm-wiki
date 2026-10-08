@@ -29,9 +29,9 @@ M24 = group 24, and so on); Interstate lists its groups.
 |---|---|---|---|---|
 | Small | 12–20 | ES12-12, ES14-12, ES17-12, ES20-12C | DCM0012 (12 Ah), DCM0018 (18 Ah) | K0733 |
 | Small | 26 | M12260 SLD M (AGM) | DCM0026 | K0733 |
-| U1 | 31.6–35 | MU-1 SLD G (gel 31.6), MU-1 SLD A (AGM 32), MU-1 SLD M / M FT (AGM 35), MU-1 SLD M-33 (33) | DCM0035, DCM0035L | E2365 |
+| U1 | 31.6–35 | MU-1 SLD G (gel 31.6), MU-1 SLD A (AGM 32), MU-1 SLD M / M FT (AGM 35), MU-1 SLD M-33 (33); MU-1 SLD is PMS's battery for the pre-2024 GC440 | DCM0035, DCM0035L | E2365 |
 | 40 Ah | 40–45 | M40-12 SLD G (gel 40), ES40-12E (40), M40-12 SLD M (AGM 45) | DCM0040 | — |
-| 50 Ah | 50 | M50-12 SLD M (AGM) | — | — |
+| 50 Ah | 50 | M50-12 SLD M (AGM; PMS's battery for the 2024+ Golden GC440) | — | — |
 | 22NF | 48–55 | M22NF SLD G (gel 51), M22NF SLD A (AGM 55), M22NF-HC (48.4), M55-12 SLD M (AGM 55) | DCM0055, DCM0055U | E2361 |
 | Group 34 | 60 | M34 SLD G (gel) | DCM0060 | — |
 | Group 24 | 73.6–79 | M24 SLD G / G FT (gel 73.6), M75-12 SLD M (AGM 75), 8A24 HEI, W79-12 (AGM 79) | DCM0075, DCM0075U | E2363 |
