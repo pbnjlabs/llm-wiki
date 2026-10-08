@@ -51,6 +51,14 @@ individual per-model manual exists)
 - **AL100 / AL100-DE / AL100HD / AL160 / AL300 / AL300HD** — mid-weight,
   Class 2/3/5, wheel-cradle adjustment procedure shared across
   AL100/160/300
+- **AL100-DE = the old "Outlander DE"** (per the human). **DE = dual
+  entry**; the **AL301XL is also dual entry**. The Outlander line on
+  Harmar's 2022 FSS list (SSESL1007–1011: LP, TM, DE, XL, full platform)
+  is **discontinued**; the **AL300-FULL is the AL300 equivalent**. AL100-DE
+  per the 2026 chart: scooters, 350 lb, 83 lb installed, **28.6 × 56.7 in
+  platform**, class II+ hitch, auto hold-down foot plus **adjustable
+  wheel chocks** (included), retractable strap kit option. No separate
+  manual section: the general Outside Lifts manuals cover it.
 - **AL105 / AL105L** — swing-away accessory/variant (opens for trunk
   access); AL105L uses a push-down-and-away latch release instead of a
   pull pin

@@ -152,7 +152,10 @@ separately". Grouped here by lift family; the scan lists them unsorted.
 
 ### Other lifts on the list
 
-Product lines the wiki doesn't cover yet.
+Product lines the wiki doesn't cover yet. **Outlander: discontinued**
+(not on Harmar's site, per the human, 2026-10-08). **Outlander DE = AL100-DE**;
+the AL300-FULL is the AL300 equivalent; the AL301XL is also dual entry.
+See [[AL-Series-Outside-Vehicle-Lifts]].
 
 | Catalog # | Description | Price |
 |---|---|---|
