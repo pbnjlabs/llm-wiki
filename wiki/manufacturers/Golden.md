@@ -72,6 +72,28 @@ rather than split into product-line subfolders.
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
+## Golden's VA lineup (2026)
+
+The models **Golden markets to the VA** (per the human, 2026-10-08). These
+are the Golden units most likely to come through VA work (Scootaround
+repairs, VA purchases).
+
+| Model | Type | In the wiki? |
+|---|---|---|
+| GC240 Companion Mid-Size | Scooter | Yes: [[GC240-340-440-540-Companion]] |
+| GC340 Companion Full-Size 3-Wheel | Scooter | Yes: same page |
+| GC440 Companion Full-Size 4-Wheel | Scooter | Yes: same page (changed 2024; new model heavier) |
+| GC540 Companion HD 3-Wheel | Scooter | Yes: same page |
+| **GB147H** Buzzaround 4-Wheel | Scooter | **Partly**: only a GB147 field alignment sheet ([[GB1xx-Buzzaround-XL]]); what the "H" means isn't on file |
+| **GR595 Eagle** | Scooter | **No documents** |
+| GA541 Avenger | Scooter | Yes: [[GA541-Avenger]] |
+| GP162 LiteRider Envy | Power chair | Yes: [[GP162-LiteRider-Envy]] |
+| GP605 Compass Sport | Power chair | Yes: [[GP6xx-Compass]] |
+| **GP302 Cricket** | Power chair | **No documents** |
+| GP303 Ally | Power chair | Yes: [[GP303-Ally]] |
+
+Gaps are on the Missing manuals checklist ([[index#Missing manuals]]).
+
 ## Cross-cutting / all-models docs — Fully ingested.
 
 22 documents that aren't model-specific, filed as 8 concept pages by

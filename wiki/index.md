@@ -531,6 +531,10 @@ on file):
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
   VA-issued manual chairs.
+- [ ] **Golden VA lineup gaps** (models Golden markets to the VA, per
+  the human; see [[Golden]]): **GR595 Eagle** scooter and **GP302
+  Cricket** power chair have no documents; **GB147H** Buzzaround has
+  only a GB147 field alignment sheet.
 - Power chairs and scooters: only Golden, Pride and Red Hawk are on
   file. Add other brands as VA jobs turn them up.
 

@@ -7,6 +7,9 @@ tags: [golden, buzzaround, buzzaround-xl, buzzaround-lite, scooter]
 
 # Buzzaround XL / Buzzaround Lite (GB106, GB116, GB146, GB147)
 
+**GB147H** (4-wheel) is on Golden's 2026 VA lineup (per the human). How
+the "H" version differs from the GB147 isn't in any document on file.
+
 Golden's mid-size folding travel scooter family. No IPB or Operator
 Manual is on file for any of these model numbers yet — everything known
 comes from short service/accessory bulletins.
