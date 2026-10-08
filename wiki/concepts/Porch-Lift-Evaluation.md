@@ -41,6 +41,18 @@ porch/deck surface.
 Also record **door direction** (in/out, left/right, **including screen or
 glass doors**) and the **gate hinge side** (standing in the lift).
 
+### Aluminum (modular) platform as the VPL landing
+PMS's position, from its Oct 2026 reply to the VA ([[Aluminum Platforms for VPLs (2026)]]): **possible in
+some cases, not always.**
+- **60 × 60 in can be too small** for the upper platform to get the chair
+  through the door: **storm door, large power chair, or adjacent
+  (side) exit**.
+- **Platform 30 in or higher:** standard aluminum platform rails **don't
+  meet building code**. It needs **vertical pickets spaced 3.5 in**, a
+  commercial aluminum railing system.
+- **Aluminum steps on a 5 × 5 aluminum platform** often leave a gap where
+  the chair could roll off.
+
 ## Sketch and photos
 
 - Sketch the site: driveways, sidewalks, trees, shrubs, electric, water,

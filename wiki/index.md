@@ -10,19 +10,19 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 21 (+4 in `MANUALS/Admin/`) | 24 (4 in `sources/Bruno/General/`: lifts price list, lead sign-off form, warranty summary, VA FSS price list, all from `MANUALS/Admin/`) |
+| Bruno | [[Bruno]] | 22 (+3 in `MANUALS/Admin/`) | 24 (4 in `sources/Bruno/General/`: lifts price list, lead sign-off form and VA FSS price list from `MANUALS/Admin/`; warranty summary from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 68 | 67 source pages (one duplicate PDF shares a page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 93 | 46 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from `MANUALS/Admin/`) |
+| Harmar | [[Harmar]] | 93 | 46 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 12 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (21 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
-Note: `MANUALS/Bruno/` holds 21 files, all in product-line subfolders (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
+Note: `MANUALS/Bruno/` holds 22 files: 21 in product-line subfolders plus the loose `bruno_warranty.pdf` (Bruno and Harmar warranty sheets, moved from `MANUALS/Admin/` on 2026-10-08) (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
 Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
 counted under Harmar instead, a different manufacturer's document not
 moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
@@ -81,7 +81,7 @@ part-number names (`Harmar-610-00039-01-D-Helix-OM.pdf`,
 match the human's folder). The 46 source pages also **consolidate**
 low-narrative file groups (6 order/evaluation forms, 4 spec sheets, 9
 parts diagrams, 6 wiring schematics, 11 Product Insights sheets, one page each), and two pages
-([[Harmar Warranty Policy (2018)]], [[Harmar VA FSS Price List (2018-2023)]]) come from `MANUALS/Admin/`. 10
+([[Harmar Warranty Policy (2018)]] from `MANUALS/Bruno/bruno_warranty.pdf`, [[Harmar VA FSS Price List (2018-2023)]] from `MANUALS/Admin/`) come from outside `MANUALS/Harmar/`. 10
 image/CSV files (8 AL425 product photos, 2 DAM metadata exports) were
 deliberately excluded as non-manual assets. See [[Harmar]] for details.
 
@@ -173,7 +173,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ambulatory aids fitting (cane, crutches, walker, rollator, knee walker) | [[Ambulatory-Aids-Fitting]] |
 | Ceiling lift evaluation (PMS form, structure and mounting method, pick-up points, outlet within 2 ft of track end, span limits, 150% load test) | [[Ceiling-Lift-Evaluation]] |
 | Stairlift evaluation (PMS form, **customer email for DocuSign layout approval**, measurements, outlet/overrun/seat rules, photos; **install completion pictures** list) | [[Stairlift-Evaluation]] |
-| Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement) | [[Porch-Lift-Evaluation]] |
+| Porch lift (VPL) evaluation (pad, GFI, call box, head clearance, HISA agreement; aluminum platform landings: when they don't work) | [[Porch-Lift-Evaluation]] |
 | PMS office procedures hub (PO = last name, quotes inbox, returns, lift ordering, Scootaround, ramps) | [[PMS-Office-Procedures]] |
 | VA FSS contracts (which contract number for which product and company: Supply 65 II A D0084 / 65 II F D0058, Solutions 65 II F D0128, no Solutions 65 II A; **manufacturer FSS price = ceiling for PMS's VA price** and the VA bid reference; all lists already loaded in QuickBooks; Bruno vs Harmar FSS warranty/returns/delivery; MedSurg) | [[VA-FSS-Contracts]] |
 | Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates incl. batteries at MSRP × 0.70, OEM-only parts) | [[Scootaround-VA-Repairs]] |
@@ -418,15 +418,15 @@ Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
 
-PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). The old `Misc./` folder is gone; its last file, an older P440 copy, was deleted.
+PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, Scootaround, **Memos** (added 2026-10-08: preferred electricians, MK battery prices, aluminum VPL platform memo), plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). The old `Misc./` folder is gone; its last file, an older P440 copy, was deleted.
 
-PMS (17 ingested), see `wiki/sources/PMS/`, sorted by job type:
+PMS (18 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking
 numbers); [[PMS Grab Bar Quote Response (2026)]] (Grab Bars: PMS's reply
 to the VA RFQ, tile/drywall yes, fiberglass no, pricing);
 [[Ambulatory Aids Training]] (Training: 5-part fitting training with
-videos); [[PMS Porch Lift Layout Example]] (Training: hand-drawn VPL site plan and marked-up photo); [[PMS Stair Lift Charger Cord Policy (2019)]] (Install Forms: charger cords in a CordMate C110 cover). `MANUALS/Admin/bruno_warranty.pdf` is split into [[Bruno Warranty Summary]] (Bruno/General) and [[Harmar Warranty Policy (2018)]] (Harmar/General). `MANUALS/Admin/fss_contracts.pdf` (39-page FSS binder) is split into [[PMS FSS Contracts Binder]] (Invoicing and Delivery: contract map, GSA SINs, MedSurg), [[Bruno VA FSS Price List (2021-2026)]] (Bruno/General) and [[Harmar VA FSS Price List (2018-2023)]] (Harmar/General); synthesis on [[VA-FSS-Contracts]]. [[Stairlift Evaluation Measurements and Photos]] (Stairlift
+videos); [[PMS Porch Lift Layout Example]] (Training: hand-drawn VPL site plan and marked-up photo); [[PMS Stair Lift Charger Cord Policy (2019)]] (Install Forms: charger cords in a CordMate C110 cover). `MANUALS/Bruno/bruno_warranty.pdf` (moved from `Admin/` 2026-10-08) is split into [[Bruno Warranty Summary]] (Bruno/General) and [[Harmar Warranty Policy (2018)]] (Harmar/General). `MANUALS/Admin/fss_contracts.pdf` (39-page FSS binder) is split into [[PMS FSS Contracts Binder]] (Invoicing and Delivery: contract map, GSA SINs, MedSurg), [[Bruno VA FSS Price List (2021-2026)]] (Bruno/General) and [[Harmar VA FSS Price List (2018-2023)]] (Harmar/General); synthesis on [[VA-FSS-Contracts]]. [[Stairlift Evaluation Measurements and Photos]] (Stairlift
 Evaluations: 5 measurements, acceptable/unacceptable photos);
 [[Delivery Ticket and Invoice Examples]] (Invoicing and Delivery: VA vs.
 private pay tickets and invoices). Evaluation Forms (raw files in `MANUALS/Admin/Paperwork/Evals/`):
@@ -437,7 +437,7 @@ Part A, repair eval and ceiling lift eval forms (noted on their existing
 pages). Install forms (raw files in `MANUALS/Admin/Paperwork/Installs/`):
 [[PMS Porch Lift Install Instructions and HISA Final Payment]] (Install
 Forms), [[PMS Grab Bar Waiver of Liability]] (Grab Bars), and the ramp
-[[PMS Ramp Installation Sign-Off]] (filed under EZ-ACCESS/General). Electrical: [[PMS Electrical Work Orders and Preferred Electricians]] (`sources/PMS/Electrical/`; raw in `MANUALS/Admin/`). Blank delivery paperwork (raw files in `MANUALS/Admin/Paperwork/Misc.
+[[PMS Ramp Installation Sign-Off]] (filed under EZ-ACCESS/General). Electrical: [[PMS Electrical Work Orders and Preferred Electricians]] (`sources/PMS/Electrical/`; raw in `MANUALS/Admin/Paperwork/` and `MANUALS/Admin/Memos/`). Memos: [[Aluminum Platforms for VPLs (2026)]] (`sources/PMS/Memos/`; PMS's Oct 2026 reply to the VA on aluminum platforms as VPL landings). Blank delivery paperwork (raw files in `MANUALS/Admin/Paperwork/Misc.
 Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
 tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
 Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
@@ -453,7 +453,7 @@ Batteries (1 of 1 ingested), see `wiki/sources/Batteries/Price Sheets/`:
 [[Battery Price Sheets (MK, Interstate)]]. MK Battery MSRP (Dec 2024) and
 dealer program (Mar 2025) sheets and the Interstate mobility price sheet
 (Jun 2024): specs, prices, HCPCS codes, MK chargers. Raw file in
-`MANUALS/Admin/`. Cross-referenced on [[Mobility-Batteries]].
+`MANUALS/Admin/Memos/`. Cross-referenced on [[Mobility-Batteries]].
 
 Scootaround (4 of 4 ingested), see `wiki/sources/Scootaround/VA Repair Program/`
 (raw files in `MANUALS/Admin/Scootaround/`): [[Scootaround VA Repair Workflow]]

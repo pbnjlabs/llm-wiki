@@ -38,6 +38,7 @@ into the wiki; look them up on the raw files.
 - Evaluation packet (site limits, sketch, HISA agreement): [[Porch-Lift-Evaluation]], [[PMS Porch Lift (VPL) Evaluation Packet]]
 - Layout sketch example: [[PMS Porch Lift Layout Example]]
 - Install handover and HISA final payment: [[PMS Porch Lift Install Instructions and HISA Final Payment]]
+- Aluminum platform as the VPL landing (sometimes; not when 60 × 60 is too small, at 30 in+ without picket rails, or where steps leave a roll-off gap): [[Aluminum Platforms for VPLs (2026)]]
 
 **Ceiling lifts**
 - Evaluation, track rules and install tests: [[Ceiling-Lift-Evaluation]], [[Ceiling Lift Evaluation Form]]

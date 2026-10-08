@@ -2,7 +2,7 @@
 type: source
 manufacturer: PMS
 doc_type: Internal Workflow
-source: "MANUALS/Admin/Paperwork/electrical_work_orders.pdf; MANUALS/Admin/elecricians_preffered.pdf"
+source: "MANUALS/Admin/Paperwork/electrical_work_orders.pdf; MANUALS/Admin/Memos/elecricians_preffered.pdf"
 date: 2024-08-15
 tags: [pms, electrical, electrician, outlet, gfi, vpl, porch-lift, stairlift, work-order]
 ---
@@ -91,4 +91,4 @@ it.
 - [[PMS-Office-Procedures]]
 
 Raw PDFs: `MANUALS/Admin/Paperwork/electrical_work_orders.pdf`,
-`MANUALS/Admin/elecricians_preffered.pdf`
+`MANUALS/Admin/Memos/elecricians_preffered.pdf`

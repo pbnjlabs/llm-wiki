@@ -264,6 +264,14 @@ an engineer; EZ-ACCESS sales can arrange those.
 - Touch up scratches on architectural-finish rails with 180-grit
   sandpaper along the grain, never on painted or powder-coated rails.
 
+## As a porch lift (VPL) landing
+PMS will use aluminum platforms as a VPL's upper landing **only in some
+cases** ([[Aluminum Platforms for VPLs (2026)]]). **At 30 in or higher, the standard two-line platform
+rails don't meet building code**; it needs a **vertical-picket rail
+(3.5 in spacing)**, a commercial system (see [[PATHWAY-HD]]). 60 × 60
+may be too small with a storm door, a large chair or a side exit, and
+steps added to a 5 × 5 platform can leave a roll-off gap.
+
 ## Warranty
 
 Lifetime warranty; register at ezaccess.com/warranty-satisfaction

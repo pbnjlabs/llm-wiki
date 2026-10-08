@@ -2,7 +2,7 @@
 type: source
 manufacturer: Bruno
 doc_type: Warranty
-source: "MANUALS/Admin/bruno_warranty.pdf"
+source: "MANUALS/Bruno/bruno_warranty.pdf"
 tags: [bruno, warranty, stairlift, vpl, vehicle-lift]
 ---
 
@@ -41,4 +41,4 @@ SRE-3050 isn't listed.
 - [[Warranty]]
 - [[SRE-3000]], [[SRE-2010]], [[CRE-2110]], [[VPL-3100B]], [[VPL-3200B]]
 
-Raw PDF: `MANUALS/Admin/bruno_warranty.pdf` (page 1)
+Raw PDF: `MANUALS/Bruno/bruno_warranty.pdf` (page 1)

@@ -2,7 +2,7 @@
 type: source
 manufacturer: Harmar
 doc_type: Warranty
-source: "MANUALS/Admin/bruno_warranty.pdf"
+source: "MANUALS/Bruno/bruno_warranty.pdf"
 date: 2018-02-22
 tags: [harmar, warranty, dealer, rma, registration]
 ---
@@ -47,4 +47,4 @@ each product's term is on its own certificate (see [[Harmar-Warranty]]).
 - [[Harmar-Warranty]]
 - [[Ordering and Returning Parts]] (RMA returns)
 
-Raw PDF: `MANUALS/Admin/bruno_warranty.pdf` (page 2)
+Raw PDF: `MANUALS/Bruno/bruno_warranty.pdf` (page 2)
