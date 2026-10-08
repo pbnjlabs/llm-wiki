@@ -38,7 +38,7 @@ ratings (see [[ASL-275]], [[ASL-700]]).
 | GB148 Buzzaround EX 4W | 161 lb | 44 × 22 in | 33.8 in | 350 lb | 244 lb |
 | GC240 Companion Mid-Size | 170.8 lb | 42.25 × 24 in | 30 in | 350 lb | 253.8 lb |
 | GC340 Companion 3W | 207 lb | 46 × 24.5 in | 34.5 in | 400 lb | 290 lb |
-| **GC440 Companion 4W (2024+)** | **222 lb** | 48 × 24.5 in | 35.5 in | 400 lb | **305 lb** |
+| **GC440 Companion 4W (2024+)** | **222 lb** (Golden, U1) / **~242 lb** with PMS's M50-12 batteries | 48 × 24.5 in | 35.5 in | 400 lb | **305 / ~325 lb** |
 | GC540 Companion HD | 225.5 lb | 48 × 26 in | 36 in | 500 lb | 308.5 lb |
 | GA541 Avenger | 268 lb | 57.5 × 24.5 in | 38.5 in | 500 lb | 351 lb |
 | GR595 Eagle | 302.5 lb (NF22) | 56.5 × 27 in | 40 in | 500 lb | 385.5 lb |
@@ -47,7 +47,11 @@ ratings (see [[ASL-275]], [[ASL-700]]).
 the earlier model and needs an appropriate Harmar lift (per the human).
 With an AL100 and an AL105 swing-away it comes to **345 lb on the
 hitch**, which leaves almost no margin on a hitch rated around 350 lb.
-The pre-2024 GC440's weight isn't on file.
+**PMS installs MK M50-12 SLD M** (50 Ah, 33.2 lb each) in the 2024+
+GC440 instead of Golden's standard U1s, bringing it to **about 242 lb**
+(wiki arithmetic): about **365 lb** on the hitch with an AL100 and AL105.
+The pre-2024 GC440 used MK MU-1 SLD (U1); its total weight isn't on
+file. See [[GC240-340-440-540-Companion]].
 
 The **Avenger and Eagle** are long (57.5 and 56.5 in) and heavy; check
 platform length and capacity before assuming a scooter lift fits. The
@@ -100,6 +104,7 @@ lift (+ swing-away), the number the hitch must be rated for.
 | GC240 Companion | 170.8 | AL160 | 244.8 | 269.8 | 284.8 | Std scooter | 295.8 | Yes |
 | GC340 Companion | 207 | AL160 | 281 | 306 | 321 | Std scooter | 332 | Yes |
 | **GC440 Companion (2024+)** | **222** | AL160 | **296** | **321** | **336** | Std scooter | **347** | Yes |
+| **GC440 (2024+) with M50-12 batteries (PMS install)** | **~242** | AL160 | **~316** | **~341** | **~356** | Std scooter | **~367** | Yes |
 | GC540 Companion HD | 225.5 | AL160 | 299.5 | 324.5 | 339.5 | Std scooter | 350.5 | Yes (26 in wide) |
 | GA541 Avenger | 268 | AL160 | 342 | 367 | 382 | **Large** platform (38.5 in wheelbase) | 396 | Borderline (38.5 = max) |
 | GR595 Eagle (NF22) | 302.5 | AL160 | 376.5 | 401.5 | 416.5 | **Large** platform | 430.5 | No (40 in wheelbase, 27 in wide) |
