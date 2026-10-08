@@ -54,6 +54,90 @@ platform length and capacity before assuming a scooter lift fits. The
 Eagle with 75 Ah batteries is heavier than 302.5 lb (each 75 Ah battery
 is 52 lb vs 37 lb for NF22).
 
+## Minimum lift pairings (wiki estimate)
+
+> [!warning] Estimate, not a manufacturer approval
+> Built only from the published capacities, wheelbase and platform
+> limits, lift weights and swing-away weights on file. It doesn't check
+> platform width against wide scooters, tire size, ground clearance or
+> the vehicle. **Confirm every pairing with Harmar's Compatibility
+> Calculator or Bruno before ordering**, and check the hitch's own
+> tongue-weight label. The 2024 GC440 "needs an appropriate Harmar lift"
+> per the human, so confirm that one in particular.
+
+"Minimum" = the lightest lift whose stated capacity, device type and
+wheelbase limit fit the device. **Required tongue weight** = device +
+lift (+ swing-away), the number the hitch must be rated for.
+
+**Weights used:**
+- **Harmar** (2026 chart and Outside Lifts manual): AL015 65 lb with
+  the 3-wheel cradle, 70 lb with the 4-wheel cradle (150 lb, wheelbase
+  ≤36 in, class I+). AL160 74 lb (350 lb, wheelbase ≤42 in, class I+).
+  AL050 67 lb (135 lb, class I+). AL500 75 lb (power chairs, 350 lb,
+  class II+). AL580-HDX 92 lb (mid-wheel-drive chairs, 450 lb, class
+  III+). Swing-aways: **AL105L 25 lb**, **AL105 40 lb**. The AL105L's
+  load rating isn't on file; the AL105 is rated 400 lb.
+- **Bruno ASL-275** (install manual): **installed weight with the
+  swing-away 110–125 lb**, 128 lb with the large platform. The table
+  uses the top figure. Weight without the swing-away isn't given.
+  Standard scooter platform up to a 38 in wheelbase, large up to 46 in;
+  power chair platform; **ASL-275L** for folding power chairs of 29–75
+  lb. Class II or III hitch. Max device 350 lb.
+- **Bruno ASL-700 Chariot** (no swing-away; rides on its own wheels):
+  350 lb, wheelbase **29–38.5 in**, width ≤27.25 in, class I or II. Its
+  load on the hitch isn't stated.
+
+### Scooters
+
+| Golden scooter | Weight | Harmar lift | Tongue: lift only | + AL105L | + AL105 | Bruno ASL-275 + swing-away | Tongue | Chariot fits? |
+|---|---|---|---|---|---|---|---|---|
+| GB120 Carry On (4W) | 65.5 | AL015, 4W cradle | 135.5 | 160.5 | 175.5 | Std scooter platform | 190.5 | No (wheelbase 28.7 < 29) |
+| GB107 Buzzaround LT (3W) | 85.5 | AL015 | 150.5 | 175.5 | 190.5 | Std scooter | 210.5 | Yes |
+| GB108 Buzzaround LT (4W) | 95 | AL015, 4W cradle | 165 | 190 | 205 | Std scooter | 220 | Yes |
+| GB150 Buzzaround XL (4W) | 110 | AL015, 4W cradle | 180 | 205 | 220 | Std scooter | 235 | Yes |
+| GB118 Buzzaround EX (3W) | 154 | AL160 | 228 | 253 | 268 | Std scooter | 279 | Yes |
+| GB148 Buzzaround EX (4W) | 161 | AL160 | 235 | 260 | 275 | Std scooter | 286 | Yes |
+| GC240 Companion | 170.8 | AL160 | 244.8 | 269.8 | 284.8 | Std scooter | 295.8 | Yes |
+| GC340 Companion | 207 | AL160 | 281 | 306 | 321 | Std scooter | 332 | Yes |
+| **GC440 Companion (2024+)** | **222** | AL160 | **296** | **321** | **336** | Std scooter | **347** | Yes |
+| GC540 Companion HD | 225.5 | AL160 | 299.5 | 324.5 | 339.5 | Std scooter | 350.5 | Yes (26 in wide) |
+| GA541 Avenger | 268 | AL160 | 342 | 367 | 382 | **Large** platform (38.5 in wheelbase) | 396 | Borderline (38.5 = max) |
+| GR595 Eagle (NF22) | 302.5 | AL160 | 376.5 | 401.5 | 416.5 | **Large** platform | 430.5 | No (40 in wheelbase, 27 in wide) |
+
+Notes:
+- The **AL015 tops out at 150 lb**, so the EX and heavier scooters
+  move to the AL160.
+- The AL160 stops at 350 lb. The **Avenger and Eagle are long (57.5 and
+  56.5 in) and heavy**; the AL160's cradle (25 × 25 in, extends to 33)
+  may not suit them even though wheelbase and capacity fit. The
+  **AL100HD** (84 lb, 400 lb capacity, class III+) is the likely real
+  choice; check with Harmar. The Eagle with 75 Ah batteries is 332.5
+  lb.
+- **AL100 vs AL160** for Companions: the AL100 (83 lb, class II+) adds
+  9 lb to every total above.
+
+### Power chairs
+
+| Golden chair | Weight | Harmar lift | Tongue: lift only | + AL105L | + AL105 | Bruno ASL-275 + swing-away | Tongue |
+|---|---|---|---|---|---|---|---|
+| GP302 Cricket (folding) | 39.3 | AL050 | 106.3 | 131.3 | 146.3 | **ASL-275L** (29–75 lb chairs) | 164.3 |
+| GP303 Ally (folding) | 56 | AL050 | 123 | 148 | 163 | **ASL-275L** | 181 |
+| GP162 LiteRider Envy | 123 | AL500 | 198 | 223 | 238 | Std powerchair platform | 248 |
+| GP605 Compass Sport (mid-wheel) | 179 | AL580-HDX | 271 | 296 | 311 | Std powerchair platform | 304 |
+
+Notes:
+- **GP162:** the AL050 (135 lb) would fit by capacity alone (tongue
+  190 lb), but only 12 lb of margin; the AL500 is listed instead. The
+  AL580 (63 lb, power chairs with 10 in drive wheels) is lighter, but
+  the GP162's drive wheels are 9 in.
+- **GP605:** the AL580-HDX is Harmar's mid-wheel-drive lift. The AL500
+  (75 lb) would bring the totals down 17 lb if Harmar approves it for
+  this chair.
+
+**Hitch ratings:** typical (not from the documents) are about 200 lb
+tongue weight for class I, 350 lb for class II and 500 lb or more for
+class III. Always read the actual hitch label and vehicle rating.
+
 ## Golden power chairs
 
 | Model | Assembled weight | L × W | Notes |
