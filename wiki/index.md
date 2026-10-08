@@ -106,7 +106,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
 | Buzzaround Carry On (GB120) | Golden | [[GB120-Buzzaround-CarryOn]] |
 | Companion GC221/321/421 (older gen) | Golden | [[GC221-321-421-Companion]] |
-| Companion GC240/340/440/540 HD | Golden | [[GC240-340-440-540-Companion]] |
+| Companion GC240/340/440/540 HD (**GC440 changed 2024: newer one heavier, needs an appropriate Harmar lift**) | Golden | [[GC240-340-440-540-Companion]] |
 | LiteRider GL110/140 (older gen) | Golden | [[GL110-140-LiteRider]] |
 | LiteRider GL111/141 (current gen) | Golden | [[GL111-141-LiteRider]] |
 | LiteRider Envy GP162 (PTC/VR2 + LiNX variants) | Golden | [[GP162-LiteRider-Envy]] |

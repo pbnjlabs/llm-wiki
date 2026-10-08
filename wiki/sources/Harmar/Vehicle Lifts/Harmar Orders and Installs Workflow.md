@@ -42,6 +42,9 @@ Email PMS's **Harmar order contact** (the same contact on the
 
 **Reference example (2021):** Vehicle: 2003 Ford F-150 std cab short
 bed. Mobility device: Golden GC440 4-wheel scooter. Lift: **AL100**.
+**Pre-2024 GC440 only:** the GC440 changed in 2024 and the new model is
+heavier, so it needs an appropriate Harmar lift (per the human). Check
+the scooter's year; see [[GC240-340-440-540-Companion]].
 SA: **AL105**. **Class III hitch adapter with universal drop.**
 
 ## 2. Invoicing a VA vehicle lift (reference invoice, 2021)
