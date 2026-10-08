@@ -13,6 +13,12 @@ Compass line (GP600/605/615/620), this is a **distinct, unrelated model**
 clustered with Compass by number; corrected here after reading the actual
 content. Link to [[Golden]].
 
+## Sell-sheet specs (Aug 2024)
+
+From [[Golden Sell Sheets (2018-2026)]]: 330 lb, 5 mph, 9 mi, 12 Ah lithium, **56 lb assembled**,
+heaviest piece 49.5 lb, 41 × 24.5 in, folding. Compare the lighter
+[[GP302-Cricket]] (39.3 lb). See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[GP303 Ally Main Wiring Harness Replacement]] — 10-page procedure

@@ -12,6 +12,12 @@ Golden's smallest/lightest travel scooter, designed around airline travel
 battery. No IPB or Operator Manual is on file yet; everything known comes
 from service/accessory bulletins.
 
+## Sell-sheet specs (Sep 2025)
+
+From [[Golden Sell Sheets (2018-2026)]]: 300 lb, 3.6 mph, 12.5 Ah + 6.5 Ah spare lithium (14.4 + 7.5
+mi), **65.5 lb assembled**, heaviest piece (main body) 47.5 lb, folds to
+12 in high without the seat. See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[BuzzAround CarryOn Transportation Guide]]

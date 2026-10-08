@@ -84,15 +84,18 @@ repairs, VA purchases).
 | GC340 Companion Full-Size 3-Wheel | Scooter | Yes: same page |
 | GC440 Companion Full-Size 4-Wheel | Scooter | Yes: same page (changed 2024; new model heavier) |
 | GC540 Companion HD 3-Wheel | Scooter | Yes: same page |
-| **GB147H** Buzzaround 4-Wheel | Scooter | **Partly**: only a GB147 field alignment sheet ([[GB1xx-Buzzaround-XL]]); what the "H" means isn't on file |
-| **GR595 Eagle** | Scooter | **No documents** |
+| **GB147H** Buzzaround 4-Wheel | Scooter | **Partly**: only a GB147 field alignment sheet ([[GB1xx-Buzzaround-XL]]); what the "H" means isn't on file. A newer GB150 XL 4-wheel sell sheet is on file |
+| GR595 Eagle | Scooter | **Sell sheet only**: [[GR595-Eagle]] |
 | GA541 Avenger | Scooter | Yes: [[GA541-Avenger]] |
 | GP162 LiteRider Envy | Power chair | Yes: [[GP162-LiteRider-Envy]] |
 | GP605 Compass Sport | Power chair | Yes: [[GP6xx-Compass]] |
-| **GP302 Cricket** | Power chair | **No documents** |
+| GP302 Cricket | Power chair | **Sell sheet only**: [[GP302-Cricket]] |
 | GP303 Ally | Power chair | Yes: [[GP303-Ally]] |
 
-Gaps are on the Missing manuals checklist ([[index#Missing manuals]]).
+Official specs and **assembled weights** for all of these (except the
+GB147H) are on [[Golden Sell Sheets (2018-2026)]], compared for vehicle
+lifts on [[Mobility-Device-Weights]]. Gaps are on the Missing manuals checklist
+([[index#Missing manuals]]).
 
 ## Cross-cutting / all-models docs — Fully ingested.
 

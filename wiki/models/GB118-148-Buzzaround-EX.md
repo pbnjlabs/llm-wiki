@@ -14,6 +14,13 @@ kit differences (GB148's kit requires removing a front wheel and nose
 piece that the GB118 kit doesn't touch). No IPB or Operator Manual is on
 file for either yet.
 
+## Sell-sheet specs (Apr 2025)
+
+From [[Golden Sell Sheets (2018-2026)]]: 350 lb, 5 mph, 18 mi, 2-U1 (24 lb pack). **GB118 154 lb**
+assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
+33.8 in). Pieces: front half 46 (3W) / 53 lb (4W), rear half 36, seat
+23. See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[Rental Bumper Kit (GB118)]]

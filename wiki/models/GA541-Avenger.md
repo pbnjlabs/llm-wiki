@@ -10,6 +10,12 @@ tags: [scooter, golden, avenger]
 Golden's largest 4-wheel scooter — captain's seat, rear-wheel drive,
 750W motor. Link to [[Golden]].
 
+## Sell-sheet specs (2018)
+
+From [[Golden Sell Sheets (2018-2026)]]: 500 lb capacity, 7 mph, 18 mi, 57.5 × 24.5 in, 38.5 in
+wheelbase, **268 lb assembled** (front half 68, rear half 68, seat 55;
+NF22 batteries 37 lb each). See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[GA541 Avenger IPB]] — illustrated parts breakdown

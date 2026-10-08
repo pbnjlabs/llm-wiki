@@ -14,6 +14,17 @@ Golden's mid-size folding travel scooter family. No IPB or Operator
 Manual is on file for any of these model numbers yet — everything known
 comes from short service/accessory bulletins.
 
+## Newer Buzzaround models (sell sheets)
+
+From [[Golden Sell Sheets (2018-2026)]]; no manuals on file for these yet:
+- **GB150 Buzzaround XL 4-Wheel** (Feb 2026), the "next generation" of
+  the XL 4-wheel: 325 lb, 110 lb assembled, 39 in turning radius
+  (MicroTurn), 3.5 in clearance.
+- **GB107 / GB108 Buzzaround LT** (3W / 4W, Jul 2025): 300 lb, 85.5 /
+  95 lb assembled, 2-12 Ah.
+Whether the **GB147H** on Golden's VA list is the same as any of these
+isn't stated. See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[2-Piece Brake Replacement (LiteRider, Buzzaround XL, Buzzaround Lite)]]

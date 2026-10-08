@@ -130,7 +130,8 @@ PMS billing.
 **Scooter year matters:** the **2024-and-newer Golden GC440 is heavier**
 than the earlier model and needs an appropriate Harmar lift (per the
 human; see [[GC240-340-440-540-Companion]]). Always get the mobility
-device's year, not just the model.
+device's year, not just the model. Device weights and the hitch
+tongue-weight check: [[Mobility-Device-Weights]].
 
 From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
 - **Hitch mount vs hoist vs hybrid:** hitch mount is the easiest to use

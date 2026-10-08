@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 28 (+3 in `MANUALS/Admin/`) | 30 (6 vehicle-lift manuals added 2026-10-08, loose in `MANUALS/Bruno/`; 4 in `sources/Bruno/General/`: lifts price list, lead sign-off form and VA FSS price list from `MANUALS/Admin/`; warranty summary from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 68 | 67 source pages (one duplicate PDF shares a page) |
+| Golden | [[Golden]] | 82 | 68 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -113,6 +113,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Alante DX GP204 | Golden | [[GP204-Alante-DX]] |
 | Compass GP600/605/615/620 | Golden | [[GP6xx-Compass]] |
 | Ally GP303 | Golden | [[GP303-Ally]] |
+| Eagle GR595 (off-road 4W scooter, 302.5 lb; sell sheet only) | Golden | [[GR595-Eagle]] |
+| Cricket GP302 (carbon fiber folding power chair, 39.3 lb; sell sheet only) | Golden | [[GP302-Cricket]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 | AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
@@ -153,6 +155,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
 | Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms; government version: lifetime only while the original owner has it, start no later than 14 months after shipping) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
+| Mobility device weights for vehicle lifts (Golden assembled weights, sizes, wheelbases; hitch tongue-weight check; GC440 2024 = 222 lb) | [[Mobility-Device-Weights]] |
 | Vehicle lift power wiring (Bruno PUL-1100, ASL-275; Harmar 23 ft harness, 20 A breaker, red last) | [[Vehicle-Lift-Power-Wiring]] |
 | Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
 | TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2 controllers: GA541 + GP162 PTC variant) | [[TruCharge-Diagnostics]] |
@@ -320,7 +323,7 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (68 of 68 ingested — fully ingested) — see `wiki/sources/Golden/`: [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
+Golden (82 of 82 ingested — fully ingested) — see `wiki/sources/Golden/`: [[Golden Sell Sheets (2018-2026)]] (General; 14 sell sheets added 2026-10-08: official specs and assembled weights for the VA lineup plus GB107/108, GB150); [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock
@@ -532,9 +535,10 @@ on file):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
   VA-issued manual chairs.
 - [ ] **Golden VA lineup gaps** (models Golden markets to the VA, per
-  the human; see [[Golden]]): **GR595 Eagle** scooter and **GP302
-  Cricket** power chair have no documents; **GB147H** Buzzaround has
-  only a GB147 field alignment sheet.
+  the human; see [[Golden]]): **GR595 Eagle** and **GP302 Cricket** now
+  have sell sheets (specs, weights) but **no owner's or service
+  manual**; **GB147H** Buzzaround has only a GB147 field alignment
+  sheet.
 - Power chairs and scooters: only Golden, Pride and Red Hawk are on
   file. Add other brands as VA jobs turn them up.
 

@@ -28,6 +28,13 @@ seat post shared with the older "LiteRider PTC GP160") and **GP162C**
 
 Link to [[Golden]].
 
+## Sell-sheet specs (Sep 2025)
+
+From [[Golden Sell Sheets (2018-2026)]]: 300 lb, 3.5 mph, 15.5 mi, 40 A Dynamic LiNX, 2-22 Ah (27 lb
+pack), **123 lb assembled** (front half 37, rear half 36, seat 23),
+36 × 22.5 in, 28.5 in turning radius. Note the sheet lists only the LiNX
+controller. See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[LiteRider Envy Illustrated Parts Breakdown (GP162)]]

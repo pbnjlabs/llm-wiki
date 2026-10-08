@@ -15,6 +15,13 @@ CTOR, and power-seat frame variants — but GP605 also uses its own
 controller brand, so don't assume every subsystem is shared across all
 four. Link to [[Golden]].
 
+## GP605 Compass Sport sell sheet (Mar 2023)
+
+From [[Golden Sell Sheets (2018-2026)]]: 300 lb, mid-wheel drive, 4 mph, 24 mi (up to 34 on 50 Ah),
+6° max incline, 40 A controller, **179 lb assembled** (base 97, seat 40,
+batteries 22 or 30 lb each), 39.5 × 24 in, 24 in turning radius, seats
+16–22 in wide. See [[Mobility-Device-Weights]].
+
 ## Documents on file
 
 - [[Compass Battery Replacement, Power Elevating Seat (GP600)]]
