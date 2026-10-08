@@ -69,6 +69,11 @@ selection, docking devices, hitch adapters, the AL015, Highlander II
 (Guardian System, install prep, 2022 changes), the Pinnacle drive and
 zero-overrun install, Helix remotes and threshold ramps: [[Harmar Product Insights (2021-2023)]].
 
+**Threshold ramps:** Harmar's rubber threshold ramps ([[Harmar Rubber Threshold Ramps Spec Sheet (2020)]]) are its own
+modular design; its aluminum threshold ramps are EZ-ACCESS TRANSITIONS
+products, co-branded ([[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]]). Compared on [[TRANSITIONS-Threshold-Ramps]].
+Raw files are in `MANUALS/Ramps/`, not `MANUALS/Harmar/`.
+
 ## VA FSS
 
 Harmar's own VA FSS price list (65 II F: vehicle lifts with installation
@@ -79,9 +84,8 @@ on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
 **Missing manuals for contracted lifts:** none left for Harmar lifts
 (hoist, truck and AL-625HD closed 2026-10-06; **Outlander** discontinued,
 its DE is the **AL100-DE**; **Backpacker Plus is the AL600**; **Commander
-450** discontinued, replaced by the **AL425HD**). Only the rubber
-threshold ramps remain. Tracked at
-[[index#Missing manuals]].
+450** discontinued, replaced by the **AL425HD**; rubber threshold ramps
+have a spec sheet, closed 2026-10-08). Tracked at [[index#Missing manuals]].
 
 ## Cross-cutting concepts
 

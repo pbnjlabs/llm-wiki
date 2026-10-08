@@ -2,7 +2,7 @@
 type: model
 manufacturer: EZ-ACCESS
 model: TRANSITIONS
-tags: [ez-access, threshold-ramp, transitions]
+tags: [harmar, ez-access, threshold-ramp, transitions]
 ---
 
 # TRANSITIONS Threshold Ramps
@@ -38,6 +38,8 @@ pre-drilled holes, indoor/outdoor, lifetime warranty (per the article).
 | TAER36 | 36 × 36.25 in | **3.5 – 4.5 in** | 3-5/16 – 5-7/8 in |
 
 **The two sources disagree, and which is correct is unconfirmed.** The
+2025 Harmar/EZ-ACCESS sell sheet ([[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]]) gives the overall range as **1⅜ –
+5⅞ in**, matching the blog, but not per size. The
 parts-sheet ranges fall entirely inside the blog ranges and don't
 overlap each other, so sizing by them is the conservative choice. The
 blog ranges may be the full mechanical adjustment of the feet. The sheet
@@ -113,8 +115,32 @@ Install time: 40 min for 3–5 in, 20 min for ½–2½ in rubber thresholds
 - Threshold install rule (from [[How to Measure and Install a Ramp]]):
   seat the ramp firmly against the threshold with no gap.
 
+## Harmar's threshold ramps (compared)
+
+**PMS mostly uses EZ-ACCESS TRANSITIONS** (per the human). Harmar sells
+two kinds:
+
+- **Aluminum = the same TRANSITIONS products.** Harmar's 2025 sell sheet
+  is co-branded with EZ-ACCESS: Modular Entry Ramp, Angled Entry Ramp
+  and Angled Entry Plate, all **700 lb** ([[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]]). Harmar's older 2022 guide
+  said 600 lb; go by 700.
+- **Rubber = Harmar's own design, and it works differently** ([[Harmar Rubber Threshold Ramps Spec Sheet (2020)]]):
+
+| | EZ-ACCESS Angled Entry Mat | EZ-ACCESS Modular Entry Mat | **Harmar rubber threshold ramp** (RAMPRBKIT) |
+|---|---|---|---|
+| Build | **One piece** | Wedge mat + 2¼ in riser squares + a second mat | **Sections that dovetail together front to back**, each adding ½ in |
+| Heights | ½ – 2½ in (¼ in steps) | Up to 2.5 in alone; ~4.75–5 in with risers | **1 – 4 in** in ½ in steps |
+| How you fit it | **Trim the height down** to within ¼ in of the landing; never trim width | Trim; stack risers | Pick the number of sections; can be trimmed, cut or notched |
+| Width | 36 in usable (40–43 in overall) | 48 in | 36 in usable (39–46 in overall) |
+| Capacity | 850 lb | — | 850 lb |
+| Slope | — | — | Max **4° (7%)**, inside the 1:12 house standard |
+| Anchoring | 2 fasteners at the lower corners | — | Not stated |
+
+A 4 in Harmar rubber ramp is roughly **53 in deep and 130 lb** if built
+from all seven sections (wiki arithmetic; check the kit).
+
 ## Related
-- Harmar's threshold ramp guide ([[Harmar Product Insights (2021-2023)]]): rubber 1–4 in rise in ½ in steps, 850 lb; aluminum up to 6 in, 600 lb; cites ADA 1:12, same as the PMS house standard.
+- Harmar's threshold ramp guide ([[Harmar Product Insights (2021-2023)]]): rubber 1–4 in rise in ½ in steps, 850 lb; aluminum up to 6 in (its "600 lb" is superseded by 700 lb on the 2025 sheet); cites ADA 1:12, same as the PMS house standard.
 
 [[EZ-ACCESS]], [[Ramp-Site-Planning]]. For rises beyond ~6 in, see
 [[SUITCASE-Ramps]], [[GATEWAY-3G]] and [[PATHWAY-3G]].

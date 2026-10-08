@@ -216,7 +216,8 @@ Threshold Ramp.pdf`, June 28, 2022). Consumer-level guide:
   usable width, slip-resistant, conforms to uneven ground, can be
   trimmed, no drilling. These match Harmar's RAMPRBKIT 1R–4R FSS items.
 - **Aluminum:** up to **6 in rise**, up to **600 lb**, light, portable,
-  rust-resistant, fixed or adjustable.
+  rust-resistant, fixed or adjustable. **Superseded:** Harmar's 2025 sell
+  sheet ([[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]]) says **700 lb**, matching EZ-ACCESS.
 - The sheet cites ADA's **12 in of run per 1 in of rise**, the same as
   the PMS 1:12 house standard ([[Ramp-Slope-and-Length]]).
 
@@ -227,4 +228,6 @@ Threshold Ramp.pdf`, June 28, 2022). Consumer-level guide:
 - [[Overspeed-Safety-Brake]], [[TRANSITIONS-Threshold-Ramps]]
 - [[Harmar]]
 
-Raw PDFs: the 11 `MANUALS/Harmar/Harmar-*` files listed in `source:`.
+Raw PDFs: the 11 `MANUALS/Harmar/Harmar-*` files listed in `source:`. A
+byte-identical copy of the threshold-ramp guide is also in
+`MANUALS/Ramps/` (added 2026-10-08).

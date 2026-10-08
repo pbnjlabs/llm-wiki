@@ -16,11 +16,11 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 93 | 46 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
+| Harmar | [[Harmar]] | 93 (+2 in `MANUALS/Ramps/`) | 47 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 12 files in `MANUALS/Ramps/` + 11 web clippings | All technical files ingested (21 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 11 web clippings | All technical files ingested (22 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 22 files: 21 in product-line subfolders plus the loose `bruno_warranty.pdf` (Bruno and Harmar warranty sheets, moved from `MANUALS/Admin/` on 2026-10-08) (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
 Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
@@ -131,7 +131,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
-| TRANSITIONS threshold plates/ramps/mats (5 products, full size tables; Angled Entry Mat install sheet: 9 heights ½–2½ in, 850 lb, ¼ in fit, trim height only) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
+| TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, full size tables; Angled Entry Mat install sheet: 9 heights ½–2½ in, 850 lb, ¼ in fit, trim height only) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
 | PATHWAY 3G residential modular ramp system ("Pathway" and "3G" are the same product; 850 lb per its 2015 manual) | EZ-ACCESS | [[PATHWAY-3G]] |
@@ -407,7 +407,7 @@ warranty/troubleshooting/diagnostics/wiring/EMC sections through page
 sections are not documented in this wiki). See [[Red Hawk]] for the full
 multi-brand breakdown.
 
-EZ-ACCESS (all technical files ingested; pay scales skipped), see `wiki/sources/EZ-ACCESS/`. PMS in-house: Ramps Handbook, [[VA Ramp Returns and Restocking Fee (2025)]] (VA return policy: custom may be non-returnable, 10% restocking fee + manufacturer shipping, or full charge and reuse) and [[PMS Ramp Site Evaluation Form]] (Part A; undated; map sheet = [[PMS Ramp Assessment and Approval Forms (Part B)]]) (General). Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Reference sheets (General): EZ Access Parts and Pieces (2018), EZ Access Layout Key and Install Time (2019). Warranty (General): [[EZ-ACCESS Lifetime Warranty (2017)]]. Portable Ramps: [[SUITCASE Portable Folding Ramps Brochure]] (800 lb, AS = two-piece with applied surface, full size table). Web clippings: these are EZ-ACCESS
+EZ-ACCESS (all technical files ingested; pay scales skipped), see `wiki/sources/EZ-ACCESS/`. PMS in-house: Ramps Handbook, [[VA Ramp Returns and Restocking Fee (2025)]] (VA return policy: custom may be non-returnable, 10% restocking fee + manufacturer shipping, or full charge and reuse) and [[PMS Ramp Site Evaluation Form]] (Part A; undated; map sheet = [[PMS Ramp Assessment and Approval Forms (Part B)]]) (General). Manual: Pathway Modular Access System Assembly Manual (P/N 10565, rev 05-12-15) under PATHWAY 3G. Reference sheets (General): EZ Access Parts and Pieces (2018), EZ Access Layout Key and Install Time (2019). Warranty (General): [[EZ-ACCESS Lifetime Warranty (2017)]]. TRANSITIONS: [[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]] (co-branded Harmar/EZ-ACCESS, 2025). Harmar's own rubber ramps: [[Harmar Rubber Threshold Ramps Spec Sheet (2020)]] (`sources/Harmar/Threshold Ramps/`; raw in `MANUALS/Ramps/`). Portable Ramps: [[SUITCASE Portable Folding Ramps Brochure]] (800 lb, AS = two-piece with applied surface, full size table). Web clippings: these are EZ-ACCESS
 blog articles saved with Obsidian Web Clipper, copied from the vault's
 `Clippings/` folder to `MANUALS/Clippings/`. doc_type: Web Article.
 General: How Long Should a Wheelchair Ramp Be, Wheelchair Ramp Slope
@@ -509,9 +509,10 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
 - [x] **Commander 450** (2-axis, 3-axis): closed 2026-10-08,
   **discontinued; replaced by the AL425HD** (per the human), covered by
   the inside lifts manual ([[Hoist-Series-Inside-Vehicle-Lifts]]).
-- [ ] **Harmar rubber threshold ramps** (RAMPRBKIT 1R–4R): check first
-  whether they're on PMS's contract. Only a selection guide is on file
-  ([[Harmar Product Insights (2021-2023)]]); no install sheet.
+- [x] **Harmar rubber threshold ramps** (RAMPRBKIT 1R–4R): closed
+  2026-10-08. Spec sheet on file ([[Harmar Rubber Threshold Ramps Spec Sheet (2020)]]); no install sheet, but **PMS
+  mostly uses EZ-ACCESS TRANSITIONS** (per the human). Compared on
+  [[TRANSITIONS-Threshold-Ramps]].
 
 **Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
 against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't
@@ -547,7 +548,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
-### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; the rubber threshold ramps still have no manual (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; every FSS-listed Harmar product is now covered (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD; rubber threshold ramp spec sheet in `MANUALS/Ramps/`), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 
