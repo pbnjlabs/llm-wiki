@@ -50,7 +50,7 @@ hitch**, which leaves almost no margin on a hitch rated around 350 lb.
 **PMS installs MK M50-12 SLD M** (50 Ah, 33.2 lb each) in the 2024+
 GC440 instead of Golden's standard U1s, bringing it to **about 242 lb**
 (wiki arithmetic): about **365 lb** on the hitch with an AL100 and AL105.
-The pre-2024 GC440 used MK MU-1 SLD (U1); its total weight isn't on
+The pre-2024 GC440 used MK MU-1 SLD M (U1, 23.1 lb each); its total weight isn't on
 file. See [[GC240-340-440-540-Companion]].
 
 The **Avenger and Eagle** are long (57.5 and 56.5 in) and heavy; check
