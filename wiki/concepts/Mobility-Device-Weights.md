@@ -121,6 +121,14 @@ Notes:
 - **AL100 vs AL160** for Companions: the AL100 (83 lb, class II+) adds
   9 lb to every total above.
 
+**Inside (boom) lifts are capacity-limited too.** PMS has had a **Bruno
+Curb-Sider fail to lift a 2024+ GC440**: it was too close to the lift's
+upper weight limit, and PMS and the VA both missed the heavier upgraded
+model (per the human; see [[VSL-6000-6900]]). Curb-Sider ratings are
+250, 400 or 450 lb (VSL-6000) and up to 400 lb (VSL-6900); Harmar's
+hoists run 250–450 lb ([[Hoist-Series-Inside-Vehicle-Lifts]]). Leave
+real margin over the device's weight, including the docking device.
+
 ### Power chairs
 
 | Golden chair | Weight | Harmar lift | Tongue: lift only | + AL105L | + AL105 | Bruno ASL-275 + swing-away | Tongue |
