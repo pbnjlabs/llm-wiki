@@ -158,6 +158,8 @@ the AL300-FULL is the AL300 equivalent; the AL301XL is also dual entry.
 See [[AL-Series-Outside-Vehicle-Lifts]]. **Backpacker Plus (SSBPPLUS) = AL600**
 (per the human), see [[Hybrid-Vehicle-Lifts]]. Note the Backpacker Plus
 ($2,515.32) and AL-600-12 ($2,498.20) are priced as separate lines.
+**Commander 450 (LS450B1002/1003): discontinued, replaced by the AL425HD**
+(per the human), see [[Hoist-Series-Inside-Vehicle-Lifts]].
 
 | Catalog # | Description | Price |
 |---|---|---|

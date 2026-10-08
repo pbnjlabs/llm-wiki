@@ -110,11 +110,13 @@ inspector's report is done. Details are on the Bruno price list page.
 
 ## Missing manuals
 
-Several contracted vehicle lifts have **no install or owner's manual on
-disk**: Harmar's Commander 450 (the Outlander is discontinued, its DE is
-the AL100-DE; the Backpacker Plus is the AL600), and
-Bruno's Chariot, Joey and Curb-Sider. (Harmar's hoist and truck lifts and
-the AL-625HD were closed 2026-10-06.) The checklist lives in the index backlog: [[index#Missing manuals]].
+Three contracted vehicle lifts have **no install or owner's manual on
+disk**: Bruno's **Chariot, Joey and Curb-Sider**. Every Harmar lift on the
+FSS list is now covered: the hoist and truck lifts and the AL-625HD were
+closed 2026-10-06, and the discontinued **Outlander** and **Commander 450**
+map to the **AL100-DE** and **AL425HD**, with the **Backpacker Plus** being
+the **AL600**. The checklist lives in the index backlog:
+[[index#Missing manuals]].
 
 ## See also
 

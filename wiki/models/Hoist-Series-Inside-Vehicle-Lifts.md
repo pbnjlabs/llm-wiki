@@ -52,6 +52,9 @@ From the manuals ([[Inside Lifts Installation and Owner's Manual (2017, Rev F)]]
 | AL835 | Standard-cab truck lift, HD | 350 lb | Power | Truck Lifts |
 | AL055 / AL065 | Light hoists (sedans too), small power chairs | 200 lb | Manual | **None** (not on the FSS list) |
 
+**Commander 450** (2-axis LS450B1002, 3-axis LS450B1003 on Harmar's 2022
+FSS list) is **discontinued; the AL425HD replaces it** (per the human).
+
 **Capacity conflict:** Harmar's 2022 FSS list says AL-815CC 150 lb and
 AL-825 225 lb; the truck-lift manual and the 2026 chart both say **135
 and 210**. Go by the manual.

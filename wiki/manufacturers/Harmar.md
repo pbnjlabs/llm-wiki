@@ -76,9 +76,11 @@ included, threshold ramps, FSS warranty and returns): [[Harmar VA FSS Price List
 on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
 65 II F 36F79721D0058 (vehicle lifts). See [[VA-FSS-Contracts]].
 
-**Missing manuals for contracted lifts:** Commander 450 (hoist, truck and
-AL-625HD closed 2026-10-06; the **Outlander** line is discontinued, and
-its DE is the **AL100-DE**; the **Backpacker Plus is the AL600**). Tracked at
+**Missing manuals for contracted lifts:** none left for Harmar lifts
+(hoist, truck and AL-625HD closed 2026-10-06; **Outlander** discontinued,
+its DE is the **AL100-DE**; **Backpacker Plus is the AL600**; **Commander
+450** discontinued, replaced by the **AL425HD**). Only the rubber
+threshold ramps remain. Tracked at
 [[index#Missing manuals]].
 
 ## Cross-cutting concepts

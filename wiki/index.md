@@ -506,7 +506,9 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   covered by the Outside Lifts manuals ([[AL-Series-Outside-Vehicle-Lifts]]).
 - [x] **Backpacker Plus**: closed 2026-10-08. It's the **AL600** (per the
   human), covered by the hybrid manuals ([[Hybrid-Vehicle-Lifts]]).
-- [ ] **Commander 450** (2-axis, 3-axis): everything. No wiki page yet.
+- [x] **Commander 450** (2-axis, 3-axis): closed 2026-10-08,
+  **discontinued; replaced by the AL425HD** (per the human), covered by
+  the inside lifts manual ([[Hoist-Series-Inside-Vehicle-Lifts]]).
 - [ ] **Harmar rubber threshold ramps** (RAMPRBKIT 1R–4R): check first
   whether they're on PMS's contract. Only a selection guide is on file
   ([[Harmar Product Insights (2021-2023)]]); no install sheet.
@@ -545,7 +547,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
-### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; Commander 450 and the rubber threshold ramps still have no manual (Outlander closed as discontinued; Backpacker Plus is the AL600), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; the rubber threshold ramps still have no manual (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 
