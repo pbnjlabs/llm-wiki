@@ -50,7 +50,14 @@ vertical platform lifts (VPL).
     ASL-275's predecessor (2019 manual); same branding, different
     platform lineup including a ramped "HTP" variant not documented on
     ASL-275
-  - All three share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
+  - [[ASL-700]] ("Chariot") — **wheeled** hitch-mounted platform carrier
+    with its own tires, lights and VIN (title paperwork); Class I/II
+    1.25 in hitch only, 350 lb
+  - [[VSL-4400]] ("Joey") — inside platform lift for vans, minivans and
+    SUVs; mandatory door safety switch; 350 lb
+  - [[VSL-6000-6900]] ("Curb-Sider") — boom/hoist lift for minivans,
+    SUVs and pickups; 6900 adds a power-telescoping head; 250–450 lb
+  - All three original lifts share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
     pattern — ASL-250 confirms the inline fuse is specifically ATO 30A)
     and a 3-year vehicle-lift variant of [[Warranty]] — distinct terms
     from the stairlift warranty (3yr flat vs. 5yr/2yr split).
@@ -77,10 +84,8 @@ Nothing — all Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
 out-of-repo `MANUALS/Bruno/` drop).
 
-**Missing manuals:** three Bruno vehicle lifts on Bruno's price list have
-no manual on disk: **ASL-700 Chariot, VSL-4400 Joey, VSL-6000/6900
-Curb-Sider**. Solutions sells Bruno vehicle lifts to the VA under its
-FSS contract, so these are worth getting. Tracked at [[index#Missing manuals]].
+**Missing manuals:** none. The Chariot, Joey and Curb-Sider manuals were
+added 2026-10-08 (ticked off at [[index#Missing manuals]]).
 
 ## See also
 

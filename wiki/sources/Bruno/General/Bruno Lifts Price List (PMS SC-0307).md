@@ -57,15 +57,15 @@ The printout **cuts off partway through the PUL-1100 options**.
 - Vinyl covers: power chair $430 / $172; scooter or mini/travel scooter
   $435 / $174
 
-**ASL-700 Chariot:** spare tire assembly $215 / $86; ASL-K-707 Class III
+**ASL-700 Chariot** ([[ASL-700]]): spare tire assembly $215 / $86; ASL-K-707 Class III
 (2 in) hitch adapter kit $185 / $74; corner markers (pair) $120 / $48;
 backup camera ASL-K-712 $665 / $332.50.
 
-**VSL-4400 Joey:** wheel chock kit VSL-K-4444 (**required for FWD power
+**VSL-4400 Joey** ([[VSL-4400]]): wheel chock kit VSL-K-4444 (**required for FWD power
 chairs**) $105 / $42; barrier belt kit VSL-K-4446 (**required for
 full-size vans**) $195 / $78.
 
-**VSL-6000 / 6900 Curb-Sider:** 400 lb upcharge VSL-60418 (HD head)
+**VSL-6000 / 6900 Curb-Sider** ([[VSL-6000-6900]]): 400 lb upcharge VSL-60418 (HD head)
 $610 / $244; 450 lb upcharge VSL-60524 (HD drive base, 30 A board, HD
 arm, exterior pendant) $2,380 / $952; exterior pendant package
 (weatherproofs the standard lift) $395 / $158; driver-side offset arm

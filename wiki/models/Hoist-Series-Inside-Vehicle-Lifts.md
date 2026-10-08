@@ -156,4 +156,5 @@ All ten hoist and truck lifts on Harmar's FSS list now have a manual
 AL065 have none; they aren't on the FSS list.
 
 ## See also
+Bruno equivalent: [[VSL-6000-6900]] (Curb-Sider).
 [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]]

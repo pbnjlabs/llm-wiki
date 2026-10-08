@@ -28,6 +28,23 @@ different pre-made harness; see the Harmar section below.
 6. Seal any drilled firewall/floor penetrations with silicone sealant or
    underbody coating.
 
+## Bruno's newer vehicle lifts
+
+[[ASL-700]], [[VSL-4400]] and [[VSL-6000-6900]] use the same Bruno
+pattern (30 A, battery direct, 12 V battery on hybrids/EVs), plus:
+
+- **Inside lifts (Joey, Curb-Sider in a minivan): route the cable inside
+  the vehicle, never underneath.** Pickup Curb-Siders run underneath, so
+  route with care.
+- **Joey: the door safety switch is mandatory**; without it the lift
+  drains the vehicle battery.
+- **Chariot:** also needs a **flat-4 trailer light harness** with the
+  hitch; leave slack for the lift's vertical travel. If the light
+  circuit tests "hot" with power off, the vehicle's multiplex system
+  switches ground: add a low-side switching adapter.
+- Disable a **third-row power-folding seat** before installing a Joey or
+  Curb-Sider.
+
 ## Hybrid/EV note
 
 Both manuals flag: for hybrid or all-electric vehicles, connect to the
@@ -70,4 +87,4 @@ Harmar says never cut the harness.
 
 ## See also
 
-[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[ASL-700]], [[VSL-4400]], [[VSL-6000-6900]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]

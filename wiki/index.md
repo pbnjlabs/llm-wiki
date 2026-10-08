@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 22 (+3 in `MANUALS/Admin/`) | 24 (4 in `sources/Bruno/General/`: lifts price list, lead sign-off form and VA FSS price list from `MANUALS/Admin/`; warranty summary from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 28 (+3 in `MANUALS/Admin/`) | 30 (6 vehicle-lift manuals added 2026-10-08, loose in `MANUALS/Bruno/`; 4 in `sources/Bruno/General/`: lifts price list, lead sign-off form and VA FSS price list from `MANUALS/Admin/`; warranty summary from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 68 | 67 source pages (one duplicate PDF shares a page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -22,7 +22,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 11 web clippings | All technical files ingested (22 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
-Note: `MANUALS/Bruno/` holds 22 files: 21 in product-line subfolders plus the loose `bruno_warranty.pdf` (Bruno and Harmar warranty sheets, moved from `MANUALS/Admin/` on 2026-10-08) (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
+Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders plus 7 loose (`bruno_warranty.pdf` and the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08) (Bruno and Harmar warranty sheets, moved from `MANUALS/Admin/` on 2026-10-08) (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
 Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
 counted under Harmar instead, a different manufacturer's document not
 moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
@@ -98,6 +98,9 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
 | ASL-250 (Out-Sider, legacy) | Bruno | [[ASL-250]] |
+| ASL-700 (Chariot; wheeled hitch carrier, VIN/title, class I/II) | Bruno | [[ASL-700]] |
+| VSL-4400 (Joey; inside platform lift, door safety switch) | Bruno | [[VSL-4400]] |
+| VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping) | Bruno | [[VSL-6000-6900]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
 | Buzzaround XL / Lite (GB106/116/146/147) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
@@ -239,12 +242,16 @@ SRE-2010 content], Bruno Stair Lift Warranty, Picture Perfect Camera
 Overview (2020, superseded), Picture Perfect Instructions (2022 Rev 5),
 Picture Perfect Staircase Target Placement.
 
-Bruno Vehicle Lifts (3 of 3 ingested) — see
+Bruno Vehicle Lifts (9 of 9 ingested) — see
 `wiki/sources/Bruno/Vehicle Lifts/`: PUL-1100 Installation Manual, ASL-275
 Install Manual, ASL-250 Install Manual (2019 — an older hardware
 generation found by checking an out-of-repo `MANUALS/Bruno/` drop for new
 sources; revealed the [[ASL-250]] model page and its "HTP" ramped
-platform variant, undocumented on ASL-275).
+platform variant, undocumented on ASL-275). Added 2026-10-08 (raw files
+loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
+[[ASL-700 Operator Manual (2023)]], [[VSL-4400 Installation Manual (2026)]],
+[[VSL-4400G Operator Manual (2022)]], [[VSL-6000-6900 Installation Manual (2023)]],
+[[VSL-6000-6900 Operator Manual (2022)]].
 
 Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
 five passes:
@@ -517,9 +524,9 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
 **Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
 against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't
 on file):
-- [ ] **ASL-700 Chariot**: all manuals.
-- [ ] **VSL-4400 Joey**: all manuals.
-- [ ] **VSL-6000 / VSL-6900 Curb-Sider**: all manuals.
+- [x] **ASL-700 Chariot**: install (2025) and operator (2023) manuals, ingested 2026-10-08 ([[ASL-700]]).
+- [x] **VSL-4400 Joey**: install (2026) and operator (2022) manuals, ingested 2026-10-08 ([[VSL-4400]]).
+- [x] **VSL-6000 / VSL-6900 Curb-Sider**: install (2023) and operator (2022) manuals, ingested 2026-10-08 ([[VSL-6000-6900]]).
 
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
@@ -538,7 +545,7 @@ Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
-### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check). Every Bruno file on disk is ingested, but three contracted vehicle lifts have no manual: see Missing manuals above.
+### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — fully ingested, no backlog remaining.
 

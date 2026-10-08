@@ -72,6 +72,9 @@ Identical text embedded in [[PUL-1100 Installation Manual]],
 [[ASL-275 Install Manual]], and [[ASL-250 Install Manual]] — confirmed
 word-for-word the same document (rev. 01-16) across all three. Applies
 to [[PUL-1100]], [[ASL-275]], and [[ASL-250]] — not confirmed for VPL.
+The same 3-year vehicle-lift text (rev. 01-16) is also in the manuals for
+[[ASL-700]], [[VSL-4400]] and [[VSL-6000-6900]] (2022–2026). The ASL-700
+adds that **skipping its maintenance schedule voids the warranty**.
 
 - **3 years** on all parts, free of defects in material and workmanship
   (no separate major-components tier like the stairlift warranty)

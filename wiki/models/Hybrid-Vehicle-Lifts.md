@@ -122,6 +122,8 @@ Different design from the AL600/AL690:
 - Loud clicking after lifting = actuator clutching out: adjust the boom
   limit switch contact screw.
 
+Bruno's closest equivalent: [[VSL-4400]] (Joey).
+
 ## Documents on file
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — AL600/AL690 specs
 - [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]] — legacy AL625/AL625HD
