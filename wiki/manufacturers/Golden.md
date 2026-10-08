@@ -69,6 +69,12 @@ rather than split into product-line subfolders.
     during initial clustering, corrected after reading content.
   - GP160 battery replacement doc was already covered under
     [[GL110-140-LiteRider]] (cross-listed there).
+- **GR595 Eagle** — off-road heavy-duty 4-wheel scooter, 500 lb, 302.5
+  lb assembled. Sell sheet only: [[GR595-Eagle]].
+- **GP302 Cricket** — carbon fiber folding power chair, 39.3 lb. Sell
+  sheet only: [[GP302-Cricket]].
+- **Newer Buzzarounds** — GB150 (next-generation XL 4-wheel) and GB107 /
+  GB108 Buzzaround LT, sell sheets only; listed on [[GB1xx-Buzzaround-XL]].
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
@@ -153,9 +159,12 @@ own documentation.
 
 ## Not yet ingested
 
-Nothing — **all 68 Golden manuals on disk have been ingested**, as 67
+Nothing — **all 82 Golden files on disk have been ingested**, as 81
 distinct documents: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
 `LITERIDER PTC_GP162_ SG_REVA_ 051614.pdf` are byte-identical duplicates
 (confirmed by md5) of the same file under two filenames, so both map to
 the single [[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]]
-source page.
+source page. The 14 sell sheets (2018–2026) share
+[[Golden Sell Sheets (2018-2026)]]. Models with sell sheets but no
+manual: [[GR595-Eagle]], [[GP302-Cricket]], GB150 and GB107/GB108 (see
+[[GB1xx-Buzzaround-XL]]).

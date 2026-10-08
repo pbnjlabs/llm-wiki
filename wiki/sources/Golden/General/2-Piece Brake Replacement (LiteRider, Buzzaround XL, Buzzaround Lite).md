@@ -18,5 +18,4 @@ freewheel position at 12 o'clock, attach model-specific handle, re-bolt.
 
 Confirms the brake mechanism itself is shared across Buzzaround and
 LiteRider — only the handle geometry differs per model. Feeds:
-[[GB1xx-Buzzaround-XL]] (GL110/GL140 LiteRider side not yet ingested —
-flag for that future cluster).
+[[GB1xx-Buzzaround-XL]] and [[GL110-140-LiteRider]].

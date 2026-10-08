@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 28 (+3 in `MANUALS/Admin/`) | 30 (6 vehicle-lift manuals added 2026-10-08, loose in `MANUALS/Bruno/`; 4 in `sources/Bruno/General/`: lifts price list, lead sign-off form and VA FSS price list from `MANUALS/Admin/`; warranty summary from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 30 (27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 82 | 68 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -20,13 +20,16 @@ Entry point for every query — check here first before opening raw manuals.
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
-| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 11 web clippings | All technical files ingested (22 source pages): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
+| EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 11 web clippings | All technical files ingested (23 source pages, including 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
-Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders plus 7 loose (`bruno_warranty.pdf` and the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08) (Bruno and Harmar warranty sheets, moved from `MANUALS/Admin/` on 2026-10-08) (the 20 loose duplicate copies were removed and the ASL-250 manual moved into `Vehicle Lifts/` on 2026-09-30, per the human). The table attributes only 20 to Bruno — one file (`HARMAR Camera Measuring
-Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`) is
-counted under Harmar instead, a different manufacturer's document not
-moved since raw sources are immutable. See [[Harmar]] and [[Bruno]] for
-details.
+Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
+and 7 loose (`bruno_warranty.pdf`, moved from `MANUALS/Admin/` on
+2026-10-08, and the 6 Chariot/Joey/Curb-Sider manuals added the same
+day). The table attributes 27 to Bruno: one file (`HARMAR Camera
+Measuring Manual.pdf`, physically under `MANUALS/Bruno/Bruno Curved SL/`)
+is a Harmar document, counted under Harmar instead and not moved since
+raw sources are immutable. `bruno_warranty.pdf` also feeds one Harmar
+page. See [[Harmar]] and [[Bruno]] for details.
 
 Note: `MANUALS/Prism/` physically holds 6 files, but the table
 attributes only 5 to Prism — one
@@ -45,9 +48,11 @@ writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
 
-Note: Golden's 68 files include one byte-identical duplicate PDF saved
+Note: Golden's 82 files include one byte-identical duplicate PDF saved
 under two filenames (the GP162 LiteRider PTC service guide, confirmed by
-md5): 67 distinct documents, 67 source pages. See [[Golden]] for details.
+md5): 81 distinct documents. 68 source pages: the 14 sell sheets added
+2026-10-08 share one page ([[Golden Sell Sheets (2018-2026)]]). See
+[[Golden]] for details.
 
 Note: **AutoSlide and Open Sesame are not mobility equipment.** They're
 automatic door operators: AutoSlide makes a sliding-door drive and the
@@ -78,7 +83,7 @@ include the AL100/AL300/AL301 owner's and install manuals, an al-100-12
 assembly-drawing pair, and two Helix manuals also saved under Harmar
 part-number names (`Harmar-610-00039-01-D-Helix-OM.pdf`,
 `Harmar-610-00016-01-C-Helix-Measure-Guide-V2.pdf`, added 2026-10-01 to
-match the human's folder). The 46 source pages also **consolidate**
+match the human's folder). The 47 source pages also **consolidate**
 low-narrative file groups (6 order/evaluation forms, 4 spec sheets, 9
 parts diagrams, 6 wiring schematics, 11 Product Insights sheets, one page each), and two pages
 ([[Harmar Warranty Policy (2018)]] from `MANUALS/Bruno/bruno_warranty.pdf`, [[Harmar VA FSS Price List (2018-2023)]] from `MANUALS/Admin/`) come from outside `MANUALS/Harmar/`. 10
@@ -217,6 +222,7 @@ written).
 
 One page per job in `field-notes/`: PMS field experience (symptom,
 checks, root cause, fix, parts). Manuals still win on specs and procedures.
+Ramp evaluations start from [[Ramp Evaluation Template]].
 
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
@@ -257,7 +263,7 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 [[VSL-4400G Operator Manual (2022)]], [[VSL-6000-6900 Installation Manual (2023)]],
 [[VSL-6000-6900 Operator Manual (2022)]].
 
-Harmar (36 source pages, see `wiki/sources/Harmar/`) — ingested across
+Harmar (47 source pages, see `wiki/sources/Harmar/`) — ingested across
 five passes:
 
 *First pass:* CSL Series Photo Measuring Manual (physically located under

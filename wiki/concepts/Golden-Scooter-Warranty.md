@@ -33,7 +33,9 @@ doubt.
 
 - **Lifetime**: structural frame components — steel frame, frame welds,
   tiller frame, front fork, seat post. (GR575 Patriot: 5 years instead of
-  lifetime.)
+  lifetime. Per Golden's sell sheets, the **GC540 Companion HD and GR595
+  Eagle** also carry a **5-year** frame warranty, and the **GB120 Carry
+  On's batteries are 2 years**: [[Golden Sell Sheets (2018-2026)]].)
 - **2 years**: drive train (transaxle, motor/brake assembly — electrical
   function only; increased transaxle noise alone is NOT a defect) and
   electronic assemblies (controller, dash assembly, wire harnesses,

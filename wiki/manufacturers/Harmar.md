@@ -11,9 +11,10 @@ Bruno, founded 1998 and based in Sarasota, FL (VPL units ship from a
 separate Missouri factory). First discovered in this wiki as a single
 misfiled document under Bruno's Curved SL folder; the human has since
 created a dedicated `MANUALS/Harmar/` folder and populated it across
-three ingest passes, giving Harmar **three product categories, nine
-documented model pages** (vehicle lifts split across three distinct
-architectures):
+five ingest passes, giving Harmar **three product categories and seven
+model pages** (vehicle lifts split across three distinct
+architectures), plus rubber threshold ramps documented on
+[[TRANSITIONS-Threshold-Ramps]]:
 
 **Stairlifts**
 - **[[Helix]]** (CSL Series) — curved-rail residential stairlift
