@@ -527,8 +527,9 @@ human).
 
 Equipment PMS is contracted to sell or repair that has **no install or
 owner's manual on disk**. Checked 2026-10-12 against every file in the
-repo's `MANUALS/`. The human's own folder (`/home/lu/Work/MANUALS`) is
-missing the 22 Golden and Joint Commission files added 2026-10-12. Tick an item off when its manual is ingested. Source for most
+repo's `MANUALS/`, which matches the human's own folder
+(`/home/lu/Work/MANUALS`) except for the web clippings, which come from
+the vault's `Clippings/` folder. Tick an item off when its manual is ingested. Source for most
 missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
 **Golden:** every manual on Golden's public website was ingested
