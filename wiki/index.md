@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 30 (27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 101 (6 in `Discontinued Models/`) | 87 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
+| Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -48,9 +48,9 @@ writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
 
-Note: Golden's 101 files include one byte-identical duplicate PDF saved
+Note: Golden's 102 files include one byte-identical duplicate PDF saved
 under two filenames (the GP162 LiteRider PTC service guide, confirmed by
-md5): 100 distinct documents. 87 source pages: the 14 sell sheets added
+md5): 101 distinct documents. 88 source pages: the 14 sell sheets added
 2026-10-08 share one page ([[Golden Sell Sheets (2018-2026)]]). 19 docs
 were added 2026-10-12 from the human's Downloads. See
 [[Golden]] for details.
@@ -124,6 +124,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ally GP303 | Golden | [[GP303-Ally]] |
 | Eagle GR595 (off-road 4W scooter, ~300 lb, PG S-Drive; OM + IPB) | Golden | [[GR595-Eagle]] |
 | Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah) | Golden | [[GR575-Patriot]] |
+| Lift chairs PR446/448/510/515/535/632/761/766 (AutoDrive hand control resets/calibration; **no owner's manuals**) | Golden | [[Golden-Lift-Chairs]] |
 | Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
@@ -337,7 +338,8 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (101 of 101 ingested — fully ingested) — see `wiki/sources/Golden/`: **added 2026-10-12:**
+Golden (102 of 102 ingested — fully ingested) — see `wiki/sources/Golden/`: **added 2026-10-12:**
+[[AutoDrive Hand Control Resets and Calibrations]] (Lift Chairs),
 [[Buzzaround XL Owners Manual (GB117, GB147)]], [[Buzzaround XL Service Guide (GB117, GB147)]],
 [[Buzzaround Lite and XL Illustrated Parts Breakdown (GB107, GB117, GB147)]],
 [[Buzzaround XL Service Guide (GB116, GB146)]], [[Buzzaround Lite Service Guide (GB106)]],
@@ -570,6 +572,10 @@ on file):
   **GP302 Cricket** now have owner's manuals and IPBs (still no service
   guide for either). **GB147H** = the GB147 HD, covered by the GB117/147
   owner's manual, service guide and IPB ([[GB1xx-Buzzaround-XL]]).
+- [ ] **Golden lift chairs** (PR446/448/510/515/535/632/761/766):
+  only the AutoDrive reset/calibration sheet is on file, no owner's
+  manuals. Ask Golden lift chair tech support (800-624-6374 x502).
+  See [[Golden-Lift-Chairs]].
 - Power chairs and scooters: only Golden, Pride and Red Hawk are on
   file. Add other brands as VA jobs turn them up.
 

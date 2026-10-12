@@ -12,7 +12,7 @@ tags: [golden, maintenance]
 1-page dealer reminder sheet split into Mobility (battery care, no
 passengers, weight limits, key removal) and **Lift Chairs** sections
 (seated position when idle, single-occupant only, backup battery care).
-Lift chairs are not otherwise represented anywhere else in this manual
-collection — no lift chair model manuals on file.
+Lift chair calibration and reset procedures are on [[Golden-Lift-Chairs]].
+No lift chair owner's manuals are on file.
 
 Feeds: [[Golden-Dealer-Tips]]
