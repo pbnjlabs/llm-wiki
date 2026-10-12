@@ -157,7 +157,8 @@ page they touch should state them.
   done (delivery, setup, home safety checks, patient training,
   inspection between patients, maintenance per the manufacturer,
   recalls, incident reporting, dirty/clean/patient-ready storage,
-  records). Where they say "follow the manufacturer's guidelines", the
+  records). PMS doesn't supply oxygen, so the oxygen and respiratory EPs
+  don't apply. Where they say "follow the manufacturer's guidelines", the
   manual sets the spec. When answering a delivery, setup, repair or
   cleaning question, mention any Joint Commission requirement that
   applies.

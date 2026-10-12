@@ -141,9 +141,12 @@ in wiki field notes**.
 
 ## Other
 
-- **Oxygen and respiratory** (NPSG.15.02.01, EC.02.01.03, EQ.01.04.01
-  EP 8–9) apply only if PMS supplies oxygen. Nothing in the wiki says it
-  does.
+- **Not applicable to PMS:** **PMS doesn't supply oxygen** (per the human,
+  2026-10-12), so the oxygen and respiratory requirements don't apply.
+  These are NPSG.15.02.01 (home oxygen fire risk), EC.02.01.03 EP 4,
+  EC.02.01.01 EP 4 (medical gases), EQ.01.01.01 EP 11, EQ.01.02.01 EP 5,
+  EQ.01.04.01 EP 4, 5, 8 and 9, PC.02.02.05 EP 2 and PC.02.03.01 EP 16.
+  Infusion and medication EPs don't apply either.
 - Emergency management, leadership, medication management and
   performance improvement chapters are office and management
   obligations. They're in the extract but not summarized here.
