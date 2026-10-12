@@ -525,6 +525,12 @@ owner's manual on disk**. Checked 2026-10-05 against every file in
 files). Tick an item off when its manual is ingested. Source for most
 missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
+**Golden:** every manual on Golden's public website was ingested
+2026-10-12 (per the human), so remaining Golden gaps (e.g. Eagle and
+Cricket service guides, GB108, GB150) need Golden tech support
+(800-624-6374, mobility tech x501, VA tech x505).
+**Reminder rule:** whenever a tech works on a device with a missing
+manual, remind them to get a copy and add it here.
 
 **Supply, 65 II F, Harmar vehicle lifts (36F79721D0058)**, checked
 against [[Harmar VA FSS Price List (2018-2023)]]:

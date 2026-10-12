@@ -240,7 +240,15 @@ the whole `MANUALS/` tree unless explicitly asked to.
    `file://` link you haven't confirmed resolves on this machine. Link
    every manual an answer draws on if it synthesizes more than one,
    applying this check to each.
-4. If the answer is worth keeping (a synthesis, comparison, or something not
+4. **Missing manual reminder.** When the human (or a tech) is working on
+   a device whose manual isn't on file, or is only partly covered (e.g.
+   a sell sheet or OM but no service guide), remind them to get a copy
+   (manufacturer website, dealer portal or tech support) and drop it in
+   for ingest. Add it to the index's **Missing manuals** checklist if it
+   isn't there. Do this in field-note work too. Golden's public website
+   was fully ingested 2026-10-12, so Golden gaps need Golden tech support
+   (800-624-6374), not the website.
+5. If the answer is worth keeping (a synthesis, comparison, or something not
    already captured), offer to file it back into the wiki as a new or
    updated page rather than letting it disappear into chat history.
 
