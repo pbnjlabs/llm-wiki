@@ -61,7 +61,7 @@ platform must reach the ground and sit level**, and **once it touches
 the ground it must not keep running and start lifting the car** (that
 damages the lift). Measure bumper distance and hitch height, then use
 the Compatibility Calculator or the size chart in the lift's install
-manual. **AL1235U** is the universal (most common) adapter.
+manual. **AL1235U** is the universal (most common) adapter. See [[Hitch-Adapters]].
 
 > [!warning] AL1235U drop settings disagree
 > This sheet says the AL1235U sets as standard or a **2, 3, 4 or 5 in

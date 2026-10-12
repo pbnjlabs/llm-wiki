@@ -125,4 +125,4 @@ manuals ([[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], [[Truck
 vehicle-lift lineup and specs: [[Harmar Mobility Solutions Chart (2026, Rev F)]]. Helix, SL300, and SL600 install manuals are now on
 file (closed from the previous ingest's backlog note).
 
-Cross-manufacturer concepts: [[Docking-Devices]] (hoist and truck lifts), [[Gate-and-Door-Interlocks]] (Highlander II gates).
+Cross-manufacturer concepts: [[Docking-Devices]] (hoist and truck lifts), [[Hitch-Adapters]] (outside lifts), [[Gate-and-Door-Interlocks]] (Highlander II gates).

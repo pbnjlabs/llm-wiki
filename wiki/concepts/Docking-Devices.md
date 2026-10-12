@@ -118,4 +118,4 @@ instructions that come with it.
 ## See also
 
 [[Hoist-Series-Inside-Vehicle-Lifts]], [[VSL-6000-6900]], [[PUL-1100]],
-[[Hybrid-Vehicle-Lifts]], [[Mobility-Device-Weights]], [[Harmar]], [[Bruno]]
+[[Hybrid-Vehicle-Lifts]], [[Mobility-Device-Weights]], [[Hitch-Adapters]], [[Harmar]], [[Bruno]]

@@ -166,6 +166,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
 | Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms; government version: lifetime only while the original owner has it, start no later than 14 months after shipping) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
+| Hitch adapters (hitch-mounted lifts: the two Harmar rules, measuring HV/D1/D2, AL1235U drop settings, AL1236/AL1238 and Extra Long, Bruno ASL-275 height table and ASL-700 4-bar settings, no expanders/extenders, tongue weight, AL1232 cold-weld recall, prices; on every estimate) | [[Hitch-Adapters]] |
 | Docking devices (vehicle lifts: which lifts need one, Harmar DD types incl. DD19/DD21, Bruno C-arm/claw, fitting clearances, chair-tips troubleshooting, FSS prices) | [[Docking-Devices]] |
 | Gate and door interlocks (VPLs: EMI/ESI/GAL types, Harmar vs Honeywell wiring, install checks, 2-month tests, door-stuck-locked fix) | [[Gate-and-Door-Interlocks]] |
 | Mobility device weights for vehicle lifts (Golden assembled weights, sizes, wheelbases; hitch tongue-weight check; GC440 2024 = 222 lb) | [[Mobility-Device-Weights]] |

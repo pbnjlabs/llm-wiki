@@ -23,4 +23,4 @@ and **destroy it** — Harmar reimburses 1 hour of labor ($65) plus mileage
 CSV-000014.
 
 ## Feeds into
-[[AL-Series-Outside-Vehicle-Lifts]]
+[[AL-Series-Outside-Vehicle-Lifts]], [[Hitch-Adapters]]

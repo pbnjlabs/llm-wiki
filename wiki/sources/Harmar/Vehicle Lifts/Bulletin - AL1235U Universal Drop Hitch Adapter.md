@@ -70,5 +70,6 @@ Hitch Adapter Size Chart in
 ## Feeds
 
 - [[AL-Series-Outside-Vehicle-Lifts]]: hitch adapter selection
+- [[Hitch-Adapters]]
 
 Raw PDF: `MANUALS/Harmar/[Untitled]_2026092514532919.pdf`

@@ -114,7 +114,7 @@ PMS house practice for quoting these lifts:
    hatchback, minivan, Jeep). Check the lift's options box on harmar.com
    offers one.
 4. **Every install has a hitch adapter; put it on the estimate.** See
-   the adapter notes under Installation.
+   the adapter notes under Installation and [[Hitch-Adapters]].
 5. No receiver hitch? Order one from etrailer.com or etowing.com.
 
 **Ordering and invoicing** ([[Harmar Orders and Installs Workflow]]):
@@ -186,4 +186,4 @@ plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],
 [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]],
-[[Harmar-Warranty]]
+[[Harmar-Warranty]], [[Hitch-Adapters]]

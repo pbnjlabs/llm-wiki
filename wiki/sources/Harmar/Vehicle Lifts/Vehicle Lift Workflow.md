@@ -52,5 +52,6 @@ The same intake sheet as [[Vehicle Lift Phone Interview Form]]:
 - [[Harmar]]
 - [[Harmar Orders and Installs Workflow]] (next step: ordering and invoicing)
 - [[PMS-Office-Procedures]]
+- [[Hitch-Adapters]]
 
 Raw PDF: `MANUALS/Harmar/Vehivle_Lift_Workflow.pdf`
