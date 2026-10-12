@@ -5,10 +5,11 @@ tags: [diagnostics, golden, electrical, linx]
 
 # LiNX Controller Diagnostics
 
-A 7-code flash-code scheme tied to Golden's **LiNX controller** — a third
-distinct diagnostic vocabulary alongside [[TruCharge-Diagnostics]] (10-bar,
-PG S-Drive/VR2 controllers) and [[Flash-Beep-Diagnostics]] (9-code,
-Dynamics R-Series controller). Confirmed on the LiNX-controller variant of
+A 7-code flash-code scheme tied to the **LiNX controller** (Dynamic
+Controls). It is one of six Golden diagnostic schemes, alongside
+[[TruCharge-Diagnostics]] (PG S-Drive/VR2), [[Flash-Beep-Diagnostics]]
+(Dynamics R-Series), [[S-Drive-Beep-Codes]], [[Shark-Diagnostics]] and the
+Cricket's Micon table ([[GP302-Cricket]]). Confirmed on the LiNX-controller variant of
 [[GP162-LiteRider-Envy]] — see
 [[LiteRider Envy LiNX Supplemental Insert (GP162)]] and
 [[LiteRider Envy LiNX Owners Manual (GP162)]] (identical table in both) —

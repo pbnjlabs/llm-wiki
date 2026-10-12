@@ -41,6 +41,35 @@ M24 = group 24, and so on); Interstate lists its groups.
 6 V: MK ES4-6 (4.5 Ah, small sealed); Interstate DCM0157 (group 27,
 180 Ah).
 
+## Golden batteries by model (from Golden's documents)
+
+Two batteries per unit unless noted. Sizes are Golden's; match a
+replacement by size group in the table above. PMS-specific choices are on
+the model pages.
+
+| Model | Batteries | Source |
+|---|---|---|
+| GB106 Buzzaround Lite (discontinued) | 12 Ah | Service guide |
+| GB116/146 Buzzaround XL (discontinued) | 12 Ah or 18 Ah | Service guide |
+| GB117/147 Buzzaround XL | 12 Ah (standard) or **22 Ah (HD, e.g. GB147H)** | [[GB1xx-Buzzaround-XL]] |
+| GB118/148 Buzzaround EX | U1, in two packs | Sell sheet |
+| GB120 Carry On | One 24 V lithium pack, 15 Ah (sell sheet says 12.5) or 6.5 Ah | [[GB120-Buzzaround-CarryOn]] |
+| GL109 LiteRider Mini | 12 Ah | Service guide |
+| GL110/140, GL111/141 LiteRider | 22 Ah | Service guide, IPB |
+| GC240/340/440 Companion | U1 (35 Ah); 40 Ah option (2021 IPB); 50 Ah option (2024) | [[GC240-340-440-540-Companion]] |
+| GC540 Companion HD | 22NF | IPB |
+| GA541 Avenger | 22NF (AGM or gel only) | [[GA541-Avenger]] |
+| GR575 Patriot | 75 Ah (group not stated) | [[GR575-Patriot]] |
+| GR595 Eagle | 22NF, or **Group 24** 75 Ah | [[GR595-Eagle]] |
+| GP160 LiteRider PTC | 18 Ah | [[GP160-LiteRider-PTC]] |
+| GP162 LiteRider Envy | 22 Ah (Golden); PMS has fitted MK ES17-12 | [[GP162-LiteRider-Envy]] |
+| GP204 Alante DX / GP215 Alante LT | 22 Ah / 18 Ah | [[GP204-Alante-DX]] |
+| GP205 Alante Sport | U1 35 Ah | [[GP205-Alante-Sport]] |
+| GP605 Compass Sport | U1 35 Ah (up to 50 Ah per sell sheet) | [[GP6xx-Compass]] |
+| GP620 Compass HD | U1 35 Ah or 22NF 55 Ah | [[GP6xx-Compass]] |
+| GP302 Cricket | One 24 V 12 Ah lithium pack (A and B versions differ) | [[GP302-Cricket]] |
+| GP303 Ally | 12 Ah lithium | [[GP303-Ally]] |
+
 ## In the field
 
 - **Scootaround VA repairs:** batteries are the one non-OEM part allowed, from **MK, Interstate or Electro Battery** only ([[Scootaround-VA-Repairs]]).
@@ -59,6 +88,12 @@ M24 = group 24, and so on); Interstate lists its groups.
 
 - Open Sesame door operators: 12 V 1.2 Ah sealed lead-acid, **MK
   ES1.2-12** or equivalent, 3–5 year life ([[Automatic-Door-Operators]]).
+
+## Joint Commission (house standard)
+
+PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). Store
+equipment and spares with their **battery charge requirements** in mind
+(EQ.01.05.01 EP 2), and maintain them per the manufacturer (EQ.01.03.01).
 
 ## Related
 

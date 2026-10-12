@@ -9,10 +9,9 @@ Source: [[Right to Left Side Joystick Conversion]].
 
 14-step procedure to move a retractable-desk-arm-mounted **Shark joystick**
 from the right armrest to the left. Confirms the "Shark" joystick/
-controller brand by name — cross-links to [[GP6xx-Compass]], where GP605
-"Compass Sport" was already confirmed to use a SHARK-branded controller
-(a fourth Golden controller family alongside PG VR2, LiNX, and Dynamics
-R-Series). This document doesn't name a specific model, so it's filed as
+controller by name. Shark is a **Dynamic Controls** controller, used on
+the GP620 Compass HD and on older GP605 Compass Sports (later GP605s use
+LiNX); see [[GP6xx-Compass]]. Shark fault codes are on [[Shark-Diagnostics]]. This document doesn't name a specific model, so it's filed as
 a general Shark-controller procedure rather than folded into one model
 page — applies wherever a Shark joystick with a retractable desk arm is
 used.

@@ -53,10 +53,10 @@ cut, the M1/M2 motor harness is unplugged, the chair is supported so wheels
 clear the ground, snap rings pulled, and the **entire drive assembly is
 slid out on its pivot shafts** before the 4-screw brake itself can be
 swapped — then everything reverses with side-specific harness routing and
-tie-wrap counts. Also the procedure that confirms GP605's controller is
-branded **"SHARK"** (see [[GP6xx-Compass]]), distinct from the PG VR2/LiNX
-pair ([[GP162-LiteRider-Envy]]) and Dynamics R-Series
-([[GC240-340-440-540-Companion]], [[GL110-140-LiteRider]]).
+tie-wrap counts. It names the controller as **"SHARK"** (Dynamic
+Controls; codes on [[Shark-Diagnostics]]). The 2017 GP605 service guide
+shows a **LiNX** controller instead, so check which one is fitted (see
+[[GP6xx-Compass]]).
 
 ## Why the gap between them
 

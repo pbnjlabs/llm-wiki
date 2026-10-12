@@ -11,8 +11,8 @@ Power wheelchair family: GP600, GP605 "Compass Sport", GP615, GP620
 "Compass HD". Direct textual evidence confirms GP600/605/615/620 share
 caster wheel hardware (one procedure covers all four by number), and the
 Compass "H-frame" ELR/Swing-Away bracket/hanger system spans the plain,
-CTOR, and power-seat frame variants — but GP605 also uses its own
-controller brand, so don't assume every subsystem is shared across all
+CTOR, and power-seat frame variants. Controllers differ by model and
+year (see below), so don't assume every subsystem is shared across all
 four. Link to [[Golden]].
 
 ## Controllers: check which one is fitted

@@ -92,3 +92,12 @@ into the wiki; look them up on the raw files.
 **Parts**
 - Ordering and returns: [[Ordering and Returning Parts]]
 - **VA returns and restocking:** custom-configured orders may not be returnable; **10% restocking fee plus manufacturer shipping**, or charge the PO in full and hold/reuse the parts. VA chooses; often it's **"VA Stock"** for other veterans' ramps. [[VA Ramp Returns and Restocking Fee (2025)]]
+
+## Joint Commission (house standard)
+
+PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). Office
+items: **document proof of delivery** (EQ.01.01.01 EP 12); give the
+patient business hours and an **after-hours contact** (PC.02.02.05);
+record the equipment's make, model and **serial number** for recalls
+(EQ.01.03.01 EP 7); for Medicare patients, acknowledge complaints within
+**5 days** and answer in writing within **14 days** (RI.01.07.01).

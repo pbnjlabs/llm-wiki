@@ -170,9 +170,10 @@ actual topic rather than one page per document:
 
 PG controller trip codes: [[PG-Drives-Trip-Codes]] (from the [[PG Drives Mobility Diagnostic Guide]]; S-Drive specs on [[PG Drives S-Drive Brochure]]).
 
-Golden uses at least four controller makers (PG Drives S-Drive/VR2;
-Dynamic Controls R-Series, Shark and LiNX; Micon; and the A-Series named
-in the GP620 guide) and six diagnostic schemes across scooters and
+Golden uses controllers from at least three makers (PG Drives S-Drive and
+VR2; Dynamic Controls R-Series, Shark and LiNX; Micon), plus an
+"A-Series" named in the GP620 guide whose maker isn't stated. There are
+six diagnostic schemes across scooters and
 wheelchairs — always check the controller before
 assuming any scheme or warranty applies to a model without checking its
 own documentation.

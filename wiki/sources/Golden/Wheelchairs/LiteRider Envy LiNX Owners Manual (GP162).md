@@ -38,8 +38,8 @@ Contents:
   [[TruCharge-Diagnostics]]/GA541, but this manual's fault states (high
   voltage = all LEDs + flashing green, low voltage = leftmost flashing,
   cut-off = red flashing + status flash code 2 + horn beep every 10s) are
-  LiNX-specific, not the TruCharge 10-bar scheme — a third distinct
-  diagnostic vocabulary on top of TruCharge and Flash-Beep-Diagnostics,
+  LiNX-specific, not the TruCharge 10-bar scheme — a separate
+  diagnostic vocabulary from TruCharge and Flash-Beep-Diagnostics,
   confirming diagnostics are controller-specific across Golden's whole
   catalog, not just within one model family.
 - Battery charging: 8-hour full charge, 12-hour initial conditioning

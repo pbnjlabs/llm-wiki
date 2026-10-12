@@ -323,3 +323,14 @@ clearance, choosing on length alone, and not planning for daily use or
 caregiver assistance.
 
 Related: [[ADA-Ramp-Requirements]], [[EZ-ACCESS]]
+
+## Joint Commission (house standard)
+
+PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). For
+evaluations and installs that means: check that the home can use the
+equipment safely (outlets, cords, heat, liquids, backup power;
+EQ.01.02.01), note other home safety risks and **fall risk**
+(EC.02.01.01, NPSG.09.02.01), give the patient **written and verbal**
+instructions on use, troubleshooting, cleaning and maintenance
+(PC.02.03.01), and record the home's suitability in the patient record
+(RC.02.01.01).

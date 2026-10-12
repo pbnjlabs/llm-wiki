@@ -11,7 +11,7 @@ tags: [golden, joystick, shark-controller, repair]
 
 1-page, 14-step procedure for a Shark-controller joystick on a
 retractable desk arm — confirms the "Shark" controller brand by name (see
-[[GP6xx-Compass]] for GP605's SHARK controller). No specific model named
+[[GP6xx-Compass]]; Shark codes on [[Shark-Diagnostics]]). No specific model named
 in this doc.
 
 Feeds: [[Golden-Joystick-Side-Conversion]]

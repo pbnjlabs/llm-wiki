@@ -102,6 +102,15 @@ set method yet.
   fee**. Quote the assessment, one-way travel and restocking fee, and
   attach the manufacturer's invoice.
 
+## Joint Commission (house standard)
+
+PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). For repairs:
+work to the **manufacturer's guidelines** and document checks and repairs
+(EQ.01.03.01 EP 3); record model and serial number (EP 7); report and
+investigate equipment failures and any incident where equipment may have
+caused harm (EC.04.01.01). Get the manual if it isn't on file
+(EQ.01.03.01 EP 1).
+
 ## Related
 
 [[PMS-Office-Procedures]], [[Ordering and Returning Parts]],

@@ -33,7 +33,7 @@ Distinct from the [[TruCharge-Diagnostics]] 10-bar display confirmed on
 the GA541 Avenger and the GP162 PTC/VR2 wheelchair variant (PG
 "S-Drive"/VR2 controllers), from [[LiNX-Diagnostics]] (7-code, GP162's
 LiNX-controller variant), from [[S-Drive-Beep-Codes]] (GB106, Patriot,
-Eagle) and from [[Shark-Diagnostics]] (11-code). Golden uses at least five diagnostic schemes
+Eagle) and from [[Shark-Diagnostics]] (11-code). Golden uses at least six diagnostic schemes (the sixth is the Cricket's Micon beep table, on [[GP302-Cricket]])
 across its scooter and power-wheelchair lines — the controller family is
 what determines which scheme applies, not the model name or product
 category, so check for a Dynamics R-Series controller before assuming

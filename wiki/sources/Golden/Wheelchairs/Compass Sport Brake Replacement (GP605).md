@@ -19,9 +19,10 @@ the 2-pin brake harness → swap the labeled left/right brake (4 screws,
 lever in neutral) → reverse, with side-specific harness routing/tie-wrap
 counts (step 19 for right-side-only rewrap) → **plug the left motor
 harness into M2, right into M1, and the power harness into the "SHARK"
-module** — confirms GP605 uses a controller branded "SHARK", distinct from
-the PG VR2/LiNX pair confirmed on [[GP162-LiteRider-Envy]] and the Dynamics
-R-Series confirmed on [[GC240-340-440-540-Companion]]/[[GL110-140-LiteRider]].
+module**. So this (2011) GP605 used a Dynamic Controls **SHARK**
+controller ([[Shark-Diagnostics]]). The 2017
+[[Compass Sport Service Guide (GP605, LiNX)]] shows a LiNX controller, so
+later GP605s changed.
 Ends with a mandatory test drive.
 
 Feeds: [[GP6xx-Compass]]

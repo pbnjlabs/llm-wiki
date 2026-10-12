@@ -16,7 +16,8 @@ second copy, `GB116+GB146 Buzzaround XL_SG_REVA_100711.pdf`, with
 identical text, so only this one was filed.
 
 - **Controller:** Dynamics R-Series. The IPB lists a **DR50-A01 (50 A)**.
-  18–24 VDC system with 12V 12 Ah batteries.
+  18–24 VDC system with two 12 Ah **or** two 18 Ah batteries (the IPB
+  lists the 12 Ah pack).
 - **Motor** under 50 Ω (can be as low as 0.2 Ω). **Brake** under 80 Ω,
   not shorted. These are looser limits than the GB117/147 guide gives.
 - Warns not to mix up the red/black motor wires and the red/black battery

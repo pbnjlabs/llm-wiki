@@ -16,7 +16,7 @@ adjust via tie-rod jam nuts (13mm) and a tie-rod center link (6mm) on
 either side until in spec.
 
 Notable: GB147 has a **tie-rod steering linkage**, distinct from the
-frame-lock fold mechanism documented for GB116/GB146 — unclear from this
-document alone whether GB147 also folds in half or is a fixed-frame
-redesign; no IPB/OM for GB147 is on file to confirm. Feeds:
-[[GB1xx-Buzzaround-XL]] (flagged as an open question there).
+frame-lock fold mechanism documented for GB116/GB146. **Resolved
+2026-10-12:** the GB147 does separate into front and rear halves, using a
+drivetrain release lever ([[Buzzaround XL Owners Manual (GB117, GB147)]]).
+Feeds: [[GB1xx-Buzzaround-XL]].

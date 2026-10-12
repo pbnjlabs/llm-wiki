@@ -104,3 +104,14 @@ stock. Run the channel straight down from the outlet and along the top
 of the baseboard. See [[PMS Stair Lift Charger Cord Policy (2019)]].
 
 Related: [[PMS-Office-Procedures]], [[Harmar-Stairlift-Beep-Codes]]
+
+## Joint Commission (house standard)
+
+PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). For
+evaluations and installs that means: check that the home can use the
+equipment safely (outlets, cords, heat, liquids, backup power;
+EQ.01.02.01), note other home safety risks and **fall risk**
+(EC.02.01.01, NPSG.09.02.01), give the patient **written and verbal**
+instructions on use, troubleshooting, cleaning and maintenance
+(PC.02.03.01), and record the home's suitability in the patient record
+(RC.02.01.01).

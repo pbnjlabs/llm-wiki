@@ -38,7 +38,8 @@ mi), **65.5 lb assembled**, heaviest piece (main body) 47.5 lb, folds to
 
 - **Dynamics R-Series** controller (under a cover). Beep/flash codes
   1–9: [[Flash-Beep-Diagnostics]].
-- One 24 V lithium pack (15 Ah or 6.5 Ah) on two spring-loaded
+- One 24 V lithium pack (15 Ah or 6.5 Ah; the Sep 2025 sell sheet says
+  **12.5 Ah** for the large pack, so check the label when ordering) on two spring-loaded
   connectors in the centre of the deck. It reads about 29 V when full.
 - **35 A** battery fuse and a **3 A** fuse. Motor 0.8–1.5 Ω.
 - Field-replaceable parts include the transaxle, upper and lower main
