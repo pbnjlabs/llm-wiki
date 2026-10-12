@@ -133,7 +133,8 @@ device (center seat post or four-post seat frame). Harmar's types, per
 power chairs; 19/24/30 in; DD45 is the 4-point carabiner system),
 **straight bar** DD17 (seat-off), **cable harness** DD39 (small folding
 scooters), **manual chair lifting bars** DD22/23/34. The Compatibility
-Calculator picks the exact DD. Full list on the source page.
+Calculator picks the exact DD. Full list, fitting and troubleshooting:
+[[Docking-Devices]].
 
 Lift selection (same sheets): hoists keep the device out of the weather
 and fit in a garage, but are the hardest to operate ("moderate+") and
@@ -157,4 +158,4 @@ AL065 have none; they aren't on the FSS list.
 
 ## See also
 Bruno equivalent: [[VSL-6000-6900]] (Curb-Sider).
-[[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]]
+[[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]], [[Docking-Devices]]

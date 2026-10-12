@@ -181,4 +181,4 @@ sheets as they come in.
 ## See also
 
 [[AL-Series-Outside-Vehicle-Lifts]], [[Hoist-Series-Inside-Vehicle-Lifts]],
-[[Hybrid-Vehicle-Lifts]], [[GC240-340-440-540-Companion]], [[Golden]]
+[[Hybrid-Vehicle-Lifts]], [[GC240-340-440-540-Companion]], [[Golden]], [[Docking-Devices]]

@@ -90,4 +90,4 @@ added 2026-10-08 (ticked off at [[index#Missing manuals]]).
 ## See also
 
 [[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],
-[[Vehicle-Lift-Power-Wiring]]
+[[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]]

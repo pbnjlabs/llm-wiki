@@ -68,4 +68,4 @@ operation while engaged. Adjustment is nearly identical for straight and
 
 ## See also
 
-[[VPL-3100B]], [[VPL-3200B]], [[Bruno]]
+[[VPL-3100B]], [[VPL-3200B]], [[Bruno]], [[Gate-and-Door-Interlocks]] (interlock types, testing, troubleshooting)

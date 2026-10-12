@@ -127,6 +127,6 @@ configuration; **VPL400-X carries a shorter 2-year parts warranty** — see
 [[Harmar-Warranty]].
 
 ## See also
-[[Harmar]], [[Overspeed-Safety-Brake]], [[Harmar-Warranty]]
+[[Harmar]], [[Overspeed-Safety-Brake]], [[Harmar-Warranty]], [[Gate-and-Door-Interlocks]]
 
 Site evaluation: [[Porch-Lift-Evaluation]] (PMS VPL evaluation packet).

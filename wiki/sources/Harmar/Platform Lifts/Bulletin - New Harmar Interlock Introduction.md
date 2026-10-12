@@ -27,4 +27,4 @@ pulling on the door) — two extra spacer washers between keeper and keeper
 plate make this work correctly.
 
 ## Feeds into
-[[HighlanderII]]
+[[HighlanderII]], [[Gate-and-Door-Interlocks]]

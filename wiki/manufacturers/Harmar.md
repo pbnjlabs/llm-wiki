@@ -124,3 +124,5 @@ have a spec sheet, closed 2026-10-08). Tracked at [[index#Missing manuals]].
 manuals ([[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]]); only the AL055/AL065 lack one. Harmar's current
 vehicle-lift lineup and specs: [[Harmar Mobility Solutions Chart (2026, Rev F)]]. Helix, SL300, and SL600 install manuals are now on
 file (closed from the previous ingest's backlog note).
+
+Cross-manufacturer concepts: [[Docking-Devices]] (hoist and truck lifts), [[Gate-and-Door-Interlocks]] (Highlander II gates).

@@ -51,7 +51,8 @@ on the center seat post or the four-post seat frame.
 | **Manual WC lifting bars** (3) | Rigid and folding manual chairs; folding chairs upright or on their side | DD22, DD23, DD34 |
 DD45, the **4-point docking system**, is a spreader-bar type whose
 Black Diamond carabiners clip to all four tie-down loops. **The
-Compatibility Calculator names the exact DD for each lift and chair.** Docking device prices are on
+Compatibility Calculator names the exact DD for each lift and chair.**
+See [[Docking-Devices]]. Docking device prices are on
 [[Harmar VA FSS Price List (2018-2023)]].
 
 **Hitch Receiver Adapters** (`Harmar-Hitch-Adapters-Product-Insight.pdf`,

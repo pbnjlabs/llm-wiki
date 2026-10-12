@@ -36,7 +36,7 @@ porch/deck surface.
 | Bottom call box | **Within 10 ft of the VPL** |
 | Head clearance | **100 in**, or **120 in for a 72 in VPL** (53 in rise platform / 77 in tower) |
 | Garage doors | Lift height must clear them. **Check all headroom from the entry door to the VPL.** |
-| Door interlock | Only when the VPL is **installed directly at the door** |
+| Door interlock | Only when the VPL is **installed directly at the door** ([[Gate-and-Door-Interlocks]]) |
 
 Also record **door direction** (in/out, left/right, **including screen or
 glass doors**) and the **gate hinge side** (standing in the lift).
