@@ -85,6 +85,8 @@ Service guides for discontinued models are in
   uses LiNX**: [[GP302-Cricket]].
 - **Newer Buzzarounds** — GB150 (next-generation XL 4-wheel) and GB107 /
   GB108 Buzzaround LT, sell sheets only; listed on [[GB1xx-Buzzaround-XL]].
+- **Lift chairs (PR series, AutoDrive hand control)**: one reset and
+  calibration sheet only, **no owner's manuals**. See [[Golden-Lift-Chairs]].
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
@@ -128,9 +130,8 @@ actual topic rather than one page per document:
   (SM4/SM5/SM9/SMP/SMV etc.), measuring procedure, and the physical
   Proflex seating base behind the "SMP" code (4 docs). GP207 and GP208
   appear there but have no manuals on file
-- [[Golden-Dealer-Tips]] — general reminders (incl. the only mention of
-  **lift chairs** anywhere in this collection — no lift chair manuals on
-  file) and cosmetic touch-up paint tips (2 docs)
+- [[Golden-Dealer-Tips]] — general reminders (incl. **lift chair** care)
+  and cosmetic touch-up paint tips (2 docs)
 - [[Golden-Key-Switch-Replacement]] — universal key/key-switch swap
 - [[Golden-Joystick-Side-Conversion]] — Shark-controller joystick
   right-to-left conversion, ties to [[GP6xx-Compass]]'s SHARK controller
@@ -178,8 +179,8 @@ own documentation.
 
 ## Not yet ingested
 
-Nothing. **All 101 Golden files on disk have been ingested**, as 100
-distinct documents. 19 were added on 2026-10-12 from the human's
+Nothing. **All 102 Golden files on disk have been ingested**, as 101
+distinct documents. The 102nd is the AutoDrive lift chair sheet (2026-10-12). 19 were added on 2026-10-12 from the human's
 Downloads: service guides for the Buzzaround XL/Extreme/Carry On,
 Compass Sport/HD, Patriot and the discontinued GB106, GB116/146, GL109,
 GP160, GP204/215 and GP205; owner's manuals for the GB117/147, Eagle

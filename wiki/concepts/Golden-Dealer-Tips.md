@@ -20,10 +20,9 @@ Sources: [[Golden Tips]], [[Touch Up Paint Tips]].
   batteries; don't test new backup batteries by taking the chair out of
   recline (shortens battery life).
 
-Note: this is the only document in the entire Golden collection that
-mentions **lift chairs** — no lift chair model manuals are on file. Golden
-apparently sells lift chairs as a product category not otherwise
-represented in this manual set.
+Lift chair procedures (calibration and factory reset for the AutoDrive
+hand controls) are on [[Golden-Lift-Chairs]]. No lift chair owner's
+manuals are on file.
 
 ## Touch-up paint
 
