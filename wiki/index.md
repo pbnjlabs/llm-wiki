@@ -199,6 +199,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
+| **Joint Commission DMEPOS standards (PMS adheres; house standard):** delivery, home setup safety check, patient training, inspection between patients, maintenance per manufacturer, recalls/serials, dirty/clean/patient-ready storage, incident 24/72 h, complaints 5/14 days, staff competency | [[Joint-Commission-DMEPOS]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
 | Ramp site planning (**PMS evaluation procedure from the Ramps Handbook**: start inside, fire egress, 5 ft level at the door, five design rules; PMS evaluation form's total-rise formula and photo list; **PMS measurement methods** (tape, pen trick, laser-level total rise, cone layout, landing surfaces); **ramp completion pictures** list; plus intake questions, product picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
 | Ramp install time estimates (per-component labor minutes from the layout-key sheet, origin unknown, with a worked example) | [[Ramp-Install-Time-Estimates]] |
@@ -506,10 +507,13 @@ PSAS-supplied ADA grab bars (12–32 in, shower and toilet, tile and
 fiberglass, 350 lb, 2-year labor warranty). Raw file in `MANUALS/Grab Bars/`.
 Requester contact details omitted.
 
-Standards (1 of 1 ingested), see `wiki/sources/Standards/ADA/`: ADA
+Standards (2 of 2 ingested), see `wiki/sources/Standards/`: ADA
 Technical Guide - Ramps and Curb Ramps (U.S. Access Board, July 2015;
 raw file `MANUALS/Ramps/ADA_Rules_ramps.pdf`). This is the
 authoritative ADA reference behind [[ADA-Ramp-Requirements]].
+[[Joint Commission DMEPOS Standards (2026)]] (effective 2026-09-01; **PMS
+adheres to these**; full text extracted from Joint Commission's web tool to
+`MANUALS/Standards/Joint Commission/`), behind [[Joint-Commission-DMEPOS]].
 
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —

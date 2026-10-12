@@ -150,6 +150,17 @@ page they touch should state them.
   loading a scooter into a van) and are exempt from the 1:12 rule.
   GATEWAY 3G is **not** exempt. It can technically be moved, but PMS
   treats it as a permanent, long-term ramp.
+- **Joint Commission DMEPOS standards.** PMS adheres to the Joint
+  Commission's DMEPOS accreditation standards (per the human,
+  2026-10-12). Full text: `MANUALS/Standards/Joint Commission/`; field
+  summary: `concepts/Joint-Commission-DMEPOS.md`. They govern how work is
+  done (delivery, setup, home safety checks, patient training,
+  inspection between patients, maintenance per the manufacturer,
+  recalls, incident reporting, dirty/clean/patient-ready storage,
+  records). Where they say "follow the manufacturer's guidelines", the
+  manual sets the spec. When answering a delivery, setup, repair or
+  cleaning question, mention any Joint Commission requirement that
+  applies.
 - **Always replace every battery in the device**, on every device.
   Replace the whole set as a matched set, even if only one battery has
   failed. Stated on `Mobility-Batteries` (from the 2026-10-01 P440 field
