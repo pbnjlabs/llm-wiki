@@ -23,7 +23,8 @@ current catalog options:
   drive-inhibit chasing-light sequence not present on the PTC variant.
 
 Two chassis sub-variants also exist per the IPB: **GP162B** (basic frame,
-seat post shared with the older "LiteRider PTC GP160") and **GP162C**
+seat post shared with the older "LiteRider PTC GP160", see
+[[GP160-LiteRider-PTC]]) and **GP162C**
 (distinct frame, seat swivel with built-in lock).
 
 Link to [[Golden]].
@@ -88,7 +89,7 @@ Seat codes: takes SM5, SM4 (Opt), SME, and SMP (Pro-Flex, Option) — see
 
 ## See also
 
-[[Golden]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
+[[Golden]], [[GP160-LiteRider-PTC]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
 [[TruCharge-Diagnostics]], [[LiNX-Diagnostics]],
 [[Golden-Wheelchair-Warranty]], [[Golden-Seating-Systems]]
 

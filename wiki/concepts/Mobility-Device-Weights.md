@@ -7,7 +7,8 @@ tags: [vehicle-lift, weight, scooter, power-chair, golden, harmar, bruno, hitch,
 
 Assembled weights and sizes of the scooters and power chairs PMS works
 with, for **choosing a vehicle lift** and checking the **hitch**.
-Golden figures are from Golden's own sell sheets ([[Golden Sell Sheets (2018-2026)]]);
+Golden figures are from Golden's own sell sheets ([[Golden Sell Sheets (2018-2026)]]),
+except GB117/GB147, which come from their 2019 owner's manual;
 assembled weights **include batteries**.
 
 ## The hitch check (outside lifts)
@@ -33,6 +34,9 @@ ratings (see [[ASL-275]], [[ASL-700]]).
 | GB120 Buzzaround Carry On | 65.5 lb | 38 × 19.5 in | 28.7 in | 300 lb | 148.5 lb |
 | GB107 Buzzaround LT 3W | 85.5 lb | 41.75 × 19–21 in | 33.5 in | 300 lb | 168.5 lb |
 | GB108 Buzzaround LT 4W | 95 lb | 44 × 19–21 in | 33.5 in | 300 lb | 178 lb |
+| GB117 Buzzaround XL 3W | 102 lb (12 Ah) | 42.5 × 21.5 in | 33.5 in | 300 lb | 185 lb |
+| GB147 Buzzaround XL 4W | 110 lb (12 Ah) | 41.5 × 21.5 in | 32 in | 300 lb | 193 lb |
+| **GB147H** Buzzaround XL 4W HD (VA lineup) | 120 lb (22 Ah); 123 lb suspension version | 41.5 × 21.5 in | 32 in | 325 lb | 203 lb |
 | GB150 Buzzaround XL 4W | 110 lb | 42 × 22 in | 30.6 in | 325 lb | 193 lb |
 | GB118 Buzzaround EX 3W | 154 lb | 45 × 22 in | 34.7 in | 350 lb | 237 lb |
 | GB148 Buzzaround EX 4W | 161 lb | 44 × 22 in | 33.8 in | 350 lb | 244 lb |
@@ -56,7 +60,13 @@ file. See [[GC240-340-440-540-Companion]].
 The **Avenger and Eagle** are long (57.5 and 56.5 in) and heavy; check
 platform length and capacity before assuming a scooter lift fits. The
 Eagle with 75 Ah batteries is heavier than 302.5 lb (each 75 Ah battery
-is 52 lb vs 37 lb for NF22).
+is 52 lb vs 37 lb for NF22). The Eagle's 2022 owner's manual says
+**300 lb with a 239 lb base**, but the 2024 sell sheet says a 179 lb
+base. Weigh the unit if the margin is tight.
+
+GB117/GB147 weights come from the [[Buzzaround XL Owners Manual (GB117, GB147)]]
+(2019), not a sell sheet. The heaviest piece is the front half: 35 lb
+(3W) or 43 lb (4W).
 
 ## Minimum lift pairings (wiki estimate)
 
@@ -98,6 +108,9 @@ lift (+ swing-away), the number the hitch must be rated for.
 | GB120 Carry On (4W) | 65.5 | AL015, 4W cradle | 135.5 | 160.5 | 175.5 | Std scooter platform | 190.5 | No (wheelbase 28.7 < 29) |
 | GB107 Buzzaround LT (3W) | 85.5 | AL015 | 150.5 | 175.5 | 190.5 | Std scooter | 210.5 | Yes |
 | GB108 Buzzaround LT (4W) | 95 | AL015, 4W cradle | 165 | 190 | 205 | Std scooter | 220 | Yes |
+| GB117 Buzzaround XL (3W) | 102 | AL015 | 172 | 197 | 212 | Std scooter | 227 | Yes |
+| GB147 Buzzaround XL (4W) | 110 | AL015, 4W cradle | 180 | 205 | 220 | Std scooter | 235 | Yes |
+| **GB147H** Buzzaround XL HD (4W) | 120 | AL015, 4W cradle | 190 | 215 | 230 | Std scooter | 245 | Yes |
 | GB150 Buzzaround XL (4W) | 110 | AL015, 4W cradle | 180 | 205 | 220 | Std scooter | 235 | Yes |
 | GB118 Buzzaround EX (3W) | 154 | AL160 | 228 | 253 | 268 | Std scooter | 279 | Yes |
 | GB148 Buzzaround EX (4W) | 161 | AL160 | 235 | 260 | 275 | Std scooter | 286 | Yes |

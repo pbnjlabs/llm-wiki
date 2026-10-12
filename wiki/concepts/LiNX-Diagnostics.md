@@ -9,9 +9,14 @@ A 7-code flash-code scheme tied to Golden's **LiNX controller** — a third
 distinct diagnostic vocabulary alongside [[TruCharge-Diagnostics]] (10-bar,
 PG S-Drive/VR2 controllers) and [[Flash-Beep-Diagnostics]] (9-code,
 Dynamics R-Series controller). Confirmed on the LiNX-controller variant of
-[[GP162-LiteRider-Envy]] only so far — see
+[[GP162-LiteRider-Envy]] — see
 [[LiteRider Envy LiNX Supplemental Insert (GP162)]] and
-[[LiteRider Envy LiNX Owners Manual (GP162)]] (identical table in both).
+[[LiteRider Envy LiNX Owners Manual (GP162)]] (identical table in both) —
+and on the **GP605 Compass Sport** in the 2017
+[[Compass Sport Service Guide (GP605, LiNX)]], which gives the full
+test procedure behind each code ([[GP6xx-Compass]]). The **GP302B**
+Cricket also has a LiNX controller ([[Cricket Illustrated Parts Breakdown (GP302)]]);
+its own codes aren't documented, so this table is the best guide.
 Reinforces that Golden's diagnostic scheme is determined by controller
 choice, not model name or product category — check per-model before
 assuming any of the three schemes applies.
@@ -49,5 +54,5 @@ troubleshooting a chair that "won't move":
 
 ## See also
 
-[[GP162-LiteRider-Envy]], [[TruCharge-Diagnostics]],
-[[Flash-Beep-Diagnostics]], [[Golden]]
+[[GP162-LiteRider-Envy]], [[GP6xx-Compass]], [[GP302-Cricket]], [[TruCharge-Diagnostics]],
+[[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Golden]]

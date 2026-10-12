@@ -7,8 +7,10 @@ tags: [diagnostics, pg-drives, trip-codes, s-drive, vr2, vsi, pilot-plus, contro
 
 The **4-digit trip codes** PG Drives Technology (PGDT) controllers
 report to a **PG programmer**, from the [[PG Drives Mobility Diagnostic Guide]] (2017). Covers **newVSI, VSI, VR2, Pilot+, S-Drive, EGIS and
-Solo**. Golden uses the **S-Drive** on the [[GA541-Avenger]] and the
-**VR2** on the [[GP162-LiteRider-Envy]] PTC variant.
+Solo**. Golden uses the **S-Drive** on the [[GA541-Avenger]], [[GR595-Eagle]],
+[[GR575-Patriot]] and GB106 Buzzaround Lite ([[S-Drive-Beep-Codes]]), and the
+**VR2** on the [[GP162-LiteRider-Envy]] PTC variant, [[GP160-LiteRider-PTC]],
+[[GP204-Alante-DX]] and [[GP205-Alante-Sport]].
 
 These are **programmer codes**. The bar/flash code a user sees on the
 **TruCharge display** is on [[TruCharge-Diagnostics]]; use the
@@ -94,5 +96,5 @@ programmer code for detail.
    gradient; release and check it stops and holds **without the front
    wheels lifting**; restart smoothly; repeat reversing down.
 
-Related: [[TruCharge-Diagnostics]], [[Joystick-Controllers]],
+Related: [[TruCharge-Diagnostics]], [[S-Drive-Beep-Codes]], [[Joystick-Controllers]],
 [[PG Drives S-Drive Brochure]]

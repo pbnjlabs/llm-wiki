@@ -18,8 +18,8 @@ cosmetic rather than a mechanical redesign.
 
 - [[LiteRider Service Guide (GL110, GL140)]] — troubleshooting,
   replacement procedures, IPB
-- [[Battery Replacement (GL110, GL140, GP160)]] — also covers GP160 (not
-  yet ingested)
+- [[Battery Replacement (GL110, GL140, GP160)]]: also covers the
+  [[GP160-LiteRider-PTC]] power chair
 - [[Brake Replacement (GL110, GL140)]]
 
 No dedicated operator manual or IPB is on file for GL110/GL140 alone
@@ -36,8 +36,8 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
   see [[GB1xx-Buzzaround-XL]] — model-specific handle only. Two documented
   procedures exist (retrofit vs. like-for-like swap) — see
   [[Brake-Replacement]] for the comparison.
-- **Battery replacement**: same 2-battery-pack design as GP160 LiteRider
-  PTC (no GP160 manual of its own on file).
+- **Battery replacement**: same 2-battery-pack design as the
+  [[GP160-LiteRider-PTC]] (which has its own service guide).
 - **Voltmeter/ohmmeter diagnostics**: the Service Guide's Appendix A/B
   give generic multimeter usage instructions — likely reusable across any
   future Golden ingest that needs voltage/continuity troubleshooting.
@@ -52,4 +52,4 @@ No dedicated operator manual or IPB is on file for GL110/GL140 alone
 
 [[Golden]], [[GL111-141-LiteRider]], [[Flash-Beep-Diagnostics]],
 [[GB1xx-Buzzaround-XL]], [[Golden-Transaxle-Replacement]],
-[[Brake-Replacement]]
+[[Brake-Replacement]], [[GL109-LiteRider-Mini]], [[GP160-LiteRider-PTC]]

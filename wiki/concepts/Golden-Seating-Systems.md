@@ -33,11 +33,11 @@ optional (Opt), or not applicable:
 | SM9/SN9 | High-back | GC240/340/440, GP605/620 |
 | SMP | Pro-Flex | GP162, GP205, GP207, GP605, GP620 (wheelchairs only — see [[GP6xx-Compass]], [[GP162-LiteRider-Envy]]) |
 | SMV/SNV | Van/pan | GC240/340/440, GP605/620 |
-| SMH, SMD, SMF, SME | misc single-model codes | SMH=GA541, SMD=GR575 (Patriot — not yet ingested), SMF=GP208 (not yet ingested), SME=GP162/GL111/GL141 |
+| SMH, SMD, SMF, SME | misc single-model codes | SMH=GA541, SMD=GR575 ([[GR575-Patriot]]), SMF=GP208 (not yet ingested), SME=GP162/GL111/GL141 |
 
-GR575 ("Patriot"), GP205, GP207, and GP208 appear in these seat docs but
-have no manuals of their own on file — noted for a future ingest if such
-manuals turn up.
+GP207 and GP208 appear in these seat docs but have no manuals of their
+own on file. GR575 and GP205 now do: [[GR575-Patriot]],
+[[GP205-Alante-Sport]].
 
 ## Proflex Seat (the physical seating base behind the "SMP" code)
 

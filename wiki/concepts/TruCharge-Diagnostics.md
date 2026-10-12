@@ -41,10 +41,18 @@ bar count isn't enough.
 General rule: when the display drops to 2 bars, batteries must be charged
 before further driving.
 
-## GP162 PTC (PG VR2, dual-motor wheelchair)
+## PG VR2 power chairs (dual motor)
 
 Same 10-bar architecture, but codes 2-5 and 9 split into left/right motor
-pairs to match the wheelchair's independent drive motors:
+pairs to match the wheelchair's independent drive motors. The same table
+appears in all four VR2 service guides on file:
+[[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]] ([[GP162-LiteRider-Envy]]),
+[[LiteRider PTC Service Guide (GP160)]] ([[GP160-LiteRider-PTC]]),
+[[Alante DX and LT Service Guide (GP204, GP215)]] ([[GP204-Alante-DX]]) and
+[[Alante Sport Service Guide (GP205)]] ([[GP205-Alante-Sport]]).
+The guides name them "VR2 flash codes" (e.g. 3 = left motor wiring trip,
+6 = charger connected, 9 = solenoid brake trip). On these chairs the
+motors read **under 5 Ω**.
 
 | Bar | Fault |
 |---|---|
@@ -61,5 +69,6 @@ pairs to match the wheelchair's independent drive motors:
 
 ## See also
 
-[[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[LiNX-Diagnostics]],
-[[Flash-Beep-Diagnostics]], [[Golden]]
+[[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[GP160-LiteRider-PTC]],
+[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[LiNX-Diagnostics]],
+[[Flash-Beep-Diagnostics]], [[S-Drive-Beep-Codes]], [[Golden]]

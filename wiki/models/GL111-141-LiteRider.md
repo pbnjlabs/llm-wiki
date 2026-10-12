@@ -42,4 +42,4 @@ applies, but that's not confirmed from GL111/141-specific documentation).
 ## See also
 
 [[Golden]], [[GL110-140-LiteRider]], [[Flash-Beep-Diagnostics]],
-[[Golden-Scooter-Warranty]], [[GC240-340-440-540-Companion]]
+[[Golden-Scooter-Warranty]], [[GC240-340-440-540-Companion]], [[GL109-LiteRider-Mini]]

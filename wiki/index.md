@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 30 (27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 82 | 68 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
+| Golden | [[Golden]] | 101 (6 in `Discontinued Models/`) | 87 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -48,10 +48,11 @@ writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
 
-Note: Golden's 82 files include one byte-identical duplicate PDF saved
+Note: Golden's 101 files include one byte-identical duplicate PDF saved
 under two filenames (the GP162 LiteRider PTC service guide, confirmed by
-md5): 81 distinct documents. 68 source pages: the 14 sell sheets added
-2026-10-08 share one page ([[Golden Sell Sheets (2018-2026)]]). See
+md5): 100 distinct documents. 87 source pages: the 14 sell sheets added
+2026-10-08 share one page ([[Golden Sell Sheets (2018-2026)]]). 19 docs
+were added 2026-10-12 from the human's Downloads. See
 [[Golden]] for details.
 
 Note: **AutoSlide and Open Sesame are not mobility equipment.** They're
@@ -107,19 +108,23 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VSL-4400 (Joey; inside platform lift, door safety switch) | Bruno | [[VSL-4400]] |
 | VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping) | Bruno | [[VSL-6000-6900]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
-| Buzzaround XL / Lite (GB106/116/146/147) | Golden | [[GB1xx-Buzzaround-XL]] |
+| Buzzaround XL / Lite (GB106/116/146, current GB117/147 incl. **GB147H = HD**; GB107 IPB) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
 | Buzzaround Carry On (GB120) | Golden | [[GB120-Buzzaround-CarryOn]] |
 | Companion GC221/321/421 (older gen) | Golden | [[GC221-321-421-Companion]] |
 | Companion GC240/340/440/540 HD (**GC440 changed 2024: newer one heavier, needs an appropriate Harmar lift**) | Golden | [[GC240-340-440-540-Companion]] |
+| LiteRider Mini GL109 (discontinued) | Golden | [[GL109-LiteRider-Mini]] |
 | LiteRider GL110/140 (older gen) | Golden | [[GL110-140-LiteRider]] |
 | LiteRider GL111/141 (current gen) | Golden | [[GL111-141-LiteRider]] |
 | LiteRider Envy GP162 (PTC/VR2 + LiNX variants) | Golden | [[GP162-LiteRider-Envy]] |
-| Alante DX GP204 | Golden | [[GP204-Alante-DX]] |
-| Compass GP600/605/615/620 | Golden | [[GP6xx-Compass]] |
+| LiteRider PTC GP160 (discontinued power chair, PG VR2) | Golden | [[GP160-LiteRider-PTC]] |
+| Alante DX GP204 / Alante LT GP215 ("Compass Jr"; discontinued, PG VR2) | Golden | [[GP204-Alante-DX]] |
+| Alante Sport GP205 (discontinued, PG VR2) | Golden | [[GP205-Alante-Sport]] |
+| Compass GP600/605/615/620 (GP605: SHARK or LiNX; GP620: Shark) | Golden | [[GP6xx-Compass]] |
 | Ally GP303 | Golden | [[GP303-Ally]] |
-| Eagle GR595 (off-road 4W scooter, 302.5 lb; sell sheet only) | Golden | [[GR595-Eagle]] |
-| Cricket GP302 (carbon fiber folding power chair, 39.3 lb; sell sheet only) | Golden | [[GP302-Cricket]] |
+| Eagle GR595 (off-road 4W scooter, ~300 lb, PG S-Drive; OM + IPB) | Golden | [[GR595-Eagle]] |
+| Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah) | Golden | [[GR575-Patriot]] |
+| Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto | Pride | [[Q6-Edge-3-Stretto]] |
 | AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
@@ -163,9 +168,11 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Mobility device weights for vehicle lifts (Golden assembled weights, sizes, wheelbases; hitch tongue-weight check; GC440 2024 = 222 lb) | [[Mobility-Device-Weights]] |
 | Vehicle lift power wiring (Bruno PUL-1100, ASL-275; Harmar 23 ft harness, 20 A breaker, red last) | [[Vehicle-Lift-Power-Wiring]] |
 | Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
-| TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2 controllers: GA541 + GP162 PTC variant) | [[TruCharge-Diagnostics]] |
-| Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion + both LiteRider generations) | [[Flash-Beep-Diagnostics]] |
-| LiNX controller diagnostics (7-code, GP162 LiNX variant so far) | [[LiNX-Diagnostics]] |
+| TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2: GA541, GP160, GP162 PTC, GP204/215, GP205) | [[TruCharge-Diagnostics]] |
+| S-Drive beep codes (7 codes, Golden S-Drive scooters: GB106, GR575 Patriot, GR595 Eagle) | [[S-Drive-Beep-Codes]] |
+| Shark controller diagnostics (11-code Dynamic Shark: GP620, older GP605; DX-HHP joystick calibration) | [[Shark-Diagnostics]] |
+| Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion, LiteRiders incl. GL109, Buzzaround XL GB116/146/117/147, Extreme, Carry On) | [[Flash-Beep-Diagnostics]] |
+| LiNX controller diagnostics (7-code: GP162 LiNX variant, 2017 GP605, GP302B) | [[LiNX-Diagnostics]] |
 | Golden wheelchair warranty (separate from scooter warranty: GP162/GP205/GP207/GP605/GP620) | [[Golden-Wheelchair-Warranty]] |
 | Golden battery charging (HP8204B, MRC24-4LX + general care) | [[Golden-Battery-Charging]] |
 | Golden accessory installs (8 universal accessory docs) | [[Golden-Accessory-Installs]] |
@@ -195,8 +202,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ramp site planning (**PMS evaluation procedure from the Ramps Handbook**: start inside, fire egress, 5 ft level at the door, five design rules; PMS evaluation form's total-rise formula and photo list; **PMS measurement methods** (tape, pen trick, laser-level total rise, cone layout, landing surfaces); **ramp completion pictures** list; plus intake questions, product picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
 | Ramp install time estimates (per-component labor minutes from the layout-key sheet, origin unknown, with a worked example) | [[Ramp-Install-Time-Estimates]] |
 
-Golden uses at least 4 controller brands (PG S-Drive/VR2, LiNX, Dynamics
-R-Series, GP605's "SHARK") and 3 diagnostic schemes across scooters and
+Golden uses PG Drives (S-Drive/VR2), Dynamic Controls (R-Series, Shark,
+LiNX) and Micon controllers, with 6 diagnostic schemes across scooters and
 wheelchairs — always verify the controller before assuming a scheme
 applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3 controllers
 (see [[Joystick-Controllers]]) are a separate scheme again — don't assume
@@ -330,7 +337,18 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (82 of 82 ingested — fully ingested) — see `wiki/sources/Golden/`: [[Golden Sell Sheets (2018-2026)]] (General; 14 sell sheets added 2026-10-08: official specs and assembled weights for the VA lineup plus GB107/108, GB150); [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
+Golden (101 of 101 ingested — fully ingested) — see `wiki/sources/Golden/`: **added 2026-10-12:**
+[[Buzzaround XL Owners Manual (GB117, GB147)]], [[Buzzaround XL Service Guide (GB117, GB147)]],
+[[Buzzaround Lite and XL Illustrated Parts Breakdown (GB107, GB117, GB147)]],
+[[Buzzaround XL Service Guide (GB116, GB146)]], [[Buzzaround Lite Service Guide (GB106)]],
+[[Buzzaround Extreme Service Guide (GB118, GB148)]], [[Buzzaround Carry On Service Guide (GB120)]],
+[[Companion Illustrated Parts Breakdown 2021 (GC240, GC340, GC440)]],
+[[LiteRider Mini Service Guide (GL109)]], [[LiteRider PTC Service Guide (GP160)]],
+[[Alante DX and LT Service Guide (GP204, GP215)]], [[Alante Sport Service Guide (GP205)]],
+[[Compass Sport Service Guide (GP605, LiNX)]], [[Compass HD Service Guide (GP620)]],
+[[Cricket Owners Manual (GP302)]], [[Cricket Illustrated Parts Breakdown (GP302)]],
+[[GR595 Eagle Owners Manual]], [[GR595 Eagle Illustrated Parts Breakdown]],
+[[GR575 Patriot Service Guide]]; earlier: [[Golden Sell Sheets (2018-2026)]] (General; 14 sell sheets added 2026-10-08: official specs and assembled weights for the VA lineup plus GB107/108, GB150); [[PG Drives Mobility Diagnostic Guide]] and [[PG Drives S-Drive Brochure]] (General, PG controller docs, added 2026-09-30); GA541 Avenger IPB,
 GA541 Avenger Operator Manual, GA541 Avenger Mirror Installation,
 2-Piece Brake Replacement, Frame Lock Adjustment (GB116/146), Field
 Alignment Procedure (GB147), Rental Bumper Kit (GB118), Charging Dock
@@ -541,11 +559,11 @@ on file):
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
   VA-issued manual chairs.
-- [ ] **Golden VA lineup gaps** (models Golden markets to the VA, per
-  the human; see [[Golden]]): **GR595 Eagle** and **GP302 Cricket** now
-  have sell sheets (specs, weights) but **no owner's or service
-  manual**; **GB147H** Buzzaround has only a GB147 field alignment
-  sheet.
+- [x] **Golden VA lineup gaps** (models Golden markets to the VA, per
+  the human; see [[Golden]]): closed 2026-10-12. **GR595 Eagle** and
+  **GP302 Cricket** now have owner's manuals and IPBs (still no service
+  guide for either). **GB147H** = the GB147 HD, covered by the GB117/147
+  owner's manual, service guide and IPB ([[GB1xx-Buzzaround-XL]]).
 - Power chairs and scooters: only Golden, Pride and Red Hawk are on
   file. Add other brands as VA jobs turn them up.
 

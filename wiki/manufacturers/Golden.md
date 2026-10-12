@@ -7,8 +7,9 @@ tags: [manufacturer, scooter, power-wheelchair]
 # Golden (Golden Technologies)
 
 Manufacturer of power scooters and power wheelchairs. Largest manual
-collection in this wiki (~60 files), mostly flat under `MANUALS/Golden/`
-rather than split into product-line subfolders.
+collection in this wiki (101 files), mostly flat under `MANUALS/Golden/`.
+Service guides for discontinued models are in
+`MANUALS/Golden/Discontinued Models/` (the folder name they came with).
 
 ## Model families (by part-number prefix, from filenames — unverified against manual content)
 
@@ -17,9 +18,10 @@ rather than split into product-line subfolders.
   500 lb capacity. **Fully ingested** — see [[GA541-Avenger]].
 - **GB1xx Buzzaround** (XL / EX / Carry On) — travel scooters.
   **Fully ingested.**
-  - [[GB1xx-Buzzaround-XL]] (GB106 "Lite", GB116, GB146, GB147) —
-    frame-lock folding design for 106/116/146; GB147 has a different
-    tie-rod steering linkage, open question whether it still folds.
+  - [[GB1xx-Buzzaround-XL]]: GB106 "Lite" (**PG S-Drive**), GB116/GB146
+    (1st-gen XL), and the current **GB117/GB147** (OM, service guide and
+    a 2025 IPB that also covers the GB107). Every XL separates into front
+    and rear halves. **GB147H = the HD model** (325 lb, 22 Ah).
   - [[GB118-148-Buzzaround-EX]] — 3-wheel (GB118) vs. 4-wheel (GB148)
     variants of the same "Buzzaround Extreme" platform, dual removable
     battery packs on a shared charging dock.
@@ -44,35 +46,43 @@ rather than split into product-line subfolders.
 - **GL1xx LiteRider** — scooters. **Fully ingested.**
   - [[GL110-140-LiteRider]] — older generation (GL110 3-wheel/GL140
     4-wheel), service guide only, no dedicated OM/IPB on file.
+  - [[GL109-LiteRider-Mini]]: discontinued small LiteRider, Dynamics
+    R-Series, service guide on file.
   - [[GL111-141-LiteRider]] — current generation, successor to
     GL110/140 (same drivetrain/transaxle part, mostly electronic/cosmetic
     changes). Shares its 90A Dynamics R-Series controller with the
     Companion line (GC240/340/440) — confirmed in the IPB.
   - Brake mechanism shared with Buzzaround XL/Lite (GB106/116/146) — same
     brake body, model-specific handle.
-  - Battery replacement doc also covers GP160 LiteRider PTC (no GP160
-    manual of its own on file).
+  - Battery replacement doc also covers the [[GP160-LiteRider-PTC]] power
+    chair.
 - **GP1xx/GP6xx Compass / Alante / LiteRider Envy / Ally** — power
   wheelchairs. **Fully ingested.**
   - [[GP162-LiteRider-Envy]] — sold under one model number with **two
     different controller families**: PTC/PG VR2 (10-bar
     [[TruCharge-Diagnostics]], wheelchair-adapted) and LiNX (7-code
     [[LiNX-Diagnostics]], plus OONAPU power-up interlock).
-  - [[GP204-Alante-DX]] — thin coverage, one ELR install doc; shares
-    legrest hardware with Alante GP201 and Compass Sport GP605.
-  - [[GP6xx-Compass]] (GP600/605/615/620) — GP605 "Compass Sport" uses a
-    **"SHARK"**-branded controller, a fourth Golden controller family
-    beyond PG VR2/LiNX and Dynamics R-Series, with no diagnostic table on
-    file yet.
+  - [[GP204-Alante-DX]] (also **GP215 Alante LT**; the DX was also sold
+    as the "Compass Jr"): discontinued, **PG VR2**, service guide on file.
+    Shares legrest hardware with Alante GP201 and Compass Sport GP605.
+  - [[GP205-Alante-Sport]]: discontinued, PG VR2 50 A, service guide.
+  - [[GP160-LiteRider-PTC]]: discontinued forerunner of the GP162, PG
+    VR2, service guide.
+  - [[GP6xx-Compass]] (GP600/605/615/620): service guides for the GP605
+    and GP620 (2017). **GP605 has had two controllers**: Dynamic
+    **SHARK** (2010–11 docs) and **LiNX** (2017 guide). The GP620 uses
+    the Shark, whose codes are now on [[Shark-Diagnostics]].
   - [[GP303-Ally]] — **not** a Compass variant despite the "GP" prefix; a
     distinct foldable-frame power wheelchair. Was misfiled by number
     during initial clustering, corrected after reading content.
-  - GP160 battery replacement doc was already covered under
-    [[GL110-140-LiteRider]] (cross-listed there).
-- **GR595 Eagle** — off-road heavy-duty 4-wheel scooter, 500 lb, 302.5
-  lb assembled. Sell sheet only: [[GR595-Eagle]].
-- **GP302 Cricket** — carbon fiber folding power chair, 39.3 lb. Sell
-  sheet only: [[GP302-Cricket]].
+- **GR595 Eagle**: off-road heavy-duty 4-wheel scooter, 500 lb, about
+  300 lb assembled, **PG S-Drive** 140 A. Owner's manual (2022) and IPB
+  (2025) on file: [[GR595-Eagle]].
+- **GR575 Patriot**: the Eagle's predecessor, PG S-Drive 140 A, two 75 Ah
+  batteries. Service guide on file: [[GR575-Patriot]].
+- **GP302 Cricket**: carbon fiber folding power chair, 39.3 lb. Owner's
+  manual and IPB on file. **GP302A uses a Micon controller and GP302B
+  uses LiNX**: [[GP302-Cricket]].
 - **Newer Buzzarounds** — GB150 (next-generation XL 4-wheel) and GB107 /
   GB108 Buzzaround LT, sell sheets only; listed on [[GB1xx-Buzzaround-XL]].
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
@@ -90,16 +100,16 @@ repairs, VA purchases).
 | GC340 Companion Full-Size 3-Wheel | Scooter | Yes: same page |
 | GC440 Companion Full-Size 4-Wheel | Scooter | Yes: same page (changed 2024; new model heavier) |
 | GC540 Companion HD 3-Wheel | Scooter | Yes: same page |
-| **GB147H** Buzzaround 4-Wheel | Scooter | **Partly**: only a GB147 field alignment sheet ([[GB1xx-Buzzaround-XL]]); what the "H" means isn't on file. A newer GB150 XL 4-wheel sell sheet is on file |
-| GR595 Eagle | Scooter | **Sell sheet only**: [[GR595-Eagle]] |
+| **GB147H** Buzzaround 4-Wheel | Scooter | Yes: [[GB1xx-Buzzaround-XL]]. **H = HD** (325 lb, 2-22 Ah, 120 lb) per the GB117/147 OM |
+| GR595 Eagle | Scooter | Yes: [[GR595-Eagle]] (OM + IPB; no service guide) |
 | GA541 Avenger | Scooter | Yes: [[GA541-Avenger]] |
 | GP162 LiteRider Envy | Power chair | Yes: [[GP162-LiteRider-Envy]] |
 | GP605 Compass Sport | Power chair | Yes: [[GP6xx-Compass]] |
-| GP302 Cricket | Power chair | **Sell sheet only**: [[GP302-Cricket]] |
+| GP302 Cricket | Power chair | Yes: [[GP302-Cricket]] (OM + IPB; no service guide) |
 | GP303 Ally | Power chair | Yes: [[GP303-Ally]] |
 
-Official specs and **assembled weights** for all of these (except the
-GB147H) are on [[Golden Sell Sheets (2018-2026)]], compared for vehicle
+Official specs and **assembled weights** for all of these are on
+[[Golden Sell Sheets (2018-2026)]] (GB147H: on its owner's manual), compared for vehicle
 lifts on [[Mobility-Device-Weights]]. Gaps are on the Missing manuals checklist
 ([[index#Missing manuals]]).
 
@@ -116,8 +126,8 @@ actual topic rather than one page per document:
   plus general battery care guidance (4 docs)
 - [[Golden-Seating-Systems]] — seat size-code catalog/fitment matrix
   (SM4/SM5/SM9/SMP/SMV etc.), measuring procedure, and the physical
-  Proflex seating base behind the "SMP" code (4 docs) — surfaces several
-  models with no manuals on file yet: GR575 (Patriot), GP205, GP207, GP208
+  Proflex seating base behind the "SMP" code (4 docs). GP207 and GP208
+  appear there but have no manuals on file
 - [[Golden-Dealer-Tips]] — general reminders (incl. the only mention of
   **lift chairs** anywhere in this collection — no lift chair manuals on
   file) and cosmetic touch-up paint tips (2 docs)
@@ -136,14 +146,22 @@ actual topic rather than one page per document:
   covers many scooter models (BUZZaround, LiteRider, Companion, Avenger,
   Patriot), found in the GA541 operator manual and confirmed verbatim
   (under a VA-specific heading) in the Companion VA operator manual.
-- [[TruCharge-Diagnostics]] — 10-bar battery/fault display, confirmed on
-  GA541 only.
+- [[TruCharge-Diagnostics]]: 10-bar/10-flash display for PG
+  controllers. GA541 (S-Drive) and the VR2 power chairs GP160, GP162
+  PTC, GP204/215 and GP205.
+- [[S-Drive-Beep-Codes]]: 7-code beep set (2/3/5–9) on S-Drive scooters
+  GB106, GR575 Patriot and GR595 Eagle.
+- [[Shark-Diagnostics]]: 11-code Dynamic Shark table (GP620, older
+  GP605).
 - [[Flash-Beep-Diagnostics]] — a *different* 9-code flash/beep scheme
   tied to the Dynamics R-Series controller, confirmed on the Companion
   line AND both LiteRider generations (GL110/140, GL111/141) — the
   controller family determines which scheme applies, not the model name.
-- [[LiNX-Diagnostics]] — a third scheme (7-code), confirmed on GP162's
-  LiNX-controller variant only so far.
+  Also confirmed on the Buzzaround XL (GB116/146, GB117/147), Extreme,
+  Carry On and GL109 LiteRider Mini.
+- [[LiNX-Diagnostics]]: 7-code scheme on the GP162 LiNX variant, the
+  2017 GP605 and (by part number) the GP302B Cricket.
+- **Micon** (GP302A Cricket): its own 9-beep table, on [[GP302-Cricket]].
 - [[Golden-Wheelchair-Warranty]] — a **separate** warranty policy from
   [[Golden-Scooter-Warranty]], confirmed by the GP162 LiNX owner's manual:
   Golden maintains distinct warranty documents for scooters vs. power
@@ -151,20 +169,26 @@ actual topic rather than one page per document:
 
 PG controller trip codes: [[PG-Drives-Trip-Codes]] (from the [[PG Drives Mobility Diagnostic Guide]]; S-Drive specs on [[PG Drives S-Drive Brochure]]).
 
-Golden uses at least four controller brands (PG S-Drive/VR2, LiNX,
-Dynamics R-Series, and GP605's "SHARK") and three diagnostic schemes
-across scooters and wheelchairs — always check the controller before
+Golden uses at least four controller makers (PG Drives S-Drive/VR2;
+Dynamic Controls R-Series, Shark and LiNX; Micon; and the A-Series named
+in the GP620 guide) and six diagnostic schemes across scooters and
+wheelchairs — always check the controller before
 assuming any scheme or warranty applies to a model without checking its
 own documentation.
 
 ## Not yet ingested
 
-Nothing — **all 82 Golden files on disk have been ingested**, as 81
-distinct documents: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
+Nothing. **All 101 Golden files on disk have been ingested**, as 100
+distinct documents. 19 were added on 2026-10-12 from the human's
+Downloads: service guides for the Buzzaround XL/Extreme/Carry On,
+Compass Sport/HD, Patriot and the discontinued GB106, GB116/146, GL109,
+GP160, GP204/215 and GP205; owner's manuals for the GB117/147, Eagle
+and Cricket; IPBs for the GB107/117/147, Eagle, Cricket and the 2021
+Companion. The one duplicate: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
 `LITERIDER PTC_GP162_ SG_REVA_ 051614.pdf` are byte-identical duplicates
 (confirmed by md5) of the same file under two filenames, so both map to
 the single [[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]]
 source page. The 14 sell sheets (2018–2026) share
 [[Golden Sell Sheets (2018-2026)]]. Models with sell sheets but no
-manual: [[GR595-Eagle]], [[GP302-Cricket]], GB150 and GB107/GB108 (see
-[[GB1xx-Buzzaround-XL]]).
+manual: GB150 and GB108 (see [[GB1xx-Buzzaround-XL]]). The GB107 has only
+an IPB. No **service guide** is on file for the Eagle or Cricket.

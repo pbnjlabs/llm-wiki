@@ -11,8 +11,8 @@ Golden's larger travel scooter, marketed as "Buzzaround Extreme" ("EX" in
 model-number shorthand). **GB118 is the 3-wheel variant, GB148 is the
 4-wheel variant of the same platform** — confirmed by the rental bumper
 kit differences (GB148's kit requires removing a front wheel and nose
-piece that the GB118 kit doesn't touch). No IPB or Operator Manual is on
-file for either yet.
+piece that the GB118 kit doesn't touch). A service guide is on file; there is no IPB or
+owner's manual yet.
 
 ## Sell-sheet specs (Apr 2025)
 
@@ -23,12 +23,19 @@ assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
 
 ## Documents on file
 
+- [[Buzzaround Extreme Service Guide (GB118, GB148)]] (2016)
 - [[Rental Bumper Kit (GB118)]]
 - [[Charging Dock (GB118, GB148)]]
 - [[Tie Down Kit (GB118, GB148)]]
 - [[Rental Bumper Kit (GB148)]]
 
 ## What's confirmed
+
+- **Dynamics R-Series** controller. Beep/flash codes 1–9:
+  [[Flash-Beep-Diagnostics]].
+- Protection: **40 A** circuit breaker, a **100 A** fuse in the
+  left-side battery pack, a **10 A** charger fuse, a 1 A throttle fuse.
+  Motor 0.8–1.5 Ω, brake 45–52 Ω.
 
 - Uses **two removable battery packs**, charged simultaneously on a
   dedicated dual-footplate charging dock (indoor use only). Charging dock
@@ -42,4 +49,4 @@ assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
 ## See also
 
 [[Golden]], [[Golden-Scooter-Warranty]], [[GB1xx-Buzzaround-XL]],
-[[GB120-Buzzaround-CarryOn]]
+[[GB120-Buzzaround-CarryOn]], [[Flash-Beep-Diagnostics]]

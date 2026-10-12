@@ -8,8 +8,49 @@ tags: [power-chair, golden, cricket, folding, carbon-fiber, travel]
 # GP302 Cricket (Golden)
 
 A **forward-folding carbon fiber travel power chair**, on Golden's 2026
-VA lineup. **Sell sheet only** on file (Jun 2026); no owner's or service
-manual yet. Link to [[Golden]].
+VA lineup. Link to [[Golden]].
+
+## Documents on file
+
+- [[Cricket Owners Manual (GP302)]] (Mar 2024)
+- [[Cricket Illustrated Parts Breakdown (GP302)]] (Oct 2024, rev G)
+- [[Golden Sell Sheets (2018-2026)]] (Jun 2026)
+
+## Two controller versions
+
+| | GP302**A** | GP302**B** |
+|---|---|---|
+| Controller / joystick | **Micon** (MBE-0034 / MBE-0035) | **LiNX** (MBE-0051 / MBE-0050) |
+| Battery pack | 24V 12 Ah Li-ion MBE-0010 | 24V 12 Ah Li-ion MBE-0054 |
+| Fault codes | Beep codes below | [[LiNX-Diagnostics]] |
+
+The battery packs have different part numbers, so order by the suffix
+on the serial label.
+
+## Beep codes (Micon controller)
+
+From the owner's manual (GP302A): the horn beeps **twice**, then the
+count.
+
+| Beeps | Fault | Check |
+|---|---|---|
+| 1 | Joystick/controller connection | Controller connection, harness damage |
+| 2 | Right motor | Right motor and harness |
+| 3 | Right brake | Right brake lever in **DRIVE**; brake and harness |
+| 4 | Left motor | Left motor and harness |
+| 5 | Left brake | Left brake lever in **DRIVE**; brake and harness |
+| 6 | Controller overcurrent | Over the weight limit or over **6°**. Turn off and let it cool; reduce load or incline |
+| 7 | Joystick | Joystick returns to centre and isn't pushed at power-up |
+| 8 | Controller | Controller failure; contact Golden |
+| 9 | Low voltage | Charge; replace the pack if it won't hold a charge |
+
+## Charging
+
+Charge at the socket on the front of the controller, or charge the
+removed pack directly. The charger LED is **blue while charging and
+green when full**. Driving is inhibited while charging. Charge 5–8 h
+after each use. If it won't be used for more than a week, charge it
+fully and remove the pack.
 
 ## Specs ([[Golden Sell Sheets (2018-2026)]])
 
@@ -22,10 +63,10 @@ manual yet. Link to [[Golden]].
 - Rear-wheel drive, 8.5 in flat-free drive wheels, 7 in casters; 35 A
   controller; flip-up arms; memory-foam cushion; USB on the joystick.
 - Medicare K0899. Warranty: 5 yr frame, 13 months drive train and
-  electronics, 1 yr battery.
+  electronics, 1 yr battery (the OM agrees). Max incline 6°.
 
 Compare [[GP303-Ally]] (Golden's other folding chair, 56 lb, 330 lb).
 
 ## See also
 
-[[Golden]], [[GP303-Ally]], [[Mobility-Device-Weights]]
+[[Golden]], [[GP303-Ally]], [[LiNX-Diagnostics]], [[Mobility-Device-Weights]]

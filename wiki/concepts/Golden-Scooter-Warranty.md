@@ -18,7 +18,7 @@ covers:
 - LiteRider HD (GL112)
 - All Companion models (GC240, GC340, GC440)
 - Avenger (GA541)
-- Patriot (GR575) — **not otherwise in this wiki's manual collection**
+- Patriot (GR575): see [[GR575-Patriot]]
 
 Note the part numbers named here (GB117/GB119/GB149/GR575/GL112) don't
 exactly match every model number seen in the raw `MANUALS/Golden/`
@@ -28,6 +28,13 @@ as of the warranty's revision date, while the manual collection includes
 older/superseded model variants too. Don't assume every filename-derived
 model here is still covered verbatim; check part-number overlap when in
 doubt.
+
+The [[Buzzaround XL Owners Manual (GB117, GB147)]] (rev 10.23.19) carries
+the same text. Its list names **LiteRider GL109, GL111, GL141** and calls
+GB119/GB149 the **BUZZaround LX**. The suffixes on GB117/GB147 are D
+(standard), **H (HD)** and Z (also S on the IPB). See [[GB1xx-Buzzaround-XL]].
+The same OM gives the GB117/147 a **lifetime frame**, 2 yr drive train
+and electronics, and 1 yr batteries.
 
 ## Coverage tiers
 
@@ -70,4 +77,5 @@ channels, not a materially different warranty for VA buyers.
 
 ## See also
 
-[[Golden]], [[GA541-Avenger]], [[GC240-340-440-540-Companion]]
+[[Golden]], [[GA541-Avenger]], [[GC240-340-440-540-Companion]],
+[[GB1xx-Buzzaround-XL]], [[GL109-LiteRider-Mini]], [[GR575-Patriot]]

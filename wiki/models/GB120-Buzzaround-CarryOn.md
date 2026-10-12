@@ -9,8 +9,8 @@ tags: [golden, buzzaround, buzzaround-carryon, scooter, travel]
 
 Golden's smallest/lightest travel scooter, designed around airline travel
 — quick-release lithium battery packs rather than a fixed or dock-charged
-battery. No IPB or Operator Manual is on file yet; everything known comes
-from service/accessory bulletins.
+battery. A service guide is on file; there is no IPB or owner's manual
+yet.
 
 ## Sell-sheet specs (Sep 2025)
 
@@ -20,6 +20,7 @@ mi), **65.5 lb assembled**, heaviest piece (main body) 47.5 lb, folds to
 
 ## Documents on file
 
+- [[Buzzaround Carry On Service Guide (GB120)]] (2021)
 - [[BuzzAround CarryOn Transportation Guide]]
 - [[GB120 Kickstand Installation Guide]]
 - [[GB120 Tiller Replacement Instructions]]
@@ -32,6 +33,16 @@ mi), **65.5 lb assembled**, heaviest piece (main body) 47.5 lb, folds to
     policy
   - Both: 24-29V, 10A working current, 80% capacity retained after 300
     charge cycles
+
+## Electrical ([[Buzzaround Carry On Service Guide (GB120)]])
+
+- **Dynamics R-Series** controller (under a cover). Beep/flash codes
+  1–9: [[Flash-Beep-Diagnostics]].
+- One 24 V lithium pack (15 Ah or 6.5 Ah) on two spring-loaded
+  connectors in the centre of the deck. It reads about 29 V when full.
+- **35 A** battery fuse and a **3 A** fuse. Motor 0.8–1.5 Ω.
+- Field-replaceable parts include the transaxle, upper and lower main
+  harness, steering assembly and **tiller shock**.
 
 ## Key procedures
 

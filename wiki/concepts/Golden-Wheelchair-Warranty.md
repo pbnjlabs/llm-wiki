@@ -12,7 +12,7 @@ confirmed by the [[LiteRider Envy LiNX Owners Manual (GP162)]] (Rev.
 
 - LiteRider Envy GP162
 - Alante GP207
-- Alante Sport GP205
+- Alante Sport GP205 ([[GP205-Alante-Sport]])
 - Compass Sport GP605
 - Compass HD GP620
 
@@ -37,6 +37,9 @@ definitely covered without checking a GP204-specific document.
 - **12 months**: batteries supplied by Golden.
 - Accessories: 1 year from purchase, standard or optional.
 
+The [[Cricket Owners Manual (GP302)]] (2024) uses the same tiers:
+5 yr frame, 13 months drive train and electronics, 12 months batteries.
+
 ## Not covered
 
 Tires/tubes, motor brushes, brake pads, ABS plastic shrouds, bulbs/fuses,
@@ -51,4 +54,4 @@ excluded where allowed by state law.
 ## See also
 
 [[Golden]], [[Golden-Scooter-Warranty]], [[GP162-LiteRider-Envy]],
-[[GP204-Alante-DX]], [[GP6xx-Compass]]
+[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[GP6xx-Compass]], [[GP302-Cricket]]
