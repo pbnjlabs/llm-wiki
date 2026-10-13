@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 30 (27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 31 (1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -248,10 +248,11 @@ Ramp evaluations start from [[Ramp Evaluation Template]].
 
 ## Sources
 
-Bruno Straight SL (6 of 6 ingested) — see `wiki/sources/Bruno/Bruno Straight SL/`:
+Bruno Straight SL (6 of 6 ingested, plus 1 web clipping) — see `wiki/sources/Bruno/Bruno Straight SL/`:
 2010-TS Tech Support Guide, 3050-I Install Manual, 3050-O Operator Manual,
 3050-TS Tech Support Guide, SRE-2010 Folding Rail Install Manual,
-SRE-3000 Installation Manual.
+SRE-3000 Installation Manual; clipping (2026-10-13, Bruno dealer email):
+[[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]] (power folding rail board PCB-00193 replaces PCB-00157).
 
 Bruno VPL (4 of 4 ingested) — see `wiki/sources/Bruno/VPL/`: VPL-3100B
 Install Manual, VPL-3100B Operator Manual, VPL-3200B Install Manual,

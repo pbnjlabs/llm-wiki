@@ -30,6 +30,30 @@ rail.
   raise/lower it in an emergency (gently — fast manual lifting can damage
   the gearbox).
 
+## Logic board update: PCB-00193 (power folding rails, 2026)
+
+Bruno told dealers in a 2026 email that **future SRE-3050 and SRE-2010
+power folding rails** get new circuit board logic and a new down limit
+switch setup, so the carriage **can't move by accident at the mid-park
+if a wire breaks or a connector comes unplugged**. **Manual folding rails
+aren't affected.**
+
+- **New board PCB-00193** replaces **PCB-00157**.
+- **Spot it** by the **notch around the down limit switch** on the rail
+  bracket and the PCB-00193 label on the rail's board.
+- The email's schematic redraws the down limit switch, and gives the rail
+  wiring colors (down limit blue/brown, up limit white/green, mid-park
+  purple, disable switch orange). Updated schematics are going on
+  Brunopartner.
+- On an older rail (PCB-00157), a broken wire or loose connector at the
+  rail is the failure this change guards against, so check those first
+  if the carriage misbehaves at mid-park. That's the wiki's reading, not
+  Bruno's wording.
+
+Source: [[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]]
+(a clipped dealer email; ranks below the manuals but is newer than all
+of them).
+
 ## Folding Rail Carriage Safety Bracket
 
 A retrofit safety bracket, added because the carriage could rarely bypass

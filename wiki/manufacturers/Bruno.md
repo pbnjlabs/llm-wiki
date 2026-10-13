@@ -37,6 +37,9 @@ vertical platform lifts (VPL).
   - [[SRE-3050]] ("Elan") — current generation, successor to SRE-3000
   - [[SRE-3000]] ("Elan", legacy) — same platform as SRE-3050, only a 2015
     manual on file
+  - **2026 power folding rail update** (Bruno dealer email, clipped
+    2026-10-13): board PCB-00193 replaces PCB-00157 on future SRE-3050 and
+    SRE-2010 power folding rails. See [[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]].
   - Both model lines share [[Overspeed-Safety-Brake]], [[Folding-Rail]],
     and [[Rail-Mounting-Guidance]] — Bruno reuses the same safety
     mechanisms, folding-rail hardware family, and anchoring guidance
