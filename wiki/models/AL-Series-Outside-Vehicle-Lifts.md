@@ -183,6 +183,14 @@ From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,
 plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
+## Field notes
+- [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]: **per the human, the J-cam
+  can develop flat spots over time.** The lift gets stuck lifting a
+  load but has no issue without one. Don't confuse it with a bad
+  actuator or a battery that can't power the load. The J-cam sits next
+  to the platform roller (owner's manual Figure 4-1); current drawings
+  list it as 530-00716. Fix not reported yet.
+
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],
 [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]],

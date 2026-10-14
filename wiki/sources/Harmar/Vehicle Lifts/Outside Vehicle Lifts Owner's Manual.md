@@ -26,10 +26,12 @@ One source page covers all three.
 - Lowering/loading/securing/raising/unloading/stowing sequence; swing-away
   open/close procedure (AL105/AL105L)
 - Basic maintenance (pivot-point oiling, vertical tube greasing, paint
-  touch-up)
+  touch-up). Figure 4-1 (p. 13) is the only place the **J-cam** is
+  shown, next to the platform roller. The manual doesn't cover J-cam
+  wear; see the field note [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]
 - Manual override (hex-shaft crank at motor cover) and basic
   troubleshooting
 - 3-year transferable warranty — see [[Harmar-Warranty]]
 
 ## Feeds into
-[[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]]
+[[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]], [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]

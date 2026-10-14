@@ -17,5 +17,13 @@ the extra 4 pages and 3+ years appear to be procedural/formatting
 updates rather than new model coverage. Not diffed section-by-section
 beyond confirming the model table match.
 
+**Troubleshooting (Section 7, p. 33–34) covers power only:** bad
+connections and the circuit breaker. The motor draws up to 20 A, so a
+meter or test light can show 12 V through a bad connection; test current
+as well as voltage, or run the lift from a known-good, fully charged
+battery (Tech Note: Motor Testing). Nothing on mechanical wear. A lift
+that stalls only under load can also be **J-cam flat spots**; see the
+field note [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]].
+
 ## Feeds into
-[[AL-Series-Outside-Vehicle-Lifts]]
+[[AL-Series-Outside-Vehicle-Lifts]], [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]
