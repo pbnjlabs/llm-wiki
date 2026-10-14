@@ -21,8 +21,9 @@ Harmar vehicle lifts. The manuals don't cover it. Not tied to one job.
 >    hits the flat spot. A **bad actuator or low power** makes the lift
 >    **slow the whole way up** instead. Don't confuse them.
 > 4. **You can usually feel the flat spot on the heel of the J-cam.**
-> 5. **Fix: replace the J-cam.**
-> 6. **Clean the J-cam off, but never lube it.**
+> 5. **Fix: replace the J-cam, part 140-00075.**
+> 6. **Clean the J-cam with a dry 3M Scouring Pad (Synthetic Fiber).
+>    Never lube it.**
 
 ## Unit
 
@@ -57,17 +58,18 @@ How to tell it from the look-alikes (per the human):
 
 ## Fix
 
-- **Replace the J-cam.**
-- **Clean the J-cam off, but never lube it.** What to clean it with:
-  not recorded.
+- **Replace the J-cam: 140-00075.**
+- **Clean the J-cam with a dry 3M Scouring Pad (Synthetic Fiber).
+  Never lube it.**
 
 ## Parts used
 
-- **J-cam.** Part number not recorded. For reference only: the current
-  AL100 and AL301XL drawings list the J-cam as **530-00716, "J-CAM,
-  CASTED"**, which replaced **H11010** (AL100 in 2019; AL301XL in 2021,
-  after switching back and forth) ([[Harmar Parts Diagrams]]). Confirm
-  the part for the lift's model and serial with Harmar before ordering.
+- **J-cam: 140-00075** (per the human).
+- That number isn't in any manual on file. The AL100 and AL301XL
+  assembly drawings list the J-cam as **530-00716, "J-CAM, CASTED"**,
+  which replaced **H11010** (AL100 in 2019; AL301XL in 2021, after
+  switching back and forth) ([[Harmar Parts Diagrams]]). Order
+  140-00075, the part PMS uses.
 
 ## Takeaways
 
@@ -77,8 +79,9 @@ How to tell it from the look-alikes (per the human):
    load: J-cam.** Slow the whole way up: actuator or power (per the
    human).
 3. **Feel the heel of the J-cam** for the flat spot (per the human).
-4. **Replace the J-cam** (per the human).
-5. **Clean the J-cam, never lube it** (per the human).
+4. **Replace the J-cam: 140-00075** (per the human).
+5. **Clean the J-cam with a dry 3M Scouring Pad (Synthetic Fiber); never
+   lube it** (per the human).
 
 From the manuals (not field experience):
 - Harmar's outside lift troubleshooting covers only power, not the

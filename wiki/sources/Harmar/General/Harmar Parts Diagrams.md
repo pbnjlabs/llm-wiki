@@ -46,7 +46,9 @@ facts they reveal that aren't documented anywhere else in the wiki.
 - **J-cam:** both drawings list **530-00716, "J-CAM, CASTED"**. It
   replaced **H11010** on the AL100 in rev H (13AUG19). The AL301XL
   switched to it in rev G (13AUG19), went back to H11010 in rev H, and
-  switched again in rev M (14JUN21). Field wear: J-cam flat spots, see
+  switched again in rev M (14JUN21). **PMS orders the replacement J-cam
+  as 140-00075** (per the human; not in any manual on file). Field wear:
+  J-cam flat spots, see
   [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]].
 - `Harmar-al-600-12_R.pdf` — the original lead for **AL600** (hybrid
   tower/base assembly, hybrid platform assembly), once thought to be a

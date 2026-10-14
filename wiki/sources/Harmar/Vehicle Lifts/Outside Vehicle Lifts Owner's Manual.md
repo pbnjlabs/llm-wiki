@@ -29,7 +29,8 @@ One source page covers all three.
   touch-up). Figure 4-1 (p. 13) is the only place the **J-cam** is
   shown, on the mast just above the platform; its oil can points at the
   platform roller below it. The manual doesn't cover J-cam wear. Per the
-  human, **clean the J-cam but never lube it**; see the field note
+  human, **clean the J-cam with a dry 3M Scouring Pad (Synthetic Fiber)
+  but never lube it**; see the field note
   [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]
 - Manual override (hex-shaft crank at motor cover) and basic
   troubleshooting

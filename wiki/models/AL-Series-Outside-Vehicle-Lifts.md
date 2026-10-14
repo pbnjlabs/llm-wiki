@@ -189,9 +189,10 @@ plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
   stuck lifting a load **at the same spot every time**, and works fine
   without a load. A bad actuator or low power is **slow the whole way
   up** instead. You can usually **feel the flat spot on the heel of the
-  J-cam**. **Fix: replace the J-cam. Clean it, but never lube it.** The
-  J-cam is on the mast just above the platform (owner's manual Figure
-  4-1); current drawings list it as 530-00716.
+  J-cam**. **Fix: replace the J-cam, part 140-00075. Clean it with a
+  dry 3M Scouring Pad (Synthetic Fiber); never lube it.** The J-cam is
+  on the mast just above the platform (owner's manual Figure 4-1). The
+  assembly drawings list it as 530-00716; PMS orders 140-00075.
 
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],
