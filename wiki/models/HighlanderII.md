@@ -126,6 +126,15 @@ must perform this from outside the platform, at the top of the tower.
 configuration; **VPL400-X carries a shorter 2-year parts warranty** — see
 [[Harmar-Warranty]].
 
+## Field notes
+- [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]: **squealing and getting
+  stuck**. The platform was jamming on the deck's **plywood fascia**,
+  which met the requirements at the 2020 install but was **delaminating
+  6 years later**. **Not make-specific** (per the human). Fix: remove the
+  fascia and **rebuild it with treated decking boards**. The unit was
+  a Bruno VPL-3100B; Harmar also requires a smooth fascia for the
+  platform edge to run against.
+
 ## See also
 [[Harmar]], [[Overspeed-Safety-Brake]], [[Harmar-Warranty]], [[Gate-and-Door-Interlocks]]
 

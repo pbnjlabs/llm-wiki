@@ -41,7 +41,7 @@ configurations.
   underneath needs a fascia wall (stud up the wall if needed). Panels
   come 53 or 24 in high and 43 or 49 in wide; custom heights by special
   order. Double-check platform-to-fascia running clearance before
-  install. Field note on a rotted plywood fascia: [[2026-10-14 VPL squealing and jamming on rotted fascia]]
+  install. Field note on a rotted plywood fascia: [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]
 
 ## Feeds into
-[[HighlanderII]], [[Overspeed-Safety-Brake]], [[2026-10-14 VPL squealing and jamming on rotted fascia]]
+[[HighlanderII]], [[Overspeed-Safety-Brake]], [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]

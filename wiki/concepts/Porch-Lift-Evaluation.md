@@ -37,6 +37,7 @@ porch/deck surface.
 | Head clearance | **100 in**, or **120 in for a 72 in VPL** (53 in rise platform / 77 in tower) |
 | Garage doors | Lift height must clear them. **Check all headroom from the entry door to the VPL.** |
 | Door interlock | Only when the VPL is **installed directly at the door** ([[Gate-and-Door-Interlocks]]) |
+| Fascia (deck installs) | **Smooth, vertical, structurally sound**, full length and width of the platform, **3/8–3/4 in running clearance** (Bruno and Harmar install manuals; ASME A18.1). **Plywood can delaminate within about 6 years** and jam the platform; PMS rebuilds failed fascia with **treated decking boards** ([[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]) |
 
 Also record **door direction** (in/out, left/right, **including screen or
 glass doors**) and the **gate hinge side** (standing in the lift).
@@ -89,11 +90,13 @@ Related: [[PMS-Office-Procedures]]
 
 ## Field notes
 
-- [[2026-10-14 VPL squealing and jamming on rotted fascia]]: a 2020 VPL at a deck was
-  **squealing and getting stuck**. The platform was jamming on the
-  deck's **plywood fascia, which was rotting and buckling**. Make, model
-  and fix not recorded yet. The manuals require a smooth, vertical,
-  structurally sound fascia with **3/8–3/4 in running clearance**.
+- [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]: a 2020 VPL-3100B at a
+  deck was **squealing and getting stuck**. The platform was jamming on
+  the deck's **plywood fascia**, which met the requirements at install
+  but was **delaminating 6 years later**. **Not make-specific** (per the
+  human). Fix: remove the fascia and **rebuild it with treated decking
+  boards**. The manuals require a smooth, vertical, structurally sound
+  fascia with **3/8–3/4 in running clearance**.
 
 ## Joint Commission (house standard)
 

@@ -20,7 +20,7 @@ Contents:
 - Safety, pre-installation checks (hoistway-specific: flush-mounted door or
   60° deflector shield, walls no more than 1/8" out of plumb), job site
   prep (pp.7-10). Same fascia requirements as the 3100B: structurally
-  sound, smooth, vertical, 3/8–3/4 in running clearance (see [[2026-10-14 VPL squealing and jamming on rotted fascia]])
+  sound, smooth, vertical, 3/8–3/4 in running clearance (see [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]])
 - Tower installation: shipped as **two half-towers** joined on site with a
   hoist — uncrating, bottom section, mounting top section, **coiled spring
   pin installation** joining the two drive-screw halves (align red marks,
@@ -57,4 +57,4 @@ Contents:
 - Bruno Gold Limited Warranty (p.76, identical terms to 3100B)
 
 Feeds: [[VPL-3200B]], [[Top-Landing-Gate-Installation]],
-[[Battery-Charger-LED-Diagnostics]], [[2026-10-14 VPL squealing and jamming on rotted fascia]]
+[[Battery-Charger-LED-Diagnostics]], [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]
