@@ -21,9 +21,10 @@ beyond confirming the model table match.
 connections and the circuit breaker. The motor draws up to 20 A, so a
 meter or test light can show 12 V through a bad connection; test current
 as well as voltage, or run the lift from a known-good, fully charged
-battery (Tech Note: Motor Testing). Nothing on mechanical wear. A lift
-that stalls only under load can also be **J-cam flat spots**; see the
-field note [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]].
+battery (Tech Note: Motor Testing). Nothing on mechanical wear. Per
+the human, a power or actuator problem is **slow the whole way up**,
+while **J-cam flat spots** stick under load **at the same spot every
+time**; see the field note [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]].
 
 ## Feeds into
 [[AL-Series-Outside-Vehicle-Lifts]], [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]

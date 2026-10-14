@@ -185,11 +185,13 @@ plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
 ## Field notes
 - [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]: **per the human, the J-cam
-  can develop flat spots over time.** The lift gets stuck lifting a
-  load but has no issue without one. Don't confuse it with a bad
-  actuator or a battery that can't power the load. The J-cam sits next
-  to the platform roller (owner's manual Figure 4-1); current drawings
-  list it as 530-00716. Fix not reported yet.
+  can develop flat spots over time, on all the models.** The lift gets
+  stuck lifting a load **at the same spot every time**, and works fine
+  without a load. A bad actuator or low power is **slow the whole way
+  up** instead. You can usually **feel the flat spot on the heel of the
+  J-cam**. **Fix: replace the J-cam. Clean it, but never lube it.** The
+  J-cam is on the mast just above the platform (owner's manual Figure
+  4-1); current drawings list it as 530-00716.
 
 ## See also
 [[Harmar]], [[PUL-1100]], [[ASL-275]],
