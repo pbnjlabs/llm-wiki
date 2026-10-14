@@ -16,7 +16,12 @@ height: 53" vs 75", i.e. essentially a single-floor porch/deck lift).
 
 Contents:
 - Specs, tools, torque (p.5) — see [[VPL-3100B]]
-- Safety, pre-installation checks, job site prep (pp.6-9)
+- Safety, pre-installation checks, job site prep (pp.6-9). **Fascia:**
+  confirm its structural integrity before installing (p.7). It must be
+  smooth, vertical, structurally sound and fastened from the upper to
+  the lower landing sill, and take a 125 lb side load over any 4 in
+  square (p.9). ASME A18.1 running clearance between platform and
+  fascia: 3/8–3/4 in (p.10). Field note on a rotted fascia: [[2026-10-14 VPL squealing and jamming on rotted fascia]]
 - Main component/tower assembly, securing unit, adjusting top landing/final
   limit switches (pp.10-11)
 - Top Landing Gate installation — EMI style, ESI style, 42" high, wide
@@ -43,4 +48,4 @@ Contents:
 - Bruno Gold Limited Warranty — 2yr major components / 1yr parts (p.61)
 
 Feeds: [[VPL-3100B]], [[Top-Landing-Gate-Installation]],
-[[Battery-Charger-LED-Diagnostics]]
+[[Battery-Charger-LED-Diagnostics]], [[2026-10-14 VPL squealing and jamming on rotted fascia]]

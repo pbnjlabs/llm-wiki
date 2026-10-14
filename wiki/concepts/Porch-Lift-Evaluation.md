@@ -87,6 +87,14 @@ statement.
 
 Related: [[PMS-Office-Procedures]]
 
+## Field notes
+
+- [[2026-10-14 VPL squealing and jamming on rotted fascia]]: a 2020 VPL at a deck was
+  **squealing and getting stuck**. The platform was jamming on the
+  deck's **plywood fascia, which was rotting and buckling**. Make, model
+  and fix not recorded yet. The manuals require a smooth, vertical,
+  structurally sound fascia with **3/8–3/4 in running clearance**.
+
 ## Joint Commission (house standard)
 
 PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). For
