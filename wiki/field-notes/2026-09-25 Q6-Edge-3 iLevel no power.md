@@ -13,12 +13,16 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 
 ## Unit
 
-- Quantum (Pride) **Q6 Edge 3, standard** — *not* the Stretto. The wiki
-  has no manual or model page for the standard Edge 3; the closest is
-  [[Q6-Edge-3-Stretto]]. Don't assume Stretto specs carry over.
+- Quantum (Pride) **Q6 Edge 3, standard** — *not* the Stretto. Model
+  page: [[Q6-Edge-3]] (spec sheet added 2026-10-15; still no Edge 3
+  owner's manual). Don't assume Stretto specs carry over.
 - Options: **iLevel** power seat elevator.
-- Controller: joystick part # **CTL143976**. Family (Q-Logic 3 or other)
-  TBD; the Stretto ships with Q-Logic 3.
+- Controller: joystick part # **CTL143976**. Family not confirmed, but
+  the joystick has an **SD card** (reused below), which points to
+  **Q-Logic 3**: its fault list has an SD-card error (#207,
+  [[Q-Logic-Fault-Codes]]) and the QLNES manual mentions no SD card. The
+  2025 Quantum chart lists only 75 A or 90 A QLNES for new Edge 3s, so
+  older units differ ([[Q6-Edge-3]]).
 - Serial: **JE702226191020**
 
 ## Symptom
@@ -93,9 +97,8 @@ The customer's settings carried over, and the post-swap function check
 ## Parts used
 
 - 2 × **Interstate DCM0055**, 12 V 55 Ah
-  - 55 Ah is one of the two capacities listed for the Edge 3 Stretto (40 or
-    55 Ah; see [[Q6-Edge-3-Stretto]]). The wiki has no spec sheet for the
-    standard Edge 3.
+  - The standard Edge 3's spec sheet (2022) calls for two **NF-22**
+    batteries, so the 22NF DCM0055 is the right size ([[Q6-Edge-3]]).
 - 1 × joystick controller, **CTL143976** (same part number as the one
   removed). The old joystick's SD card was reused.
 
@@ -134,6 +137,7 @@ The customer's settings carried over, and the post-swap function check
 
 ## See also
 
+- [[Q6-Edge-3]] (model page)
 - [[Q6-Edge-3-Stretto]]
 - [[Q6 Edge Basic Troubleshooting]]
 - [[Joystick-Controllers]]

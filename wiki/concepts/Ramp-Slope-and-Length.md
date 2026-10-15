@@ -127,8 +127,14 @@ setup, these ratings are the relevant limit.
 | Device | Rated max incline |
 |---|---|
 | [[J6]] (Pride) | 6° |
+| [[J4]] (Pride, J4 and J4E) | 6° |
+| [[Jazzy-1450]] (Pride, **Jazzy** 1450) | 6° |
+| Pride scooters: [[Revo]], [[Go-Go-LX]], [[Elite-Traveller]], [[Go-Go-Sport]], [[Ultra-X]], [[ET-Series]], [[i-Go]], [[Super-Portable-SC15]] | 6° |
 | [[Air-Hawk-Eagle-HD]] (Red Hawk) | 6° |
 | [[Q6-Edge-3-Stretto]] (Pride) | 7.5° |
+| [[Q6-Edge-3]], [[Q6-Edge-2.0]], [[Q6-Edge-HD]] (Pride) | 7.5° in the US (6° elsewhere) |
+| [[Q6-Edge-4]], [[4Front-2]] (2 and 2 HD), [[R-Trak]] (Pride) | 7.5° |
+| [[Jazzy-1450]] (Pride, **Quantum** 1450) | 7.5° |
 | [[GA541-Avenger]] (Golden) | 8.0° recommended max ([[GA541 Avenger Operator Manual]]) |
 | [[Pegasus Plus (DC02)]] (Red Hawk) | 8° |
 | [[Phoenix]] (Red Hawk) | 8° |

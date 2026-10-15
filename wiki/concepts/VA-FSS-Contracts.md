@@ -44,6 +44,12 @@ Solutions) is the Bruno dealer.
   (1%)** quarterly, which is part of the × 0.96 monthly reconciliation
   ([[Asheville FSS Sales Guidelines (2025)]]).
 
+**Pride / Quantum power chairs:** Pride's 2025
+[[Quantum End-to-End Chart (INFINFB4546, 2025)]] lists every Quantum
+chair on **FSS contract V797D-70001** (R-Trak and Outback "coming
+soon"). That's the manufacturer's contract as printed on Pride's chart;
+PMS's own role with it, and any Pride FSS price list, aren't on file.
+
 ## Pricing: the manufacturer's FSS price is the ceiling
 
 Per the human:

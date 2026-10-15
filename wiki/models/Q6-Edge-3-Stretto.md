@@ -32,8 +32,18 @@ division), US/UK/AU markets. Newer/higher-spec platform than the [[J6]]:
 
 ## Controller
 
-Ships with **Q-Logic 3** — see [[Joystick-Controllers]] for operation and
-programming.
+The 2025 [[Quantum End-to-End Chart (INFINFB4546, 2025)]] offers it with
+**75 A QLNES or 120 A Q-Logic 3** (2-pole motors). The Q-Logic 3 manuals
+on file were filed with this model, but **check the hand control**: an
+LED-only joystick is QLNES. Per the chart, the 6.25 mph top speed needs
+Q-Logic 3. See [[Joystick-Controllers]] for operation and programming
+and [[Q-Logic-Fault-Codes]] for codes.
+
+Other 2025 chart figures: base **126.4 lb**; batteries 40 Ah (31 lb
+each) or NF-22 (36 lb each); casters **5 in front, 6 in rear,
+flat-free**; width 20.47 in with 12.5 in drive wheels (the spec sheet
+says 20.75 in); 12 in iLevel at 3.5 mph; Group 3 (K0848/K0849,
+K0856/K0857, K0861); FSS V797D-70001.
 
 ## iLevel
 
@@ -61,11 +71,8 @@ also be built with instead of/alongside iLevel.
 
 ## Field notes
 
-PMS field experience. It ranks below the manuals on specs and procedures.
-Note that these may be for the **standard** Edge 3, not the Stretto.
-
-- [[2026-09-25 Q6-Edge-3 iLevel no power]]: standard Edge 3 with iLevel,
-  completely dark; batteries replaced, joystick replaced (resolved)
+None for the Stretto. The 2026-09-25 iLevel no-power job was a
+**standard** Edge 3, now on its own page: [[Q6-Edge-3]].
 
 ## See also
 
@@ -74,5 +81,6 @@ Note that these may be for the **standard** Edge 3, not the Stretto.
 - [[Power-Chair-Troubleshooting]] (symptom-first, incl. Q-Logic 3 error codes)
 - [[Tru-Balance-3-Power-Positioning]]
 - [[J6]]
+- [[Q6-Edge-3]], [[Q6-Edge-4]], [[Pride-Power-Chair-Lineup]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

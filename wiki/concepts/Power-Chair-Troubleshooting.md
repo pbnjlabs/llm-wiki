@@ -1,15 +1,18 @@
 ---
 type: concept
-tags: [power-chair, scooter, troubleshooting, diagnostics, pride, quantum, golden, q-logic]
+tags: [power-chair, scooter, troubleshooting, diagnostics, pride, quantum, golden, q-logic, qlnes, vr2, gc3, dynamic]
 ---
 
 # Power Chair Troubleshooting
 
 A symptom-first guide for power chairs, built the same way as
 [[Stairlift-Troubleshooting]] and [[VPL-Troubleshooting]]. The detail is
-from **Pride/Quantum**: [[Q6 Edge Basic Troubleshooting]], the Q-Logic and
-Q-Logic 3 controller manuals ([[Joystick-Controllers]]) and the [[J6]] /
-[[Q6-Edge-3-Stretto]] operator manuals. **Golden** chairs and scooters
+from **Pride/Quantum**: [[Q6 Edge Basic Troubleshooting]], the Q-Logic,
+Q-Logic 3 and QLNES manuals ([[Joystick-Controllers]],
+[[Q-Logic-Fault-Codes]]), Pride's VR2/GC3/newVSI/Dynamic manuals
+([[Pride-Controller-Flash-Codes]]) and the [[J6]] /
+[[Q6-Edge-3-Stretto]] operator manuals. Which Pride model has which
+controller: [[Pride-Power-Chair-Lineup]]. **Golden** chairs and scooters
 follow the same steps but report faults through their own controllers
 (index at the bottom). For the general method, see [[Troubleshooting]].
 
@@ -51,15 +54,22 @@ Pride's checklist, in order:
      Replace them (**always both**, [[Mobility-Batteries]]), then find out
      why they ran down: charging habits, storage, a wall-switched outlet,
      the charger. See [[2026-09-25 Q6-Edge-3 iLevel no power]].
+   - **Lithium near 0 V** (Go-Go Endurance, Jazzy EVO 613 Li, Pursuit 2,
+     Bandit) may be **sleep mode**, not dead: wake it per the device's
+     instructions, charge, then check against Pride's minimum voltage.
+     **Never load-test lithium**
+     ([[Lithium Battery Field Inspection Instructions]]).
 
 ## 3. Powers on, won't drive
 
 - **Freewheel levers:** both must be in **drive** (pulled up on the Q6
-  Edge 3 Stretto). In freewheel the brakes are released. Q-Logic 3's
+  Edge 3 Stretto). On PG chairs a released brake shows as **9 flashes**
+  (GC3: "ensure both freewheel levers are in drive mode"); Dynamic 5/6. In freewheel the brakes are released. Q-Logic 3's
   brake errors (#3/#4, #25/#26) say to disengage and re-engage the lever,
   so a half-set lever is worth checking first.
 - **Charger plugged in:** charging inhibits driving (legacy Q-Logic code
-  107). On Q-Logic 3, a charger still connected to the controller but not
+  107; VR2 6 flashes; GC3 left-to-right scroll; Dynamic left-to-right
+  ripple). On Q-Logic 3, a charger still connected to the controller but not
   the wall gives **"Chair is not charging"** (#75): unplug the charger
   from the controller and power-cycle.
 - **Joystick held at power-up:** release it to center, power off and on
@@ -95,9 +105,10 @@ From Pride's checklist:
 
 - **Speed/profile setting:** check which drive profile and speed it's in.
 - **Low battery:** less voltage, slower motors.
-- **Overheating (thermal rollback):** the controller cuts output to 20%
-  (Q-Logic, Q-Logic 3) when the motors or controller get hot, and can
-  slow to a stop. Let it cool and it recovers. Hot days, long climbs,
+- **Overheating (thermal rollback):** the controller cuts output when
+  the motors or controller get hot: to **20%** on Q-Logic, Q-Logic 3 and
+  QLNES, to **50%** on VR2 and GC3; the newVSI cuts it progressively and
+  **stops the chair** at its limit. Let it cool and it recovers. Hot days, long climbs,
   stop-and-go driving and heavy bags cause it. Q-Logic 3 shows it as #32
   "Speed reduction (overtemperature)", which is normal behavior.
 
@@ -121,8 +132,10 @@ From Pride's checklist:
 The **controller**, not the brand or model name, decides which table
 applies. Codes from one family mean something else on another.
 
-**Pride/Quantum Q-Logic 3** (touchscreen hand control; Q6 Edge 3
-Stretto). Messages are Information, Warning or Error, shown by number:
+**Pride/Quantum Q-Logic 3 / 3e** (display hand control; an option on
+the Q6 Edge 3 Stretto, Edge 4, Edge 2.0, Edge HD, J4E, 4Front 2, R-Trak
+and Q1450). Messages are Information, Warning or Error, shown by
+number:
 
 | # | Meaning | Fix |
 |---|---|---|
@@ -144,14 +157,38 @@ with optional pop-ups at 50/30/15%. Providers can read the **error
 history** with Econ-W or the hand-held programmer
 ([[Q-Logic 3 Programming Guide]]).
 
+**Codes 32–36 are numbered differently** in Pride's 2025 Q-Logic 3
+fault list (32 overtemperature stop, 33 speed reduction, 34 bus voltage,
+35/36 joystick). Go by the text on the display.
+**Full Q-Logic 3 list (about 1–221, incl. TRU-Balance 4 seat codes):**
+[[Q-Logic-Fault-Codes]].
+
+**Pride/Quantum QLNES** (2024+, LED-only joystick; most new Q6 Edge,
+J4, 4Front 2, R-Trak): Q-Logic 3 numbers, blinked as three digits
+(red = hundreds, yellow = tens, green = ones; #208 = red 2, green 8).
+Power-cycle to see the next fault. [[Q-Logic-Fault-Codes]].
+
+**Pride PG Drives VR2 / GC3 / newVSI** (Jazzy Air, Go Chair, EVO 613,
+Elite ES, Select, Jazzy 1450, Q1450 VR2 option): battery-meter flashes
+1–10 (1 battery, 2–5 motors, 6 charger inhibit, 7 joystick, 8 control
+system, 9 park brake, 10 overvoltage). **Pride Dynamic** (EVO 614/614HD,
+Elite 14, 600 ES, Elite HD): service indicator 1–11.
+[[Pride-Controller-Flash-Codes]].
+
 **Pride/Quantum Q-Logic (legacy):** full table on
-[[Joystick-Controllers]]. Note the overlap: **legacy #75 = motor
+[[Joystick-Controllers]]; full 1–245 list on [[Q-Logic-Fault-Codes]]. Note the overlap: **legacy #75 = motor
 disconnected, Q-Logic 3 #75 = not charging; legacy #35 = joystick
 connection fault, Q-Logic 3 #35 = joystick out of center.** Check which
 controller it is before acting on a number.
 
-**Pride NE / NE+ electronics** (older Q6 Edge): faults show as **icons**.
-No NE/NE+ manual is on file.
+**Pride NE / NE+ electronics** (older Q6 Edge; the 2025 chart still
+lists them on the J6 and Edge HD): faults show as **icons**. No NE/NE+
+manual is on file.
+
+**Remote look first (Q-Logic 3, QLNES):** with **Interactive Assist**
+the provider can read the error list, battery statistics and live values
+over the user's phone before a visit
+([[Q-Logic-3-Bluetooth-and-Remote-Programming]]).
 
 Any code not listed, or one that comes back after the fix → Pride/Quantum
 provider support.
@@ -173,6 +210,15 @@ provider support.
 - Use the **supplied off-board charger**, never an automotive charger.
   Plug straight into the wall.
 - **Pride** charging time: 8–14 hours from depleted.
+- **Charger limits** through the 3-pin socket: 8 A (VR2, Dynamic,
+  Q-Logic, QLNES), 12 A (newVSI), **Neutrik NC3MX plugs only**. QLNES has
+  an XLR and a magnetic port: **never two chargers at once**.
+- **GC3 charge reminder:** left red LED flashes 4 times at power-down
+  after 8+ hours of driving without a charge. Clear it by switching the
+  controller **on before** plugging in and leaving it on for a full
+  charge ([[Pride-Controller-Flash-Codes]]).
+- **Lithium:** charge fully, then compare with Pride's minimum (19.6–30
+  V by model). Don't load-test ([[Mobility-Batteries]]).
 - **When the call is "batteries won't charge", check the charger too.** A
   Golden charger stayed green and never charged
   ([[2026-10-05 GP162 bad charger stays green]]).
@@ -192,6 +238,8 @@ provider support.
 
 ## See also
 
-[[Troubleshooting]], [[Joystick-Controllers]], [[Q6 Edge Basic Troubleshooting]],
+[[Troubleshooting]], [[Joystick-Controllers]], [[Q-Logic-Fault-Codes]],
+[[Pride-Controller-Flash-Codes]], [[Pride-Power-Chair-Lineup]],
+[[Q6 Edge Basic Troubleshooting]],
 [[Q6-Edge-3-Stretto]], [[J6]], [[Tru-Balance-3-Power-Positioning]],
 [[Mobility-Batteries]], [[Brake-Replacement]], [[Scootaround-VA-Repairs]]

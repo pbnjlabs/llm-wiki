@@ -56,4 +56,9 @@ cross-cutting summary):
 Warns throughout that incorrect programming can affect speed, acceleration,
 braking, and dynamic stability — provider/trained-technician use only.
 
-Feeds into: [[Joystick-Controllers]].
+An older edition (Rev A/July 2019, 38 pages) is also on file as
+[[Q-Logic 3 Programming Guide (Rev A, 2019)]]; this Rev B is the one to
+use.
+
+Feeds into: [[Joystick-Controllers]], [[Q-Logic-Seat-Configuration]],
+[[Q-Logic-3-Bluetooth-and-Remote-Programming]].

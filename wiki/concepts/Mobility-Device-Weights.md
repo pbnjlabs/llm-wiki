@@ -1,13 +1,13 @@
 ---
 type: concept
-tags: [vehicle-lift, weight, scooter, power-chair, golden, harmar, bruno, hitch, tongue-weight]
+tags: [vehicle-lift, weight, scooter, power-chair, golden, pride, harmar, bruno, hitch, tongue-weight]
 ---
 
 # Mobility Device Weights (for vehicle lifts)
 
 Assembled weights and sizes of the scooters and power chairs PMS works
 with, for **choosing a vehicle lift** and checking the **hitch**.
-Golden figures are from Golden's own sell sheets ([[Golden Sell Sheets (2018-2026)]]),
+Pride figures are further down. Golden figures are from Golden's own sell sheets ([[Golden Sell Sheets (2018-2026)]]),
 except GB117/GB147, which come from their 2019 owner's manual;
 assembled weights **include batteries**.
 
@@ -173,12 +173,61 @@ class III. Always read the actual hitch label and vehicle rating.
 | GP162 LiteRider Envy | 123 lb | 36 × 22.5 in | Front half 37 lb, rear half 36 |
 | GP605 Compass Sport | 179 lb | 39.5 × 24 in | Mid-wheel drive; base 97 lb. For lifts, see the AL580-HDX on [[Harmar Mobility Solutions Chart (2026, Rev F)]] |
 
+## Pride / Quantum
+
+From Pride's spec sheets and end-to-end charts
+([[Pride-Power-Chair-Lineup]]). Pride rarely prints one assembled
+weight, so **totals marked ≈ are wiki arithmetic** (parts added up);
+battery weights vary ±3 lb by maker. Run the hitch check above and the
+lift maker's calculator; wheelbases aren't on Pride's sheets (except
+the SC15).
+
+### Pride scooters
+
+"Without batteries" includes the standard seat.
+
+| Scooter | Without batteries | Batteries | ≈ Total | Heaviest piece |
+|---|---|---|---|---|
+| i-Go S20 (folding, lithium) | 60.6 | 4.8 | ≈ 65.4 | 30.8 |
+| Super Portable SC15 (folding, lithium) | 41.6 | 8 (11.7 Ah) / 9.8 (16 Ah) | ≈ 49.6–51.4 | — (folds to 11.81 in tall) |
+| Elite Traveller 40E (3W) / 44E (4W) | 75.5 / 79.5 | 19.5 (12 Ah pack) – 31.75 (18 Ah ext.) | ≈ 95–107 / 99–111 | 29.5 / 34 |
+| Ultra X S39 / S49 / SC493 | 76.25 / 81.5 / 83.4 | 20 (12 Ah pack) or 29.5 (18 Ah) | ≈ 96–106 / 101–111 / 103–113 | 29.5 / 34.5 / 36.2 |
+| ET Series SC402E / SC442E(MS) / SC443E(MS) | 77.8 / 83 / 83.6 | 19.5 (12 Ah) or 27.4 (18 Ah) | ≈ 97–105 / 102.5–110 / 103–111 | 30 / 35 / 36.2 |
+| Go Go LX 50LX / 54LX | 85 / 90 | 19 (12 Ah) – 31.75 (18 Ah ext.) | ≈ 104–117 / 109–122 | 33 / 39 |
+| Go Go Sport 73 / 74 | 92.75 / 100 | 27.5 (18 Ah pack) | ≈ 120 / 127.5 | 35.75 / 44 |
+| Revo 66 (3W) / 67 (4W) | 120 / 131.5 | 2 × 25 (U1) | ≈ 170 / 181.5 | — |
+
+The Ultra X sheet says "20 lb each" for the 12 Ah pack; the totals
+assume one pack, like the other Go Go sheets.
+
+### Pride / Quantum power chairs
+
+| Chair | Base | Batteries | Seat | ≈ Total |
+|---|---|---|---|---|
+| J6 | 100.2 | 2 × 23.4 | 55.4 | ≈ 202 |
+| J4 | 131.6 | 2 × 38 | not given | ≈ 208 + seat |
+| J4E (with TRU-Balance 3) | 138.6 | 2 × 38 | incl. | **under 377.2** (Pride) |
+| Q6 Edge 3 Stretto | 126.4 | 2 × 31 (40 Ah) or 2 × 36 (NF-22) | not given | ≈ 188–198 + seat |
+| Q6 Edge 2.0 / Q6 Edge 3 | 138.6 | 2 × 38 | incl. | **under 388.6** (Pride; Edge 3 with captain seat) |
+| Q6 Edge 4 | 154 | 2 × 47.8 | not given | ≈ 250 + seat |
+| Q6 Edge HD | 143.5 | 2 × 52 | incl. | **under 436.8** (Pride) |
+| 4Front 2 | 130 | 2 × 51.5 (G24) or 2 × 44.8 (G34) | not given | ≈ 220–233 + seat |
+| 4Front 2 HD | 140 | 2 × 51.5 | not given | ≈ 243 + seat |
+| R-Trak | 128 | 2 × 51.5 | not given | ≈ 231 + seat |
+| Jazzy 1450 | 195 | 2 × 52 | 52 (std high-back) | ≈ 351 |
+| Jazzy Air 2 (retail) | 202 with seat | 2 × 23.5 (U-1) | incl. | ≈ 249 |
+
+Pride's "total mass" figures are as tested with the factory transit
+system; added accessories change them. Mid-wheel chairs over 350 lb are
+past the AL500/AL160 class; check Harmar's mid-wheel and heavy-duty
+lifts (AL580-HDX is 450 lb) or an inside lift with margin.
+
 ## Other brands
 
-Not on file yet. Add weights from Pride and other manufacturers' spec
-sheets as they come in.
+Not on file yet. Add weights from other manufacturers' spec sheets as
+they come in.
 
 ## See also
 
 [[AL-Series-Outside-Vehicle-Lifts]], [[Hoist-Series-Inside-Vehicle-Lifts]],
-[[Hybrid-Vehicle-Lifts]], [[GC240-340-440-540-Companion]], [[Golden]], [[Docking-Devices]], [[Hitch-Adapters]]
+[[Hybrid-Vehicle-Lifts]], [[GC240-340-440-540-Companion]], [[Golden]], [[Pride-Power-Chair-Lineup]], [[Docking-Devices]], [[Hitch-Adapters]]

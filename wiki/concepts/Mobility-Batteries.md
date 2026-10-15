@@ -1,6 +1,6 @@
 ---
 type: concept
-tags: [battery, mk-battery, interstate, hcpcs, cross-reference]
+tags: [battery, mk-battery, interstate, hcpcs, cross-reference, pride, lithium]
 ---
 
 # Mobility Batteries
@@ -70,12 +70,67 @@ the model pages.
 | GP302 Cricket | One 24 V 12 Ah lithium pack (A and B versions differ) | [[GP302-Cricket]] |
 | GP303 Ally | 12 Ah lithium | [[GP303-Ally]] |
 
+## Pride / Quantum batteries by model (from Pride's documents)
+
+Two batteries per unit unless noted. Pride requires **AGM, gel or
+hybrid gel** (nano silica gel with glass-mat separators) for its sealed
+lead-acid chairs and scooters; the 2019 J4 sheet says AGM or gel only.
+Full lineup with chargers and controllers: [[Pride-Power-Chair-Lineup]].
+
+| Model | Batteries | Source |
+|---|---|---|
+| J6 | U-1 (23.4 lb each) | [[J6]] |
+| J4, J4E, J4EHD | NF-22 (38 lb) | [[J4]] |
+| Q6 Edge 2.0, Q6 Edge 3 | NF-22 (38 lb) | [[Q6-Edge-2.0]], [[Q6-Edge-3]] |
+| Q6 Edge 3 Stretto | 40 Ah or 55 Ah (2025 chart: 40 Ah or NF-22) | [[Q6-Edge-3-Stretto]] |
+| Q6 Edge 4 | Group 24, 62 Ah C/5 / 75 Ah C/20 (47.8 lb) | [[Q6-Edge-4]] |
+| Q6 Edge HD | Group 24 (52 lb) | [[Q6-Edge-HD]] |
+| 4Front 2 | Group 24 73 Ah (std) or Group 34 60 Ah | [[4Front-2]] |
+| 4Front 2 HD, R-Trak | Group 24 (73–75 Ah) | [[4Front-2]], [[R-Trak]] |
+| Jazzy / Quantum 1450 | Group 24 70 Ah (52 lb) | [[Jazzy-1450]] |
+| Outback (no sheet on file) | Group 27 | [[Pride-Power-Chair-Lineup]] |
+| Jazzy Air Med / Air 2 | U-1 (Air 2: 40 Ah optional) | [[Pride-Power-Chair-Lineup]] |
+| Go Chair / Go Chair Med | 20 Ah nano-silica | [[Pride-Power-Chair-Lineup]] |
+| Jazzy EVO 613 / Elite ES / Select | U-1 | [[Pride-Power-Chair-Lineup]] |
+| Jazzy EVO 613 Li | **one** 25.6 V 32.4 Ah lithium iron phosphate | [[Pride-Power-Chair-Lineup]] |
+| Jazzy EVO 614/614HD, Elite 14, 600 ES, Elite HD | NF-22 | [[Pride-Power-Chair-Lineup]] |
+| Revo scooter | U1 (25 lb each) | [[Revo]] |
+| Go Go LX, Elite Traveller, ET Series, Ultra X | 12 Ah or 18 Ah (packs) | scooter pages |
+| Go Go Sport | 18 Ah | [[Go-Go-Sport]] |
+| i-Go, Super Portable SC15, Jazzy Ultra Light, Jazzy Carbon family | one lithium-ion pack (Pride part) | [[i-Go]], [[Super-Portable-SC15]] |
+
+Pride's battery HCPCS codes match the Interstate sheet: U-1 E2365, NF-22
+E2361, Group 24 E2363, 18 Ah K0733; **lithium E2397**.
+
+## Lithium batteries (Pride)
+
+From Pride's [[Lithium Battery Field Inspection Instructions]]:
+**fully charge with the correct charger, then measure. Below the
+minimum = replace. Never load-test lithium.** Near 0 V on the Go-Go
+Endurance (and MAXX), Jazzy EVO 613, Pursuit 2 or Bandit may be **sleep
+mode**: wake it per the device's instructions first.
+
+| Pride product | Battery part | Minimum after full charge |
+|---|---|---|
+| Jazzy Passport Travel / Standard | BAT1802153 / BAT1708123 | 22 VDC |
+| iRIDE | MEC1901028 | 30 VDC |
+| i-Go (Samsung / Panasonic cells) | MEC2000135 / MEC2200931 | 22 VDC |
+| Go-Go Endurance / Endurance MAXX | BAT2005749 / BAT2005745 | 22 VDC |
+| Jazzy EVO 613 | BAT2004389 | 22 VDC |
+| Pursuit 2 | BAT2204837 | 22 VDC |
+| Bandit 20 Ah / 40 Ah | BAT2204152 / BAT2204150 | 30 VDC |
+| Jazzy Carbon | BAT2200009 | 19.6 VDC |
+
+Lithium packs are Pride-specific parts, not MK/Interstate size groups.
+Pride Technical Service: 1-877-800-1248.
+
 ## In the field
 
 - **Scootaround VA repairs:** batteries are the one non-OEM part allowed, from **MK, Interstate or Electro Battery** only ([[Scootaround-VA-Repairs]]).
 
-- Pride Q6 Edge 3 (standard): 2 × Interstate **DCM0055** (22NF, 55 Ah).
-  See [[2026-09-25 Q6-Edge-3 iLevel no power]].
+- Pride Q6 Edge 3 (standard): 2 × Interstate **DCM0055** (22NF, 55 Ah),
+  matching the NF-22 size on its spec sheet ([[Q6-Edge-3]]). See
+  [[2026-09-25 Q6-Edge-3 iLevel no power]].
 
 - Prism P440 ceiling lift: 2 × 12 V 2.3 Ah sealed lead-acid, both
   replaced. On ceiling lifts ([[P440]], [[C-450-C-625]]), **tape the
@@ -98,4 +153,5 @@ equipment and spares with their **battery charge requirements** in mind
 ## Related
 
 [[Golden-Battery-Charging]], [[Battery-Charger-LED-Diagnostics]],
-[[TruCharge-Diagnostics]]
+[[TruCharge-Diagnostics]], [[Pride-Power-Chair-Lineup]],
+[[Power-Chair-Troubleshooting]]

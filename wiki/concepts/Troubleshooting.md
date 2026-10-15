@@ -125,8 +125,15 @@ not the brand or model name.
 - PG Drives programmer trip codes: [[PG-Drives-Trip-Codes]]
 - Dynamic Shark: [[Shark-Diagnostics]]
 - Dynamic LiNX: [[LiNX-Diagnostics]]
-- Pride Q-Logic / Q-Logic 3: [[Joystick-Controllers]],
+- Pride Q-Logic / Q-Logic 3 / QLNES: [[Joystick-Controllers]],
+  full code lists [[Q-Logic-Fault-Codes]],
   [[Q6 Edge Basic Troubleshooting]]
+- Pride Jazzy PG VR2 / GC3 / newVSI and Dynamic (flash codes):
+  [[Pride-Controller-Flash-Codes]]; which Pride chair has which
+  controller: [[Pride-Power-Chair-Lineup]]
+- Pride tilted chair won't drive (tilt thresholds): [[Q-Logic-Seat-Configuration]]
+- Pride lithium batteries (don't load-test; sleep mode):
+  [[Lithium Battery Field Inspection Instructions]]
 - Charging: [[Golden-Battery-Charging]], [[Mobility-Batteries]],
   [[2026-10-05 GP162 bad charger stays green]]
 - No power at all: [[2026-09-25 Q6-Edge-3 iLevel no power]]

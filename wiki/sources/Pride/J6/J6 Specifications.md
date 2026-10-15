@@ -28,4 +28,7 @@ A/October 2015.
 Identical base hardware/component weights to the [[J6 VA Specifications|J6 VA]] variant, but governed for longer range at lower top speed — see that
 page for the comparison.
 
+**Superseded on range:** the newer [[J6 Specifications (Rev C, 2020)]]
+gives 13.4 mi (not 15), Class A, and 250 lb with TRU-Balance 3.
+
 Feeds into: [[J6]].

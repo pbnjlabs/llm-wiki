@@ -96,6 +96,19 @@ actuator. Excludes upholstery/seating in general, unauthorized
 modifications, and damage from battery leakage, misuse, or improper
 storage.
 
+## Seat sizes by chair (2025 Quantum chart)
+
+TRU-Balance 3 static, power tilt and lift & tilt: **12–22 in wide and
+deep** on the Q6 Edge 3 Stretto, Edge 4, Edge 3, Edge 2.0, 4Front 2 and
+R-Trak; **14–20 in** on the J6 (no lift & tilt). HD versions 20–32 W ×
+20–25 D on the Edge HD (lift & tilt 20–24 W), 20–24 × 20–24 on the
+4Front 2 HD. The J6 drops to **250 lb** with TRU-Balance 3. Full table: [[Quantum End-to-End Chart (INFINFB4546, 2025)]].
+
+On legacy Q-Logic and NE+ chairs, the tilt thresholds that lock out
+driving and elevation are set in the actuator module
+([[Q-Logic-Seat-Configuration]]). Q-Logic 3 TRU-Balance 4 actuator
+fault codes 150–177: [[Q-Logic-Fault-Codes]].
+
 ## See also
 
 - [[J6]], [[Q6-Edge-3-Stretto]]

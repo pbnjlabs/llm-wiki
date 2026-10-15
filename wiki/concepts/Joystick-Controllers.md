@@ -1,18 +1,71 @@
 ---
 type: concept
-tags: [controller, joystick, q-logic, pride]
+tags: [controller, joystick, q-logic, q-logic-3, qlnes, ne-plus, pride, quantum]
 ---
 
-# Joystick Controllers — Q-Logic / Q-Logic 3 (Pride)
+# Joystick Controllers — Q-Logic family (Pride/Quantum)
 
-Pride/Quantum Rehab's controller family, used across [[J6]] and
-[[Q6-Edge-3-Stretto]] (and other Pride/Quantum chairs not yet on file).
-Two generations documented here: legacy **Q-Logic** and current
-**Q-Logic 3**.
+Pride/Quantum Rehab's own controller family: legacy **Q-Logic**, the
+**NE/NE+** electronics, **Q-Logic 3 / 3e**, and the 2024 **QLNES**.
+Pride's **Jazzy** and retail chairs mostly use PG Drives (VR2, GC3,
+newVSI) or Dynamic controllers instead; those are on
+[[Pride-Controller-Flash-Codes]].
+
+## Which controller is on the chair?
+
+| You see | It is | Codes |
+|---|---|---|
+| Colour LCD hand control with on/off–mode lever and speed knob (2008-era) | Legacy **Q-Logic** | [[Q-Logic-Fault-Codes]] |
+| Hand control J/AJ/LJ on a Power Base 75; faults shown as **icons** | **Q-Logic NE / NE+** | No manual on file |
+| Display hand control or Enhanced Display, Home/Aux/Settings screens, Key I/II | **Q-Logic 3** (3e: Bluetooth under Settings) | [[Q-Logic-Fault-Codes]] |
+| **LED-only** joystick, Key I/II, USB-C port, magnetic charger port | **QLNES** | [[Q-Logic-Fault-Codes]] (3-LED digit blink) |
+| Speed dial; or 10-LED arc with speed/profile buttons; or service indicator | GC3; VR2; Dynamic | [[Pride-Controller-Flash-Codes]] |
+
+Model-by-model electronics (2025–2026 charts): [[Pride-Power-Chair-Lineup]].
+Chairs on file: [[J6]], [[J4]], [[Q6-Edge-3-Stretto]], [[Q6-Edge-3]],
+[[Q6-Edge-4]], [[Q6-Edge-2.0]], [[Q6-Edge-HD]], [[4Front-2]],
+[[R-Trak]], [[Jazzy-1450]].
 
 ## Q-Logic (legacy)
 
-Source: [[Q-Logic Controller Basic Operation Instructions]].
+Sources: [[Q-Logic Controller Basic Operation Instructions]] (end
+user) and the 138-page dealer [[Q-Logic Technical Manual (INFMANU3580)]]
+(2008).
+
+**System (tech manual):** plug-and-play modules daisy-chained on a
+proprietary **CAN bus**: power module (the master; holds most settings),
+hand control, Stand-alone Joystick (SAJ), attendant joystick (same
+hardware as the SAJ, programmed differently, takes over when switched
+on), Enhanced Display (colour LCD, IR, Bluetooth; required for Sip &
+Puff and switch/specialty inputs), AAM (5 seat actuators), ECU (8
+relays for environmental devices), Sip & Puff. Programming by
+hand-held programmer or the Curtis **1314 PC Programming Station**
+through **any** charger/programming port. Specs: 24 V nominal, 16–33 V
+operating, 35 V max; bus up to 10 m and 10 modules, 13 A continuous.
+The charger/programming port is a standard 3-pin XLR rated 13 A, plus
+two programmer pins.
+
+Behaviour worth knowing:
+- **The input device that powered the chair on is in control.** To
+  switch devices, power off and back on from the other one.
+- Each input device has **5 profiles**; P1 is always drive, P2–P5 can
+  be drive, seat or aux. Quick Setup Speed and Response (1–5 each) set a
+  whole drive profile at once.
+- **Stops:** release to center or pull back past 50% = **fast stop**
+  (about twice the normal deceleration); power off while driving =
+  **emergency stop**; park-brake stop is system-only.
+- **System Lock** (if enabled): holding mode >5 s turns the chair off
+  locked; to start it, on, then forward ≥3 s until beep, then reverse ≥3
+  s until beep.
+- **Mode Key Navigation** Simple (each press = next profile) or Advanced
+  (short = next drive profile, long = drive ↔ seat/aux). Must be Simple
+  if a Smart Switch (short = mode, long = off) is used.
+- Battery type parameter (U1, NF-22, Group 24, Group 34) sets the
+  battery gauge; set it right after a battery change.
+- Hand control "traffic light": green = drive OK, amber = limited
+  (quarter speed), red = drive inhibited (usually seat tilted past the
+  threshold, [[Q-Logic-Seat-Configuration]]).
+- Firmware updates and module compatibility: [[Q-Logic-Firmware-Updates]].
 
 Modular electronic controller system, factory pre-programmed, with several
 input-device form factors sharing the same core mechanics:
@@ -55,7 +108,7 @@ Battery Condition Meter (green=full, amber=partial, red=low).
 | 200–201 | Motor Fault | Check motor wiring |
 
 Any other code, or persistence after the listed fix: contact the Quantum
-Rehab Provider. See also [[Q6 Edge Basic Troubleshooting]] for a broader
+Rehab Provider. **Full 1–245 list:** [[Q-Logic-Fault-Codes]]. See also [[Q6 Edge Basic Troubleshooting]] for a broader
 symptom-based checklist (dead system, reduced range, slow operation,
 pulling, clicking) that's a natural companion to this error-code table.
 
@@ -88,6 +141,9 @@ Information, Warning or Error, shown by number.
 | 47 | Suspension lock not engaged | Level ground; check the lock |
 | 75 | Chair is not charging (charger in the controller but not the wall) | Unplug the charger from the controller, power-cycle |
 | 174 | Invalid memory position | Bring out of anterior tilt and retry; reset the memory position |
+
+Full list (about 1–221, including TRU-Balance 4 actuator codes 150–177;
+note the 32–36 numbering conflict): [[Q-Logic-Fault-Codes]].
 
 **Don't mix the two tables:** legacy Q-Logic #75 is "motor disconnected"
 and #35 a joystick connection fault; on Q-Logic 3 they mean "not
@@ -145,14 +201,49 @@ avoid).
 **Bluetooth**: mouse-emulation pairing to phones/tablets/computers, with a
 dwell-click option for users who can't physically click.
 
-This is the wiki's first fully-ingested controller/joystick-system
-documentation — a natural hub for any future controller manuals (Pride,
-Golden's PG/LiNX/Dynamics/Shark controllers, etc.) that need cross-model
-comparison.
+Bluetooth programming apps (Econ-W, Econ-I), **Interactive Assist**
+remote diagnostics, phone/tablet mouse and Switch Control pairing, and
+the GyroSet Vigo head control:
+[[Q-Logic-3-Bluetooth-and-Remote-Programming]]. **Q-Logic 3e** (on the
+J4E/J4EHD) turns Bluetooth on from the Settings screen instead of Aux.
+
+## QLNES (2024)
+
+Source: [[QLNES Basic Operation Instructions (INFMANU5366)]]. The 75 A
+or 90 A electronics on most 2025 Quantum mid-wheel chairs. **No
+screen**: a 6-key or 10-key LED joystick with Key I/II, plus/minus
+profile keys, mode and on/off jacks, a **USB-C** device-charging port
+(5 V 3 A) and both an **XLR and a magnetic charger port** (never two
+chargers at once; keep the magnetic connector 6 in from implanted
+devices).
+
+- 6-segment battery gauge (green ≥51%, yellow 16–50%, red below);
+  charge at yellow.
+- Drive mode number colour: yellow = restricted, red = drive lockout,
+  green blinking = iLevel active, orange blinking = suspension lock not
+  engaged while elevated; all four orange = rescue drive.
+- Error codes blink as three digits on three LEDs
+  ([[Q-Logic-Fault-Codes]]). Thermal rollback to 20%.
+- Bluetooth: hold on/off 3 s to pair a programmer, accept with a
+  forward input; also supports Interactive Assist.
+- Lock is off from the factory; once enabled, unlock with full forward
+  then full reverse.
+
+## NE / NE+
+
+Older Pride electronics on the **Power Base 75** with J, AJ and LJ hand
+controls, AM1/AM2/LAM2 actuator modules. Faults show as **icons**. Still
+on the 2025 chart for the [[J6]] (70 A) and [[Q6-Edge-HD]] (75 A);
+NE+ also on the [[R-Trak]]. Only the
+[[NE+ Firmware Compatibility List (2009)]] is on file, plus the NE/NE+
+coverage in [[Q6 Edge Basic Troubleshooting]].
 
 ## See also
 
-- [[J6]], [[Q6-Edge-3-Stretto]]
+- [[Pride-Power-Chair-Lineup]], [[Pride-Controller-Flash-Codes]],
+  [[Q-Logic-Fault-Codes]], [[Q-Logic-Firmware-Updates]],
+  [[Q-Logic-Seat-Configuration]],
+  [[Q-Logic-3-Bluetooth-and-Remote-Programming]]
 - [[Power-Chair-Troubleshooting]] (symptom-first, Pride + Golden)
 - [[Tru-Balance-3-Power-Positioning]] (Q-Logic 3 inhibit-matrix integration
   with iLevel/tilt)
