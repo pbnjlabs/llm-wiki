@@ -95,15 +95,14 @@ support with what you've already measured.
 - Folding rail: [[Folding-Rail]]
 
 ### Vertical platform lifts (VPLs)
+- **Everything (Bruno VPL-3100B/3200B + Harmar), symptom-first:** [[VPL-Troubleshooting]]
+  (safety-chain voltage walk, gates and doors, calls, click/hum/squeal,
+  runs on its own, blown fuse, noise)
 - Bruno charger LEDs: [[Battery-Charger-LED-Diagnostics]]
 - Door stuck locked / interlocks: [[Gate-and-Door-Interlocks]],
   [[2026-10-01 Bruno-VPL door interlock spring]]
 - Squealing, jamming on the fascia: [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]
 - Model pages: [[VPL-3100B]], [[VPL-3200B]], [[HighlanderII]]
-- Bruno's TechMate also has 35 VPL trees (no response, up/down limits,
-  gates, safety pan, E-stop, emergency lowering, running on its own…).
-  They were pulled to `MANUALS/Bruno/TechMate/VPL/` but **aren't ingested
-  yet**.
 
 ### Vehicle lifts
 - Stuck lifting a load at the same spot (Harmar): [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]
@@ -149,6 +148,6 @@ the model page.
 
 ## See also
 
-[[Stairlift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
-[[Mobility-Batteries]], [[Joint-Commission-DMEPOS]] (maintenance and
+[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
+[[TechMate VPL Troubleshooter]], [[Mobility-Batteries]], [[Joint-Commission-DMEPOS]] (maintenance and
 repairs follow the manufacturer's instructions; keep repair records)

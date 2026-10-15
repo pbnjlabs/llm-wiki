@@ -81,8 +81,10 @@ interactive troubleshooter for stairlifts and VPLs. It's a serial-number
 lookup followed by multiple-choice decision trees with photos and
 videos. The stairlift half is ingested as
 [[TechMate Stairlift Troubleshooter]] and condensed into
-[[Stairlift-Troubleshooting]]. The VPL half (35 trees) is pulled to
-`MANUALS/Bruno/TechMate/VPL/` but not ingested yet. Its "Contact Bruno"
+[[Stairlift-Troubleshooting]]. The VPL half is ingested as
+[[TechMate VPL Troubleshooter]] and condensed into [[VPL-Troubleshooting]];
+it also covers AC and commercial VPL models the wiki has no manuals for
+(VPL-3153/3175, VPL-3353B/3375B, VPL-3310B/3312B/3314B). Its "Contact Bruno"
 and "order a part" buttons send the session to Bruno, so only click them
 on purpose.
 
@@ -115,4 +117,4 @@ above). The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
 
 [[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],
 [[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]], [[Hitch-Adapters]],
-[[Stairlift-Troubleshooting]], [[Troubleshooting]]
+[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Troubleshooting]]

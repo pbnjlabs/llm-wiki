@@ -127,4 +127,4 @@ These aren't gate or door interlocks:
 ## See also
 
 [[VPL-3100B]], [[VPL-3200B]], [[HighlanderII]], [[Top-Landing-Gate-Installation]],
-[[Porch-Lift-Evaluation]], [[Bruno]], [[Harmar]]
+[[Porch-Lift-Evaluation]], [[Bruno]], [[Harmar]], [[VPL-Troubleshooting]] (Bruno closed/locked/enable switch wire colors and board test points, from TechMate)

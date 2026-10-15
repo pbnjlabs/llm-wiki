@@ -13,8 +13,7 @@ tags: [bruno, stairlift, troubleshooting, techmate, dealer-portal, sre-3050, sre
 **TechMate** is Bruno's interactive troubleshooting tool for dealers. It's
 on the Bruno dealer portal (brunopartner.com, dealer login, **TECHMATE**
 menu) and covers stairlifts and VPLs. This page covers the **stairlift
-half**. The VPL half was pulled at the same time (raw files in
-`MANUALS/Bruno/TechMate/VPL/`) but isn't ingested yet.
+half**. The VPL half is [[TechMate VPL Troubleshooter]].
 
 It's a set of linked multiple-choice decision trees (built on Zingtree).
 You enter a serial number, it picks the model, then it asks one question

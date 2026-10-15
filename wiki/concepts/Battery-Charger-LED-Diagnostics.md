@@ -33,4 +33,4 @@ identical.
 
 ## See also
 
-[[VPL-3100B]], [[VPL-3200B]], [[Bruno]]
+[[VPL-3100B]], [[VPL-3200B]], [[Bruno]], [[VPL-Troubleshooting]]
