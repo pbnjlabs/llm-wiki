@@ -115,6 +115,8 @@ support with what you've already measured.
   [[Hybrid-Vehicle-Lifts]]
 
 ### Scooters and power chairs
+- **Symptom-first (Pride detail, Golden controller index):** [[Power-Chair-Troubleshooting]]
+
 Identify the **controller** first. It decides which code table applies,
 not the brand or model name.
 - Golden Dynamics R-Series (flash/beep, 9 codes): [[Flash-Beep-Diagnostics]]
@@ -132,6 +134,7 @@ not the brand or model name.
 - Brakes: [[Brake-Replacement]]
 
 ### Ceiling and patient lifts
+- **Symptom-first (Prism/Handicare P440 and C-450/C-625):** [[Ceiling-Lift-Troubleshooting]]
 - Won't lift: [[2026-10-01 P440 batteries no lift]] (tape the batteries
   together, replace both)
 - Prism technical manual: [[C-450 C-625 Technical Manual]]
@@ -148,6 +151,7 @@ the model page.
 
 ## See also
 
-[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
+[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Power-Chair-Troubleshooting]],
+[[Ceiling-Lift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
 [[TechMate VPL Troubleshooter]], [[Mobility-Batteries]], [[Joint-Commission-DMEPOS]] (maintenance and
 repairs follow the manufacturer's instructions; keep repair records)

@@ -69,6 +69,31 @@ Settings, drive-profile selection, actuator/seat screen, Standby Select) is
 conceptually the same as legacy Q-Logic but presented on a touch interface
 rather than a keypad+LCD.
 
+### Q-Logic 3 error codes
+
+From [[Q-Logic 3 Basic Operation Instructions]] (pp. 24–25). Messages are
+Information, Warning or Error, shown by number.
+
+| # | Meaning | Fix |
+|---|---|---|
+| 1 / 2 | Motor 1 / 2 not connected | Power off, inspect motor connections, power on |
+| 3 / 4 | Brake 1 / 2 not connected | Power off, disengage then re-engage the brake lever, inspect motor connections |
+| 20 | Undervoltage | Charge |
+| 21 | Overvoltage | Check battery voltage; avoid fast downhill driving on full batteries |
+| 23 / 24 | Motor 1 / 2 output defect | Power off, inspect motor connections |
+| 25 / 26 | Brake 1 / 2 error | As 3 / 4 |
+| 32 | Speed reduction (overtemperature) | Let it cool (normal behavior) |
+| 34 / 35 | Joystick not centered / out of center | Release joystick, power-cycle |
+| 46 | Bluetooth not working | Power off, wait 5 s, power on |
+| 47 | Suspension lock not engaged | Level ground; check the lock |
+| 75 | Chair is not charging (charger in the controller but not the wall) | Unplug the charger from the controller, power-cycle |
+| 174 | Invalid memory position | Bring out of anterior tilt and retry; reset the memory position |
+
+**Don't mix the two tables:** legacy Q-Logic #75 is "motor disconnected"
+and #35 a joystick connection fault; on Q-Logic 3 they mean "not
+charging" and "joystick out of center". Symptom-first steps:
+[[Power-Chair-Troubleshooting]].
+
 ### Programming (provider-level only)
 
 Programmed via **Econ-W** (PC software, wired or Bluetooth-connected to the
@@ -128,6 +153,7 @@ comparison.
 ## See also
 
 - [[J6]], [[Q6-Edge-3-Stretto]]
+- [[Power-Chair-Troubleshooting]] (symptom-first, Pride + Golden)
 - [[Tru-Balance-3-Power-Positioning]] (Q-Logic 3 inhibit-matrix integration
   with iLevel/tilt)
 - Golden's controller-adjacent pages, for cross-manufacturer contrast:

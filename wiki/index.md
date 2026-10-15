@@ -158,6 +158,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Concept | Page |
 |---|---|
 | **Troubleshooting (start here for any "it doesn't work" call):** the method (record state, test each input, classify the response, prove power, voltage walk, jump outward from the board, swap and compare, same spot vs whole way) plus a symptom index for stairlifts, VPLs, vehicle lifts, scooters/chairs, ceiling lifts | [[Troubleshooting]] |
+| **Power chair troubleshooting, symptom-first** (Pride/Quantum detail + Golden controller index): triage, dead system (batteries near zero won't wake a Pride charger), powers on but won't drive (freewheel, charger inhibit, joystick at power-up, seat drive inhibit, lock), short range, slow/thermal rollback, pulling, clicking, **Q-Logic 3 error codes** (vs legacy Q-Logic: #35 and #75 mean different things), charging | [[Power-Chair-Troubleshooting]] |
+| **Ceiling lift troubleshooting, symptom-first** (Prism/Handicare P440 + C-450/C-625): before-you-open checklist, P440 light meanings, won't wake/E-stop, swapped or self-triggering buttons (airline, grommet leaks), slack/thick-strap switches, overspeed (motor), board/fuse/motor tests, charging strips, track alignment, emergency lowering | [[Ceiling-Lift-Troubleshooting]] |
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
 | **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant) | [[Overspeed-Safety-Brake]] |
@@ -228,10 +230,12 @@ reset procedure carries over.
 Other candidates flagged but not yet written: Seat-Systems
 (general/cross-manufacturer — Golden and Pride each have their own seating
 concept page instead, which now looks like the settled pattern rather than
-backlog). [[Troubleshooting]] was written 2026-10-15 as a hub; Pride's
-[[Q6 Edge Basic Troubleshooting]] and Prism's
-[[C-450 C-625 Technical Manual]] are linked from it but not yet folded
-into symptom-first pages the way stairlifts are.
+backlog). [[Troubleshooting]] was written 2026-10-15 as a hub, with
+symptom-first pages for stairlifts, VPLs, power chairs (from Pride's
+[[Q6 Edge Basic Troubleshooting]] and the Q-Logic manuals) and ceiling
+lifts (from Prism's [[C-450 C-625 Technical Manual]] and the P440
+manual). Still without one: vehicle lifts, scooters as their own page,
+door operators.
 
 ## Field notes
 

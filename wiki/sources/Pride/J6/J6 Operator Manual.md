@@ -37,4 +37,4 @@ No Q-Logic-specific programming content — hand control/controller operation
 is covered by the separate controller manuals (see
 [[Joystick-Controllers]]).
 
-Feeds into: [[J6]], [[Joystick-Controllers]].
+Feeds into: [[J6]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].

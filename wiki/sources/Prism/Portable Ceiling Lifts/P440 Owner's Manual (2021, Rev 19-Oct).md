@@ -63,7 +63,7 @@ write-up.
    L4K 4Z9; 877-304-5438)
 
 ## Feeds into
-[[P440]], [[Prism]]
+[[P440]], [[Prism]], [[Ceiling-Lift-Troubleshooting]]
 
 ## Field notes
 - [[2026-10-01 P440 batteries no lift]]: used this manual's charging,

@@ -39,4 +39,4 @@ differences:
   not powering/moving, loose seating) mirrors the
   [[Q6 Edge Basic Troubleshooting|basic troubleshooting sheet]].
 
-Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]].
+Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].

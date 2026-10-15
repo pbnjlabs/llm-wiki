@@ -48,4 +48,4 @@ system, that halts the lift if the motor/worm-wheel wears out and causes
 overspeed. Unlike Bruno's field-resettable version, the manual describes
 this as requiring motor replacement, not a reset procedure.
 
-Feeds into: [[C-450-C-625]], [[Overspeed-Safety-Brake]].
+Feeds into: [[C-450-C-625]], [[Overspeed-Safety-Brake]], [[Ceiling-Lift-Troubleshooting]].

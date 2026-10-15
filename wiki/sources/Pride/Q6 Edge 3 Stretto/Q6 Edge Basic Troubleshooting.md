@@ -38,6 +38,6 @@ Symptom-based checklist, not a diagnostic-code table:
 Explicitly a supplement to the owner's manual, not a replacement — see
 [[Q6-Edge-3-Stretto]] for the model page and its operator manual source.
 
-Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]].
+Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].
 
 Field notes using this checklist: [[2026-09-25 Q6-Edge-3 iLevel no power]].

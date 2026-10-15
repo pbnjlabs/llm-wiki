@@ -34,4 +34,4 @@ fault/not-centered, high/low battery voltage, motor not
 connected/disconnected/fault, charger drive inhibit, center detect fault,
 drive/actuator restriction, motor disconnected/shorted).
 
-Feeds into: [[Joystick-Controllers]].
+Feeds into: [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].

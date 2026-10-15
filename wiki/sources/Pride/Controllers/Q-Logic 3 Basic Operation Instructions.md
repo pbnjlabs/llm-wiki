@@ -20,4 +20,4 @@ codes/warnings as the legacy Q-Logic (info/warning/error/general-error
 severity levels), plus care/maintenance and warranty pointers back to the
 power chair's own manual.
 
-Feeds into: [[Joystick-Controllers]].
+Feeds into: [[Joystick-Controllers]] (incl. the Q-Logic 3 error code table, added 2026-10-15), [[Power-Chair-Troubleshooting]].

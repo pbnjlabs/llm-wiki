@@ -71,6 +71,7 @@ Note that these may be for the **standard** Edge 3, not the Stretto.
 
 - [[Pride]]
 - [[Joystick-Controllers]]
+- [[Power-Chair-Troubleshooting]] (symptom-first, incl. Q-Logic 3 error codes)
 - [[Tru-Balance-3-Power-Positioning]]
 - [[J6]]
 
