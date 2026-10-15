@@ -93,6 +93,15 @@ damaging the folding rail assembly.
   (loosen primary bracket screws, reposition, re-tighten gear rack screw →
   jack bolt → latch screws → bracket screws in that order).
 
+## Troubleshooting
+
+Power folding rail faults (won't stop at the mid-park, beeps but won't
+fold, slams or binds, not charging below the fold, the SRE-5000's own
+fold rail) are covered step by step on [[Stairlift-Troubleshooting]]
+(section 13), from Bruno's [[TechMate Stairlift Troubleshooter]]. The
+quick test: the carriage must **always stop at the mid-park**, rail up or
+down, enabled or disabled.
+
 ## See also
 
-[[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[Bruno]]
+[[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[Bruno]], [[Stairlift-Troubleshooting]]

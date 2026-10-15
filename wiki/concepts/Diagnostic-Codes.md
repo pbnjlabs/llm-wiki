@@ -14,7 +14,13 @@ Guide, and the CRE-2110 Install Manual.
 **Not confirmed for [[SRE-3050]]** — the table's column headers name
 SRE-2010, SRE-3000, and CRE-2110 specifically but no SRE-3050 column;
 treat SRE-3050 codes as unverified against this table until checked
-against its own manual.
+against its own manual. (The [[SRE-3050 Tech Support Guide]] reprints the
+same table, still without an SRE-3050 column. Its beep list matches the
+SRE-3000 audible column, and Bruno's [[TechMate Stairlift Troubleshooter]]
+treats SRE-3050 beeps the same way.)
+
+**For the step-by-step fix behind each code, see
+[[Stairlift-Troubleshooting]].**
 
 ## Code translations
 
@@ -56,6 +62,35 @@ against its own manual.
 - L1 when seat is in riding position and doesn't see swivel safety switch
 - L2/L3 showing at the "wrong" end — check installation orientation first
 
+## Display table: d, F and C codes with their beeps
+
+From the full visual/audible table in the [[SRE-2010 Tech Support Guide]]
+(dated 7-17-2020 inside the guide). C = chirp, B = beep, L = long beep.
+Elan (SRE-3000/3050) gives the same beeps with no display.
+
+| Display | Meaning | Beeps |
+|---|---|---|
+| C3 | Off-charge and not parked (fault) | BBBBL (4 short, 1 long) |
+| C4 | Parked, charger not detected | BBBLL (3 short, 2 long) |
+| C5 | Battery voltage critical (~16V) | BBLLL (2 short, 3 long) |
+| C6 | Battery voltage low (<18V) | — |
+| d1 | Speed pot fail (open) | — |
+| d2 | Transmitter ID memory full | BLL |
+| d3 | Program memory bad checksum | — |
+| **d4** | **Over-current fault** (in practice: brake not releasing, see above) | CCCC (4 short) |
+| d5 | Over-temperature fault | CCC (3 short) |
+| d6 | Speed override on high temperature | — |
+| d7 | Low voltage stop | CCCCC (5 short) |
+| d8 | Unlearned remote | — |
+| F1–F8 | Relay/FET faults (F2 = safety relay shorted). Any F code = board | — |
+
+**Conflict:** Bruno's TechMate labels **d6 as over-current**. The manual's
+table says **d4**. The manual wins. TechMate's d5 (over-temperature) and
+d7 (low voltage) match.
+
+Bruno's newer **SRE-5000** has its own beep scheme (1S1L, 2S1L, 2S2L…);
+see [[Stairlift-Troubleshooting]].
+
 ## General "unit does not operate" checklist
 
 Before diving into codes: check circuit breaker (foreign-object jam or
@@ -66,4 +101,6 @@ faces the open side of the stairs — this is correct behavior, not a fault).
 
 ## See also
 
-[[SRE-2010]], [[SRE-3000]], [[CRE-2110]], [[Overspeed-Safety-Brake]]
+[[SRE-2010]], [[SRE-3000]], [[CRE-2110]], [[Overspeed-Safety-Brake]],
+[[Stairlift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
+[[Troubleshooting]]

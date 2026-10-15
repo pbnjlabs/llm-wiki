@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 31 (1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 32 (1 is the 2026-10-15 TechMate stairlift troubleshooter from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
 | Pride | [[Pride]] | 10 | 10 |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -157,13 +157,15 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 
 | Concept | Page |
 |---|---|
+| **Troubleshooting (start here for any "it doesn't work" call):** the method (record state, test each input, classify the response, prove power, voltage walk, jump outward from the board, swap and compare, same spot vs whole way) plus a symptom index for stairlifts, VPLs, vehicle lifts, scooters/chairs, ceiling lifts | [[Troubleshooting]] |
+| **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant) | [[Overspeed-Safety-Brake]] |
 | Folding rail (manual/power) | [[Folding-Rail]] |
 | Automatic door operators (AutoSlide vs. AutoSwing vs. Open Sesame 133/233; swing-door site survey; activation options) | [[Automatic-Door-Operators]] |
 | Rail mounting/anchoring guidance | [[Rail-Mounting-Guidance]] |
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
 | Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
-| Diagnostic codes (SRE-2010/3000, CRE-2110) | [[Diagnostic-Codes]] |
+| Diagnostic codes (SRE-2010/3000, CRE-2110; full d/F/C display table with beeps; **d4 = over-current**, TechMate's "d6" label is wrong) | [[Diagnostic-Codes]] |
 | Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms; government version: lifetime only while the original owner has it, start no later than 14 months after shipping) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
 | Hitch adapters (hitch-mounted lifts: the two Harmar rules, measuring HV/D1/D2, AL1235U drop settings, AL1236/AL1238 and Extra Long, Bruno ASL-275 height table and ASL-700 4-bar settings, no expanders/extenders, tongue weight, AL1232 cold-weld recall, prices; on every estimate) | [[Hitch-Adapters]] |
@@ -225,10 +227,10 @@ reset procedure carries over.
 Other candidates flagged but not yet written: Seat-Systems
 (general/cross-manufacturer — Golden and Pride each have their own seating
 concept page instead, which now looks like the settled pattern rather than
-backlog); Troubleshooting (general, non-Bruno-specific — Pride's
-[[Q6 Edge Basic Troubleshooting]] and all of Prism's
-[[C-450 C-625 Technical Manual]] are candidate sources if this gets
-written).
+backlog). [[Troubleshooting]] was written 2026-10-15 as a hub; Pride's
+[[Q6 Edge Basic Troubleshooting]] and Prism's
+[[C-450 C-625 Technical Manual]] are linked from it but not yet folded
+into symptom-first pages the way stairlifts are.
 
 ## Field notes
 
@@ -277,6 +279,12 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 [[ASL-700 Operator Manual (2023)]], [[VSL-4400 Installation Manual (2026)]],
 [[VSL-4400G Operator Manual (2022)]], [[VSL-6000-6900 Installation Manual (2023)]],
 [[VSL-6000-6900 Operator Manual (2022)]].
+
+Bruno dealer tools — see `wiki/sources/Bruno/General/`:
+[[TechMate Stairlift Troubleshooter]] (Bruno dealer-portal decision trees,
+26 stairlift trees pulled and ingested 2026-10-15; raw outlines in
+`MANUALS/Bruno/TechMate/`). **Not yet ingested:** the 35 TechMate VPL
+trees, pulled to `MANUALS/Bruno/TechMate/VPL/` at the same time.
 
 Harmar (47 source pages, see `wiki/sources/Harmar/`) — ingested across
 five passes:
@@ -575,6 +583,12 @@ on file):
 - [x] **VSL-4400 Joey**: install (2026) and operator (2022) manuals, ingested 2026-10-08 ([[VSL-4400]]).
 - [x] **VSL-6000 / VSL-6900 Curb-Sider**: install (2023) and operator (2022) manuals, ingested 2026-10-08 ([[VSL-6000-6900]]).
 
+**Bruno stairlifts (PMS sells and services, per the human 2026-10-15):**
+- [ ] **SRE-5000**: no install, operator or tech support manual on file.
+  Found through TechMate, which already covers its troubleshooting
+  ([[Stairlift-Troubleshooting]]). Get the manuals from Brunopartner
+  (Manuals menu) or Bruno Technical Service (1-800-656-0552).
+
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
   VA-issued manual chairs.
@@ -601,7 +615,7 @@ Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
-### Bruno — fully ingested, no backlog remaining (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
+### Bruno — all manuals ingested; backlog: the 35 TechMate VPL trees in `MANUALS/Bruno/TechMate/VPL/` (pulled 2026-10-15 with the stairlift trees, not yet ingested) (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — fully ingested, no backlog remaining.
 

@@ -78,7 +78,7 @@ forcing them into a product-line folder they don't belong in.
   type: manufacturer | model | concept | source
   manufacturer: Bruno
   model: SRE-3050          # models only
-  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide | Web Article
+  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide | Web Article | Troubleshooting Tool
   source: "MANUALS/Bruno/Bruno Straight SL/3050-I SRE-3050 Install Manual 06-22-2026.pdf"
   date: 2026-06-22          # manual's revision date, not today's date
   tags: [stairlift, bruno]
@@ -119,6 +119,23 @@ original URL, and `date:` set to the article's published date.
 Clippings are marketing or consumer guidance, so they carry **less
 weight than a manual**. Say so on the pages they feed, and let any
 manual override them.
+
+### Dealer-portal troubleshooting tools
+
+Interactive tools on a manufacturer's dealer portal, such as Bruno's
+**TechMate** (Zingtree decision trees for stairlifts and VPLs), get
+pulled into `MANUALS/<Manufacturer>/<Tool>/` as raw files: the tree data
+plus a readable outline per tree. They get `doc_type: Troubleshooting
+Tool` source pages, with `date:` set to the pull date, since the tools
+have no revision date. They're manufacturer-authored, so they rank above
+clippings, but **a manual wins any conflict**. Check them against the
+manuals and flag every disagreement. Distill them into symptom-first
+concept pages (e.g. `Stairlift-Troubleshooting`), with
+`concepts/Troubleshooting.md` as the cross-manufacturer hub. Never click
+or submit the tools' contact, parts-order, "resolved" or survey buttons:
+they send the session to the manufacturer. Leave manufacturer staff
+names and customer-incident form fields out of the wiki. Refresh TechMate
+with `python3 scripts/techmate_pull.py`.
 
 ### Manufacturer prices and pay scales
 

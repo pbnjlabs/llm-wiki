@@ -60,4 +60,5 @@ of the rail.
 ## See also
 [[Helix]], [[Pinnacle-SL300]], [[Pinnacle-SL600]], [[Harmar]],
 [[Diagnostic-Codes]] (Bruno's equivalent scheme — unrelated, not
-compatible)
+compatible), [[Stairlift-Troubleshooting]] (symptom-first, Bruno and
+Harmar side by side)

@@ -74,6 +74,26 @@ vertical platform lifts (VPL).
     [[Battery-Charger-LED-Diagnostics]] — same gate hardware/procedure and
     charger diagnostics reused verbatim across both install manuals.
 
+## TechMate (dealer troubleshooting tool)
+
+Bruno's dealer portal (brunopartner.com → **TECHMATE**) has an
+interactive troubleshooter for stairlifts and VPLs. It's a serial-number
+lookup followed by multiple-choice decision trees with photos and
+videos. The stairlift half is ingested as
+[[TechMate Stairlift Troubleshooter]] and condensed into
+[[Stairlift-Troubleshooting]]. The VPL half (35 trees) is pulled to
+`MANUALS/Bruno/TechMate/VPL/` but not ingested yet. Its "Contact Bruno"
+and "order a part" buttons send the session to Bruno, so only click them
+on purpose.
+
+TechMate also covers the **SRE-5000**, a newer Bruno straight stairlift
+with three carriage terminal switches, its own beep codes and its own
+folding rail. **No SRE-5000 manual is on file.** PMS sells and services
+it (per the human, 2026-10-15), so it's on the index's
+[[index#Missing manuals]] checklist.
+
+Bruno Technical Service: 1-800-656-0552.
+
 ## VA FSS
 
 Bruno's own VA FSS price list (65 II A: CRE, SRE and VPL units and
@@ -87,10 +107,12 @@ Nothing — all Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
 out-of-repo `MANUALS/Bruno/` drop).
 
-**Missing manuals:** none. The Chariot, Joey and Curb-Sider manuals were
-added 2026-10-08 (ticked off at [[index#Missing manuals]]).
+**Missing manuals:** the **SRE-5000** (added 2026-10-15, see TechMate
+above). The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
+(ticked off at [[index#Missing manuals]]).
 
 ## See also
 
 [[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],
-[[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]], [[Hitch-Adapters]]
+[[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]], [[Hitch-Adapters]],
+[[Stairlift-Troubleshooting]], [[Troubleshooting]]
