@@ -57,6 +57,9 @@ electrician for the GFI).
   - level
   - tape measure
   - hammer drill with bits (for the pad anchors)
+  - **torque wrench** (Bruno: 20–133 ft-lb)
+  - **concrete anchors** (not supplied with the lift; Bruno: four
+    1/2 in × 2-1/2 in minimum, e.g. red head sleeve anchors)
 - **Transport:** the lift travels **easiest on a trailer** to the job
   site.
 

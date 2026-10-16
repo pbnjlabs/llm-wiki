@@ -1185,3 +1185,6 @@ Per the human's walkthrough: new [[VPL-Installation]] (PMS workflow, then Bruno 
 
 ## [2026-10-16] clarification | VPL installation — GFI timing
 Per the human: the porch lift GFI can be installed before or after the VPL install; before is preferred. It's the one prep item that doesn't have to be done before delivery. Closes the open item from the previous entry. Updated [[VPL-Installation]], [[VPL Install Template]], [[PMS Electrical Work Orders and Preferred Electricians]] and index.md.
+
+## [2026-10-16] clarification | VPL installation — torque wrench and anchors on the truck list
+Per the human: the load-out also needs a torque wrench and concrete anchors (not supplied with the lift). Added to [[VPL-Installation]] and [[VPL Install Template]].

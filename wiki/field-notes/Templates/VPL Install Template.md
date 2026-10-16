@@ -62,8 +62,10 @@ does each depends on the techs' capabilities: PMS tech or sub.
 ### 3. Crew, tools and transport
 - [ ] **Crew of 2**: ___ and ___ (initials or roles only)
 - [ ] Tools loaded: socket set, Allen wrenches, wrenches, level, tape
-      measure, hammer drill with bits; anything extra the unit's manual
-      lists: ___
+      measure, hammer drill with bits, **torque wrench**; anything extra
+      the unit's manual lists: ___
+- [ ] **Concrete anchors** loaded (not supplied with the lift; Bruno: four
+      1/2 × 2-1/2 in min.)
 - [ ] Lift loaded on the **trailer**
 
 ### 4. On site: install
