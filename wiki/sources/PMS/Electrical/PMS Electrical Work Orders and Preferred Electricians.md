@@ -44,6 +44,10 @@ included** (per the human).
 This matches the porch lift eval, which wants the **GFI within 10 ft of
 the VPL** and tested ([[Porch-Lift-Evaluation]]).
 
+**Timing (per the human, 2026-10-16):** the porch lift GFI can go in
+**before or after the VPL install; before is preferred**
+([[VPL-Installation]]). Stair lift outlets must be in first (below).
+
 ## Stair glide (stair lift) outlet
 
 - **Approval limit: $350.00.**

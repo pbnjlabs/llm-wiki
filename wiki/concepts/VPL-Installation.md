@@ -23,18 +23,19 @@ Comes after [[Porch-Lift-Evaluation]]. Per-job checklist:
 - **On approval, order the lift.**
 - **All prep and site modifications are scheduled and finished between
   ordering and delivery.** The lift should never arrive at a site that
-  isn't ready.
+  isn't ready. **Only exception: the GFI** (see below).
 
 ### 2. Prep and site modifications
 Everything the evaluation flagged counts as prep, and all of it is
-finished **before the lift is delivered**:
+finished **before the lift is delivered**, except the GFI:
 
 - **Concrete pad**: see the pad spec under Manual requirements.
 - **GFI outlet**: within 10 ft of the VPL, reset button reachable, not
   under a deck or crawl space. When an electrician does it:
   [[PMS Electrical Work Orders and Preferred Electricians]] ($450
-  approval limit). Because the GFI is prep, it goes in **before** the
-  lift. (The 2024 example work order had the lift in first.)
+  approval limit). It **can go in before or after the VPL install;
+  before is preferred**. (The 2024 example work order had the lift in
+  first.)
 - **Fascia**: smooth, vertical, sound, 3/8–3/4 in running clearance.
   Use treated decking boards, not plywood
   ([[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]).

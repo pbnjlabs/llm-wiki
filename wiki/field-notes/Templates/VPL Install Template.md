@@ -46,14 +46,15 @@ chair).
 - [ ] Initial evaluation done: date ___ (nothing is done at the eval visit)
 - [ ] Approval received (VA PO / authorization / signed quote): date ___
 - [ ] **Lift ordered** on approval: date ___  expected delivery ___
-- [ ] **Every prep item below scheduled and finished before delivery**
+- [ ] **Every prep item below scheduled and finished before delivery** (GFI: before preferred, after allowed)
 
 ### 2. Prep and site modifications
-Everything the evaluation flagged; **all finished before delivery**. Who
+Everything the evaluation flagged; **all finished before delivery**, except
+the GFI, which can follow the install (before is preferred). Who
 does each depends on the techs' capabilities: PMS tech or sub.
 - [ ] Concrete pad (4 in, 3500 psi, reinforced, level; PMS min 5 × 5 ft): N/A / by ___ / done ___
 - [ ] GFI outlet within 10 ft, reset reachable, not under the deck
-      ([[PMS Electrical Work Orders and Preferred Electricians]], $450 limit): N/A / by ___ / done and tested ___
+      ([[PMS Electrical Work Orders and Preferred Electricians]], $450 limit): N/A / by ___ / before / after install / done and tested ___
 - [ ] Fascia (smooth, vertical, sound; treated decking, not plywood; 3/8–3/4 in running clearance): N/A / by ___ / done ___
 - [ ] Permits and inspections (not required in every state): N/A / pulled ___ / inspected ___
 - [ ] Other: ___
