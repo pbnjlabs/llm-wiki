@@ -123,7 +123,11 @@ From Pride's checklist:
 - **Cuts out over bumps:** loose connectors. On Golden's PG S-Drive the
   connectors work loose; unplug, reseat and secure them
   ([[2026-09-30 GA541-Avenger S-Drive loose connectors]]). Also check
-  battery terminals and the joystick cable on any brand.
+  battery terminals and the joystick cable on any brand. **Check the bus
+  cable routing too** (any make or model, per the human): a bus cable
+  coiled around a body panel made a Q6 Edge HD log "joystick out of
+  center" and shut down over bumps; rerouting it fixed it
+  ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
 - **Breaker keeps tripping:** heavy strain (overload, climbing). Rest a
   minute and reset. Repeated trips → provider.
 
@@ -235,6 +239,9 @@ provider support.
   new batteries; the charger was bad.
 - [[2026-09-30 GA541-Avenger S-Drive loose connectors]]: loses power over
   bumps; S-Drive connectors work loose.
+- [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]: Q6 Edge HD stops, then powers down, over bumps; "joystick out of
+  center" in the log; a bus cable coiled around the rear lower body
+  panel; rerouted. Not make-specific.
 
 ## See also
 

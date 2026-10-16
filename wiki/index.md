@@ -271,6 +271,7 @@ installs from [[VPL Install Template]].
 
 | Date | Unit | Symptom | Status | Page |
 |---|---|---|---|---|
+| 2026-10-16 | Pride Q6 Edge HD (no iLevel), Q-Logic 3 | **Key: not make-specific; can happen on any make or model.** Stopped for a moment, then powered down, over bumps; X in a red dot, battery icon blinking; Econ-M log: repeated "joystick out of center"; firmware 1.5.35 → 2.0.16 didn't fix it; bus cable coiled around the rear lower body panel, rerouted | resolved | [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]] |
 | 2026-07 (approx.) | Bruno VSL-6000 Curb-Sider + Golden GC440 (2024+) | **Key: be aware of the GC440 upgrade (heavier; PMS and the VA both missed it).** Curb-Sider (likely 250 lb) couldn't lift the scooter, too close to its weight limit; PMS paid to replace the actuator with a heavier-duty one | resolved | [[2026-07 VSL-6000 GC440 too heavy]] |
 | 2026-10-05 | Golden GP162 LiteRider Envy | **Key: when the call is "batteries not charging," check the charger.** Won't hold a charge with new batteries (2 × MK ES17-12); charger light green the whole time, 28 V / 3 A at the plug; known-good charger shows charging; bad charger, replaced | resolved | [[2026-10-05 GP162 bad charger stays green]] |
 | 2026-09-25 | Pride Q6 Edge 3 (standard) + iLevel | Completely dark, no power; batteries at 4 V each; replaced; function test passed; frayed joystick cable, joystick CTL143976 replaced | resolved | [[2026-09-25 Q6-Edge-3 iLevel no power]] |

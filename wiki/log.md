@@ -1188,3 +1188,6 @@ Per the human: the porch lift GFI can be installed before or after the VPL insta
 
 ## [2026-10-16] clarification | VPL installation — torque wrench and anchors on the truck list
 Per the human: the load-out also needs a torque wrench and concrete anchors (not supplied with the lift). Added to [[VPL-Installation]] and [[VPL Install Template]].
+
+## [2026-10-16] field-note | Pride Q6 Edge HD — cuts out, then powers down, on bumps (resolved)
+New [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]. Q6 Edge HD, no iLevel. Over bumps the chair stopped for a moment, later powered down; display showed an X in a red dot, battery indicator blinking as if charging. Econ-M (Bluetooth) error log: repeated "joystick out of center". Firmware 1.5.35 → 2.0.16 didn't fix it; Pride tech support suggested the joystick-to-power-module connection; a bus cable coiled around the rear lower body panel was the cause, rerouted, fixed. Key takeaway per the human: not make-specific. Linked from [[Q6-Edge-HD]], [[Power-Chair-Troubleshooting]], [[Q-Logic-Fault-Codes]] and index.md. Serial number not recorded; controller (Q-Logic 3) inferred from the Econ app and firmware version.

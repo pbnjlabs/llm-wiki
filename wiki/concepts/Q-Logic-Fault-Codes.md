@@ -209,6 +209,10 @@ power on". QLNES uses the same numbers for 1–4, 20–26, 46 and 47.
 Not on file: the **TRU-Balance 4 technical troubleshooting guide**
 (see the index's Missing manuals).
 
+**Field note:** repeated "joystick out of center" that only shows up
+over bumps, and survives a firmware update, can be a **bus cable routing
+problem**, not the joystick ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
+
 ## See also
 
 [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]],
