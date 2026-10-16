@@ -73,6 +73,9 @@ some cases, not always.**
 
 ## At install
 
+Full install workflow, approval to sign-off: [[VPL-Installation]] (per-job
+checklist: [[VPL Install Template]]).
+
 Go through the handover checklist with the customer
 ([[PMS Porch Lift Install Instructions and HISA Final Payment]]):
 safety platform, **one passenger and chair, 600 lb max** (per the form),

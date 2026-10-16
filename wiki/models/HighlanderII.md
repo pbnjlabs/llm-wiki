@@ -139,3 +139,4 @@ configuration; **VPL400-X carries a shorter 2-year parts warranty** — see
 [[Harmar]], [[Overspeed-Safety-Brake]], [[Harmar-Warranty]], [[Gate-and-Door-Interlocks]]
 
 Site evaluation: [[Porch-Lift-Evaluation]] (PMS VPL evaluation packet).
+Install: [[VPL-Installation]] (PMS workflow; per-job checklist [[VPL Install Template]]).
