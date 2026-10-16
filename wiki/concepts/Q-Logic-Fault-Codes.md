@@ -211,7 +211,8 @@ Not on file: the **TRU-Balance 4 technical troubleshooting guide**
 
 **Field note:** repeated "joystick out of center" that only shows up
 over bumps, and survives a firmware update, can be a **bus cable routing
-problem**, not the joystick ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
+problem**, not the joystick ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]). **Check the cable connections
+first**, before a firmware update (10 min vs 1 h+, per the human).
 
 ## See also
 

@@ -12,6 +12,9 @@ tags: [pride, quantum, q6-edge, q6-edge-hd, power-chair, q-logic-3, bus-cable, j
 **Status: resolved.**
 
 > [!important] Key takeaways (per the human)
+> - **With this symptom, check the cable connections first, before a
+>   firmware update.** The update took **over an hour**; rerouting the
+>   cable took **10 minutes**.
 > - **Not make-specific: this can happen on any make or model.** A bus
 >   cable routed wrong (here, coiled around a body panel) can cause
 >   intermittent shutdowns over bumps.
@@ -26,8 +29,7 @@ the cable fixed it.
 
 - Pride / Quantum **[[Q6-Edge-HD]]**, **no iLevel**
 - Serial #: ___
-- Controller: **Q-Logic 3** (inferred: it connects to the Econ app over
-  Bluetooth, and had firmware 1.5.35 → 2.0.16). To confirm.
+- Controller: **Q-Logic 3** (confirmed)
 
 ## Symptom
 
@@ -45,8 +47,9 @@ the cable fixed it.
    of center"** entries. (The wiki's Bluetooth page covers Econ-W and
    Econ-I; Econ-M is the phone app the tech used. See
    [[Q-Logic-3-Bluetooth-and-Remote-Programming]].)
-2. **Firmware update, 1.5.35 → 2.0.16.** Updating usually clears this
-   kind of software fault (PMS experience), but **this time it didn't**.
+2. **Firmware update, 1.5.35 → 2.0.16 (over an hour).** Updating
+   usually clears this kind of software fault (PMS experience), but
+   **this time it didn't**.
    ([[Q-Logic-Firmware-Updates]])
 3. **Called Pride tech support.** They said **it could be a bad
    connection from the joystick to the power control module**.
@@ -72,7 +75,7 @@ down.
 ## Fix
 
 **Rerouted the bus cable** so it no longer wraps around the rear lower
-body panel. Problem fixed.
+body panel (**about 10 minutes**). Problem fixed.
 
 ## Parts used
 
@@ -80,6 +83,9 @@ None (reroute only). Firmware updated to 2.0.16.
 
 ## Takeaways
 
+- **Key (per the human): check the cable connections first** with this
+  symptom. The firmware update took **1 hour+**; rerouting the cable
+  took **10 minutes**.
 - **Key (per the human): not make-specific.** This can happen on any
   make or model.
 - If "joystick out of center" shows up only over bumps and a firmware

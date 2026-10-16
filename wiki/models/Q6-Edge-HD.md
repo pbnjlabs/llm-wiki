@@ -38,7 +38,8 @@ Electronics (2025 chart): **120 A Q-Logic 3, or 75 A Q-Logic NE / NE+**;
   dot on the display, error log full of **"joystick out of center"**.
   Firmware update (1.5.35 → 2.0.16) didn't fix it. A **bus cable was
   coiled around the rear lower body panel**; rerouting it fixed it.
-  **Not make-specific** (per the human).
+  **Check cable connections first** (10 min vs 1 h+ for the update) and
+  **not make-specific** (per the human).
 
 ## See also
 

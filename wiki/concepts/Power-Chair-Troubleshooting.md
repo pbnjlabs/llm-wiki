@@ -127,7 +127,8 @@ From Pride's checklist:
   cable routing too** (any make or model, per the human): a bus cable
   coiled around a body panel made a Q6 Edge HD log "joystick out of
   center" and shut down over bumps; rerouting it fixed it
-  ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
+  ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]). **Check cable connections before updating firmware**: the
+  reroute took 10 minutes, the update over an hour.
 - **Breaker keeps tripping:** heavy strain (overload, climbing). Rest a
   minute and reset. Repeated trips → provider.
 
