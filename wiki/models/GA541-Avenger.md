@@ -65,7 +65,7 @@ Avenger-specific) — see [[Golden-Scooter-Warranty]].
 - [[2026-09-30 GA541-Avenger S-Drive loose connectors]]: **loses power
   over bumps**. The S-Drive connectors work loose (design flaw, PMS field
   experience). Look for strained wires into the connectors; unplug and
-  reseat them.
+  reseat them. Same kind of issue on a Q6 Edge HD: [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]].
 
 ## See also
 

@@ -72,6 +72,10 @@ to the power module, so the controller logged "joystick out of center"
 and stopped the chair. As the problem got worse, it powered the chair
 down.
 
+**Same kind of issue as the Avenger's S-Drive flaw** (per the human):
+wiring routed so the connection is under strain, and bumps break
+contact. See [[2026-09-30 GA541-Avenger S-Drive loose connectors]].
+
 ## Fix
 
 **Rerouted the bus cable** so it no longer wraps around the rear lower
@@ -102,5 +106,5 @@ None (reroute only). Firmware updated to 2.0.16.
 - [[Q-Logic-Firmware-Updates]]
 - [[Q-Logic-3-Bluetooth-and-Remote-Programming]]
 - [[Q6 Edge Basic Troubleshooting]]
-- [[2026-09-30 GA541-Avenger S-Drive loose connectors]] (same symptom on a Golden scooter: loose connectors)
+- [[2026-09-30 GA541-Avenger S-Drive loose connectors]] (same kind of issue: strained wiring at the S-Drive connectors)
 - [[2026-09-25 Q6-Edge-3 iLevel no power]] (frayed joystick cable on a Q6 Edge 3)

@@ -137,7 +137,8 @@ not the brand or model name.
 - Charging: [[Golden-Battery-Charging]], [[Mobility-Batteries]],
   [[2026-10-05 GP162 bad charger stays green]]
 - No power at all: [[2026-09-25 Q6-Edge-3 iLevel no power]]
-- Loses power over bumps: [[2026-09-30 GA541-Avenger S-Drive loose connectors]]
+- Loses power over bumps (check cable connections and routing first): [[2026-09-30 GA541-Avenger S-Drive loose connectors]],
+  [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]
 - Brakes: [[Brake-Replacement]]
 
 ### Ceiling and patient lifts

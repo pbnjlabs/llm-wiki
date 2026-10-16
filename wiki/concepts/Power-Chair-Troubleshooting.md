@@ -120,15 +120,20 @@ From Pride's checklist:
   caster that isn't pivoting freely.
 - **Single click** when the joystick first moves = the brakes releasing.
   Normal. Other clicking → check the **drive wheel lug nuts**.
-- **Cuts out over bumps:** loose connectors. On Golden's PG S-Drive the
-  connectors work loose; unplug, reseat and secure them
-  ([[2026-09-30 GA541-Avenger S-Drive loose connectors]]). Also check
-  battery terminals and the joystick cable on any brand. **Check the bus
-  cable routing too** (any make or model, per the human): a bus cable
-  coiled around a body panel made a Q6 Edge HD log "joystick out of
-  center" and shut down over bumps; rerouting it fixed it
-  ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]). **Check cable connections before updating firmware**: the
-  reroute took 10 minutes, the update over an hour.
+- **Cuts out or powers down over bumps: a wiring problem until proven
+  otherwise. Check the cable connections and routing first**, on any
+  make or model, before firmware or part swaps. PMS has seen the same
+  kind of issue twice (per the human): wiring routed so the connection
+  is under strain, and the jolt of a bump breaks contact.
+  - **Golden GA541 Avenger, PG S-Drive:** the wires pull on the S-Drive
+    connectors (design flaw) and work them loose; unplug and reseat
+    ([[2026-09-30 GA541-Avenger S-Drive loose connectors]]).
+  - **Pride Q6 Edge HD, Q-Logic 3:** a bus cable coiled around the rear
+    lower body panel; the controller logged "joystick out of center"
+    and stopped the chair. Rerouting took 10 minutes; the firmware
+    update tried first took over an hour and didn't help
+    ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
+  - Also check the battery terminals and the joystick cable.
 - **Breaker keeps tripping:** heavy strain (overload, climbing). Rest a
   minute and reset. Repeated trips → provider.
 

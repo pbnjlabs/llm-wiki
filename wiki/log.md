@@ -1197,3 +1197,6 @@ Per the human: the controller is Q-Logic 3 (confirmed). Key takeaway: with this 
 
 ## [2026-10-16] field-note | Pride Q6 Edge HD — serial number added (resolved)
 Per the human: sn jc703824141020. Added to [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]], its index row and [[Q6-Edge-HD]]. Removed the "serial not recorded" gap.
+
+## [2026-10-16] clarification | Power chairs — cutting out over bumps is a wiring issue (Avenger and Q6 Edge HD)
+Per the human: the Q6 Edge HD coiled bus cable is the same kind of issue as the Avenger's S-Drive flaw (wiring under strain at the connection; bumps break contact). Rewrote the "cuts out over bumps" item on [[Power-Chair-Troubleshooting]] as one pattern with both cases, check cable connections and routing first; cross-linked the two field notes, [[GA541-Avenger]] and the [[Troubleshooting]] hub.

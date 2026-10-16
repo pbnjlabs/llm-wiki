@@ -71,6 +71,8 @@ None (reseat only).
 
 ## See also
 
+- [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]: **same kind of issue** on a Pride Q6 Edge HD (a bus cable coiled
+  around a body panel; per the human). Check cable connections first.
 - [[GA541-Avenger]]
 - [[PG Drives S-Drive Brochure]]
 - [[PG-Drives-Trip-Codes]]
