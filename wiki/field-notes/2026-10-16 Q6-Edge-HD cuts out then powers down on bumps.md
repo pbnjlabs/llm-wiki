@@ -28,7 +28,7 @@ the cable fixed it.
 ## Unit
 
 - Pride / Quantum **[[Q6-Edge-HD]]**, **no iLevel**
-- Serial #: ___
+- Serial #: **jc703824141020**
 - Controller: **Q-Logic 3** (confirmed)
 
 ## Symptom

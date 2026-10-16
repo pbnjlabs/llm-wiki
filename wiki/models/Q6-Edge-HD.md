@@ -34,7 +34,8 @@ Electronics (2025 chart): **120 A Q-Logic 3, or 75 A Q-Logic NE / NE+**;
 
 ## Field notes
 
-- [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]: stopped for a moment, then powered down, over bumps; X in a red
+- [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]] (sn
+  jc703824141020): stopped for a moment, then powered down, over bumps; X in a red
   dot on the display, error log full of **"joystick out of center"**.
   Firmware update (1.5.35 → 2.0.16) didn't fix it. A **bus cable was
   coiled around the rear lower body panel**; rerouting it fixed it.

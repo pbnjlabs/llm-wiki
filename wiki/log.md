@@ -1194,3 +1194,6 @@ New [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]. Q6 Edge HD, no
 
 ## [2026-10-16] field-note | Pride Q6 Edge HD — takeaway: check cable connections first (resolved)
 Per the human: the controller is Q-Logic 3 (confirmed). Key takeaway: with this symptom, check the cable connections first; the firmware update took over an hour, the cable reroute 10 minutes. Added to [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]] (callout, Checked, Fix, Takeaways), its index row, [[Power-Chair-Troubleshooting]], [[Q-Logic-Fault-Codes]] and [[Q6-Edge-HD]].
+
+## [2026-10-16] field-note | Pride Q6 Edge HD — serial number added (resolved)
+Per the human: sn jc703824141020. Added to [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]], its index row and [[Q6-Edge-HD]]. Removed the "serial not recorded" gap.
