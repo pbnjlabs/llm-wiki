@@ -67,7 +67,8 @@ input device not centered** (check the bus cables).
 ## Root cause
 
 **A bus cable coiled around the rear lower body panel** caused the
-intermittent failure. Over bumps it interrupted the joystick's signal
+intermittent failure. **The coil pulled on the cable's connection**
+(confirmed by the human). Over bumps it interrupted the joystick's signal
 to the power module, so the controller logged "joystick out of center"
 and stopped the chair. As the problem got worse, it powered the chair
 down.

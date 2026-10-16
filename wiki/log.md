@@ -1200,3 +1200,6 @@ Per the human: sn jc703824141020. Added to [[2026-10-16 Q6-Edge-HD cuts out then
 
 ## [2026-10-16] clarification | Power chairs — cutting out over bumps is a wiring issue (Avenger and Q6 Edge HD)
 Per the human: the Q6 Edge HD coiled bus cable is the same kind of issue as the Avenger's S-Drive flaw (wiring under strain at the connection; bumps break contact). Rewrote the "cuts out over bumps" item on [[Power-Chair-Troubleshooting]] as one pattern with both cases, check cable connections and routing first; cross-linked the two field notes, [[GA541-Avenger]] and the [[Troubleshooting]] hub.
+
+## [2026-10-16] clarification | Pride Q6 Edge HD — coiled bus cable pulled on the connection
+Per the human: the coiled bus cable was pulling on its connection, the same mechanism as the Avenger S-Drive. Stated in [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]] and [[Power-Chair-Troubleshooting]].

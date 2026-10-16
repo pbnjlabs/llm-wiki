@@ -129,7 +129,7 @@ From Pride's checklist:
     connectors (design flaw) and work them loose; unplug and reseat
     ([[2026-09-30 GA541-Avenger S-Drive loose connectors]]).
   - **Pride Q6 Edge HD, Q-Logic 3:** a bus cable coiled around the rear
-    lower body panel; the controller logged "joystick out of center"
+    lower body panel pulled on its connection; the controller logged "joystick out of center"
     and stopped the chair. Rerouting took 10 minutes; the firmware
     update tried first took over an hour and didn't help
     ([[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]).
