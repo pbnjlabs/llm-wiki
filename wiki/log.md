@@ -1218,3 +1218,11 @@ Per the human ("ingest and sort the docs in /Downloads"), a batch pass. `~/Downl
 
 ## [2026-10-19] maintenance | Downloads duplicates deleted; S19 noted as legacy
 Per the human: deleted the 2 duplicate PDFs left in `~/Downloads` (Q6 Edge basic troubleshooting, lithium battery sheet) after re-checking each was byte-identical to the copies in both `MANUALS/` folders. Downloads now holds no PDFs. The human doesn't recognize the S19 scooter from [[S19 Analog Console Part Runout (GENERAL-010)]] and thinks it's probably an outdated legacy model; noted on that page, [[Pride]] and the index, and closed as an open question.
+
+## [2026-10-19] lint | 479 pages; structure clean, counts match, nothing to fix
+- **Structure clean:** 0 broken wikilinks (outside log.md's own old example text), 0 line-split links, 0 bad anchors, 0 duplicate page names, 0 orphans, 0 frontmatter problems; every model, concept and manufacturer page has an index row; every `source:` path (each file in multi-file sources) exists on disk.
+- **Raw files:** 521 in the repo's `MANUALS/`. Pride 72 raw = 72 source pages; Bruno, Golden, Harmar and Prism counts match the index notes. Files without their own source page are all accounted for: 10 Harmar images/CSV metadata (excluded), 2 clipping images and the Joint Commission HTML snapshot (companions), and 123 TechMate tree files (covered by the two TechMate source pages).
+- **Folders in sync:** the repo's `MANUALS/` matches `/home/lu/Work/MANUALS` except `Clippings/` (expected; originals live in the vault's `Clippings/`, which matches `MANUALS/Clippings/`). `~/Downloads` holds no PDFs.
+- **Field notes:** all 10 have a status, an index row and a model-page link. One is open: [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]] (fascia rebuild planned, not done; job date assumed).
+- **No stale claims found** after the 2026-10-19 Pride ingest ("spec sheet only" remains true for R-Trak, Q6 Edge HD and Go Go LX).
+- **Concept-page candidates (not created, for the human):** iLevel (13 pages mention it; the rules sit on the TRU-Balance 3/4 and Edge model pages) and freewheel/manual brake release (16 pages, Golden and Pride).
