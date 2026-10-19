@@ -212,6 +212,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Golden transaxle replacement (LiteRider + Buzzaround XL) | [[Golden-Transaxle-Replacement]] |
 | Golden power seat operation (speed/height interlock) | [[Golden-Power-Seat-Operation]] |
 | Golden brake replacement (3 model families, complexity ranges from 5-step puck swap to 28-step full drive-assembly pull) | [[Brake-Replacement]] |
+| **Freewheel mode** (manual brake release: lever direction for each Golden, Pride and Red Hawk model; level-ground and power-off rules; Golden no-power slope procedure; what each controller shows when a lever is left in freewheel) | [[Freewheel-Mode]] |
 | Joystick controllers, Pride Q-Logic family hub (which controller is on the chair; legacy Q-Logic system from the tech manual, NE/NE+, Q-Logic 3/3e, QLNES; end-user ops, short code tables, provider programming) | [[Joystick-Controllers]] |
 | **Q-Logic fault codes, full lists** (legacy Q-Logic 1–245, Q-Logic 3 1–221 incl. TRU-Balance 4 seat codes, QLNES 3-LED digit blink; **QL3 codes 32–36 conflict between documents**) | [[Q-Logic-Fault-Codes]] |
 | **Pride controller flash codes** (PG VR2/GC3/newVSI 1–10, Dynamic 1–11 service indicator; meters, lock/unlock, sleep, thermal rollback 50% vs 20%, charger amp limits, GC3 charge reminder) | [[Pride-Controller-Flash-Codes]] |
@@ -220,6 +221,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Q-Logic seat configuration (AAM/AM1/AM2/LAM2 configuration numbers, A1–A5 channels, tilt thresholds and factory defaults, head-array 2-switch mode) | [[Q-Logic-Seat-Configuration]] |
 | Q-Logic 3 Bluetooth and remote programming (Econ-W/Econ-I, access levels, **Interactive Assist** remote diagnostics, phone/tablet mouse and Switch Control, GyroSet Vigo) | [[Q-Logic-3-Bluetooth-and-Remote-Programming]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
+| **iLevel** (Quantum elevate-and-drive: speeds by chair, boots lock the front casters, 25% / lockout when "not engaged", Q-Logic 3 and QLNES indicators, #47 suspension lock, use rules, base and seat parts with torque) | [[iLevel]] |
 | **TRU-Balance 4** (anterior tilt needs chest support and knee block; legrest ≤ STF − 3.5 in; Q-Logic 3 actuator calibration, teach anterior tilt, teach elevate vs AFP; seat torque, depth and STF tables) | [[Tru-Balance-4-Power-Positioning]] |
 | **Pride/Quantum parts replacement** (torque values side by side from the Q6 Edge, Jazzy 600 ES, Stretto and Edge 4 parts guides; axle key, run-flat wheels, nylon nuts, drive inhibit after service) | [[Pride-Parts-Replacement]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term; dealer registration/RMA/labor process; FSS vehicle-lift version adds batteries/paint/covers and 1 yr labor) | [[Harmar-Warranty]] |

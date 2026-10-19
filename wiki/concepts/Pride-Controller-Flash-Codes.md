@@ -131,4 +131,5 @@ indicator with 11 codes → this table.
 [[Power-Chair-Troubleshooting]], [[Pride-Power-Chair-Lineup]],
 [[Jazzy-614]], [[Jazzy-600-ES]],
 [[Joystick-Controllers]], [[PG-Drives-Trip-Codes]],
-[[TruCharge-Diagnostics]], [[Shark-Diagnostics]], [[LiNX-Diagnostics]]
+[[TruCharge-Diagnostics]], [[Shark-Diagnostics]], [[LiNX-Diagnostics]],
+[[Freewheel-Mode]]

@@ -104,5 +104,5 @@ Seat-to-base values for each chair are on [[Pride-Parts-Replacement]].
 ## See also
 
 [[Tru-Balance-3-Power-Positioning]], [[Q-Logic-Seat-Configuration]],
-[[Joystick-Controllers]], [[Pride-Parts-Replacement]],
+[[iLevel]], [[Joystick-Controllers]], [[Pride-Parts-Replacement]],
 [[Power-Chair-Troubleshooting]], [[Pride]]

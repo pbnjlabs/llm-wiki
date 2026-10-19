@@ -49,4 +49,4 @@ after the initial drop. If it keeps falling, replace both batteries.
 ## See also
 
 [[GP6xx-Compass]], [[LiNX-Diagnostics]], [[Flash-Beep-Diagnostics]],
-[[Golden-Joystick-Side-Conversion]], [[Golden]]
+[[Golden-Joystick-Side-Conversion]], [[Freewheel-Mode]], [[Golden]]

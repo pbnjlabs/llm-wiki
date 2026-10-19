@@ -66,6 +66,6 @@ is the closest.
 
 [[Q6-Edge-3-Stretto]], [[Q6-Edge-4]], [[Q6-Edge-2.0]], [[Q6-Edge]],
 [[Q6 Edge Basic Troubleshooting]], [[Power-Chair-Troubleshooting]],
-[[Pride-Power-Chair-Lineup]], [[Joystick-Controllers]], [[Pride]]
+[[Pride-Power-Chair-Lineup]], [[Joystick-Controllers]], [[Pride]], [[iLevel]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

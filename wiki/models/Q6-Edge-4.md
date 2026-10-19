@@ -68,6 +68,6 @@ Full torque table: [[Pride-Parts-Replacement]]. Edge 4 points:
 
 [[Q6-Edge-3]], [[Q6-Edge-3-Stretto]], [[Pride-Power-Chair-Lineup]],
 [[Pride-Parts-Replacement]], [[Tru-Balance-4-Power-Positioning]],
-[[Power-Chair-Troubleshooting]], [[Pride]]
+[[Power-Chair-Troubleshooting]], [[Pride]], [[iLevel]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

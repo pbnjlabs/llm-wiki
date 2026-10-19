@@ -97,5 +97,5 @@ inhibits.
 
 [[Joystick-Controllers]], [[Q-Logic-Fault-Codes]] (seat codes 44/45,
 141, 160/161, 186, 217/218),
-[[Tru-Balance-3-Power-Positioning]], [[Q-Logic-Firmware-Updates]],
+[[Tru-Balance-3-Power-Positioning]], [[iLevel]], [[Q-Logic-Firmware-Updates]],
 [[Power-Chair-Troubleshooting]]

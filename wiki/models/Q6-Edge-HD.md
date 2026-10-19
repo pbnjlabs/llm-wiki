@@ -46,6 +46,6 @@ Electronics (2025 chart): **120 A Q-Logic 3, or 75 A Q-Logic NE / NE+**;
 
 [[Q6-Edge-2.0]], [[4Front-2]], [[Pride-Power-Chair-Lineup]],
 [[Tru-Balance-3-Power-Positioning]], [[Power-Chair-Troubleshooting]],
-[[Pride]]
+[[Pride]], [[iLevel]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

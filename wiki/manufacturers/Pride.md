@@ -138,4 +138,5 @@ charge, load test, charger output test) and
 
 - [[Golden]], [[Bruno]], [[Prism]] — other manufacturers in this wiki
 - [[Power-Chair-Troubleshooting]], [[Mobility-Device-Weights]],
-  [[Pride-Parts-Replacement]], [[Battery-Charger-LED-Diagnostics]]
+  [[Pride-Parts-Replacement]], [[Battery-Charger-LED-Diagnostics]],
+  [[iLevel]], [[Freewheel-Mode]]

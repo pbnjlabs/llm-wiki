@@ -56,4 +56,4 @@ troubleshooting a chair that "won't move":
 ## See also
 
 [[GP162-LiteRider-Envy]], [[GP6xx-Compass]], [[GP302-Cricket]], [[TruCharge-Diagnostics]],
-[[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Golden]]
+[[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Freewheel-Mode]], [[Golden]]

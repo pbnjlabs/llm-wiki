@@ -72,4 +72,4 @@ another.
 ## See also
 
 [[Golden]], [[GL110-140-LiteRider]], [[GB1xx-Buzzaround-XL]],
-[[GP6xx-Compass]]
+[[GP6xx-Compass]], [[Freewheel-Mode]] (lever directions, rules, codes)

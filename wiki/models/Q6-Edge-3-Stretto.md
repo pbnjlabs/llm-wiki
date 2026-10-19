@@ -50,6 +50,8 @@ K0856/K0857, K0861); FSS V797D-70001.
 
 ## iLevel
 
+Full rules, indicators and parts across the Edge family: [[iLevel]].
+
 Optional power-elevating-seat feature, mounted for max stability. When
 engaged: speed capped at 3.5 mph, front caster movement inhibited by iLevel
 boots (climbing ability restricted to 1–1.5 in), seat can still tilt/

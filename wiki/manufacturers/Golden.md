@@ -143,6 +143,9 @@ actual topic rather than one page per document:
 
 ## Cross-model concepts (confirmed so far)
 
+- [[Freewheel-Mode]]: lever direction by model, the level-ground and
+  power-off rules, the no-power slope procedure, and which code a
+  lever left in freewheel gives on each controller.
 - [[Golden-Scooter-Warranty]] — one warranty policy text explicitly
   covers many scooter models (BUZZaround, LiteRider, Companion, Avenger,
   Patriot), found in the GA541 operator manual and confirmed verbatim

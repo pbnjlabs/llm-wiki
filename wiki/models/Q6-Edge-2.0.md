@@ -40,6 +40,6 @@ values on a 2.0.
 ## See also
 
 [[Q6-Edge]], [[Q6-Edge-3]], [[Pride-Power-Chair-Lineup]],
-[[Power-Chair-Troubleshooting]], [[Joystick-Controllers]], [[Pride]]
+[[Power-Chair-Troubleshooting]], [[Joystick-Controllers]], [[Pride]], [[iLevel]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

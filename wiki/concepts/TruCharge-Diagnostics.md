@@ -71,4 +71,4 @@ motors read **under 5 Ω**.
 
 [[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[GP160-LiteRider-PTC]],
 [[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[LiNX-Diagnostics]],
-[[Flash-Beep-Diagnostics]], [[S-Drive-Beep-Codes]], [[Golden]]
+[[Flash-Beep-Diagnostics]], [[S-Drive-Beep-Codes]], [[Freewheel-Mode]], [[Golden]]

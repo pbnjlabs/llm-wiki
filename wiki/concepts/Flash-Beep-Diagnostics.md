@@ -72,4 +72,4 @@ mat (under the battery box on the Buzzaround XL) for field reference.
 [[GC240-340-440-540-Companion]], [[GL110-140-LiteRider]],
 [[GL111-141-LiteRider]], [[GB1xx-Buzzaround-XL]], [[GB118-148-Buzzaround-EX]],
 [[GB120-Buzzaround-CarryOn]], [[GL109-LiteRider-Mini]], [[TruCharge-Diagnostics]],
-[[S-Drive-Beep-Codes]], [[Golden]]
+[[S-Drive-Beep-Codes]], [[Freewheel-Mode]], [[Golden]]

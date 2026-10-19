@@ -44,6 +44,8 @@ removing them is explicitly warned against (risk of injury).
 
 ## iLevel
 
+All iLevel rules, indicators and parts in one place: [[iLevel]].
+
 Optional elevating-seat feature (also documented from the
 [[Q6-Edge-3-Stretto]] side — see that model page). Requires a flat, level
 surface to activate; boots restrict front caster movement and obstacle
@@ -121,7 +123,7 @@ seats on each base (27.1/35.3 N·m on the 2017 Q6 Edge and Jazzy 600 ES;
 ## See also
 
 - [[J6]], [[Q6-Edge-3-Stretto]], [[Q6-Edge]]
-- [[Tru-Balance-4-Power-Positioning]], [[Pride-Parts-Replacement]]
+- [[Tru-Balance-4-Power-Positioning]], [[Pride-Parts-Replacement]], [[iLevel]]
 - [[Joystick-Controllers]] (Q-Logic 3 iLevel indicators, seat/actuator
   programming — pretilt, latched actuators, Combined Functions)
 - [[Golden-Seating-Systems]] — for cross-manufacturer contrast (Golden's

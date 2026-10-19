@@ -268,6 +268,7 @@ Firmware: [[NE+ Firmware Compatibility List (2009)]]. Symptom checklist:
   [[Q-Logic-Seat-Configuration]],
   [[Q-Logic-3-Bluetooth-and-Remote-Programming]]
 - [[Power-Chair-Troubleshooting]] (symptom-first, Pride + Golden)
+- [[iLevel]] (Q-Logic 3 and QLNES iLevel indicators, #47), [[Freewheel-Mode]]
 - [[Tru-Balance-3-Power-Positioning]] (Q-Logic 3 inhibit-matrix integration
   with iLevel/tilt)
 - Golden's controller-adjacent pages, for cross-manufacturer contrast:

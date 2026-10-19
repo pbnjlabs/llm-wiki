@@ -16,7 +16,7 @@ tags: [pride, quantum, q6-edge, ilevel, no-power, field-note]
 - Quantum (Pride) **Q6 Edge 3, standard** — *not* the Stretto. Model
   page: [[Q6-Edge-3]] (spec sheet added 2026-10-15; still no Edge 3
   owner's manual). Don't assume Stretto specs carry over.
-- Options: **iLevel** power seat elevator.
+- Options: **iLevel** power seat elevator ([[iLevel]]).
 - Controller: joystick part # **CTL143976**. Family not confirmed, but
   the joystick has an **SD card** (reused below), which points to
   **Q-Logic 3**: its fault list has an SD-card error (#207,

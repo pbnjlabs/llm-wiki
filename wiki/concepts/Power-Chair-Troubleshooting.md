@@ -89,7 +89,7 @@ from the joystick outward, all with the chair switched on.
 
 ## 3. Powers on, won't drive
 
-- **Freewheel levers:** both must be in **drive** (pulled up on the Q6
+- **Freewheel levers** ([[Freewheel-Mode]]: lever direction by model, which code each controller shows): both must be in **drive** (pulled up on the Q6
   Edge 3 Stretto). On PG chairs a released brake shows as **9 flashes**
   (GC3: "ensure both freewheel levers are in drive mode"); Dynamic 5/6. In freewheel the brakes are released. Q-Logic 3's
   brake errors (#3/#4, #25/#26) say to disengage and re-engage the lever,
@@ -104,7 +104,7 @@ from the joystick outward, all with the chair switched on.
 - **Seat tilted, reclined or elevated:** power seating limits or blocks
   driving. On Q-Logic 3 the **Drive/Function Inhibit light** shows it:
   green = OK, **red = full drive lockout**. Bring the seat back toward
-  neutral. iLevel chairs also lock driving when elevated past their
+  neutral. iLevel chairs ([[iLevel]]) also lock driving when elevated past their
   thresholds ([[Tru-Balance-3-Power-Positioning]]). The inhibits are
   factory set; don't bypass them.
 - **Charger inhibit with no charger plugged in** (legacy Q-Logic

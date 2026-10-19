@@ -38,4 +38,4 @@ Motor resistance on these service guides: **under 50 Ω, not shorted
 
 ## See also
 
-[[Flash-Beep-Diagnostics]], [[TruCharge-Diagnostics]], [[PG-Drives-Trip-Codes]], [[Golden]]
+[[Flash-Beep-Diagnostics]], [[TruCharge-Diagnostics]], [[PG-Drives-Trip-Codes]], [[Freewheel-Mode]], [[Golden]]
