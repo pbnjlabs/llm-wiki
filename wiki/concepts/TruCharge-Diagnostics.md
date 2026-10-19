@@ -67,6 +67,16 @@ motors read **under 5 Ω**.
 | 9 | Parking brake bad connection |
 | 10 | High battery voltage |
 
+## Pride scooters: TruCharge voltmeters
+
+Pride's scooter voltmeter **DGN142447** (black PCB) only reads correctly
+with a **TruCharge** program (S-Drive Status Output Type = 0; Dynamic
+R-Series PIN 10 = Other): it shows ten bars then one at start-up, and
+all ten lit with the blue LED flashing the beep code on a fault. Wrong
+program = one red LED and the blue LED only. Non-TruCharge programs use
+ELE1906793 (SLA) or ELE2008025 (lithium) instead
+([[Pride TechnoBulletins (2006-2024)]], GENERAL-009CA).
+
 ## See also
 
 [[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[GP160-LiteRider-PTC]],

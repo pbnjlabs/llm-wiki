@@ -45,7 +45,7 @@ All on **VA FSS contract V797D-70001** except R-Trak and Outback
 | 4Front 2 HD | Front | 450 | 5 (2.7 elevated) | Group 24 | 120 A Q-Logic 3 | Group 3 HD | [[4Front-2]] |
 | Q1450 | Front | 600 | 4.5 (sheet: 4.9) | Group 24 | 120 A Q-Logic 3, 90 A **VR2** 6-key | Group 3 Very HD | [[Jazzy-1450]] |
 | R-Trak | Rear | 300 | 7 (3.5 elevated) | Group 24 | 75 A QLNES, 120 A Q-Logic 3, Q-Logic NE+ | Group 3 | [[R-Trak]] |
-| Outback | 4-motor outdoor | 300 power positioning / 350 captain | 5 (6 no-charge option) | Group 27 | 120 A Q-Logic 3 | K0899 | (no spec sheet on file) |
+| Outback | 4-motor outdoor | 300 power positioning / 350 captain | 5 (6 no-charge option) | Group 27 | 120 A Q-Logic 3 | K0899 | [[Quantum-Outback]] (parts guide only) |
 
 \*The chart says the Edge 3 reaches 7 mph only with optional 4-pole
 motors **and Q-Logic 3**, yet lists only QLNES for it, and 6.25 mph
@@ -118,9 +118,9 @@ Details: [[Mobility-Batteries]].
   bearing sleeve and battery. **Carbon 27 and Carbon HD:** 5-year frame,
   1-year electronics, motors, batteries. **Carbon 27X, Ultra Light, Air
   2, Go Chair:** 5-year frame, 13 months on the rest.
-- Quantum warranties aren't on the Quantum chart; see each owner's
-  manual (only the [[J6 Operator Manual]] and
-  [[Q6 Edge 3 Stretto Operator Manual]] are on file).
+- Quantum warranties aren't on the Quantum chart; Quantum's general
+  power chair warranty (2022) is lifetime frame, 1-year electronics and
+  drive. All Pride terms and the return policy: [[Pride-Warranty]].
 
 **Battery HCPCS** (Group 2 chart): U-1 E2365, NF-22 E2361, Group 24
 E2363, lithium E2397, 18 Ah K0733. Pride says HCPCS codes aren't billing
@@ -130,4 +130,6 @@ advice.
 
 [[Pride]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]],
 [[Mobility-Device-Weights]], [[Ramp-Slope-and-Length]],
-[[VA-FSS-Contracts]], [[Tru-Balance-3-Power-Positioning]], [[iLevel]]
+[[VA-FSS-Contracts]], [[Tru-Balance-3-Power-Positioning]], [[iLevel]],
+[[Pride-Warranty]]; older models: [[Jazzy-Select-Elite]], [[Quantum-600-Series]],
+[[Quantum-610]], [[Quantum-6000Z]], [[Quantum-614]], scooter [[Victory]]

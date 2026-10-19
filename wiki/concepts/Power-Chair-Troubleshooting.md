@@ -188,6 +188,10 @@ From Pride's checklist:
   - Also check the battery terminals and the joystick cable.
 - **Breaker keeps tripping:** heavy strain (overload, climbing). Rest a
   minute and reset. Repeated trips → provider.
+- **Moves on its own or brakes release unexpectedly:** consider radio
+  interference (cell phones, two-way radios nearby); switch off as soon
+  as it's safe and report it to Pride (1-800-800-8586) and as a Joint
+  Commission incident ([[EMI-RFI Information]]).
 
 ## 6a. Motor, brake and cable checks (meter)
 
@@ -202,6 +206,16 @@ from harness).
 | Motor brushes | replace if under **0.25 in** or damaged | same | — |
 | Bus cable, extension, multiplier | under 1 Ω each pin | same | same |
 | Circuit breaker | under 1 Ω | under 1 Ω | about 1 Ω or less |
+
+**Brake resistance on other Pride chairs and scooters** (from their
+dealer guides): **Jazzy Select Elite (GC2/GC3) about 60 Ω**; **Quantum
+614 (NE+) about 35 Ω**; older 9-pin Jazzy chairs (Pilot, VSI, DL50)
+about 60 Ω each, **30 Ω** with both in parallel at the 9-pin; Remote
+Plus and Dynamic DX about 60 Ω; **Elite Traveller and Victory scooters
+(S-Drive) 30–65 Ω**; older scooters 30–100 Ω by age. Breaker: replace if
+open or **over 3 Ω** (2004 guide). Brushes: the 2004 guide wants at
+least **½ in** and no blued braid; the model guides say under 0.25 in =
+replace.
 
 Motor reads wrong → pull the brushes; brushes fine → motor. Motor and
 brake read right at the plug → power module. Brake values differ by
@@ -256,7 +270,22 @@ Elite ES, Select, Jazzy 1450, Q1450 VR2 option): battery-meter flashes
 system, 9 park brake, 10 overvoltage). **Pride Dynamic** (Jazzy 614 /
 614 HD, EVO 614/614HD, Elite 14, 600 ES, Elite HD): service indicator
 1–11. [[Pride-Controller-Flash-Codes]]; dealer steps per code on
-[[Jazzy-614]].
+[[Jazzy-614]]. **Jazzy 600 ES caution:** its 2013 bulletin numbers 3/5 as
+the **right** motor/brake and 4/6 as the **left**, the reverse of the
+Jazzy 614 table ([[Jazzy-600-ES]]). **GC2/GC3** dealer tests (low battery
+under 22 V at the module, high over 32 V, brake about 60 Ω):
+[[Jazzy-Select-Elite]]. **VSI eight bars** can be a leak between the
+motors rather than the controller
+([[Eight Bar Flash Code for VSI Controllers]]).
+
+**Older Pride chairs** (Pilot, VSI, DL50 on the 9-pin harness; Remote
+Plus; Dynamic DX) and scooters (IPC, Curtis, Egis): the 2004
+[[Technical Troubleshooting Guide - Power Chair Diagnostics (2004)|power chair]]
+and [[Technical Troubleshooting Guide - Scooter Diagnostics (2004)|scooter]]
+chapters and their [[Technical Troubleshooting Guide - Glossary and Appendix (2004)|appendix code tables]].
+**DL50 numbers its flashes differently** (1 low battery, 2 high voltage,
+3/4 motors, 5 brake, 6 controller, 7 joystick). Lock/unlock for every
+Pride controller: [[Controller Locking Instructions (INFINFB2311)]].
 
 **Pride/Quantum Q-Logic (legacy):** full table on
 [[Joystick-Controllers]]; full 1–245 list on [[Q-Logic-Fault-Codes]]. Note the overlap: **legacy #75 = motor
@@ -301,7 +330,11 @@ to drive, restart), 6 throttle pressed at key-on (release, reinsert key),
 7 throttle or speed pot fault, 8 motor disconnected, 9 controller trip
 (battery pack installed with the key in, or hot; wait, reinsert the
 key). Won't move after a long idle = **power-down timer** (remove and
-reinsert the key). [[Elite-Traveller]].
+reinsert the key). [[Elite-Traveller]]. The dealer guides for the
+Elite Traveller and the **Victory 9/10** show both are PG **S-Drive**
+([[S-Drive-Beep-Codes]]): the Elite Traveller gives ten fast beeps
+before the count; brake 30–65 Ω; on a Victory with no power, check the
+**key fuse in the tiller** first ([[Victory]]).
 
 **Remote look first (Q-Logic 3, QLNES):** with **Interactive Assist**
 the provider can read the error list, battery statistics and live values
@@ -349,7 +382,14 @@ provider support.
   the outlet and at the charger cord. Battery voltage the same at the
   batteries as at the joystick → **too low for the off-board charger**:
   take the batteries to the shop to charge and load-test.
-- Batteries near zero won't wake a Pride charger (§2).
+- Batteries near zero won't wake a Pride charger (§2). Pride's UPG
+  chargers show it: **one red blink every 3 s = battery under 14 V,
+  charging won't start**; continuous blinking = 12 h timeout; 2 blinks
+  reverse polarity; 3 overvoltage; 4 overcurrent
+  ([[Pride Battery Charger Manual (2022)]]).
+- **Under load the controller needs at least 18 V**; batteries that
+  read 12–14 V on a meter can still fail a load test
+  ([[Battery Load Test and Multimeter Education Sheets]]).
 - Always replace **both** batteries, matched type, chemistry and Ah (Pride
   requires it too). Battery cross-reference: [[Mobility-Batteries]].
   Golden chargers: [[Golden-Battery-Charging]].

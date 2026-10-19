@@ -83,6 +83,15 @@ Torque values side by side with the other Pride chairs:
   (p. 22), which also shows an NE/NE+ joystick in chair prep; the 2025
   chart lists QLNES or Q-Logic 3. Check the hand control.
 
+## iLevel retrofit
+
+A Stretto without iLevel can be converted (INFINFB4312, 2020): new
+seat base and towers, suspension limiter with the iLevel switch,
+caster-arm stop (sloped edges up), REAC lift intermediate board; Q-Logic
+3 + AAM or NE+ with AM1/AM2/LAM2; reprogram. Don't power on until every
+harness and bus cable is connected
+([[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]]).
+
 ## Known quirks/gotchas
 
 - Transit securement is **either** a WTORS strap tie-down (ANSI/RESNA

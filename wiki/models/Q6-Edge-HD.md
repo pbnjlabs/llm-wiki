@@ -7,7 +7,9 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, heavy-duty, bariat
 
 # Q6 Edge HD
 
-Quantum's heavy-duty mid-wheel-drive Edge. Spec sheet only on file.
+Quantum's heavy-duty mid-wheel-drive Edge. Spec sheet on file, plus the
+[[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)|iLevel retrofit]]
+and a battery harness routing bulletin. No owner's manual.
 
 From [[Q6 Edge HD Specifications]] (Rev C, Feb 2020):
 
@@ -41,6 +43,17 @@ Electronics (2025 chart): **120 A Q-Logic 3, or 75 A Q-Logic NE / NE+**;
   coiled around the rear lower body panel**; rerouting it fixed it.
   **Check cable connections first** (10 min vs 1 h+ for the update) and
   **not make-specific** (per the human).
+
+## Service notes
+
+- **iLevel retrofit** (INFMANU4509, also for the **Q6 Edge Z**): needs
+  Q-Logic 3 and an AAM; suspension lock switches and lockout
+  assemblies at the front suspension; reprogram afterwards; adjust the
+  engagement pad so the switch lever fully contacts it with the seat up
+  ([[iLevel]]).
+- **Battery harness routing:** TechnoBulletin JAZZY-174 (2013) shows the
+  correct routing (figure in the PDF;
+  [[Pride TechnoBulletins (2006-2024)]]).
 
 ## See also
 

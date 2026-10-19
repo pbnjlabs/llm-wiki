@@ -220,4 +220,5 @@ first**, before a firmware update (10 min vs 1 h+, per the human).
 [[Pride-Controller-Flash-Codes]] (VR2, GC3, newVSI, Dynamic),
 [[Q-Logic-Firmware-Updates]], [[Q-Logic-Seat-Configuration]],
 [[Tru-Balance-3-Power-Positioning]], [[Pride-Power-Chair-Lineup]],
-[[Freewheel-Mode]] (brake codes 3/4, 25/26), [[iLevel]] (#47 suspension lock)
+[[Freewheel-Mode]] (brake codes 3/4, 25/26), [[iLevel]] (#47 suspension lock),
+[[Q-Logic Error Code Reference Guide (INFINFB2653)]] (2011 booklet of the legacy codes)

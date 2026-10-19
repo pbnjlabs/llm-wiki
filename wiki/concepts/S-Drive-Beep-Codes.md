@@ -16,6 +16,14 @@ Confirmed on:
 - [[GR595-Eagle]] ([[GR595 Eagle Owners Manual]]). The Eagle also shows
   the code as an **E-code** on its LCD.
 
+**Pride scooters on S-Drive:** the Go-Go **Elite Traveller** (45 A)
+and the **Victory 9/10** use it too; their dealer guides give the same
+codes 3, 5, 6, 7, 8, 9 with meter values (brake **30–65 Ω**, motor
+0.5–1.5 Ω, beep 3 above 32 V). The Elite Traveller plays ten fast
+beeps first, then the count, once
+([[Elite Traveller Technical Troubleshooting Guide (INFMANU3206)]],
+[[Victory 9-10 Technical Troubleshooting Guide (INFMANU3986)]]).
+
 The [[GA541-Avenger]] also uses an S-Drive, but its owner's manual gives
 the code as a 10-bar [[TruCharge-Diagnostics]] reading. For any S-Drive,
 a PG programmer gives the 4-digit codes on [[PG-Drives-Trip-Codes]].

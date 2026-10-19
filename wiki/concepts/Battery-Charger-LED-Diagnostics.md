@@ -58,6 +58,20 @@ chargers may not be on this 2010 sheet.
 | 8 A Lester (ELE110V1041) | — | Red = fault; slow green blink = under 80%; fast green blink = over 80%; solid green = full |
 | 8 A CTE (ELEASMB5669) | — | Green flash = power on; red flash = error; orange = charging; orange flash = under 80%; green/orange flash = 80%; green = full |
 
+**Newer Pride chargers** ([[Pride Battery Charger Manual (2022)]],
+13 chargers): **UPG** 24 V SLA chargers (2, 3.5, 5, 8 A) and UPG
+lithium chargers (Go-Go Endurance / EVO 613, 8 A LFP) flash **red
+blink codes**: continuous = 12 h timeout (charger too small or a bad
+battery); **1 every 3 s = battery under 14 V, won't start**; 2 = reverse
+polarity; 3 = overvoltage (charger over 30 V); 4 = overcurrent. Steady
+red = charging, flashing green = float, steady green = done. The 3.5 A
+and up have an **AGM/GEL switch**; the 5 and 8 A need **15 h** for a
+full charge and cut off at 20 h. Battery Maximizer and ACI chargers:
+**red over 24 h = fault**. Lithium travel chargers (Metco NL07C,
+Intertek LS-018C20) stop and pulse if pre-charge runs too long (1 h /
+5 h = failed pack). 4C24080A (8 A): red flash = defect, orange =
+charging, green/orange = 80%.
+
 **Testing a Pride charger** (Pride's 2004
 [[Technical Troubleshooting Guide - Battery Guide (2004)|Battery Guide]]):
 plug the charger into the wall, unplug its **3-pin DC harness**, and

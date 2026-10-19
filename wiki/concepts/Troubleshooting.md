@@ -131,7 +131,9 @@ not the brand or model name.
 - Pride NE / NE+ (LCD messages), inhibit jumper tests, voltage walk,
   motor and brake resistance by chair: [[Power-Chair-Troubleshooting]]
   (from the [[Q6-Edge]], [[J6]] and [[Jazzy-614]] dealer guides)
-- Pride scooter beep codes (Elite Traveller): [[Elite-Traveller]]
+- Pride scooter beep codes (Elite Traveller, Victory; PG S-Drive): [[Elite-Traveller]], [[Victory]], [[S-Drive-Beep-Codes]]
+- Pride Jazzy GC2/GC3 (Select Elite): [[Jazzy-Select-Elite]]; Jazzy 600 ES left/right code swap: [[Jazzy-600-ES]]
+- Older Pride chairs and scooters (Pilot, VSI, DL50, Remote Plus, IPC, Curtis): [[Technical Troubleshooting Guide - Power Chair Diagnostics (2004)]], [[Technical Troubleshooting Guide - Scooter Diagnostics (2004)]]
 - Pride charger LEDs by part number: [[Battery-Charger-LED-Diagnostics]]
 - Pride torque values and parts procedures: [[Pride-Parts-Replacement]],
   [[Tru-Balance-4-Power-Positioning]]
@@ -152,7 +154,10 @@ not the brand or model name.
 ### Lift chairs
 - Pride (not Okin-motor models): [[Pride-Lift-Chairs]]: outlet not
   switched, connections locked, control box **dip switch**, dual motors
-  out of timing, motor clevis or stroke tube, scissors
+  out of timing, motor clevis or stroke tube, scissors; **hand control
+  buttons blinking every second = hand control or USB device; every 5–7
+  s = chair lost power**; frame, motor and hand control replacement
+  sheets
 - Golden AutoDrive hand control resets: [[Golden-Lift-Chairs]]
 
 ### Ceiling and patient lifts

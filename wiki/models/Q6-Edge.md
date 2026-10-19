@@ -58,6 +58,19 @@ caster nut 27–34 N·m, articulating beam 40 N·m. **Re-seat the axle key**
 when the hub comes off. All Pride/Quantum values side by side:
 [[Pride-Parts-Replacement]].
 
+## Bulletins and kits
+
+- **Seat height and seat angle (dump)** (TechnoBulletin JAZZY-168,
+  2010): power off, drive mode, controller unplugged; seat off the
+  trapeze bar; move the **L-brackets** up or down (only one set, front
+  or rear, to change the dump); blue thread lock, **35 N·m (25.8
+  ft·lb)**; new nylon nuts. Synergy or TRU-Balance seats: see their
+  manuals.
+- **Battery harness:** improved routing from June 2011 (JAZZY-171) and
+  the conversion kit ([[Q6 Edge Battery Harness Conversion (INFINFB2746)]]):
+  never cut or shorten the harness; coil and tie any extra.
+- Bulletins: [[Pride TechnoBulletins (2006-2024)]].
+
 ## See also
 
 [[Q6-Edge-2.0]], [[Q6-Edge-3]], [[Q6-Edge-HD]], [[J6]] (same

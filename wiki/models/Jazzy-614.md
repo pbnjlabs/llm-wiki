@@ -52,6 +52,29 @@ alternating with steady** = charging or **inhibit** (nothing plugged
 in? check the run plug); left red LED flashing = low battery; speed
 LEDs flashing = joystick off center at power-up.
 
+## Release and warranty
+
+- **Jazzy 614HD** released May 2008: **450 lb**, Dynamic **50 A**,
+  seats up to 24 × 24 in, rear battery access, 5 A charger
+  (TechnoBulletins JAZZY-164/165, [[Pride TechnoBulletins (2006-2024)]]).
+- Warranty (2010 insert): **5-year** frame and seat post, **13-month**
+  electronics, motor/gearbox, brakes (electronic), harnesses; batteries
+  6 months ([[Pride Warranty Update Inserts (2010)]]).
+
+## Repairs on file
+
+- **Motor replacement** (INFINFB4069, 2019): batteries and seat out, on
+  blocks, front shroud off, **O-ring off both freewheel levers**,
+  unplug the motor; bracket-to-frame bolt and strut top bolt out;
+  2 bolts on the spring mounting plate (swing the caster arm up to ease
+  the spring); pull bracket and motor together without knocking the
+  freewheel lever; swap the bracket; refit the O-rings
+  ([[Jazzy Motor Replacement Instructions (614, Elite ES)]]).
+- **Anti-spin kit** KITASMB1672 (2009): springs and brackets added
+  between the motor mount and caster arm; discard the lower shock
+  bushing ([[Jazzy 614 Anti-Spin Kit (INFINFB2308)]]).
+- The **Quantum 614** (NE+ electronics) has its own guide: [[Quantum-614]].
+
 ## See also
 
 [[Jazzy-600-ES]], [[Power-Chair-Troubleshooting]],

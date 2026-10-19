@@ -55,6 +55,9 @@ PMS field experience; ranks below the manuals.
 
 ## Seating service
 
+**iLevel retrofit** for a standard Edge 3 (and Edge 2.0):
+[[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]]; overview on [[iLevel]].
+
 The TRU-Balance 4 parts guide is illustrated on this chair (seat base,
 iLevel seat assembly, interface rail heights about 17.5 / 18.25 /
 18.75 / 19.25 in): [[Tru-Balance-4-Power-Positioning]]. No base parts

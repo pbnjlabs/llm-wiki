@@ -111,6 +111,46 @@ driving and elevation are set in the actuator module
 ([[Q-Logic-Seat-Configuration]]). Q-Logic 3 TRU-Balance 4 actuator
 fault codes 150–177: [[Q-Logic-Fault-Codes]].
 
+## Recall: TB3 back-to-tilt-base reinforcement (2013–2014 builds)
+
+**TB3 seating systems built 13 June 2013 – 10 November 2014:** the joint
+between the TB3 **back and the tilt base can separate**, leading to a
+structural failure, made worse by altering the chair's angle inhibits.
+Pride's fix is the **TB3 Seat Depth Adjustment Reinforcement Kit**
+(KIT169366: 2 plates and hardware). Owners were sent letters; for a
+unit that may be affected, call Pride's **Upgrade department
+866-222-6212** (PQ-365 Product Recall page, read 2026-10-19).
+
+Fitting it: per side, plate in the **most rearward slot**, radius toward
+the outer edge of the channel (17 N·m), block under the plate, then set
+the back and torque the 4 screws to **30 N·m**. **It costs about 25 mm
+of back depth adjustment.**
+([[TRU-Balance 3 Seating Kits (Down Post, Reinforcement Plate, AFP)]]).
+
+**Joint Commission (house standard):** check serial and build dates
+against recalls before delivery or between patients, and keep the
+record ([[Joint-Commission-DMEPOS]]).
+
+**Conflict:** the reinforcement sheet's spec box says **10 in of lift,
+95–175° recline, full drive inhibit at 25° tilt**; the 2019 TB3 BOI
+says 12 in, 85–175° and lockout past 20°. The BOI is newer and is the
+chair's own manual; go by it.
+
+## TB3 parts and kits
+
+- **REAC lift actuator** replacement: lift lockout block first (rear
+  right of the lift frame), then the actuator; intermediate board or
+  firmware update depending on the electronics; check iLevel after
+  ([[REAC Lift Actuator Replacement (INFINFB4068)]]).
+- **TB3 version 3 flip-back armrest down posts** (8–10, 11–13, 14–16
+  in): about 70° to the armrest, 2–5 in from it, rods within one
+  setting.
+- **Articulating foot platform** on TB3: side rail t-nuts 15 N·m, mono
+  plug to the seat harness.
+- **Versa Tilt / older seating** (2004): two limit switches in series
+  give half speed and full lockout; parallel resistor 10 kΩ on Dynamic,
+  22 kΩ on PG ([[Technical Troubleshooting Guide - Quantum Rehab Diagnostics (2004)]]).
+
 ## TRU-Balance 4 and seat torque
 
 The newer **TRU-Balance 4** (anterior tilt, articulating foot platform,

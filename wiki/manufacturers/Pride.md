@@ -25,6 +25,22 @@ a charger LED sheet, the first **lift chair** sheet and a scooter parts
 bulletin. Most Quantum models still have **no owner's manual** (index
 Missing manuals).
 
+**168 files on file since 2026-10-19:** the human asked for the rest of
+Pride's **PQ-365 technical service library**
+(pridemobility365.com/b/technical-service, dealer log-in) to be pulled.
+It holds about 590 documents; **96 new ones** were downloaded with the
+human's OK and ingested into 47 source pages: more dealer
+troubleshooting guides (Jazzy Select Elite, Quantum 614, Victory, Elite
+Traveller, Q-Logic error codes), parts guides (R-Trak, Outback, Quantum
+600/610/6000Z), iLevel retrofits and seating kits, **24 lift chair
+documents**, scooter repairs, charger manual, warranty and return
+policy, TechnoBulletins and the rest of the 2004 training guide. Not
+pulled (deliberately): legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits
+sheets, accessory holders, Synergy/TB2 seating, Kids Up, Litestream,
+older TechnoBulletins 001–166, software installers. The library has
+**no owner's manuals** (it links to pridemobility.com's resource
+files) and **no IPBs**.
+
 Lineup with batteries, chargers and controllers in one place:
 [[Pride-Power-Chair-Lineup]].
 
@@ -33,8 +49,8 @@ Lineup with batteries, chargers and controllers in one place:
 Raw files: the original 10 sit loose in `MANUALS/Pride/`; the later
 batches are sorted into `Quantum Power Chairs/`, `Jazzy Power Chairs/`,
 `Scooters/`, `Controllers/` (`Q-Logic`, `Q-Logic 3`, `Q-Logic NES`,
-`PG and Dynamic`), `Seating/`, `Lift Chairs/` and `General/` (the same
-in the human's `/home/lu/Work/MANUALS/Pride/`).
+`PG and Dynamic`), `Seating/`, `Lift Chairs/`, `TechnoBulletins/` and
+`General/` (the same in the human's `/home/lu/Work/MANUALS/Pride/`).
 
 ### Quantum power chairs
 
@@ -42,37 +58,45 @@ in the human's `/home/lu/Work/MANUALS/Pride/`).
   troubleshooting, parts guide), [[Q6-Edge-3]], [[Q6-Edge-4]] (spec
   sheet, parts guide), [[Q6-Edge-2.0]], [[Q6-Edge-HD]], [[Q6-Edge]]
   (original, NE/NE+/Q-Logic: dealer troubleshooting guide, parts
-  guide), [[J4]] (J4, J4E, J4EHD), [[J6]] (OM, three spec sheets,
-  dealer troubleshooting guide).
+  guide), [[J4]] (J4, J4E, J4EHD, J4 HD), [[J6]] (OM, three spec
+  sheets, dealer troubleshooting guide, seat towers).
+- **Older Quantum:** [[Quantum-600-Series]], [[Quantum-610]],
+  [[Quantum-6000Z]] (parts guides), [[Quantum-614]] (NE+ troubleshooting).
 - **Front-wheel drive:** [[4Front-2]] (2 and 2 HD), [[Jazzy-1450]]
   (Jazzy 1450 / Quantum Q1450, 600 lb).
-- **Rear-wheel drive:** [[R-Trak]].
-- **Outdoor:** Outback (on the 2025 chart only, no spec sheet).
+- **Rear-wheel drive:** [[R-Trak]] (spec sheet, parts guide).
+- **Outdoor:** [[Quantum-Outback]] (four-motor; parts guide).
 
 ### Jazzy and retail power chairs
 
 Model pages: [[Jazzy-614]] (614 / 614 HD with Dynamic: dealer
-troubleshooting guide and basic sheet) and [[Jazzy-600-ES]] (parts
-guide). Only on Pride's 2026 end-to-end charts: Jazzy Air Med / Air 2,
+troubleshooting guide, basic sheet, motor replacement, anti-spin kit),
+[[Jazzy-600-ES]] (parts guide, harness bulletins, transit loops) and
+[[Jazzy-Select-Elite]] (GC2/GC3 dealer guide). Older Jazzy fuse
+locations: [[Jazzy Fuse Locations]]. Only on Pride's 2026 end-to-end charts: Jazzy Air Med / Air 2,
 Go Chair / Go Chair Med, Jazzy EVO 613 (and 613 Li), EVO 614 / 614HD,
 Elite ES, Select, Elite 14, Elite HD, Ultra Light, and the Jazzy Carbon
 family. See [[Pride-Power-Chair-Lineup]].
 
 ### Scooters
 
+[[Victory]] (Victory 9/10: dealer guide, fuses, motor/transaxle),
 [[Revo]], [[Go-Go-LX]], [[Elite-Traveller]], [[Go-Go-Sport]],
 [[Ultra-X]], [[ET-Series]], [[i-Go]] (folding, lithium),
 [[Super-Portable-SC15]] (folding, lithium). Spec sheets, plus the
-2008 Elite Traveller troubleshooting sheet with **beep codes**. The
+Elite Traveller troubleshooting sheet, dealer guide (PG S-Drive) and
+repair sheets, a universal [[Scooter Brake Replacement (INFINFB1742)|brake kit]]
+sheet, and NFC key fob programming (GENERAL-011). The
 2022 bulletin [[S19 Analog Console Part Runout (GENERAL-010)]] covers
 console replacement on an unnamed "S19" scooter (probably an outdated
 legacy model, per the human).
 
 ### Lift chairs
 
-[[Pride-Lift-Chairs]]: Pride's 2008 basic troubleshooting sheet (not
-for Okin-motor models). PMS sells Pride lift chairs; no owner's manuals
-on file.
+[[Pride-Lift-Chairs]]: troubleshooting, measuring, KD setup, hand
+controls (flash codes, lock, memory), motors and transformer, battery
+backup, lift frames, scissors and brackets, warranty. PMS sells Pride
+lift chairs; still **no owner's manuals** on file.
 
 ### Controllers
 
@@ -94,6 +118,15 @@ on file.
   procedures.
 
 ### Service (all chairs)
+
+- [[Pride-Warranty]]: warranty start dates, RAs, returns, credit
+  timing and terms by product.
+- [[Controller Locking Instructions (INFINFB2311)]]: lock/unlock for
+  every Pride controller.
+- [[Pride Provider Forms (Field Service Request, Quote and Order Checklists)]]
+  and [[EMI-RFI Information]] (unintended motion: report to Pride).
+- [[Pride TechnoBulletins (2006-2024)]]: Q6 Edge seat height, GC charge
+  reminder, harness routing, scooter voltmeters, NFC keys.
 
 - [[Pride-Parts-Replacement]]: torque values and repair steps side by
   side from the parts replacement guides.

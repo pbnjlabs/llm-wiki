@@ -33,9 +33,25 @@ articulating beam, hub motors with an axle key and freewheel linkage.
 - Battery wiring diagram inside the front battery door; replace both
   batteries.
 
-Controller codes: Dynamic service indicator 1–11
-([[Pride-Controller-Flash-Codes]]). The [[Jazzy-614]] troubleshooting
-guide is the closest Dynamic dealer guide on file.
+## Motor harness and codes (TechnoBulletin JAZZY-176, 2013)
+
+- Power module **M1 → left motor, M2 → right motor**, through
+  intermediate harnesses. Battery harness routing: JAZZY-175 (figure).
+- The bulletin's Dynamic table numbers the motors and brakes **the
+  other way round from the Jazzy 614 guides**: **3 = right motor,
+  4 = left motor, 5 = right brake, 6 = left brake** (the 614 has 3/5
+  left, 4/6 right). The rest match: 1 stall/user, 2 battery, 7 joystick
+  module, 8 power module, 9 communications, 10 unknown, 11 incompatible.
+  On a 600 ES, go by this table; if a side doesn't check out, test the
+  other one too.
+- Source: [[Pride TechnoBulletins (2006-2024)]]. Dynamic dealer steps
+  per code: [[Jazzy-614]].
+
+## Transit loops
+
+Unoccupied-transit securement loops replace the trapeze-bar screws
+(M10 × 30 front, M10 × 55 rear, **35 N·m**); fit the "not rated for
+occupied transport" decals ([[Jazzy 600 ES Transit Loops (INFINFB3245)]]).
 
 ## See also
 

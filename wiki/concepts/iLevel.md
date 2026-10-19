@@ -117,6 +117,32 @@ No Quantum troubleshooting procedure for iLevel faults is on file. The
 "not engaged" warning and #47 point at the **suspension lock** side:
 the cable, the limiter switch and its harness are the parts involved.
 
+## Adding iLevel to an existing chair (retrofits)
+
+Quantum kits exist for the **Q6 Edge 2.0 and Edge 3**, the **Q6 Edge HD
+and Q6 Edge Z**, and the **Q6 Edge 3 Stretto**
+([[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]]).
+All need **Q-Logic 3 with an AAM** (Stretto also NE+ with
+AM1/AM2/LAM2) and **reprogramming** with the latest base and iLevel
+seat programs. The base gets switch brackets with the iLevel
+(suspension lock) switches, and either **suspension enhancers** (Edge
+2.0/3), **lockout assemblies** (Edge HD/Z) or a **suspension limiter**
+(Stretto); the iLevel cable runs from the seat to them. Harness:
+iLevel base harness → intermediate harness → **AAM port IN-C**, with the
+lift inhibit ("L-Inhibit") harness.
+
+**Switch adjustment (the common fix):** with the seat raised, the
+switch lever must make **full contact** with the paddle (Edge 2.0/3:
+loosen the paddle screws and move it) or the engagement pad (Edge
+HD/Z: jam nut). The guides give this as a setup step; they don't tie it
+to the "iLevel not engaged" warning, but a switch that never closes is
+the obvious thing to check when that warning shows on level ground.
+
+**After the job:** no errors; full speed seat down in every profile;
+cycle the seat several times and confirm iLevel engages; correct
+reduced speed with the seat up. Same check after replacing a REAC lift
+actuator ([[REAC Lift Actuator Replacement (INFINFB4068)]]).
+
 ## Field notes
 
 - [[2026-09-25 Q6-Edge-3 iLevel no power]]: an Edge 3 with iLevel that

@@ -258,8 +258,24 @@ the parts a tech needs:
 - **Save System Configuration** after removing a module on purpose, or
   the chair reports it missing.
 
+**Lock on NE+ differs by guide:** the Q6 Edge and J6 guides and
+Pride's locking sheet say hold **both profile keys**; the **Quantum
+614** guide says press the **Mode switch** until it powers off
+([[Quantum-614]]). Try both. The Quantum 614 NE+ also shows
+indicator, hazard and running-light errors.
+
 Firmware: [[NE+ Firmware Compatibility List (2009)]]. Symptom checklist:
 [[Q6 Edge Basic Troubleshooting]].
+
+## Hardware fixes
+
+- **Q-Logic 3e keypad**: pry off, clean adhesive with isopropyl, peel
+  and press the new one fully flush.
+- **Q-Logic dial and toggle**: pry off; line up the flats; check the
+  toggle's spring is in place.
+  ([[Q-Logic 3e Keypad and Q-Logic Dial-Toggle Replacement]])
+- Error code booklet for legacy Q-Logic (same codes as the 2011 list):
+  [[Q-Logic Error Code Reference Guide (INFINFB2653)]].
 
 ## See also
 

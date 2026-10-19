@@ -69,6 +69,16 @@ component category (electromagnetic motor-face brake, 4-screw mount,
 chassis access — don't assume one family's time/step estimate applies to
 another.
 
+## Pride scooters (universal brake kit)
+
+Pride's scooter brake kit (INFINFB1742) covers several brakes: match the
+brake nut type (setscrew vs dowel pin, not interchangeable), join one
+coil wire and one microswitch wire when going from a 2-wire to a 4-wire
+brake, fit the brake **in freewheel** so the nut lines up, screws a
+quarter turn past snug, then lever to drive and test
+([[Scooter Brake Replacement (INFINFB1742)]]). Golden's procedures above
+don't apply to Pride units.
+
 ## See also
 
 [[Golden]], [[GL110-140-LiteRider]], [[GB1xx-Buzzaround-XL]],

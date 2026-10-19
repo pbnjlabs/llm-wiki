@@ -8,7 +8,8 @@ tags: [pride, quantum, 4front, power-chair, front-wheel-drive, heavy-duty]
 # 4Front 2 / 4Front 2 HD
 
 Quantum front-wheel-drive chairs with rear casters and front anti-tips.
-Spec sheets on file for both.
+Spec sheets on file for both, plus the 2019 seat-elevation base kit
+([[4Front Base Modifications for Seat Elevation (INFINFB4117)]]).
 
 | | 4Front 2 ([[Quantum 4Front 2 Specifications (INFINFB4329)]]) | 4Front 2 HD ([[Quantum 4Front 2 HD Specifications (INFINFB4335)]]) |
 |---|---|---|
@@ -43,6 +44,14 @@ is the model-specific document.
 The TRU-Balance 4 parts guide covers this chair's seat base, depth
 settings (15–22 in) and seat-to-floor holes:
 [[Tru-Balance-4-Power-Positioning]].
+
+## Elevating seat upgrade (original 4Front)
+
+To add an elevating lift seat (not iLevel), the base needs new seat
+interfaces (1- or 3-position towers); users **over 200 lb** also get new
+shocks (rear 350 lb, front 450 lb) via KIT1902966; under 200 lb,
+KIT1902968 (towers only). Pulling the pivot pins drops the caster arm and
+motor: keep hands clear.
 
 ## See also
 

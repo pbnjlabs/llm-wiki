@@ -37,8 +37,23 @@ Check the label on the unit. Don't go by feel.
 | Red Hawk Phoenix (2 red levers) | Push in the arrow direction | Reverse |
 | Red Hawk Eagle HD | Flip brake release lever **forward** (manual) | Flip **back** (electric) |
 
+**Older Jazzy and Quantum series** (Pride's 2007 supplement,
+[[Quantum-Jazzy Freewheel Operation (INFINFB2121)]]):
+
+| Series | Drive | Freewheel |
+|---|---|---|
+| Jazzy Select, Select 6, 6 Ultra; Quantum/Jazzy 600; Quantum 6000/6000Z; Quantum 1121, 1107; R4000 Hammer/H2 | Pull **up** | Push **down** |
+| Jazzy Select Traveller, Go-Chair, Z-Chair (levers at rear) | Push **forward** | Pull **rearward** |
+| Jazzy Select 14 / 14 XL, Jazzy 1170 XL Plus, 1113 | Turn **inward** | Turn **outward** |
+| **Quantum 1122, Jazzy 1113 ATS, Jazzy Select 7** (lever inside each anti-tip wheel) | Push **down** | Pull **up** (opposite of the rest) |
+| Quantum 1420 (one lever at the rear) | Rotate counterclockwise | Pull out, rotate clockwise |
+| Quantum 610, 1103 Ultra, Jet 3 Ultra, 1650, R4000 Glide | Push **inward** | Pull **outward** |
+| **Victory 9/10 scooter** | Pull **back** | Push **forward** |
+
 Golden LiteRider / Buzzaround brakes come with two lever styles
 (rear-facing and the newer upward-facing); see [[Brake-Replacement]].
+On the Jazzy 614 the freewheel levers carry **O-rings**: take them off
+for motor work and put them back ([[Jazzy-614]]).
 
 ## Rules from the manuals
 
@@ -82,7 +97,11 @@ Golden LiteRider / Buzzaround brakes come with two lever styles
   setscrews on the **freewheel release linkage** and slide it off the
   release shaft; refit it after ([[Pride-Parts-Replacement]]).
 - **Golden brake replacement:** the new brake goes on in the freewheel
-  position (12 o'clock) ([[Brake-Replacement]]).
+  position (12 o'clock) ([[Brake-Replacement]]). **Pride scooters:**
+  same idea, fit the brake in freewheel so the nut lines up with the
+  pad, screws a quarter turn past snug, lever back to drive
+  ([[Scooter Brake Replacement (INFINFB1742)]]); the Elite Traveller's
+  brake handle points **up** in freewheel.
 
 ## Left in freewheel? What the controller shows
 

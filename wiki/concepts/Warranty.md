@@ -106,4 +106,4 @@ Contact: Bruno Independent Living Aids, Inc. — Attn: Service Department,
 
 [[Bruno]], [[CRE-2110]], [[SRE-2010]], [[SRE-3000]], [[SRE-3050]],
 [[PUL-1100]], [[ASL-275]], [[ASL-250]], [[VPL-3100B]], [[VPL-3200B]],
-[[Bruno Warranty Summary]]
+[[Bruno Warranty Summary]]; other makers: [[Pride-Warranty]], [[Golden-Scooter-Warranty]], [[Harmar-Warranty]]

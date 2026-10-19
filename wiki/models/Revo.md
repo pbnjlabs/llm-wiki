@@ -8,8 +8,9 @@ tags: [pride, scooter, revo, heavy-duty]
 # Revo (66 / 67)
 
 Pride's mid-size, 400 lb scooter: **66 = 3-wheel, 67 = 4-wheel**. Spec
-sheet only on file ([[Revo Specifications (INFINFB3884)]], Rev D, Apr
-2020).
+sheet on file ([[Revo Specifications (INFINFB3884)]], Rev D, Apr
+2020), plus two repair sheets in
+[[Victory, Rally and Revo Repair Instructions]].
 
 | | 3-wheel (66) | 4-wheel (67) |
 |---|---|---|
@@ -31,6 +32,14 @@ Both: rear-wheel drive, sealed transaxle, 24 V DC motor; regenerative +
 electromechanical brakes; **two 12 V U1** sealed batteries (AGM, gel or
 hybrid gel), **25 lb pack each**; **3.5 A** off-board charger; max
 slope **6°**; climbs 2.5 in; under 60 N freewheel force.
+
+## Repairs on file
+
+- **Throttle pot** (ELEASMB2663): battery box off, 2 setscrews (2 mm
+  hex) on the throttle lever, console top off, 3-pin plug; refit the
+  lever so its **throw is equal forward and reverse**.
+- **SC60 Revo battery box** kit: off-board 2.5 A Battery Maximizer
+  charger with an XLR port on the box instead of the onboard charger.
 
 ## See also
 

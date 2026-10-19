@@ -7,7 +7,8 @@ tags: [pride, quantum, r-trak, power-chair, rear-wheel-drive]
 
 # R-Trak
 
-Quantum's rear-wheel-drive chair. Spec sheet only on file.
+Quantum's rear-wheel-drive chair. On file: the spec sheet and the
+[[R-Trak Parts Replacement Guide (INFMANU5383)]] (2023). No owner's manual.
 
 From [[Quantum R-Trak Specifications (INFINFB4461)]] (Rev B, Aug 2023):
 
@@ -31,6 +32,19 @@ From [[Quantum R-Trak Specifications (INFINFB4461)]] (Rev B, Aug 2023):
 2025 chart: 4-pole motors; electronics **75 A QLNES, 120 A Q-Logic 3 or
 Q-Logic NE+**; Group 3 codes; **not yet on the VA FSS contract**
 ("coming soon").
+
+## Service (parts guide)
+
+- Prep: power off, drive mode, **unplug the bus** from the base, jack.
+- Lug nuts 22–27 N·m (14 × 3 or 14 × 4 in wheels); split-rim screws
+  4–5 N·m with Loctite 242.
+- Rear-wheel drive with an **axle brace** (18–22 N·m). Motor: lift the
+  suspension out of the way, remove the outside motor mount (nuts
+  10–14, screws 18–22 N·m), slide the motor off the inside mount.
+- Caster wheel nut 20–25 N·m; pin cover screws 2–4 N·m; anti-tip
+  wheel nut 8–12 N·m; breaker lead nuts 11.3 N·m.
+- Q-Logic 3 and NE+ wiring appendices; PTO backup camera option.
+- Full table: [[Pride-Parts-Replacement]].
 
 ## See also
 

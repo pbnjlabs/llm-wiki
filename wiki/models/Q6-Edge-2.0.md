@@ -37,6 +37,17 @@ and the original Edge's dealer guides cover. The 2017
 and fits the original; check the IPB before using its parts or torque
 values on a 2.0.
 
+## Kits on file
+
+- **Caster arm swap 6 in ↔ 8 in** ([[Q6 Edge 2.0 Caster Arm Kits (INFINFB3544, INFINFB3559)]]):
+  front caster arm 20 N·m, rear 55 N·m, struts 8–12 N·m; then **set the
+  front spring length: 73.8 ± 1.5 mm with 8 in arms, 80 ± 1.5 mm with
+  6 in arms** (Pride calls this step critical).
+- **iLevel retrofit** (with the Edge 3): Q-Logic 3 + AAM, suspension
+  enhancers, switch paddle adjustment, reprogramming
+  ([[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]], [[iLevel]]).
+- Fender lights retrofit kits exist in the PQ-365 library (not pulled).
+
 ## See also
 
 [[Q6-Edge]], [[Q6-Edge-3]], [[Pride-Power-Chair-Lineup]],

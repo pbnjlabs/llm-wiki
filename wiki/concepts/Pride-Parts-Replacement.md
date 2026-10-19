@@ -63,6 +63,31 @@ design.
 Edge 4 seat values are paired with 5, 6, 8 or 16 mm tools in the guide's
 drawings (pp. 7–8); check the drawing for which fastener takes which.
 
+## Other chairs and kits
+
+From the 2016–2025 parts guides and kit sheets pulled from the PQ-365
+library:
+
+| Chair / kit | Values |
+|---|---|
+| **R-Trak** (2023) | Lug nuts 22–27; rim screws 4–5 + Loctite 242; seat 32–38 (some 30–35); axle brace 18–22; caster wheel nut 20–25; outside motor mount nuts 10–14, screws 18–22; anti-tip wheel nut 8–12; breaker leads 11.3 ([[R-Trak Parts Replacement Guide (INFMANU5383)]]) |
+| **Quantum Outback** (2025) | Lug nuts 25.8–28.5; seat 35–44; front frame / motor mount 80–88; tie rod 30–35; control arms 18–22; light pods 3–4 by hand; battery fuse 3.7–4.1; motor nuts misprinted, confirm ([[Quantum Outback Parts Replacement Guide (INFMANU5588)]]) |
+| **Quantum 600 series** (2016) | Star wheel main nut 51; lug nuts 25; caster nut 30; motor 7; beam 40 |
+| **Quantum 610** (2017) | Main nut 51; caster nut 30; foot platform 25; **beam 58** |
+| **Quantum 6000Z** (2017) | Lug nuts 25; hub nut 51; caster nut 30; caster arm 27.6; **motor 12**; swing-arm 21.5; struts 10; **beam 59** |
+| **Q6 Edge seat height/dump** (bulletin 168) | L-bracket hardware 35, blue thread lock |
+| **Q6 Edge 2.0 caster kits** | Front arm 20, rear arm 55, struts 8–12; **front spring 73.8 mm (8 in arms) / 80 mm (6 in arms)** |
+| **iLevel retrofits** | Crossbar 35; suspension enhancers 8–12; towers 35; lug nuts 27 ([[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]]) |
+| **J6 seat towers** | Transit and seat plates 30, X pattern |
+| **Jazzy 600 ES transit loops** | M10 screws 35 |
+| **TB3 reinforcement plate** (recall kit) | Plate 17; back screws 30 |
+| **TB3 v3 armrest down post** | 8–12 / 12.5–17.5 / 10–15 |
+| **Elite Traveller drive wheel** | Nut 28 (20 ft·lb) |
+| **Scooter brake (universal kit)** | Quarter turn past snug |
+
+The newer guides (R-Trak, Outback, Edge 4) also say **replace any
+patched screw** removed, not only nylon-insert nuts.
+
 ## Procedures worth knowing
 
 - **Drive motor (2017 Q6 Edge, Jazzy 600 ES):** wheel off; if the new

@@ -121,7 +121,9 @@ Open-circuit voltage, batteries disconnected, rested 3 h (or after a
 battery**.
 
 - **Load test:** fully charge, then a standard (CCA) load tester, **at
-  least 50 A for 10 seconds**. In the field without time to charge: OCV
+  least 50 A for 10 seconds**. A meter can read 12–14 V on a battery
+  that fails under load; the **controller needs at least 18 V** under
+  load ([[Battery Load Test and Multimeter Education Sheets]]). In the field without time to charge: OCV
   first, then load-test. A pass is a pass; a fail on undercharged
   batteries means charge and retest before condemning them (shop
   charge, or a second visit).
@@ -136,6 +138,16 @@ battery**.
 - Pride's FAQ says replacing both batteries "may not be necessary but is
   recommended". **The house standard overrides it: replace every
   battery** (top of this page).
+
+**Lift chair battery backup:** some Pride lift chairs take a lithium-ion
+pack that clips onto the external transformer; remove it for long
+storage (the chair drains it); 1-year warranty
+([[Lift Chair Motor, Transformer and Battery Backup]]).
+
+**Scooter voltmeters (GENERAL-009CA):** the lithium voltmeter
+ELE2008025 reads 3 green 90–100%, 4 yellow 50–60%, all red = dead;
+charge before fewer than **4 yellow** remain. SLA TruCharge voltmeters
+need a charge above **26 V** to reset ([[Pride TechnoBulletins (2006-2024)]]).
 
 ## Lithium batteries (Pride)
 

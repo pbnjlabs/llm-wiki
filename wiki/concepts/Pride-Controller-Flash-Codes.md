@@ -81,6 +81,39 @@ LiNX manuals give a **different 7-code table** ([[LiNX-Diagnostics]]).
 Use the table for the indicator you're looking at: a numbered service
 indicator with 11 codes → this table.
 
+## GC2 / GC3 dealer tests (Jazzy Select Elite TTG)
+
+Same 1–10 numbering as above, with the GC chairs' values: **1 = under
+22 V at the power module**; 2/4 = left/right motor open (0.5–1.5 Ω
+good); **3/5 = left/right motor-to-brake wiring fault** (the BOI table
+says "short to battery"); 6 = inhibit (charger in, or charger socket
+pins 2–3 shorted); 9 = brake (**about 60 Ω** each); **10 = over 32 V**
+(charger output over 30 V → charger). [[Jazzy-Select-Elite]].
+
+## Jazzy 600 ES: left and right swapped
+
+TechnoBulletin JAZZY-176 (2013) gives the 600 ES Dynamic table as **3 =
+right motor, 4 = left motor, 5 = right brake, 6 = left brake**, the
+reverse of the Jazzy 614 sheets and the table above. M1 = left motor,
+M2 = right. [[Jazzy-600-ES]].
+
+## Older PG and Dynamic controllers
+
+- **VSI 8 flashes** is usually the controller, but a **conductive path
+  between the motors** can cause it: any resistance between the two
+  motors' leads (or motor lead to frame) = motors
+  ([[Eight Bar Flash Code for VSI Controllers]]).
+- **DL50** numbers differently: 1 low battery, 2 high voltage, 3/4
+  motors, 5 brake, 6 controller, 7 joystick. **Dynamic DX** status LED:
+  1 module, 2 accessory, 3/4 motors, 5/6 brakes. Pilot, Remote Plus and
+  VSI use the 1–10 set. Full legacy tables:
+  [[Technical Troubleshooting Guide - Glossary and Appendix (2004)]].
+- **Remote Plus lock** uses a 3-pin key (KEYJAZ1001): insert and remove
+  to unlock. **Flight** controller: lock by holding on/off 2 s, unlock
+  with the horn twice. All locks in one table:
+  [[Controller Locking Instructions (INFINFB2311)]].
+- VR2 cable replacement: [[VR2 Controller Cable Replacement (INFINFB2005)]].
+
 ## Battery meter and other patterns
 
 | | VR2 | GC3 | newVSI | Dynamic |
@@ -115,8 +148,12 @@ indicator with 11 codes → this table.
 - **Off-board charger** through the 3-pin socket, **Neutrik NC3MX plugs
   only**, max **8 A** (VR2, Dynamic) or **12 A** (newVSI). Use the
   charger supplied with the chair.
-- **GC3 charge reminder:** after **8 h or more of driving** without a
-  charge, the left red LED flashes 4 times at every power-down. Charge
+- **GC3 charge reminder** (GC2 too): after **8 h or more of driving**
+  without a charge, the left red LED flashes 4 times at every
+  power-down. Bulletin JAZZY-170's reset order: controller on → charger
+  to the controller → charger to the wall → full charge → unplug the
+  wall, then the controller → power-cycle. Batteries already full: drive
+  a while first so the charger actually charges. Charge
   8–14 h **with the controller switched on before the charger is
   plugged in**, and leave it on for the whole charge, or the reminder
   won't reset.

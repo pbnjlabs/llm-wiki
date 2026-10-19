@@ -35,8 +35,12 @@ in. 12 Ah doesn't meet AS/NZS 3695.2 / EN12184.
 ## Troubleshooting and beep codes
 
 From [[Elite Traveller Basic Troubleshooting (INFINFB2039)]] (Rev B,
-2008), written for the earlier **Elite Traveller, Plus and Plus HD**.
-Confirm the beeps on a 40E/44E against its own manual (not on file).
+2008) and the dealer [[Elite Traveller Technical Troubleshooting Guide (INFMANU3206)]]
+(2006). The Go-Go Elite Traveller **SC40E/44E** runs a **PG S-Drive
+45 A** controller (ELEASMB4893), so the beeps are the S-Drive set
+([[S-Drive-Beep-Codes]]): **ten fast beeps, then the count**, played
+once (reinsert the key to repeat). Confirm on a current 40E/44E against
+its own manual (not on file).
 
 | Beeps | Condition | Do |
 |---|---|---|
@@ -57,6 +61,27 @@ Confirm the beeps on a 40E/44E against its own manual (not on file).
   weekly 12–14 h when idle), wall-switched outlet, no extension cords.
   Watch the meter rise while charging; if it doesn't, check the charger
   fuse and the outlet.
+
+## Dealer tests (TTG)
+
+| Beep / symptom | Test |
+|---|---|
+| No power | Breaker; battery box connector over 18 V; **fuse 5c**; console; harnesses |
+| 3 | Over 32 V; charger output over **30 V** → charger |
+| 5 | Drive mode; brake **30–65 Ω** |
+| 7 | Throttle pot **5 kΩ** end to end, **12.5 kΩ** each side; speed pot 0 Ω at hare, **25 kΩ** at tortoise |
+| 8 | Motor 0.5–1.5 Ω |
+| 9 | Key in while fitting the battery box, or hot (rest 10–15 min); drags in freewheel → brake, motor or transaxle |
+
+## Repairs on file
+
+[[Elite Traveller Repair Instructions]]: throttle pot (ELEASMB4829),
+speed pot (fit the knob at **full rabbit**), motor (DRVMOTR1269; brake
+goes on with its **handle up, freewheel position**; keep the connector
+spring), drive wheel nut **28 N·m (20 ft·lb)**, S-Drive controller,
+and the **Elite Traveller Plus (SC53/54)** throttle pot and lower
+console (pull the harness through the tiller with a string; route it
+under the handlebar).
 
 ## See also
 
