@@ -53,9 +53,18 @@ PMS field experience; ranks below the manuals.
   cable and joystick (CTL143976) replaced (resolved). PMS fitted
   Interstate DCM0055 (22NF) batteries ([[Mobility-Batteries]]).
 
+## Seating service
+
+The TRU-Balance 4 parts guide is illustrated on this chair (seat base,
+iLevel seat assembly, interface rail heights about 17.5 / 18.25 /
+18.75 / 19.25 in): [[Tru-Balance-4-Power-Positioning]]. No base parts
+guide for the standard Edge 3 is on file; the
+[[Q6 Edge 3 Stretto Parts Replacement Guide (INFMANU5103)|Stretto's]]
+is the closest.
+
 ## See also
 
-[[Q6-Edge-3-Stretto]], [[Q6-Edge-4]], [[Q6-Edge-2.0]],
+[[Q6-Edge-3-Stretto]], [[Q6-Edge-4]], [[Q6-Edge-2.0]], [[Q6-Edge]],
 [[Q6 Edge Basic Troubleshooting]], [[Power-Chair-Troubleshooting]],
 [[Pride-Power-Chair-Lineup]], [[Joystick-Controllers]], [[Pride]]
 

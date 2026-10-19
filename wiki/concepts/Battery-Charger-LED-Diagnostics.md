@@ -1,9 +1,15 @@
 ---
 type: concept
-tags: [vpl, bruno, battery, charger, troubleshooting]
+tags: [vpl, bruno, pride, battery, charger, troubleshooting]
 ---
 
-# Battery Charger LED Diagnostic Chart (VPL)
+# Battery Charger LED Diagnostics
+
+Charger indicator tables from the manuals: Bruno's VPL charger and
+Pride's mobility chargers. Golden's chargers are on
+[[Golden-Battery-Charging]] and [[TruCharge-Diagnostics]].
+
+## Bruno VPL charger
 
 A 4-LED (Power/red, Charge/yellow, Float/green, Fault/red) diagnostic
 table for the VPL battery charger. Confirmed identical across
@@ -31,6 +37,39 @@ listing, FLASH/OFF/OFF/FLASH in another) — treat either as the same fault
 class (thermal shutdown) rather than two distinct states; the remedy is
 identical.
 
+## Pride scooter and power chair chargers
+
+From [[Charger Indicator Codes Quick Reference (INFINFB2586)]] (Rev A,
+Dec 2010). **Match the Pride part number on the charger label**: the
+same color means different things on different chargers (red is "power
+on" on some, "fault" on others, "charging" on the 5 A Guest). Newer
+chargers may not be on this 2010 sheet.
+
+| Charger (part no.) | Power light | Status / single light |
+|---|---|---|
+| 2 A off-board (old ELECHG1001; new ELECHG1007 or ELECHG1015) | Green = AC connected; red = error, short, voltage too low or blown fuse | Red = fast charging; green = full; off = disconnected, battery voltage too low or blown fuse |
+| 3 A off-board (ELEASMB5713) | Green = AC connected; red = error (short, reversed leads) | Red = fast charging; green = full; off = batteries disconnected or voltage too low |
+| 4 A Guest onboard (old ELE110V1029) | — | Green = full; **"extended green / no green LED" after more than 24 h = fault** (Pride's wording) |
+| 4 A Battery Maximizer onboard (power chair ELECHG1018, scooter ELECHG1019) | Green = AC connected; red = error (short, reversed leads) | Red = fast charging; green = full |
+| 5 A Merits (ELECHG1000) | Red = power on; off = disconnected | Yellow = charging; green = full; off = disconnected; **red = fault** |
+| 5 A Battery Maximizer (ELEASMB6293) | Green = AC connected; red = error (short, reversed leads) | Red = fast charging; green = full |
+| 5 A Power Cube (ELE110V1044) | Red = power on; off = disconnected | Flashing green = 80%; solid green = full |
+| 5 A Guest onboard (ELE110V1037) | — | Red = charging; red and green = 80%; green = full; **"extended green / no green LED" after more than 24 h = fault** (Pride's wording) |
+| 8 A Lester (ELE110V1041) | — | Red = fault; slow green blink = under 80%; fast green blink = over 80%; solid green = full |
+| 8 A CTE (ELEASMB5669) | — | Green flash = power on; red flash = error; orange = charging; orange flash = under 80%; green/orange flash = 80%; green = full |
+
+**Testing a Pride charger** (Pride's 2004
+[[Technical Troubleshooting Guide - Battery Guide (2004)|Battery Guide]]):
+plug the charger into the wall, unplug its **3-pin DC harness**, and
+read the **two outside pins** on the charger side: **25–30 VDC** = the
+charger is putting out. The other half of the connector should show
+battery voltage. A charger can still show "full" and never charge
+([[2026-10-05 GP162 bad charger stays green]], a Golden unit). Pride
+chargers won't start on batteries near 0 V
+([[Power-Chair-Troubleshooting]]).
+
 ## See also
 
-[[VPL-3100B]], [[VPL-3200B]], [[Bruno]], [[VPL-Troubleshooting]]
+[[VPL-3100B]], [[VPL-3200B]], [[Bruno]], [[VPL-Troubleshooting]],
+[[Mobility-Batteries]], [[Power-Chair-Troubleshooting]],
+[[Golden-Battery-Charging]], [[Pride]]

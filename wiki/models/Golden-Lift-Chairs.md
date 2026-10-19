@@ -70,4 +70,4 @@ the owner's manual (not on file).
 
 ## See also
 
-[[Golden]], [[Golden-Dealer-Tips]], [[Golden Tips]]
+[[Golden]], [[Golden-Dealer-Tips]], [[Golden Tips]], [[Pride-Lift-Chairs]] (Pride's troubleshooting sheet: wiring, dip switch, motor timing, scissors)

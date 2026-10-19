@@ -192,7 +192,7 @@ power on". QLNES uses the same numbers for 1–4, 20–26, 46 and 47.
 | 85 | Smart traction control offset (turn rate or temperature) | — |
 | 86 | Power cycle required | Power-cycle |
 | 141 | Advanced seat navigation not allowed with 1-switch scanner | — |
-| 150–155 | **TRU-Balance 4 tilt**: feedback defect, out of tolerance, actuator / anterior tilt / cam lock defect, function error, home switch, anterior tilt switch | Recalibrate feedback; else change tilt actuator, cam lock or switch assembly (150: see the TRU-Balance 4 technical troubleshooting guide) |
+| 150–155 | **TRU-Balance 4 tilt**: feedback defect, out of tolerance, actuator / anterior tilt / cam lock defect, function error, home switch, anterior tilt switch | Recalibrate feedback; else change tilt actuator, cam lock or switch assembly (150: see the TRU-Balance 4 technical troubleshooting guide, not on file; actuator calibration and parts: [[Tru-Balance-4-Power-Positioning]]) |
 | 156–158 | TRU-Balance 4 recline feedback / tolerance / switch | Recalibrate; change recline actuator |
 | 159–162 | Elevate feedback / tolerance / switch / not moving | Check cable; recalibrate; change elevate actuator |
 | 163–171 | AFP (articulating foot platform), AFP articulation and AFP elevation actuators: feedback, tolerance, switch defects | Check feedback cable; recalibrate; change that actuator assembly |

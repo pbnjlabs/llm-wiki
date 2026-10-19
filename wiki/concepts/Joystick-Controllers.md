@@ -16,13 +16,13 @@ newVSI) or Dynamic controllers instead; those are on
 | You see | It is | Codes |
 |---|---|---|
 | Colour LCD hand control with on/off–mode lever and speed knob (2008-era) | Legacy **Q-Logic** | [[Q-Logic-Fault-Codes]] |
-| Hand control J/AJ/LJ on a Power Base 75; faults shown as **icons** | **Q-Logic NE / NE+** | No manual on file |
+| Hand control J/AJ/LJ on a Power Base 75; LCD with **icons** and text messages | **Q-Logic NE / NE+** | Message table on [[Power-Chair-Troubleshooting]] §7 (from the Q6 Edge and J6 TTGs) |
 | Display hand control or Enhanced Display, Home/Aux/Settings screens, Key I/II | **Q-Logic 3** (3e: Bluetooth under Settings) | [[Q-Logic-Fault-Codes]] |
 | **LED-only** joystick, Key I/II, USB-C port, magnetic charger port | **QLNES** | [[Q-Logic-Fault-Codes]] (3-LED digit blink) |
 | Speed dial; or 10-LED arc with speed/profile buttons; or service indicator | GC3; VR2; Dynamic | [[Pride-Controller-Flash-Codes]] |
 
 Model-by-model electronics (2025–2026 charts): [[Pride-Power-Chair-Lineup]].
-Chairs on file: [[J6]], [[J4]], [[Q6-Edge-3-Stretto]], [[Q6-Edge-3]],
+Chairs on file: [[Q6-Edge]] (original, NE/NE+/Q-Logic), [[J6]], [[J4]], [[Q6-Edge-3-Stretto]], [[Q6-Edge-3]],
 [[Q6-Edge-4]], [[Q6-Edge-2.0]], [[Q6-Edge-HD]], [[4Front-2]],
 [[R-Trak]], [[Jazzy-1450]].
 
@@ -234,9 +234,32 @@ devices).
 Older Pride electronics on the **Power Base 75** with J, AJ and LJ hand
 controls, AM1/AM2/LAM2 actuator modules. Faults show as **icons**. Still
 on the 2025 chart for the [[J6]] (70 A) and [[Q6-Edge-HD]] (75 A);
-NE+ also on the [[R-Trak]]. Only the
-[[NE+ Firmware Compatibility List (2009)]] is on file, plus the NE/NE+
-coverage in [[Q6 Edge Basic Troubleshooting]].
+NE+ also on the [[R-Trak]]; originally on the [[Q6-Edge]].
+
+No NE/NE+ operation manual is on file, but the dealer troubleshooting
+guides for the original Q6 Edge
+([[Q6 Edge Technical Troubleshooting Guide (INFMANU4109 Rev B, 2012)]])
+and the J6 ([[J6 Technical Troubleshooting Guide (INFMANU4132)]]) cover
+the parts a tech needs:
+
+- **LCD** (NE and NE+): charging and lights indicators steady when
+  active, **flashing to show where a problem is**; error/warning
+  indicators; lockout key icon; actuator and controller error
+  indicators; attendant control. Message list:
+  [[Power-Chair-Troubleshooting]] §7.
+- **Reading faults:** a **Curtis handheld programmer**, Diagnostics →
+  Actual Faults (happening now) or Fault History (earlier).
+- **System Lock** must be enabled in programming to lock out. Lock: NE
+  hold the power button until it shuts off; NE+ hold **both profile
+  keys**. Unlock: power on, full forward to a beep, full back to a beep.
+- **Charger inhibit programming:** NE inhibit input i2 `chrgInb` = **ON**;
+  NE+ (and Q-Logic) Inhibit = **High** (Program Adjustments → System
+  Settings → Miscellaneous on 2012-and-later menus).
+- **Save System Configuration** after removing a module on purpose, or
+  the chair reports it missing.
+
+Firmware: [[NE+ Firmware Compatibility List (2009)]]. Symptom checklist:
+[[Q6 Edge Basic Troubleshooting]].
 
 ## See also
 

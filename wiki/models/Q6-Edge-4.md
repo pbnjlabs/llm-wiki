@@ -8,7 +8,9 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, ilevel]
 # Q6 Edge 4
 
 Quantum's newest Edge (2025). Mid-wheel drive, the fastest of the Edge
-family. Spec sheet only on file.
+family. On file: the spec sheet and the
+[[Q6 Edge 4 Parts Replacement Guide (INFMANU5618)]] (Rev A, Apr 2026).
+No owner's manual.
 
 From [[Q6 Edge 4 Specifications (INFINFB4695)]] (Rev B, Jul 2025):
 
@@ -36,9 +38,36 @@ flat-free), 4-pole motors, and **90 A QLNES or 120 A Q-Logic 3**
 electronics; HCPCS codes were "coming soon". Codes:
 [[Q-Logic-Fault-Codes]].
 
+## Service (parts guide)
+
+Full torque table: [[Pride-Parts-Replacement]]. Edge 4 points:
+- Prep: power off, motors in drive, **unplug the bus cable at the
+  rear door**, jack up.
+- Lug nuts 22–27 N·m (14 × 3 or 14 × 4 in wheels); rim screws 4–5 N·m
+  with Loctite 242; motor 3 screws 15–20 N·m; caster arm to frame
+  30–40; front suspension 10–15, rear 6–12; caster wheel bolt 12–16.
+- **Caster stem nut is set by feel**: tighten or loosen until the
+  free caster starts to turn at 0.20–0.45 N·m.
+- Batteries sit on a **slide-out tray** behind the rear door (unplug
+  the power and left motor harnesses at the module first). At the
+  breaker, the short wire goes left at about 120°, the long wire up from
+  the right and over the top.
+- **Terminal fuse:** 3.7–4.1 N·m in the battery section, 10–15 N·m in
+  the rear door section of the same guide. Confirm with Quantum.
+- **Drive inhibit after service:** accent-light module or Quantum PTO
+  **backup camera** connectors not fully latched. The backup camera
+  can't be used with a remote stop switch.
+- Options with their own sections: lighted fenders and caster caps,
+  full-base or accent lights, **encoder motors** (the camera wiring
+  appendix lists Standard and Accu-Trac motor setups), AM3/AM3L
+  for the Q-Captain seat, iLevel suspension lock harness.
+- Re-route motor, light and iLevel harnesses exactly as found;
+  cable-tie heads face in so they clear the fender.
+
 ## See also
 
 [[Q6-Edge-3]], [[Q6-Edge-3-Stretto]], [[Pride-Power-Chair-Lineup]],
+[[Pride-Parts-Replacement]], [[Tru-Balance-4-Power-Positioning]],
 [[Power-Chair-Troubleshooting]], [[Pride]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

@@ -29,6 +29,9 @@ division), US/UK/AU markets. Newer/higher-spec platform than the [[J6]]:
 - [[Q6 Edge Basic Troubleshooting]] — symptom-based troubleshooting
   (written for the general Q6 Edge family, covers Q-Logic/NE+/NE
   electronics)
+- [[Q6 Edge 3 Stretto Parts Replacement Guide (INFMANU5103)]] (Rev B,
+  2023) — removal and torque for seating, wheels, casters, suspension,
+  motors, batteries, power module, breaker and iLevel base
 
 ## Controller
 
@@ -56,6 +59,28 @@ lockout, recline lockout, etc.) is defined in the
 [[Tru-Balance-3-Power-Positioning]] inhibit matrix, which this model can
 also be built with instead of/alongside iLevel.
 
+## Service (parts guide)
+
+Torque values side by side with the other Pride chairs:
+[[Pride-Parts-Replacement]]. Stretto-specific points:
+- Lug nuts **22–27 N·m**; split-rim screws 4–5 N·m with Loctite 242.
+- Motor (3 screws to mount and backing plate) and motor mount
+  **15–20 N·m**. **5-spoke hubs use the top mount holes, 3-spoke the
+  bottom.**
+- Caster fork nut 25–30 N·m with a **new nut**; caster axle nut
+  12–16 N·m; caster arms 15–20; suspension pivot pins and damper ball
+  studs 10–15.
+- Battery stops: **55 Ah** stops adjust side to side in slotted holes
+  (2–5 N·m); **40 Ah** batteries need the stop removed to come out
+  (4–6 N·m).
+- Seat interface 32–38 N·m (TB Flex 15–20); towers 22–28.
+- iLevel caster-arm stop backing plate: **sloped edges up**. TRU-Balance
+  4 iLevel seat assembly on the Stretto needs its **spacer**
+  ([[Tru-Balance-4-Power-Positioning]]).
+- Power module port maps for **NE/NE+ and Q-Logic 3** are in the guide
+  (p. 22), which also shows an NE/NE+ joystick in chair prep; the 2025
+  chart lists QLNES or Q-Logic 3. Check the hand control.
+
 ## Known quirks/gotchas
 
 - Transit securement is **either** a WTORS strap tie-down (ANSI/RESNA
@@ -79,8 +104,9 @@ None for the Stretto. The 2026-09-25 iLevel no-power job was a
 - [[Pride]]
 - [[Joystick-Controllers]]
 - [[Power-Chair-Troubleshooting]] (symptom-first, incl. Q-Logic 3 error codes)
-- [[Tru-Balance-3-Power-Positioning]]
+- [[Tru-Balance-3-Power-Positioning]], [[Tru-Balance-4-Power-Positioning]]
+- [[Pride-Parts-Replacement]]
 - [[J6]]
-- [[Q6-Edge-3]], [[Q6-Edge-4]], [[Pride-Power-Chair-Lineup]]
+- [[Q6-Edge]], [[Q6-Edge-3]], [[Q6-Edge-4]], [[Pride-Power-Chair-Lineup]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

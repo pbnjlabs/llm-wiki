@@ -30,12 +30,16 @@ From [[Q6 Edge 2.0 Specifications]] (Rev H, Sep 2019):
 | Max slope / climb | 7.5° (US) / 3.5 in |
 
 Electronics (2025 chart): **75 A QLNES or 120 A Q-Logic 3**, 2-pole
-motors. Older Edges also shipped with Q-Logic NE/NE+ electronics,
-which [[Q6 Edge Basic Troubleshooting]] covers.
+motors. The original Edge before it shipped with Q-Logic NE/NE+ or
+legacy Q-Logic ([[Q6-Edge]]), which [[Q6 Edge Basic Troubleshooting]]
+and the original Edge's dealer guides cover. The 2017
+[[Q6 Edge Parts Replacement Guide (INFMANU4845)]] is titled "Q6 Edge"
+and fits the original; check the IPB before using its parts or torque
+values on a 2.0.
 
 ## See also
 
-[[Q6-Edge-3]], [[Pride-Power-Chair-Lineup]],
+[[Q6-Edge]], [[Q6-Edge-3]], [[Pride-Power-Chair-Lineup]],
 [[Power-Chair-Troubleshooting]], [[Joystick-Controllers]], [[Pride]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

@@ -93,7 +93,7 @@ Full lineup with chargers and controllers: [[Pride-Power-Chair-Lineup]].
 | Go Chair / Go Chair Med | 20 Ah nano-silica | [[Pride-Power-Chair-Lineup]] |
 | Jazzy EVO 613 / Elite ES / Select | U-1 | [[Pride-Power-Chair-Lineup]] |
 | Jazzy EVO 613 Li | **one** 25.6 V 32.4 Ah lithium iron phosphate | [[Pride-Power-Chair-Lineup]] |
-| Jazzy EVO 614/614HD, Elite 14, 600 ES, Elite HD | NF-22 | [[Pride-Power-Chair-Lineup]] |
+| Jazzy EVO 614/614HD, Elite 14, 600 ES, Elite HD | NF-22 | [[Pride-Power-Chair-Lineup]], [[Jazzy-600-ES]] |
 | Revo scooter | U1 (25 lb each) | [[Revo]] |
 | Go Go LX, Elite Traveller, ET Series, Ultra X | 12 Ah or 18 Ah (packs) | scooter pages |
 | Go Go Sport | 18 Ah | [[Go-Go-Sport]] |
@@ -101,6 +101,41 @@ Full lineup with chargers and controllers: [[Pride-Power-Chair-Lineup]].
 
 Pride's battery HCPCS codes match the Interstate sheet: U-1 E2365, NF-22
 E2361, Group 24 E2363, 18 Ah K0733; **lithium E2397**.
+
+## Testing lead-acid batteries (Pride)
+
+From Pride's [[Technical Troubleshooting Guide - Battery Guide (2004)]]
+(Rev B, 2004; lead-acid only). **Check the batteries first on every
+call and every maintenance visit**: weak batteries mimic other faults.
+
+| State of charge | Per 12 V battery | Pair |
+|---|---|---|
+| 100% | 12.8 V | 25.6 V |
+| 75% | 12.5 V | 25.0 V |
+| 50% | 12.2 V | 24.4 V |
+| 25% | 12.0 V | 24.0 V |
+| 0% | 11.8 V | 23.6 V |
+
+Open-circuit voltage, batteries disconnected, rested 3 h (or after a
+10 s load), 77 °F. Charge before 25%; **never below 10.5 V per
+battery**.
+
+- **Load test:** fully charge, then a standard (CCA) load tester, **at
+  least 50 A for 10 seconds**. In the field without time to charge: OCV
+  first, then load-test. A pass is a pass; a fail on undercharged
+  batteries means charge and retest before condemning them (shop
+  charge, or a second visit).
+- **Charger:** Pride chargers run bulk, absorption (14.2–15 V per
+  battery) and float (12.8–13.2 V, under 0.5 A), and handle gel and
+  AGM. Output test and LED meanings: [[Battery-Charger-LED-Diagnostics]].
+- **Early failures** (under a year) are usually **charging habits**.
+  Dirt across the terminals self-discharges a battery and holds heat;
+  life halves for every 15 °F over 77 °F.
+- **Storage:** charge fully, disconnect, check monthly, recharge below
+  80% (sulfation starts), never store below 32 °F.
+- Pride's FAQ says replacing both batteries "may not be necessary but is
+  recommended". **The house standard overrides it: replace every
+  battery** (top of this page).
 
 ## Lithium batteries (Pride)
 

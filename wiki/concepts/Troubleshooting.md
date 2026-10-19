@@ -128,6 +128,13 @@ not the brand or model name.
 - Pride Q-Logic / Q-Logic 3 / QLNES: [[Joystick-Controllers]],
   full code lists [[Q-Logic-Fault-Codes]],
   [[Q6 Edge Basic Troubleshooting]]
+- Pride NE / NE+ (LCD messages), inhibit jumper tests, voltage walk,
+  motor and brake resistance by chair: [[Power-Chair-Troubleshooting]]
+  (from the [[Q6-Edge]], [[J6]] and [[Jazzy-614]] dealer guides)
+- Pride scooter beep codes (Elite Traveller): [[Elite-Traveller]]
+- Pride charger LEDs by part number: [[Battery-Charger-LED-Diagnostics]]
+- Pride torque values and parts procedures: [[Pride-Parts-Replacement]],
+  [[Tru-Balance-4-Power-Positioning]]
 - Pride Jazzy PG VR2 / GC3 / newVSI and Dynamic (flash codes):
   [[Pride-Controller-Flash-Codes]]; which Pride chair has which
   controller: [[Pride-Power-Chair-Lineup]]
@@ -140,6 +147,12 @@ not the brand or model name.
 - Loses power over bumps (check cable connections and routing first): [[2026-09-30 GA541-Avenger S-Drive loose connectors]],
   [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]]
 - Brakes: [[Brake-Replacement]]
+
+### Lift chairs
+- Pride (not Okin-motor models): [[Pride-Lift-Chairs]]: outlet not
+  switched, connections locked, control box **dip switch**, dual motors
+  out of timing, motor clevis or stroke tube, scissors
+- Golden AutoDrive hand control resets: [[Golden-Lift-Chairs]]
 
 ### Ceiling and patient lifts
 - **Symptom-first (Prism/Handicare P440 and C-450/C-625):** [[Ceiling-Lift-Troubleshooting]]

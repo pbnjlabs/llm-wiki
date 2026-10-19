@@ -38,6 +38,12 @@ are about 0.25 in lower loaded because of the suspension.
 and 130 lb base; its own 2021 sheet says 24.5 in and 140 lb. The sheet
 is the model-specific document.
 
+## Seating service
+
+The TRU-Balance 4 parts guide covers this chair's seat base, depth
+settings (15–22 in) and seat-to-floor holes:
+[[Tru-Balance-4-Power-Positioning]].
+
 ## See also
 
 [[Jazzy-1450]], [[R-Trak]], [[Pride-Power-Chair-Lineup]],

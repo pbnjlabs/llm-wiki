@@ -12,7 +12,10 @@ basic-operation manuals side by side:
 [[VR2 Controller Basic Operation Instructions (INFMANU3354)]],
 [[GC3 Controller Basic Operation Instructions (INFMANU3937)]],
 [[newVSI Controller Basic Operation Instructions (INFMANU4935)]] and
-[[Dynamic Controller Basic Operation Instructions (INFMANU3676)]].
+[[Dynamic Controller Basic Operation Instructions (INFMANU3676)]],
+plus the Jazzy 614 Dynamic dealer guides
+([[Jazzy 614 Technical Troubleshooting Guide (INFMANU3834)]],
+[[Jazzy 614 Basic Troubleshooting (INFINFB2468)]]).
 Which chair has which controller: [[Pride-Power-Chair-Lineup]].
 Quantum Q-Logic chairs: [[Q-Logic-Fault-Codes]].
 
@@ -58,8 +61,17 @@ an inhibit at the same time).
 | 7 | Controller module fault | Communication connections and wiring |
 | 8 | Power module fault | Communication connections and wiring |
 | 9 | Communications fault | Communication connections and wiring |
-| 10 | Unknown fault | Provider |
+| 10 | Unknown fault ("controller fault" on the Jazzy 614 sheet) | Provider |
 | 11 | Incompatible controller | Provider |
+
+**Dealer steps per code** (Jazzy 614 TTG, the only Dynamic dealer
+guide on file; [[Jazzy-614]]): 1 = motors stalled for too long (check
+for an obstruction, else power module); 2 = about **20 V** at the power
+module (low-battery walk); 3/4 = motor **0.5–1.5 Ω** at the plug, else
+motor, if good power module; 5/6 = freewheel levers in drive, then
+brake **about 35 Ω** (Jazzy 614), else brake; 7–11 = bus cable and
+extension continuity (under 1 Ω each pin), corrosion, then power
+module, then joystick.
 
 **Same numbering as Golden's Dynamic Shark** table
 ([[Shark-Diagnostics]]), which gives resistance checks (cold motor
@@ -89,6 +101,11 @@ indicator with 11 codes → this table.
 - **Lock (Dynamic):** hold on/off **4 s** (display goes off, LEDs flash,
   short beep). **Unlock:** power on and press the **horn twice before the
   right-to-left ripple ends** (about 10 s), or it switches itself off.
+- **Dynamic inhibit with no charger plugged in** (left-to-right ripple
+  alternating with steady; speed light flashes when the joystick
+  moves): the charger socket's pins 2–3 read as shorted. Check the
+  **run plug** (pin 1–4 and 3–4 under 1 Ω) or that the 4-pin plug is in
+  the power module.
 - **Sleep:** powers off after a programmed idle time. VR2: switch off
   and on. GC3: press on/off. newVSI: **press on/off twice**. Dynamic: any
   key.
@@ -112,5 +129,6 @@ indicator with 11 codes → this table.
 ## See also
 
 [[Power-Chair-Troubleshooting]], [[Pride-Power-Chair-Lineup]],
+[[Jazzy-614]], [[Jazzy-600-ES]],
 [[Joystick-Controllers]], [[PG-Drives-Trip-Codes]],
 [[TruCharge-Diagnostics]], [[Shark-Diagnostics]], [[LiNX-Diagnostics]]

@@ -109,9 +109,19 @@ driving and elevation are set in the actuator module
 ([[Q-Logic-Seat-Configuration]]). Q-Logic 3 TRU-Balance 4 actuator
 fault codes 150–177: [[Q-Logic-Fault-Codes]].
 
+## TRU-Balance 4 and seat torque
+
+The newer **TRU-Balance 4** (anterior tilt, articulating foot platform,
+AAM) has its own page from its parts guide:
+[[Tru-Balance-4-Power-Positioning]]. Torque values for mounting TB3
+seats on each base (27.1/35.3 N·m on the 2017 Q6 Edge and Jazzy 600 ES;
+32–38 on the Stretto; 30–40 on the Edge 4) are on
+[[Pride-Parts-Replacement]].
+
 ## See also
 
-- [[J6]], [[Q6-Edge-3-Stretto]]
+- [[J6]], [[Q6-Edge-3-Stretto]], [[Q6-Edge]]
+- [[Tru-Balance-4-Power-Positioning]], [[Pride-Parts-Replacement]]
 - [[Joystick-Controllers]] (Q-Logic 3 iLevel indicators, seat/actuator
   programming — pretilt, latched actuators, Combined Functions)
 - [[Golden-Seating-Systems]] — for cross-manufacturer contrast (Golden's

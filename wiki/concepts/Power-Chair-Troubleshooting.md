@@ -10,8 +10,14 @@ A symptom-first guide for power chairs, built the same way as
 from **Pride/Quantum**: [[Q6 Edge Basic Troubleshooting]], the Q-Logic,
 Q-Logic 3 and QLNES manuals ([[Joystick-Controllers]],
 [[Q-Logic-Fault-Codes]]), Pride's VR2/GC3/newVSI/Dynamic manuals
-([[Pride-Controller-Flash-Codes]]) and the [[J6]] /
-[[Q6-Edge-3-Stretto]] operator manuals. Which Pride model has which
+([[Pride-Controller-Flash-Codes]]), the [[J6]] /
+[[Q6-Edge-3-Stretto]] operator manuals, and Pride's dealer **technical
+troubleshooting guides** (meter values, §2, §3 and §6a):
+[[Q6 Edge Technical Troubleshooting Guide (INFMANU4109 Rev B, 2012)|Q6 Edge]]
+and [[J6 Technical Troubleshooting Guide (INFMANU4132)|J6]] (NE, NE+,
+Q-Logic), [[Jazzy 614 Technical Troubleshooting Guide (INFMANU3834)|Jazzy 614]]
+(Dynamic), plus the [[Elite Traveller Basic Troubleshooting (INFINFB2039)|Elite Traveller]]
+scooter sheet. Which Pride model has which
 controller: [[Pride-Power-Chair-Lineup]]. **Golden** chairs and scooters
 follow the same steps but report faults through their own controllers
 (index at the bottom). For the general method, see [[Troubleshooting]].
@@ -59,6 +65,27 @@ Pride's checklist, in order:
      instructions, charge, then check against Pride's minimum voltage.
      **Never load-test lithium**
      ([[Lithium Battery Field Inspection Instructions]]).
+7. **Lead-acid state of charge** (Pride's 2004 Battery Guide, at rest
+   3 h): 12.8 V = full, 12.5 = 75%, 12.2 = 50%, 12.0 = 25%, 11.8 =
+   empty, per battery. Then **load-test**: 50 A or more for 10 s on a
+   charged battery ([[Mobility-Batteries]]).
+
+**Voltage walk (Pride TTGs).** Batteries good but still dead: meter
+from the joystick outward, all with the chair switched on.
+1. **Charger socket on the joystick**, pins 1 (B+) and 2 (B−): about
+   **25 V** → replace the joystick; **under 18 V** (not 0) → charge the
+   batteries; **0 V** → keep going.
+2. **Battery harnesses** (front and rear, at the battery cable): 0 V at
+   both ends → batteries; voltage at the battery but not the plug →
+   that harness.
+3. **Circuit breaker**: under 1 Ω good, open → breaker. **J6:** the
+   battery/breaker harness must run from **+ of one battery to − of the
+   other**; wired wrong, the chair won't power up and the breaker trips.
+4. **Power module bus port**, then the **bus cable extension** and
+   **bus cable** (pins 1 and 4 on the Q-Logic/NE bus connectors; on the
+   Jazzy 614, pins 1–4 at the power module and 2–3 along the Dynamic
+   bus cable): voltage in but not out → that cable; voltage
+   at the joystick end → joystick.
 
 ## 3. Powers on, won't drive
 
@@ -80,9 +107,34 @@ Pride's checklist, in order:
   neutral. iLevel chairs also lock driving when elevated past their
   thresholds ([[Tru-Balance-3-Power-Positioning]]). The inhibits are
   factory set; don't bypass them.
+- **Charger inhibit with no charger plugged in** (legacy Q-Logic
+  **#107**, NE/NE+ "Battery Charging or Drive Inhibit"; Dynamic:
+  left-to-right ripple alternating with steady): an **open in the
+  inhibit circuit**. Pride's jumper tests (Q6 Edge and J6 TTGs), chair
+  off between tests:
+  1. Seat module or run plug on a **PTO harness with a round 4-pin
+     barrel**: unplug it and jumper **pin 3 to pin 4**. Drives → replace
+     the run plug (or see that seating system's guide). **Never jumper
+     pins 1–2**: it sparks and blows the harness fuse.
+  2. Unplug the PTO harness or **14-pin run plug** at the power module
+     and jumper the module socket: **NE pin 4–6; NE+ or Q-Logic pin
+     1–9.** Wrong pins can damage the electronics. Drives → replace the
+     PTO harness or run plug.
+  3. Still no drive: check the programming (NE `chrgInb` **ON**; NE+ /
+     Q-Logic Inhibit **High**), else replace the power module.
+  - **Jazzy 614 (Dynamic):** with nothing in the charger socket, check
+    the **run plug**: pin 1–4 and pin 3–4 under 1 Ω, else replace it;
+    both good → joystick.
+  - **Q6 Edge 4:** an accent-light or backup-camera module connector
+    not fully latched gives a drive inhibit
+    ([[Pride-Parts-Replacement]]).
 - **Controller locked:** "Lock" on the display. Unlock: power on, push the
   joystick full forward, then full reverse (legacy Q-Logic; Q-Logic 3 has
-  the same option if it's been programmed).
+  the same option if it's been programmed). **NE** shows a key icon on
+  the LCD, **NE+** a key icon right of the battery gauge, **Q-Logic**
+  "System Lock": same unlock (full forward to a beep, full back to a
+  beep). Dynamic (Jazzy): right-to-left ripple, **horn twice** within
+  about 10 s.
 - **Suspension lock** (Q-Logic 3 #47): get to level ground.
 - Still nothing → read the error code (§7).
 
@@ -137,6 +189,26 @@ From Pride's checklist:
 - **Breaker keeps tripping:** heavy strain (overload, climbing). Rest a
   minute and reset. Repeated trips → provider.
 
+## 6a. Motor, brake and cable checks (meter)
+
+From Pride's technical troubleshooting guides. Power off and unplug the
+motor harness at the power module (and at the motor, to split motor
+from harness).
+
+| Check | Q6 Edge (NE/NE+/Q-Logic) | J6 (NE/NE+/Q-Logic) | Jazzy 614 (Dynamic) |
+|---|---|---|---|
+| Motor (armature through brushes) | 0.5–1.5 Ω | 0.5–1.5 Ω (red–black pins) | 0.5–1.5 Ω (pins 1–2) |
+| Park brake | **about 80 Ω** | **about 60 Ω** (two white pins) | **about 35 Ω** (pins 3–4) |
+| Motor brushes | replace if under **0.25 in** or damaged | same | — |
+| Bus cable, extension, multiplier | under 1 Ω each pin | same | same |
+| Circuit breaker | under 1 Ω | under 1 Ω | about 1 Ω or less |
+
+Motor reads wrong → pull the brushes; brushes fine → motor. Motor and
+brake read right at the plug → power module. Brake values differ by
+chair, so use the column for the chair (Golden's Shark guide gives
+40–80 Ω, [[Shark-Diagnostics]]). Freewheel levers in drive before any
+brake test.
+
 ## 7. Error codes: identify the controller first
 
 The **controller**, not the brand or model name, decides which table
@@ -181,9 +253,10 @@ Power-cycle to see the next fault. [[Q-Logic-Fault-Codes]].
 **Pride PG Drives VR2 / GC3 / newVSI** (Jazzy Air, Go Chair, EVO 613,
 Elite ES, Select, Jazzy 1450, Q1450 VR2 option): battery-meter flashes
 1–10 (1 battery, 2–5 motors, 6 charger inhibit, 7 joystick, 8 control
-system, 9 park brake, 10 overvoltage). **Pride Dynamic** (EVO 614/614HD,
-Elite 14, 600 ES, Elite HD): service indicator 1–11.
-[[Pride-Controller-Flash-Codes]].
+system, 9 park brake, 10 overvoltage). **Pride Dynamic** (Jazzy 614 /
+614 HD, EVO 614/614HD, Elite 14, 600 ES, Elite HD): service indicator
+1–11. [[Pride-Controller-Flash-Codes]]; dealer steps per code on
+[[Jazzy-614]].
 
 **Pride/Quantum Q-Logic (legacy):** full table on
 [[Joystick-Controllers]]; full 1–245 list on [[Q-Logic-Fault-Codes]]. Note the overlap: **legacy #75 = motor
@@ -191,9 +264,44 @@ disconnected, Q-Logic 3 #75 = not charging; legacy #35 = joystick
 connection fault, Q-Logic 3 #35 = joystick out of center.** Check which
 controller it is before acting on a number.
 
-**Pride NE / NE+ electronics** (older Q6 Edge; the 2025 chart still
-lists them on the J6 and Edge HD): faults show as **icons**. No NE/NE+
-manual is on file.
+**Pride NE / NE+ electronics** (original [[Q6-Edge]]; the 2025 chart
+still lists them on the J6 and Edge HD): the LCD shows an icon and a
+text message; read details with a **Curtis handheld programmer**
+(Diagnostics → Actual Faults, or Fault History for past faults). From
+the Q6 Edge and J6 TTGs:
+
+| LCD message | Do |
+|---|---|
+| Power Section Error | Power-cycle; check power module and joystick connections and wiring |
+| Joystick Not Centered / Out of Center | Release to center, power off and on, check connections |
+| Communication(s) Error | Joystick cable and bus connections |
+| Motor/Brake Error | Freewheel levers in drive; brake resistance (§6a) |
+| Open Motor (Error/Warning) | Motor connections and resistance (§6a) |
+| Low Battery / Low Battery Voltage | Charge; low-battery walk (§2, §8) |
+| High Battery Voltage | Disconnect the charger; call Quantum |
+| Drive Thermal Warning | Let the motors cool |
+| Battery Charging or Drive Inhibit (joystick on or off) | Unplug the charger; else the inhibit tests (§3) |
+| Drive Inhibit | Power module connections (§3) |
+| Speed Limit Warning (NE+) | Seat back to upright/normal |
+| Idle Mode (NE+) | Power-cycle |
+| Attendant Control Error (NE+) | Attendant control connections |
+| System Lock Mode (NE+) / key icon | Unlock (§3) |
+| Missing or defective module | Check connections; if removed on purpose, **Save System Configuration** on the programmer |
+
+The same guides' **legacy Q-Logic** table: #1–6 software, #19 / #23
+communication (check bus cables; unplug devices one at a time), #36
+not centered, #37 joystick connection, #38 out of range (calibrate),
+#105 low battery, #192 / #193 motor disconnected, #203 / #204 brake
+disconnected, #229 module missing ([[Q-Logic-Fault-Codes]]).
+
+**Pride scooters, beep codes** (Elite Traveller / Plus / Plus HD,
+2008 sheet; check the scooter's own manual for newer models):
+2 battery low (charge), 3 battery high, 5 brake trip (freewheel lever
+to drive, restart), 6 throttle pressed at key-on (release, reinsert key),
+7 throttle or speed pot fault, 8 motor disconnected, 9 controller trip
+(battery pack installed with the key in, or hot; wait, reinsert the
+key). Won't move after a long idle = **power-down timer** (remove and
+reinsert the key). [[Elite-Traveller]].
 
 **Remote look first (Q-Logic 3, QLNES):** with **Interactive Assist**
 the provider can read the error list, battery statistics and live values
@@ -231,7 +339,16 @@ provider support.
   V by model). Don't load-test ([[Mobility-Batteries]]).
 - **When the call is "batteries won't charge", check the charger too.** A
   Golden charger stayed green and never charged
-  ([[2026-10-05 GP162 bad charger stays green]]).
+  ([[2026-10-05 GP162 bad charger stays green]]). Pride charger LEDs by
+  part number: [[Battery-Charger-LED-Diagnostics]]. Pride's output
+  test: charger in the wall, unplug its 3-pin DC harness, **25–30 VDC**
+  across the two outside pins.
+- **Low-battery walk (Pride TTGs):** joystick charger socket over 16–18 V
+  → plug the charger in and read its lights (charging → charge 8–14 h;
+  powered but not charging → charger); no lights → **about 120 VAC** at
+  the outlet and at the charger cord. Battery voltage the same at the
+  batteries as at the joystick → **too low for the off-board charger**:
+  take the batteries to the shop to charge and load-test.
 - Batteries near zero won't wake a Pride charger (§2).
 - Always replace **both** batteries, matched type, chemistry and Ah (Pride
   requires it too). Battery cross-reference: [[Mobility-Batteries]].
@@ -254,5 +371,8 @@ provider support.
 [[Troubleshooting]], [[Joystick-Controllers]], [[Q-Logic-Fault-Codes]],
 [[Pride-Controller-Flash-Codes]], [[Pride-Power-Chair-Lineup]],
 [[Q6 Edge Basic Troubleshooting]],
-[[Q6-Edge-3-Stretto]], [[J6]], [[Tru-Balance-3-Power-Positioning]],
-[[Mobility-Batteries]], [[Brake-Replacement]], [[Scootaround-VA-Repairs]]
+[[Q6-Edge]], [[Q6-Edge-3-Stretto]], [[J6]], [[Jazzy-614]],
+[[Elite-Traveller]], [[Tru-Balance-3-Power-Positioning]],
+[[Tru-Balance-4-Power-Positioning]], [[Pride-Parts-Replacement]],
+[[Battery-Charger-LED-Diagnostics]], [[Mobility-Batteries]],
+[[Brake-Replacement]], [[Scootaround-VA-Repairs]]

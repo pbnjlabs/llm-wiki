@@ -33,11 +33,13 @@ Symptom-based checklist, not a diagnostic-code table:
   otherwise check drive-wheel lug nuts.
 - **Fault indicated**: Q-Logic-electronics chairs show numeric error codes
   (see [[Joystick-Controllers]]); NE+/NE-electronics chairs show icons
-  instead (not covered in this wiki — no NE+/NE manuals on file).
+  and LCD messages, now covered from the dealer troubleshooting guides
+  ([[Q6 Edge Technical Troubleshooting Guide (INFMANU4109 Rev B, 2012)]],
+  [[J6 Technical Troubleshooting Guide (INFMANU4132)]]).
 
 Explicitly a supplement to the owner's manual, not a replacement — see
 [[Q6-Edge-3-Stretto]] for the model page and its operator manual source.
 
-Feeds into: [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].
+Feeds into: [[Q6-Edge]], [[Q6-Edge-3-Stretto]], [[Joystick-Controllers]], [[Power-Chair-Troubleshooting]].
 
 Field notes using this checklist: [[2026-09-25 Q6-Edge-3 iLevel no power]].

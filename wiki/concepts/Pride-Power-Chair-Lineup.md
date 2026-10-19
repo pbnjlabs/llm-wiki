@@ -15,7 +15,7 @@ is **electronics**: it decides which fault table applies.
 | Electronics | Fault table |
 |---|---|
 | Q-Logic 3 / 3e, QLNES | [[Q-Logic-Fault-Codes]] (and [[Joystick-Controllers]]) |
-| Q-Logic NE / NE+ | Icons; no NE/NE+ manual on file ([[Joystick-Controllers]]) |
+| Q-Logic NE / NE+ | LCD icons and messages; table from the Q6 Edge and J6 TTGs on [[Power-Chair-Troubleshooting]] §7 ([[Joystick-Controllers]]) |
 | PG VR2, nVR2, GC3, newVSI | [[Pride-Controller-Flash-Codes]] |
 | Dynamic ("Dynamic LiNX" on Pride's charts) | [[Pride-Controller-Flash-Codes]] |
 | 35 A brushless (Jazzy Carbon family) | Not on file |
@@ -62,12 +62,12 @@ sit about 0.25 in lower loaded.
 | Jazzy Air Med | 300 | 3.7 (elevated too) | 2 × U-1, 22.2 lb | 5 A | 40 A PG VR2 | K0830/31 (seat elevator) |
 | Go Chair Med | 300 | 3.7 | 2 × 20 Ah nano-silica, 16 lb | 3.5 A | 40 A PG GC3 | K0821 (portable) |
 | Jazzy EVO 613 / 613 Li | 300 | 5.1 | 2 × U-1, 23.5 lb / **1 × 25.6 V 32.4 Ah LiFePO4**, 18.5 lb | 3.5 A | 40 A PG GC3 | K0822/23 |
-| Jazzy EVO 614 | 300 | 4.4 | 2 × NF-22, 36 lb | 5 A | 60 A Dynamic | K0822/23 |
+| Jazzy EVO 614 | 300 | 4.4 | 2 × NF-22, 36 lb | 5 A | 60 A Dynamic | K0822/23 (older Jazzy 614: [[Jazzy-614]]) |
 | Jazzy EVO 614HD | 450 | 4.88 | 2 × NF-22, 36 lb | 5 A | 60 A Dynamic | K0824/25 (HD) |
 | Jazzy Elite ES | 300 | 4 | 2 × U-1, 24.5 lb | 3.5 A | 40 A PG GC3 | K0822/23 |
 | Jazzy Select | 300 | 4.3 | 2 × U-1, 25.2 lb | 3.5 A | 40 A PG GC3 | K0822/23 |
 | Jazzy Elite 14 | 300 | 4 | 2 × NF-22, 37 lb | 5 A | 50 A Dynamic | K0822/23 |
-| Jazzy 600 ES | 300 | 4 | 2 × NF-22, 37 lb | 5 A | 50 A Dynamic | K0822/23 |
+| Jazzy 600 ES | 300 | 4 | 2 × NF-22, 37 lb | 5 A | 50 A Dynamic | K0822/23 ([[Jazzy-600-ES]]) |
 | Jazzy Elite HD | 450 (400 on 18 in deep seat) | 4 | 2 × NF-22, 37 lb | 5 A | 50 A Dynamic | K0824/25 (HD) |
 | Jazzy 1450 | 600 | 4.9 | 2 × Group 24, 52 lb | 8 A | 90 A PG VR2 (specialty controls OK) | K0826/27, K0839 ([[Jazzy-1450]]) |
 

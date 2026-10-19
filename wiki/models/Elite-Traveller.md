@@ -32,9 +32,36 @@ regenerative + electromechanical brakes; battery pack **12 Ah standard
 extended (31.75 lb); **2 A** off-board charger; max slope 6°; climbs 2
 in. 12 Ah doesn't meet AS/NZS 3695.2 / EN12184.
 
+## Troubleshooting and beep codes
+
+From [[Elite Traveller Basic Troubleshooting (INFINFB2039)]] (Rev B,
+2008), written for the earlier **Elite Traveller, Plus and Plus HD**.
+Confirm the beeps on a 40E/44E against its own manual (not on file).
+
+| Beeps | Condition | Do |
+|---|---|---|
+| 2 | Battery voltage too low | Charge fully |
+| 3 | Battery voltage too high | Provider |
+| 5 | Solenoid brake trip (freewheel lever in freewheel?) | Key out, lever to drive, restart |
+| 6 | Throttle pressed while the key went in | Release throttle, reinsert key |
+| 7 | Throttle or speed pot fault | Provider |
+| 8 | Motor disconnected | Provider |
+| 9 | Controller trip (pack installed with the key in, or overheated) | Wait several minutes, reinsert key |
+
+- **Won't power up:** key fully in, battery pack seated tight,
+  quick-disconnect joined, red to +, black to −, push the breaker reset.
+- **Powers up, won't move:** the **power-down timer** cut it after a long
+  idle (remove and reinsert the key), or the **charger is plugged into
+  the scooter** (inhibits driving even if not in the wall).
+- **Range:** batteries over a year old, charging habits (daily 8–14 h;
+  weekly 12–14 h when idle), wall-switched outlet, no extension cords.
+  Watch the meter rise while charging; if it doesn't, check the charger
+  fuse and the outlet.
+
 ## See also
 
 [[Go-Go-LX]], [[ET-Series]], [[Pride-Power-Chair-Lineup]],
+[[Power-Chair-Troubleshooting]],
 [[Mobility-Device-Weights]], [[Pride]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

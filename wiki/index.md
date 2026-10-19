@@ -12,7 +12,7 @@ Entry point for every query — check here first before opening raw manuals.
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
-| Pride | [[Pride]] | 56: 10 loose in `MANUALS/Pride/`, 46 sorted into subfolders 2026-10-15 (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `General/`) | 56 (3 duplicate downloads skipped; one is the Stretto spec sheet already on file) |
+| Pride | [[Pride]] | 72: 10 loose in `MANUALS/Pride/`, 46 sorted into subfolders 2026-10-15 and 16 more 2026-10-19 (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `General/`) | 72 (5 duplicate downloads skipped across the two batches) |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
@@ -129,21 +129,25 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto (75 A QLNES or Q-Logic 3) | Pride | [[Q6-Edge-3-Stretto]] |
 | Q6 Edge 3, standard (NF-22; QLNES on 2025 chart; spec sheet only) | Pride | [[Q6-Edge-3]] |
-| Q6 Edge 4 (7 mph, Group 24; spec sheet only) | Pride | [[Q6-Edge-4]] |
+| Q6 Edge 4 (7 mph, Group 24; spec sheet + 2026 parts guide: torque, lights, backup camera, battery tray) | Pride | [[Q6-Edge-4]] |
 | Q6 Edge 2.0 (spec sheet only) | Pride | [[Q6-Edge-2.0]] |
 | Q6 Edge HD (450 lb, Group 24; spec sheet only) | Pride | [[Q6-Edge-HD]] |
+| Q6 Edge, original (NE / NE+ / Q-Logic; dealer troubleshooting guide: voltage walk, inhibit jumpers, brake 80 Ω; 2017 parts guide) | Pride | [[Q6-Edge]] |
 | J4 / J4E / J4EHD (Group 2, NF-22; spec sheets) | Pride | [[J4]] |
 | 4Front 2 / 4Front 2 HD (front-wheel drive; spec sheets) | Pride | [[4Front-2]] |
 | R-Trak (rear-wheel drive, 7 mph; spec sheet) | Pride | [[R-Trak]] |
 | Jazzy 1450 / Quantum 1450 (600 lb; VR2 or Q-Logic 3; spec sheet) | Pride | [[Jazzy-1450]] |
+| Jazzy 614 / 614 HD (Dynamic; dealer troubleshooting guide, flash codes 1–11, brake 35 Ω, unlock = horn twice) | Pride | [[Jazzy-614]] |
+| Jazzy 600 ES (50 A Dynamic, NF-22; parts guide only) | Pride | [[Jazzy-600-ES]] |
 | Revo scooter 66/67 (400 lb, U1) | Pride | [[Revo]] |
 | Go Go LX scooter 50LX/54LX | Pride | [[Go-Go-LX]] |
-| Elite Traveller scooter 40E/44E | Pride | [[Elite-Traveller]] |
+| Elite Traveller scooter 40E/44E (+ 2008 beep code sheet for the older Elite Traveller / Plus / Plus HD) | Pride | [[Elite-Traveller]] |
 | Go Go Sport scooter 73/74 (325 lb) | Pride | [[Go-Go-Sport]] |
 | Ultra X scooter S39/S49/SC493 | Pride | [[Ultra-X]] |
 | ET Series scooter SC402E/SC442E(MS)/SC443E(MS) | Pride | [[ET-Series]] |
 | i-Go folding lithium scooter S20 | Pride | [[i-Go]] |
 | Super Portable SC15 folding lithium scooter (41.6 lb) | Pride | [[Super-Portable-SC15]] |
+| Lift chairs (2008 troubleshooting sheet, not Okin-motor models; **no owner's manuals**) | Pride | [[Pride-Lift-Chairs]] |
 | AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
 | C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
 | P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
@@ -174,7 +178,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Concept | Page |
 |---|---|
 | **Troubleshooting (start here for any "it doesn't work" call):** the method (record state, test each input, classify the response, prove power, voltage walk, jump outward from the board, swap and compare, same spot vs whole way) plus a symptom index for stairlifts, VPLs, vehicle lifts, scooters/chairs, ceiling lifts | [[Troubleshooting]] |
-| **Power chair troubleshooting, symptom-first** (Pride/Quantum detail + Golden controller index): triage, dead system (batteries near zero won't wake a Pride charger), powers on but won't drive (freewheel, charger inhibit, joystick at power-up, seat drive inhibit, lock), short range, slow/thermal rollback, pulling, clicking, **Q-Logic 3 error codes** (vs legacy Q-Logic: #35 and #75 mean different things), QLNES digit blinks, Pride VR2/GC3/Dynamic flash codes, lithium sleep mode, charging | [[Power-Chair-Troubleshooting]] |
+| **Power chair troubleshooting, symptom-first** (Pride/Quantum detail + Golden controller index): triage, dead system (batteries near zero won't wake a Pride charger; **Pride TTG voltage walk**), powers on but won't drive (freewheel, charger inhibit with **jumper tests** and inhibit programming, joystick at power-up, seat drive inhibit, lock), **motor/brake resistance by chair**, **NE/NE+ LCD messages**, Elite Traveller beep codes, short range, slow/thermal rollback, pulling, clicking, **Q-Logic 3 error codes** (vs legacy Q-Logic: #35 and #75 mean different things), QLNES digit blinks, Pride VR2/GC3/Dynamic flash codes, lithium sleep mode, charging | [[Power-Chair-Troubleshooting]] |
 | **Ceiling lift troubleshooting, symptom-first** (Prism/Handicare P440 + C-450/C-625): before-you-open checklist, P440 light meanings, won't wake/E-stop, swapped or self-triggering buttons (airline, grommet leaks), slack/thick-strap switches, overspeed (motor), board/fuse/motor tests, charging strips, track alignment, emergency lowering | [[Ceiling-Lift-Troubleshooting]] |
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
 | **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
@@ -183,7 +187,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Automatic door operators (AutoSlide vs. AutoSwing vs. Open Sesame 133/233; swing-door site survey; activation options) | [[Automatic-Door-Operators]] |
 | Rail mounting/anchoring guidance | [[Rail-Mounting-Guidance]] |
 | Top landing gate installation (VPL) | [[Top-Landing-Gate-Installation]] |
-| Battery charger LED diagnostics (VPL) | [[Battery-Charger-LED-Diagnostics]] |
+| Battery charger LED diagnostics (Bruno VPL charger; **Pride's ten scooter/chair chargers by part number**, Pride charger output test 25–30 VDC) | [[Battery-Charger-LED-Diagnostics]] |
 | Diagnostic codes (SRE-2010/3000, CRE-2110; full d/F/C display table with beeps; **d4 = over-current**, TechMate's "d6" label is wrong) | [[Diagnostic-Codes]] |
 | Bruno warranty (stairlift + vehicle lift variants; **lifetime on post-2018 SRE-3000/2010/2010C**, VPL 1/2 yr, refurb/demo/parts terms; government version: lifetime only while the original owner has it, start no later than 14 months after shipping) | [[Warranty]] |
 | Staircase measuring system (Picture Perfect) | [[Staircase-Measuring-System]] |
@@ -216,6 +220,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Q-Logic seat configuration (AAM/AM1/AM2/LAM2 configuration numbers, A1–A5 channels, tilt thresholds and factory defaults, head-array 2-switch mode) | [[Q-Logic-Seat-Configuration]] |
 | Q-Logic 3 Bluetooth and remote programming (Econ-W/Econ-I, access levels, **Interactive Assist** remote diagnostics, phone/tablet mouse and Switch Control, GyroSet Vigo) | [[Q-Logic-3-Bluetooth-and-Remote-Programming]] |
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
+| **TRU-Balance 4** (anterior tilt needs chest support and knee block; legrest ≤ STF − 3.5 in; Q-Logic 3 actuator calibration, teach anterior tilt, teach elevate vs AFP; seat torque, depth and STF tables) | [[Tru-Balance-4-Power-Positioning]] |
+| **Pride/Quantum parts replacement** (torque values side by side from the Q6 Edge, Jazzy 600 ES, Stretto and Edge 4 parts guides; axle key, run-flat wheels, nylon nuts, drive inhibit after service) | [[Pride-Parts-Replacement]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term; dealer registration/RMA/labor process; FSS vehicle-lift version adds batteries/paint/covers and 1 yr labor) | [[Harmar-Warranty]] |
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes, Golden and Pride batteries by model, **Pride lithium minimum voltages (never load-test lithium)**; house standard: always replace every battery in the device | [[Mobility-Batteries]] |
 | Grab bar installation (PMS methods: tile, drywall/blocking, no fiberglass; VA jobs) | [[Grab-Bar-Installation]] |
@@ -431,7 +437,7 @@ Holder Installation, Power Seat Operation, Proflex Seat Instructions,
 Right to Left Side Joystick Conversion, Seat Belt Instructions, Touch Up
 Paint Tips, Universal Mirror Mount, Mobility Seats.
 
-Pride (56 of 56 ingested — fully ingested) — see `wiki/sources/Pride/`.
+Pride (72 of 72 ingested — fully ingested) — see `wiki/sources/Pride/`.
 Original 10: J6 Specifications, J6 VA Specifications, J6 Operator
 Manual, Q6 Edge 3 Stretto Specifications, Q6 Edge Basic
 Troubleshooting, Q6 Edge 3 Stretto Operator Manual, Q-Logic Controller
@@ -451,7 +457,16 @@ charts, tilt threshold definitions, Q-Logic 3 fault list (2025),
 Q-Logic 3 Programming Guide Rev A (superseded), Econ-I and Econ-W
 guides, two Bluetooth startup guides, Q-Logic 3 HHP update, Interactive
 Assist dealer manual, GyroSet Vigo setup, QLNES BOI, and the VR2, GC3,
-newVSI and Dynamic controller BOIs.
+newVSI and Dynamic controller BOIs. Added 2026-10-19 (16): technical
+troubleshooting guides for the original Q6 Edge (Rev A 2011, superseded,
+and Rev B 2012) and the J6 (`Q6 Edge/`, `J6/`), the Jazzy 614 TTG and
+basic sheet and the Jazzy 600 ES parts guide (new `Jazzy/`), parts
+replacement guides for the Q6 Edge (2017), Q6 Edge 3 Stretto (2023)
+and Q6 Edge 4 (2026), the TRU-Balance 4 parts guide (`Seating/`), the
+Elite Traveller troubleshooting sheet and the S19 console bulletin
+(`Scooters/`), the lift chair troubleshooting sheet (new `Lift Chairs/`),
+and in `General/` the charger indicator codes sheet and the 2004
+Technical Troubleshooting Guide's battery and electronics chapters.
 
 Prism (5 of 5 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual, Ceiling Lift Evaluation Form (generic
@@ -591,7 +606,7 @@ owner's manual on disk**. Checked 2026-10-12 against every file in the
 repo's `MANUALS/`, which matches the human's own folder
 (`/home/lu/Work/MANUALS`) except for the web clippings, which come from
 the vault's `Clippings/` folder (Pride and `Bruno/TechMate/` synced
-2026-10-16). Tick an item off when its manual is ingested. Source for most
+2026-10-16; the 2026-10-19 Pride batch was filed into both). Tick an item off when its manual is ingested. Source for most
 missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
 **Golden:** every manual on Golden's public website was ingested
@@ -649,14 +664,24 @@ on file):
   only the AutoDrive reset/calibration sheet is on file, no owner's
   manuals. Ask Golden lift chair tech support (800-624-6374 x502).
   See [[Golden-Lift-Chairs]].
-- [ ] **Pride/Quantum owner's manuals** (added 2026-10-15): the Q6 Edge
-  3 (standard), Edge 4, Edge 2.0, Edge HD, J4/J4E, 4Front 2/2 HD, R-Trak,
-  Jazzy/Quantum 1450 and all eight scooters (Revo, Go Go LX, Elite
-  Traveller, Go Go Sport, Ultra X, ET Series, i-Go, SC15) have **spec
-  sheets only**. Also missing: any **NE/NE+** operation manual, the
-  **Q-Logic 3e** BOI, the **TRU-Balance 4 technical troubleshooting
-  guide** (Q-Logic 3 seat codes 150–177 point to it), and anything for
-  the Jazzy/retail chairs beyond Pride's charts. Source:
+- [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; updated
+  2026-10-19): the Q6 Edge 3 (standard), Edge 4 (now has a parts guide),
+  Edge 2.0, Edge HD, J4/J4E, 4Front 2/2 HD, R-Trak, Jazzy/Quantum 1450,
+  the original Q6 Edge (service guides only), Jazzy 614 and Jazzy 600 ES
+  (service guides only) and all eight scooters (Revo, Go Go LX, Elite
+  Traveller, Go Go Sport, Ultra X, ET Series, i-Go, SC15) have **no
+  owner's manual**. Also missing: an **NE/NE+** operation manual (the
+  Q6 Edge and J6 TTGs now cover the LCD messages, lock and inhibit
+  programming), the **Q-Logic 3e** BOI, the **TRU-Balance 4 technical
+  troubleshooting guide** (Q-Logic 3 seat codes 150–177 point to it;
+  only the TB4 parts guide is on file), **IPBs** for any Pride chair
+  (the parts guides send you to them for part numbers), and anything
+  for the Jazzy/retail chairs beyond Pride's charts.
+- [ ] **Pride lift chairs** (added 2026-10-19): PMS sells them, but only
+  Pride's 2008 basic troubleshooting sheet is on file. Need the owner's
+  manual and technical troubleshooting guide for the models PMS sells.
+  Pride Technical Service 1-877-800-1248 (7, then 5 for lift chairs).
+  See [[Pride-Lift-Chairs]]. Source:
   pridemobility.com / quantumrehab.com owner's manuals, prideservice.com
   (dealer log-in), Pride Technical Service 1-877-800-1248, Quantum
   866-800-2002.
@@ -678,7 +703,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Golden — fully ingested, no backlog remaining.
 
-### Pride — fully ingested (56 files, 46 added 2026-10-15). No unread files; the gaps are documents that aren't on disk (Missing manuals above): owner's manuals for most Quantum models and all the scooters, an NE/NE+ manual, the TRU-Balance 4 technical troubleshooting guide, and anything for the Jazzy/retail chairs beyond the end-to-end charts.
+### Pride — fully ingested (72 files: 46 added 2026-10-15, 16 added 2026-10-19). No unread files; the gaps are documents that aren't on disk (Missing manuals above): owner's manuals for most Quantum models and all the scooters, an NE/NE+ operation manual, the TRU-Balance 4 technical troubleshooting guide, IPBs, lift chair manuals, and anything for the Jazzy/retail chairs beyond the end-to-end charts. Open: which scooter is the "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]].
 
 ### Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. Open question: is [[C-450-C-625]] itself also Handicare-manufactured? Not yet confirmed either way.
 
