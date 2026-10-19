@@ -703,7 +703,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Golden — fully ingested, no backlog remaining.
 
-### Pride — fully ingested (72 files: 46 added 2026-10-15, 16 added 2026-10-19). No unread files; the gaps are documents that aren't on disk (Missing manuals above): owner's manuals for most Quantum models and all the scooters, an NE/NE+ operation manual, the TRU-Balance 4 technical troubleshooting guide, IPBs, lift chair manuals, and anything for the Jazzy/retail chairs beyond the end-to-end charts. Open: which scooter is the "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]].
+### Pride — fully ingested (72 files: 46 added 2026-10-15, 16 added 2026-10-19). No unread files; the gaps are documents that aren't on disk (Missing manuals above): owner's manuals for most Quantum models and all the scooters, an NE/NE+ operation manual, the TRU-Balance 4 technical troubleshooting guide, IPBs, lift chair manuals, and anything for the Jazzy/retail chairs beyond the end-to-end charts. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 
 ### Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. Open question: is [[C-450-C-625]] itself also Handicare-manufactured? Not yet confirmed either way.
 

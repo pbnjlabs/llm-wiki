@@ -12,7 +12,9 @@ tags: [pride, scooter, service-bulletin, console, parts]
 1-page Pride R&D provider bulletin, 31 Aug 2022. Pride numbers its
 scooters with an S prefix (S39/S49 Ultra X, S20 i-Go), so **S19** is a
 scooter model; the bulletin doesn't name it and no other document on
-file mentions S19.
+file mentions S19. The human doesn't recognize it either (2026-10-19)
+and thinks it's probably an **outdated legacy model**. Low priority:
+the part numbers are what matter if one comes in.
 
 - The **analog voltmeter** consoles, top **ELE150040** and bottom
   **ELE150042**, are discontinued. Use stock until it runs out.

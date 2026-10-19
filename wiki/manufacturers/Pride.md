@@ -65,7 +65,8 @@ family. See [[Pride-Power-Chair-Lineup]].
 [[Super-Portable-SC15]] (folding, lithium). Spec sheets, plus the
 2008 Elite Traveller troubleshooting sheet with **beep codes**. The
 2022 bulletin [[S19 Analog Console Part Runout (GENERAL-010)]] covers
-console replacement on an unnamed "S19" scooter.
+console replacement on an unnamed "S19" scooter (probably an outdated
+legacy model, per the human).
 
 ### Lift chairs
 
