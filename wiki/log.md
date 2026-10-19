@@ -1203,3 +1203,6 @@ Per the human: the Q6 Edge HD coiled bus cable is the same kind of issue as the 
 
 ## [2026-10-16] clarification | Pride Q6 Edge HD — coiled bus cable pulled on the connection
 Per the human: the coiled bus cable was pulling on its connection, the same mechanism as the Avenger S-Drive. Stated in [[2026-10-16 Q6-Edge-HD cuts out then powers down on bumps]] and [[Power-Chair-Troubleshooting]].
+
+## [2026-10-19] clarification | VPL installation — permits and licensing (SC, GA)
+From a PMS email reply to a tech's questions, pasted by the human. A permit should be pulled for every VPL job, in all cases (replaces "permits not required in every state"). SC: no elevator license; a residential builder's license is required to subcontract electrical/HVAC/plumbing, so technically every SC VPL install needs one (PMS has one); with electrical already in place, a specialty license applies to jobs of $5,000 or under. GA: elevator license and elevator permit required. Open: what the permit covers and who pulls it. Updated [[VPL-Installation]], [[VPL Install Template]] and index.md. Staff names left out.

@@ -56,7 +56,7 @@ does each depends on the techs' capabilities: PMS tech or sub.
 - [ ] GFI outlet within 10 ft, reset reachable, not under the deck
       ([[PMS Electrical Work Orders and Preferred Electricians]], $450 limit): N/A / by ___ / before / after install / done and tested ___
 - [ ] Fascia (smooth, vertical, sound; treated decking, not plywood; 3/8–3/4 in running clearance): N/A / by ___ / done ___
-- [ ] Permits and inspections (not required in every state): N/A / pulled ___ / inspected ___
+- [ ] **Permit pulled (every job)**: ___  inspected ___. GA: elevator permit + elevator license
 - [ ] Other: ___
 
 ### 3. Crew, tools and transport

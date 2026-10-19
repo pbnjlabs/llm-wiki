@@ -39,12 +39,34 @@ finished **before the lift is delivered**, except the GFI:
 - **Fascia**: smooth, vertical, sound, 3/8–3/4 in running clearance.
   Use treated decking boards, not plywood
   ([[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]).
-- **Permits and inspections**: **not required in every state**. Check
-  local requirements for each job.
+- **Permit: pull one for every job, in all cases** (see Permits and
+  licensing below).
 
 **Who does it depends on the technicians' capabilities.** A PMS tech
 does the work they're able to do; the rest is subbed out (e.g. an
 electrician for the GFI).
+
+#### Permits and licensing
+From a PMS email reply to a tech's questions (pasted by the human,
+2026-10-19). House practice.
+
+- **A permit should be pulled for every job, in all cases.** This holds
+  even where the state doesn't require an elevator license.
+- **South Carolina:** **no elevator license** required. A **residential
+  builder's license** is required to **subcontract** electrical, HVAC or
+  plumbing work. Because PMS subs out the electrician, **technically
+  every VPL install in SC requires a residential builder's license**.
+  PMS has one.
+- **SC, electrical already in place (no electrician subbed):** a
+  **specialty license** is required for jobs of **$5,000 or under**. The
+  residential builder's license doesn't cover that case.
+- **Georgia:** requires **both an elevator license and an elevator
+  permit**.
+- **Other states:** not covered yet.
+
+**Open questions** (asked in the email, not yet answered): what the
+permit covers (concrete, electrical, deck, the VPL, or all of it), and
+**who is responsible for pulling it**.
 
 ### 3. Crew, tools and transport
 - **Crew of 2.** (Bruno also says never work alone, and the lift weighs
