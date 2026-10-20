@@ -8,7 +8,9 @@ tags: [scooter, golden, eagle, off-road, 4-wheel, heavy-duty]
 # GR595 Eagle (Golden)
 
 Golden's **off-road, heavy-duty 4-wheel scooter**, on Golden's 2026 VA
-lineup. It followed the [[GR575-Patriot]]. Link to [[Golden]].
+lineup. It followed the [[GR575-Patriot]]; its successor is the
+[[GR596-Eagle-All-Terrain]] (377–407 lb, 200 A, 11.2 mph). Link to
+[[Golden]].
 
 ## Documents on file
 
@@ -51,5 +53,5 @@ No service guide is on file.
 
 ## See also
 
-[[Golden]], [[GA541-Avenger]], [[GR575-Patriot]], [[S-Drive-Beep-Codes]],
+[[Golden]], [[GA541-Avenger]], [[GR575-Patriot]], [[GR596-Eagle-All-Terrain]], [[S-Drive-Beep-Codes]],
 [[Mobility-Device-Weights]]

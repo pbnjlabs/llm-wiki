@@ -29,6 +29,27 @@ The **amber wrench LED** on the remote flashes the count.
 | 10 | Unknown fault | Return the controller. |
 | 11 | Incompatible control unit | The controller and remote branding must match. |
 
+### The 2017 owner's manual numbers them differently
+
+The [[Compass HD Owners Manual (GP620, Shark)]] (Dec 2017) prints a
+**10-code** table read off the SHARK information gauge:
+
+| Code | Owner's manual | Service guide (above) |
+|---|---|---|
+| 1 | User fault (stall or user error; release the joystick) | User fault |
+| 2 | Battery fault | Battery fault |
+| 3 / 4 | **Right** / **left** motor | M1 / M2 motor |
+| 5 / 6 | **Right** / **left** park brake | M1 / M2 park brake |
+| 7 | SHARK **control unit** fault (check the bus; replace the control unit) | Remote fault |
+| 8 | SHARK **power module** fault (replace the power module) | Controller fault |
+| 9 | Communications fault | Communications fault |
+| 10 | Unknown fault | Unknown fault |
+| 11 | not listed | Incompatible control unit |
+
+So on the GP620, **M1 = right and M2 = left**. Codes 7 and 8 name the
+same two boxes from different angles: 7 points at the joystick (control
+unit), 8 at the power module.
+
 **Battery gauge conditions:**
 - **Left red LED flashing:** extremely low battery. Charge for 8 h or
   more.

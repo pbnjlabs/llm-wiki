@@ -40,7 +40,9 @@ to [[Golden]].
   and "**Alante Sport GP205**" as covered models, not "GP204" — likely
   the same Alante family under different/newer part numbers, but not
   confirmed identical to GP204. Don't assume GP204 is covered by that
-  warranty text without checking a GP204-specific source.
+  warranty text without checking a GP204-specific source. (The 2021
+  Alanté series owner's manual covers GP205/206/207 and doesn't mention
+  the GP204 either: [[GP205-Alante-Sport]].)
 
 ## See also
 

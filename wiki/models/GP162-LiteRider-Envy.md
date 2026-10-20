@@ -27,7 +27,8 @@ seat post shared with the older "LiteRider PTC GP160", see
 [[GP160-LiteRider-PTC]]) and **GP162C**
 (distinct frame, seat swivel with built-in lock).
 
-Link to [[Golden]].
+Link to [[Golden]]. The lighter **GP161 Envy Lite** (250 lb, 2-18 Ah,
+113 lb) has its own page: [[GP161-LiteRider-Envy-Lite]].
 
 ## Sell-sheet specs (Sep 2025)
 
@@ -89,7 +90,7 @@ Seat codes: takes SM5, SM4 (Opt), SME, and SMP (Pro-Flex, Option) — see
 
 ## See also
 
-[[Golden]], [[GP160-LiteRider-PTC]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
+[[Golden]], [[GP161-LiteRider-Envy-Lite]], [[GP164-BuzzAbout]], [[GP160-LiteRider-PTC]], [[GP204-Alante-DX]], [[GP6xx-Compass]],
 [[TruCharge-Diagnostics]], [[LiNX-Diagnostics]],
 [[Golden-Wheelchair-Warranty]], [[Golden-Seating-Systems]]
 

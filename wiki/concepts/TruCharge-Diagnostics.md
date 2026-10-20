@@ -54,6 +54,14 @@ The guides name them "VR2 flash codes" (e.g. 3 = left motor wiring trip,
 6 = charger connected, 9 = solenoid brake trip). On these chairs the
 motors read **under 5 Ω**.
 
+Owner's manuals added 2026-10-20 print the same 10-LED table, with the
+VR2 lock/unlock sequence, for the [[GP161-LiteRider-Envy-Lite]] (PG
+**nVR2**, 50 A), the **GP205/206/207 Alanté** series
+([[Alante Series Owners Manual (GP205, GP206, GP207)]], 50 A) and the
+[[GP208-Alante-Sport]] (40 A). The [[GP130-CarryOn-Power-Chair]] uses a
+similar but **different** 9-entry table (no 6, brake at 9), on its own
+page.
+
 | Bar | Fault |
 |---|---|
 | 1 | Low battery voltage (bad connection) |
@@ -79,6 +87,6 @@ ELE1906793 (SLA) or ELE2008025 (lithium) instead
 
 ## See also
 
-[[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[GP160-LiteRider-PTC]],
-[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[LiNX-Diagnostics]],
+[[GA541-Avenger]], [[GP162-LiteRider-Envy]], [[GP161-LiteRider-Envy-Lite]], [[GP160-LiteRider-PTC]],
+[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[GP208-Alante-Sport]], [[LiNX-Diagnostics]],
 [[Flash-Beep-Diagnostics]], [[S-Drive-Beep-Codes]], [[Freewheel-Mode]], [[Golden]]

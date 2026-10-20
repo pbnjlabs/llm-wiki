@@ -29,11 +29,28 @@ with that controller so far:
 - [[GB120-Buzzaround-CarryOn]]: [[Buzzaround Carry On Service Guide (GB120)]]
 - [[GL109-LiteRider-Mini]]: [[LiteRider Mini Service Guide (GL109)]]
 
+**Owner's manuals added 2026-10-20** print the same 1–9 table for:
+[[GB1xx-Buzzaround-XL]] **GB107/GB108 LT, GB121 Lite, GB121B/GB124A XL
+and XLS HD**; [[GB118-148-Buzzaround-EX]] (OM); [[GB119-149-Buzzaround-LX]];
+[[GB120-Buzzaround-CarryOn]] **GB120 and GB220** (shown on the battery
+meter with horn beeps, in shorter wording); [[GL112-LiteRider-HD]] (one
+long beep, then the count); and the Companions in the
+[[Companion Owners Manual (DME Edition)]], the
+[[Companion HD Owners Manual (GC540)]] and the
+[[ScooterBug Companion Owners Manual (GC340R)]]. The GC540 uses this
+table even though its controller is a Dynamics Rhino 2 (per the IPB),
+not an R-Series.
+
+> [!note] Code 3 in the owner's manuals
+> Every owner's manual says only "**consult your provider**" for code 3.
+> The service guides say **high battery voltage (over 26 V)**. Use the
+> service-guide meaning when troubleshooting.
+
 Distinct from the [[TruCharge-Diagnostics]] 10-bar display confirmed on
 the GA541 Avenger and the GP162 PTC/VR2 wheelchair variant (PG
 "S-Drive"/VR2 controllers), from [[LiNX-Diagnostics]] (7-code, GP162's
 LiNX-controller variant), from [[S-Drive-Beep-Codes]] (GB106, Patriot,
-Eagle) and from [[Shark-Diagnostics]] (11-code). Golden uses at least six diagnostic schemes (the sixth is the Cricket's Micon beep table, on [[GP302-Cricket]])
+Eagle) and from [[Shark-Diagnostics]] (11-code). Golden uses at least eight code tables (others: the Cricket's Micon beep table on [[GP302-Cricket]], the Ally display codes on [[Ally-Fault-Codes]] and the GP130's flash table on [[GP130-CarryOn-Power-Chair]]; [[Golden]] lists them all)
 across its scooter and power-wheelchair lines — the controller family is
 what determines which scheme applies, not the model name or product
 category, so check for a Dynamics R-Series controller before assuming
@@ -70,6 +87,6 @@ mat (under the battery box on the Buzzaround XL) for field reference.
 ## See also
 
 [[GC240-340-440-540-Companion]], [[GL110-140-LiteRider]],
-[[GL111-141-LiteRider]], [[GB1xx-Buzzaround-XL]], [[GB118-148-Buzzaround-EX]],
+[[GL111-141-LiteRider]], [[GL112-LiteRider-HD]], [[GB1xx-Buzzaround-XL]], [[GB118-148-Buzzaround-EX]], [[GB119-149-Buzzaround-LX]],
 [[GB120-Buzzaround-CarryOn]], [[GL109-LiteRider-Mini]], [[TruCharge-Diagnostics]],
 [[S-Drive-Beep-Codes]], [[Freewheel-Mode]], [[Golden]]

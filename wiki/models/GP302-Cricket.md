@@ -30,7 +30,9 @@ on the serial label.
 ## Beep codes (Micon controller)
 
 From the owner's manual (GP302A): the horn beeps **twice**, then the
-count.
+count. The [[GP301-Stride]] manual prints the **same table**, word for
+word. The [[GP309-Cricket-LT]] uses a close variant (1 = communication,
+8 = joystick failure).
 
 | Beeps | Fault | Check |
 |---|---|---|
@@ -65,8 +67,10 @@ fully and remove the pack.
 - Medicare K0899. Warranty: 5 yr frame, 13 months drive train and
   electronics, 1 yr battery (the OM agrees). Max incline 6°.
 
-Compare [[GP303-Ally]] (Golden's other folding chair, 56 lb, 330 lb).
+Compare [[GP303-Ally]] (Golden's other folding chair, 56 lb, 330 lb),
+the lighter [[GP309-Cricket-LT]] (25.8 lb) and the [[GP301-Stride]]
+(58 lb).
 
 ## See also
 
-[[Golden]], [[GP303-Ally]], [[LiNX-Diagnostics]], [[Mobility-Device-Weights]]
+[[Golden]], [[GP309-Cricket-LT]], [[GP301-Stride]], [[GP303-Ally]], [[LiNX-Diagnostics]], [[Mobility-Device-Weights]]

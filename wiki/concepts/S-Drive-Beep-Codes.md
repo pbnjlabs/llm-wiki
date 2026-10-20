@@ -12,9 +12,16 @@ Confirmed on:
 - [[GB1xx-Buzzaround-XL]]: **GB106** Buzzaround Lite only
   ([[Buzzaround Lite Service Guide (GB106)]]). The other Buzzarounds use
   the Dynamics R-Series ([[Flash-Beep-Diagnostics]]).
-- [[GR575-Patriot]] ([[GR575 Patriot Service Guide]]).
+- [[GR575-Patriot]] ([[GR575 Patriot Service Guide]] and the 2020
+  [[GR575 Patriot Owners Manual]]: fast beeps for 2 s, then the code
+  once; 8 says check the freewheel switch, 9 says check tire inflation).
 - [[GR595-Eagle]] ([[GR595 Eagle Owners Manual]]). The Eagle also shows
   the code as an **E-code** on its LCD.
+- [[GR596-Eagle-All-Terrain]] ([[GR596 Eagle All Terrain Owners Manual]],
+  2025): **E2–E9 on the display, with beeps**, same meanings. Its 200 A
+  controller's maker isn't named, so it may not be an S-Drive. It adds
+  **E1 = sleep mode** (15 min idle with the key on; key off and on).
+  E9 can also come from low batteries.
 
 **Pride scooters on S-Drive:** the Go-Go **Elite Traveller** (45 A)
 and the **Victory 9/10** use it too; their dealer guides give the same

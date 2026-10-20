@@ -348,13 +348,15 @@ provider support.
 
 | Controller | Seen on | Page |
 |---|---|---|
-| Dynamics R-Series (flash/beep, 9 codes) | Companion, LiteRider, Buzzaround XL/EX/Carry On, LiteRider Mini | [[Flash-Beep-Diagnostics]] |
-| PG S-Drive (beeps) | GB106, Patriot, Eagle | [[S-Drive-Beep-Codes]] |
-| PG S-Drive / VR2 (TruCharge 10-bar) | GA541 Avenger, GP160, GP162 PTC, GP204/215, GP205 | [[TruCharge-Diagnostics]] |
+| Dynamics R-Series (flash/beep, 9 codes) | Companion (incl. GC540, GC340R), LiteRider (incl. GL112 HD), Buzzaround LT/Lite/XL/EX/LX/Carry On, LiteRider Mini | [[Flash-Beep-Diagnostics]] |
+| PG S-Drive (beeps) | GB106, Patriot, Eagle; GR596 Eagle All Terrain shows the same codes as E2–E9 | [[S-Drive-Beep-Codes]] |
+| PG S-Drive / VR2 (TruCharge 10-bar) | GA541 Avenger, GP160, GP161, GP162 PTC, GP204/215, GP205/206/207, GP208 | [[TruCharge-Diagnostics]] |
 | PG programmer trip codes | PG S-Drive, VR2, VSI, Pilot+ | [[PG-Drives-Trip-Codes]] |
-| Dynamic Shark (11 codes) | GP620, older GP605 | [[Shark-Diagnostics]] |
-| Dynamic LiNX (7 codes) | GP162 LiNX, 2017 GP605, GP302B | [[LiNX-Diagnostics]] |
-| Micon (beeps) | GP302 Cricket | [[GP302-Cricket]] |
+| Dynamic Shark (11 codes) | 2017 GP620, older GP605 | [[Shark-Diagnostics]] |
+| Dynamic LiNX (7 codes) | GP162 LiNX, GP164, GP605 (2017 on), 2019 GP620, GP302B | [[LiNX-Diagnostics]] |
+| Micon (beeps) | GP302 Cricket, GP301 Stride (same table); GP309 Cricket LT (close variant) | [[GP302-Cricket]], [[GP309-Cricket-LT]] |
+| Ally display (numbered codes, voice prompts) | GP303 Ally, GP304 Ally Pro, GP305 Ally Sport | [[Ally-Fault-Codes]] |
+| Joystick-light flashes (maker not named) | GP130 Carry On power chair | [[GP130-CarryOn-Power-Chair]] |
 
 ## 8. Charging
 

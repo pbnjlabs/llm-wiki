@@ -11,8 +11,9 @@ Golden's larger travel scooter, marketed as "Buzzaround Extreme" ("EX" in
 model-number shorthand). **GB118 is the 3-wheel variant, GB148 is the
 4-wheel variant of the same platform** — confirmed by the rental bumper
 kit differences (GB148's kit requires removing a front wheel and nose
-piece that the GB118 kit doesn't touch). A service guide is on file; there is no IPB or
-owner's manual yet.
+piece that the GB118 kit doesn't touch). A service guide and an owner's manual are on file;
+there is no IPB yet. The 375 lb, high-back-seat version is the
+[[GB119-149-Buzzaround-LX]].
 
 ## Sell-sheet specs (Apr 2025)
 
@@ -23,6 +24,9 @@ assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
 
 ## Documents on file
 
+- [[Buzzaround Extreme Owners Manual (GB118, GB148)]] (Jan 2020): specs
+  match the sell sheet; 90 A controller; pneumatic tires optional on the
+  GB148 only; 20 × 18 in seat optional
 - [[Buzzaround Extreme Service Guide (GB118, GB148)]] (2016)
 - [[Rental Bumper Kit (GB118)]]
 - [[Charging Dock (GB118, GB148)]]
@@ -49,4 +53,4 @@ assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
 ## See also
 
 [[Golden]], [[Golden-Scooter-Warranty]], [[GB1xx-Buzzaround-XL]],
-[[GB120-Buzzaround-CarryOn]], [[Flash-Beep-Diagnostics]]
+[[GB119-149-Buzzaround-LX]], [[GB120-Buzzaround-CarryOn]], [[Flash-Beep-Diagnostics]]

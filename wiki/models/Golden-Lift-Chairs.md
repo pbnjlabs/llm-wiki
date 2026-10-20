@@ -11,10 +11,14 @@ Golden's power lift chairs and recliners (4- and 5-zone) with the
 **AutoDrive** hand control. PMS sells lift chairs; all lift chair sales
 are final ([[PMS-Office-Procedures]]). Link to [[Golden]].
 
-> **Missing manuals.** No lift chair owner's manual or service guide is
-> on file for any PR model. Only this one reset sheet is. When working
-> on one of these chairs, ask the tech to get a copy of the owner's
-> manual from Golden lift chair tech support at **800-624-6374 x502**.
+> **Owner's manuals on disk, not yet ingested.** 35 lift chair manuals
+> from Golden's Dropbox library (2026-10-20) are in
+> `MANUALS/Golden/Lift Recliners/`: the **Universal Owner's Manual**,
+> the massage and heat system manual, and model manuals including
+> **PR446/PR448** (2021), **PR515/PR405/PR761 MaxiTwilight** (2021) and
+> PR514/PR405/PR761 under `Other Manuals/Archived/`. Ask to have them
+> ingested. No service guide is on file. For anything else, Golden lift
+> chair tech support is **800-624-6374 x502**.
 
 ## Documents on file
 

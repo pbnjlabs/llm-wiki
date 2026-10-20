@@ -22,6 +22,30 @@ number (GP207 vs GP204), consistent with the same kind of part-number
 drift already seen on [[Golden-Scooter-Warranty]]. Don't assume GP204 is
 definitely covered without checking a GP204-specific document.
 
+## Models named in later manuals (2026-10-20 ingest)
+
+Each owner's manual prints its own list. Between them, the REV.12.17
+text also names:
+
+- **LiteRider Envy Lite GP161** ([[GP161-LiteRider-Envy-Lite]])
+- **BuzzAbout GP164** ([[GP164-BuzzAbout]])
+- **Alanté Sport GP208** ([[GP208-Alante-Sport]]); the 2021 Alanté
+  series manual names GP205 and GP207, not the GP206
+
+A shorter **2022 version** (dated 01.26.2022) is printed in the manuals
+for the **Ally GP303, Ally Sport GP305, Stride GP301 and Carry On power
+chair GP130**, each naming only itself. Same 5 yr / 13 month / 12 month
+tiers, but:
+
+- The 5-year frame item is the **aluminum frame** (Ally, Ally Sport,
+  GP130) or **metal frame and welds** (Stride); no seat post.
+- The 13-month structural list drops the caster beam (except the Stride)
+  and the **seat swivel mechanism**.
+
+The **Ally Pro GP304** and **Cricket LT GP309** manuals give the terms
+on the spec page only (5 yr frame, 13 months drive train and
+electronics, 12 months / 1 yr batteries).
+
 ## Coverage tiers
 
 - **5 years**: structural frame components (steel frame, frame welds,
@@ -54,4 +78,7 @@ excluded where allowed by state law.
 ## See also
 
 [[Golden]], [[Golden-Scooter-Warranty]], [[GP162-LiteRider-Envy]],
-[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[GP6xx-Compass]], [[GP302-Cricket]]
+[[GP161-LiteRider-Envy-Lite]], [[GP164-BuzzAbout]],
+[[GP204-Alante-DX]], [[GP205-Alante-Sport]], [[GP208-Alante-Sport]], [[GP6xx-Compass]],
+[[GP302-Cricket]], [[GP301-Stride]], [[GP303-Ally]], [[GP304-Ally-Pro]],
+[[GP305-Ally-Sport]], [[GP309-Cricket-LT]], [[GP130-CarryOn-Power-Chair]]

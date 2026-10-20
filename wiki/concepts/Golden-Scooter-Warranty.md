@@ -36,6 +36,33 @@ GB119/GB149 the **BUZZaround LX**. The suffixes on GB117/GB147 are D
 The same OM gives the GB117/147 a **lifetime frame**, 2 yr drive train
 and electronics, and 1 yr batteries.
 
+## Lists in the 2020–2025 owner's manuals
+
+The same REV.11.17 text, with the list growing as models arrive:
+
+- **2020** (Extreme, LX, LiteRider HD, Patriot manuals): adds
+  **BUZZaround Luxury GB119/GB149** and **LiteRider HD GL112**; XL
+  suffixes D, S, H, Z.
+- **2022** (Buzzaround LT, Lite and XL series manuals, rev 11.09.2020):
+  LT = **GB107, GB108, GB121, GB121A**; XL series adds **GB121B,
+  GB124A**.
+- **Companion DME edition** (2023): the standard list plus "*The GR575
+  is warranted for FIVE YEARS*".
+- **GC340R ScooterBug** (2019): its own section naming **only the
+  GC340R**, same tiers.
+- **GC540 Companion HD** (2023): no model list; "*The **GR540** is
+  warranted for FIVE YEARS*" (a typo for GC540).
+
+Manuals with **no warranty section**, terms on the spec page only:
+
+| Model | Frame | Drive train / electronics | Batteries |
+|---|---|---|---|
+| GB120 / GB220 Carry On (Rev. D 2025) | Lifetime | 2 yr | **2 yr** |
+| **GR596 Eagle All Terrain** (2025) | **5 yr** | **13 months** | 1 yr |
+
+The GR596 is the first Golden scooter on file with **13-month** drive
+train and electronics coverage, like the power chairs.
+
 ## Coverage tiers
 
 - **Lifetime**: structural frame components — steel frame, frame welds,
@@ -78,4 +105,6 @@ channels, not a materially different warranty for VA buyers.
 ## See also
 
 [[Golden]], [[GA541-Avenger]], [[GC240-340-440-540-Companion]],
-[[GB1xx-Buzzaround-XL]], [[GL109-LiteRider-Mini]], [[GR575-Patriot]]
+[[GB1xx-Buzzaround-XL]], [[GB118-148-Buzzaround-EX]], [[GB119-149-Buzzaround-LX]],
+[[GB120-Buzzaround-CarryOn]], [[GL109-LiteRider-Mini]], [[GL112-LiteRider-HD]],
+[[GR575-Patriot]], [[GR596-Eagle-All-Terrain]]

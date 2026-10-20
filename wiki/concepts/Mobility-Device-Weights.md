@@ -8,7 +8,8 @@ tags: [vehicle-lift, weight, scooter, power-chair, golden, pride, harmar, bruno,
 Assembled weights and sizes of the scooters and power chairs PMS works
 with, for **choosing a vehicle lift** and checking the **hitch**.
 Pride figures are further down. Golden figures are from Golden's own sell sheets ([[Golden Sell Sheets (2018-2026)]]),
-except GB117/GB147, which come from their 2019 owner's manual;
+except GB117/GB147, which come from their 2019 owner's manual, and the
+rows marked *(OM)*, from the owner's manuals added 2026-10-20;
 assembled weights **include batteries**.
 
 ## The hitch check (outside lifts)
@@ -46,6 +47,25 @@ ratings (see [[ASL-275]], [[ASL-700]]).
 | GC540 Companion HD | 225.5 lb | 48 × 26 in | 36 in | 500 lb | 308.5 lb |
 | GA541 Avenger | 268 lb | 57.5 × 24.5 in | 38.5 in | 500 lb | 351 lb |
 | GR595 Eagle | 302.5 lb (NF22) | 56.5 × 27 in | 40 in | 500 lb | 385.5 lb |
+| GB220 Carry On HD *(OM)* | 77.5 lb | 40 × 23.5 in | 28.7 in | 400 lb | 160.5 lb |
+| GB121 Buzzaround Lite *(OM)* | 100 lb | 41 × 20 in | 31.5 in | 300 lb | 183 lb |
+| GB121B-STD / GB124A-STD Buzzaround XL *(OM)* | 93 / 98 lb | 41 / 40 × 20 in | 31.5 / 30.5 in | 300 lb | 176 / 181 lb |
+| GB121B-SHZ / GB124A-SHZ XLS HD *(OM)* | 100 / 105 lb | 41 / 40 × 20 in | 31.5 / 30.5 in | 325 lb | 183 / 188 lb |
+| GB119 / GB149 Buzzaround LX *(OM)* | 168 / 174 lb | 45 / 44 × 22 in | 34.7 / 33.8 in | 375 lb | 251 / 257 lb |
+| GL112 LiteRider HD *(OM)* | 171 lb (one-piece frame 102) | 44 × 24 in | 32 in | 400 lb | 254 lb |
+| GC340R ScooterBug *(OM)* | 176 lb (U1) / 192 lb (40 Ah) | 45.5 × 23.5 in | 34.5 in | 400 lb | 259 / 275 lb |
+| GR575 Patriot *(OM)* | 302 lb (base 152) | 57 × 28 in | 40 in | 400 lb | 385 lb |
+| **GR596 Eagle All Terrain** *(OM)* | **377 lb (75 Ah) / 407 lb (100 Ah)** | **63 × 31.7 in** | 43.5 in | 500 lb | 460 / 490 lb |
+
+**Owner's manual vs sell sheet:** the GB107/GB108 owner's manual (2022)
+says **87 / 91.5 lb** (sell sheet 85.5 / 95). The GB118/148 and
+Companion manuals match their sheets; the Companion DME manual adds the
+**heaviest piece: GC240 50 lb, GC340 57 lb, GC440 67.5 lb**.
+
+> [!warning] GR596 Eagle All Terrain
+> 377–407 lb, 63 in long and 31.7 in wide: over the capacity of every
+> outside lift below (AL160 and ASL-275 350 lb, AL100HD 400 lb) and
+> wider than the Chariot. Ask Harmar or Bruno before quoting anything.
 
 **GC440 2024 change:** the 2024-and-newer GC440 (222 lb) is heavier than
 the earlier model and needs an appropriate Harmar lift (per the human).
@@ -119,12 +139,24 @@ lift (+ swing-away), the number the hitch must be rated for.
 | **GC440 Companion (2024+)** | **222** | AL160 | **296** | **321** | **336** | Std scooter | **347** | Yes |
 | **GC440 (2024+) with M50-12 batteries (PMS install)** | **~242** | AL160 | **~316** | **~341** | **~356** | Std scooter | **~367** | Yes |
 | GC540 Companion HD | 225.5 | AL160 | 299.5 | 324.5 | 339.5 | Std scooter | 350.5 | Yes (26 in wide) |
+| GB220 Carry On HD (4W) | 77.5 | AL015, 4W cradle | 147.5 | 172.5 | 187.5 | Std scooter | 202.5 | No (wheelbase 28.7 < 29) |
+| GB121 Buzzaround Lite | 100 | AL015 | 170 | 195 | 210 | Std scooter | 225 | Yes |
+| GB121B-STD / GB124A-STD XL | 93 / 98 | AL015 | 163 / 168 | 188 / 193 | 203 / 208 | Std scooter | 218 / 223 | Yes |
+| GB121B-SHZ / GB124A-SHZ XLS HD | 100 / 105 | AL015 | 170 / 175 | 195 / 200 | 210 / 215 | Std scooter | 225 / 230 | Yes |
+| GB119 / GB149 Buzzaround LX | 168 / 174 | AL160 | 242 / 248 | 267 / 273 | 282 / 288 | Std scooter | 293 / 299 | Yes |
+| GL112 LiteRider HD | 171 | AL160 | 245 | 270 | 285 | Std scooter | 296 | Yes |
+| GC340R ScooterBug (U1 / 40 Ah) | 176 / 192 | AL160 | 250 / 266 | 275 / 291 | 290 / 306 | Std scooter | 301 / 317 | Yes |
+| GR575 Patriot | 302 | AL160 | 376 | 401 | 416 | **Large** platform | 430 | No (40 in wheelbase, 28 in wide) |
+| **GR596 Eagle All Terrain** | **377 / 407** | **None on file** (over 350 lb) | — | — | — | Over ASL-275's 350 lb | — | No |
 | GA541 Avenger | 268 | AL160 | 342 | 367 | 382 | **Large** platform (38.5 in wheelbase) | 396 | Borderline (38.5 = max) |
 | GR595 Eagle (NF22) | 302.5 | AL160 | 376.5 | 401.5 | 416.5 | **Large** platform | 430.5 | No (40 in wheelbase, 27 in wide) |
 
 Notes:
 - The **AL015 tops out at 150 lb**, so the EX and heavier scooters
   move to the AL160.
+- The GB121-family rows use the AL015's 4-wheel cradle weight (70 lb);
+  the manuals don't say 3- or 4-wheel. With the 3-wheel cradle, take
+  5 lb off.
 - The AL160 stops at 350 lb. The **Avenger and Eagle are long (57.5 and
   56.5 in) and heavy**; the AL160's cradle (25 × 25 in, extends to 33)
   may not suit them even though wheelbase and capacity fit. The
@@ -150,6 +182,16 @@ real margin over the device's weight, including the docking device.
 | GP303 Ally (folding) | 56 | AL050 | 123 | 148 | 163 | **ASL-275L** | 181 |
 | GP162 LiteRider Envy | 123 | AL500 | 198 | 223 | 238 | Std powerchair platform | 248 |
 | GP605 Compass Sport (mid-wheel) | 179 | AL580-HDX | 271 | 296 | 311 | Std powerchair platform | 304 |
+| GP309 Cricket LT (folding) | 25.8 | AL050 | 92.8 | 117.8 | 132.8 | Below the ASL-275L's 29 lb minimum: ask Bruno | — |
+| GP301 Stride (folding) | 58 | AL050 | 125 | 150 | 165 | **ASL-275L** | 183 |
+| GP130 Carry On power chair (center drive) | 74 | AL050 | 141 | 166 | 181 | Std powerchair platform (ASL-275L only if Bruno approves; it isn't a folding frame) | 199 |
+| GP304 Ally Pro (folding) | 75 | AL050 | 142 | 167 | 182 | **ASL-275L** (75 lb is its top) | 200 |
+| GP305 Ally Sport (power folding) | 92.1 | AL050 | 159.1 | 184.1 | 199.1 | Std powerchair platform (over 75 lb) | 217.1 |
+| GP161 LiteRider Envy Lite | 113 | AL500 | 188 | 213 | 228 | Std powerchair platform | 238 |
+| GP208 Alanté Sport (front drive) | 146.5 | AL500 | 221.5 | 246.5 | 261.5 | Std powerchair platform | 271.5 |
+| GP164 BuzzAbout | 155.35 | AL500 | 230.35 | 255.35 | 270.35 | Std powerchair platform | 280.35 |
+| GP205/206/207 Alanté (CC / SS) | 157 / 154 | AL500 | 232 / 229 | 257 / 254 | 272 / 269 | Std powerchair platform | 282 / 279 |
+| GP620 Compass HD (mid-wheel, SS / CC) | 223 / 226 | AL580-HDX | 315 / 318 | 340 / 343 | 355 / 358 | Std powerchair platform | 348 / 351 |
 
 Notes:
 - **GP162:** the AL050 (135 lb) would fit by capacity alone (tongue
@@ -171,7 +213,17 @@ class III. Always read the actual hitch label and vehicle rating.
 | GP302 Cricket | 39.3 lb | 36.6 × 22.4 in | Folds to 30.2 × 22.25 × 14 in; usually carried, not lifted |
 | GP303 Ally | 56 lb | 41 × 24.5 in | Folding; heaviest piece 49.5 lb |
 | GP162 LiteRider Envy | 123 lb | 36 × 22.5 in | Front half 37 lb, rear half 36 |
-| GP605 Compass Sport | 179 lb | 39.5 × 24 in | Mid-wheel drive; base 97 lb. For lifts, see the AL580-HDX on [[Harmar Mobility Solutions Chart (2026, Rev F)]] |
+| GP605 Compass Sport | 179 lb | 39.5 × 24 in | Mid-wheel drive; base 97 lb. For lifts, see the AL580-HDX on [[Harmar Mobility Solutions Chart (2026, Rev F)]]. The 2022 OM says 179 lb with the pan seat, **185 lb with the captain's seat** |
+| GP309 Cricket LT *(OM)* | **25.8 lb** | 36 × 24 in | Carbon fiber, folding; battery 2 lb |
+| GP301 Stride *(OM)* | 58 lb | 42.5 × 24.4 in | Folding; folds to 15.7 in long |
+| GP130 Carry On power chair *(OM)* | 74 lb | 38 × 24 in | Center drive; base 46, seat 22 |
+| GP304 Ally Pro *(OM)* | 75 lb | 38.9 × 25.2 in | Folding; heaviest piece 69.6 lb |
+| GP305 Ally Sport *(OM)* | 92.1 lb | 42.3 × 24.7 in | Power folding; heaviest piece 87.5 lb |
+| GP161 LiteRider Envy Lite *(OM)* | 113 lb | 33.25 × 22.5 in | Front 34.5, rear 30.5, seat 23, pack 25 |
+| GP208 Alanté Sport *(OM)* | 146.5 lb | 41.5 × 25 in | Front drive; base 66, seat 37 |
+| GP164 BuzzAbout *(OM)* | 155.35 lb | 36 × 23 in | Front 29.2, rear 33.85, seat 34.8, pack 28.75 |
+| GP205/206/207 Alanté *(OM)* | 157 / 154 lb (CC / SS) | 39.5 × 22.25 in | Front drive; base 67 |
+| GP620 Compass HD *(OM)* | 223 / 226 lb (SS / CC) | 40 × 25 in | Mid-wheel; base 101, NF22 batteries 37 lb each; 450 lb capacity |
 
 ## Pride / Quantum
 

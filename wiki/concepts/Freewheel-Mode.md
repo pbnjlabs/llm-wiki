@@ -12,7 +12,8 @@ Chairs have **one lever per motor**; most scooters have one on the
 transaxle. **In freewheel there is no brake.**
 
 Sources: the freewheel sections of Golden's owner's manuals
-([[LiteRider Owners Manual (GL111, GL141)]], [[GR595 Eagle Owners Manual]],
+(the 26 added 2026-10-20 are listed on [[Golden]];
+[[LiteRider Owners Manual (GL111, GL141)]], [[GR595 Eagle Owners Manual]],
 [[Companion Owners Manual (VA Contract Variant)]],
 [[GA541 Avenger Operator Manual]],
 [[LiteRider Envy LiNX Owners Manual (GP162)]], [[Cricket Owners Manual (GP302)]]),
@@ -32,6 +33,18 @@ Check the label on the unit. Don't go by feel.
 | Golden Companion | Brake handle toward "**disengage**" on the label | Toward "**engage**" |
 | Golden LiteRider Envy GP162 | Pull lever **up** | Push lever **down** |
 | Golden Cricket GP302 (2 levers) | The other position (the manual only names drive) | **Forward** |
+| Golden Buzzaround LT / Lite / XL / EX / LX (GB107/108, GB121, GB121B/124A, GB118/148, GB119/149) | Push **forward** toward **N** | Pull **back** toward **D** |
+| Golden LiteRider HD GL112 | Push **up** | Push **down** |
+| Golden Patriot GR575, Companion HD GC540 | Pull **back** toward **N** | Push **forward** toward **D** |
+| Golden Carry On GB120 / GB220, Eagle All Terrain GR596 | A freewheel **switch** (GR596: rear, by the right drive wheel). **Only works with the battery in** | Switch back |
+| Golden Envy Lite GP161, BuzzAbout GP164 (2 levers) | Push **down** | Pull **up** |
+| Golden Alanté GP205 / 206 / 207, Compass Sport GP605 (2 levers) | Pull **forward** | Push **back** |
+| **Golden Alanté Sport GP208** (2 levers) | Push **back** (the reverse of the GP205–207) | Pull **forward** |
+| Golden Compass HD GP620 (2 levers) | **Turn** as shown in the manual's figure | Turn back |
+| Golden Ally GP303 / 304 / 305 (2 levers, back of chair) | Push **down** ("Brake open" voice prompt) | Up / locked |
+| Golden Cricket LT GP309 (2 red levers) | Push **backward** | Forward |
+| Golden Carry On power chair GP130 (2 red levers, **center** of chair) | Push **back** | Forward |
+| Golden Stride GP301 (2 levers) | The other position | **Forward** ("drive"); fold it in drive |
 | Pride J6 (2 levers) | Pull **outward** | Push **inward** |
 | Pride Q6 Edge 3 Stretto (2 levers) | Push **down** | Pull **up** |
 | Pride Jazzy 600 ES (2 levers) | Push **down** | Pull up |
@@ -123,6 +136,10 @@ then the brake and wiring.
 | PG programmer trip codes | **7000 / 7001** freewheel mode engaged | [[PG-Drives-Trip-Codes]] |
 | Golden Dynamic Shark | **5 / 6** park brake | [[Shark-Diagnostics]] |
 | Golden Dynamic LiNX | **5 / 6** park brake | [[LiNX-Diagnostics]] |
+| Golden Ally GP303 / 304 / 305 | **40 / 41** left / right brake; voice "Brake open"; won't drive | [[Ally-Fault-Codes]] |
+| Golden Micon (GP302A Cricket, GP301 Stride), GP309 Cricket LT | **3 / 5** right / left brake: lever in drive? | [[GP302-Cricket]], [[GP309-Cricket-LT]] |
+| Golden GP130 Carry On power chair | **9** flashes, motor brake | [[GP130-CarryOn-Power-Chair]] |
+| Golden GR596 Eagle All Terrain | **E5** solenoid brake trip (freewheel or bad connection) | [[S-Drive-Beep-Codes]] |
 | Pride PG VR2 / GC3 / newVSI | **9** flashes, park brake | [[Pride-Controller-Flash-Codes]] |
 | Pride Dynamic (Jazzy) | **5 / 6** left / right park brake | [[Pride-Controller-Flash-Codes]] |
 | Pride Q-Logic 3 | **#3 / #4, #25 / #26** brake; fix: **disengage and re-engage the lever** | [[Q-Logic-Fault-Codes]] |

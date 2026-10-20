@@ -20,8 +20,9 @@ four. Link to [[Golden]].
 | Model | Controller | Codes |
 |---|---|---|
 | GP605 Compass Sport, **2010–11 supplements** | Dynamic **SHARK** | [[Shark-Diagnostics]] |
-| GP605 Compass Sport, **2017 service guide** | Dynamic **LiNX** | [[LiNX-Diagnostics]] (7 codes) |
-| GP620 Compass HD (2017) | Dynamic **Shark** (REMA/REMD remotes) or **A-Series** | [[Shark-Diagnostics]] (11 codes) |
+| GP605 Compass Sport, **2017 service guide and 2022 owner's manual** | Dynamic **LiNX** (LiNX LE) | [[LiNX-Diagnostics]] (7 codes) |
+| GP620 Compass HD, **2017** (service guide and owner's manual) | Dynamic **Shark** (REMA/REMD remotes) or **A-Series**; OM says **75 A** | [[Shark-Diagnostics]] (11 codes; the OM numbers 10) |
+| GP620 Compass HD, **2019 owner's manual** | Dynamic **LiNX**, **60 A** | [[LiNX-Diagnostics]] |
 
 All of these are Dynamic Controls products. Look at the joystick: a
 LiNX remote has a status light under the power button, and a Shark
@@ -35,6 +36,27 @@ remote has an amber wrench LED.
   hold about 24 V or more under load. To unlock a locked Shark, press
   the horn twice within 10 s. See [[Compass HD Service Guide (GP620)]].
 
+## Owner's manual specs
+
+| | GP605 Compass Sport (2022) | GP620 Compass HD (2017 Shark / 2019 LiNX) |
+|---|---|---|
+| Capacity | 300 lb | **450 lb** |
+| Speed / range | 4 mph / 24 mi (U1), 27.5 mi (40 Ah) | 4 mph / 12 mi (Shark); **4.5 mph / 21 mi (LiNX)** |
+| Batteries | 2-U1 (22 lb) or 2-40 Ah (29 lb) | **2-NF22** (37 lb each) |
+| Controller | 40 A LiNX | 75 A Shark / 60 A LiNX |
+| Assembled | **185 lb CC / 179 lb SS** | **223 lb SS / 226 lb CC** |
+| Base / seat | 97 / 40 (pan) or 46 (captain's) lb | 101 / 34 (pan) or 37 (captain's) + arms 14 lb |
+| Size, turning radius | 39.5 × 24 in, 24 in | 40 × 25 in, 20 in |
+| Seat heights | 3 (1 in) | 5 (0.5 in); seats to 24 × 20 in |
+| Medicare | K0823 CC / K0822 SS | K0824 SS / K0825 CC |
+| Frame warranty | **Lifetime** | 5 yr |
+
+CC = captain's chair, SS = van/pan seat. The GP605's **battery
+connection diagram** is inside the rear battery cover; the chair won't
+power up until both battery harnesses and the power harness are plugged
+in and locked. Freewheel: GP605 levers **forward** = freewheel; the
+GP620 manuals only say "turn as shown" ([[Freewheel-Mode]]).
+
 ## GP605 Compass Sport sell sheet (Mar 2023)
 
 From [[Golden Sell Sheets (2018-2026)]]: 300 lb, mid-wheel drive, 4 mph, 24 mi (up to 34 on 50 Ah),
@@ -44,6 +66,9 @@ batteries 22 or 30 lb each), 39.5 × 24 in, 24 in turning radius, seats
 
 ## Documents on file
 
+- [[Compass Sport Owners Manual (GP605, LiNX)]] (Jan 2022)
+- [[Compass HD Owners Manual (GP620, LiNX)]] (May 2019)
+- [[Compass HD Owners Manual (GP620, Shark)]] (Dec 2017)
 - [[Compass Sport Service Guide (GP605, LiNX)]] (2017)
 - [[Compass HD Service Guide (GP620)]] (2017)
 - [[Compass Battery Replacement, Power Elevating Seat (GP600)]]
@@ -55,8 +80,8 @@ batteries 22 or 30 lb each), 39.5 × 24 in, 24 in turning radius, seats
 - [[Compass Sport Circuit Breaker Wire Routing Upgrade (GP605)]]
 - [[Compass Sport ELR Installation (GP605)]]
 
-GP605 and GP620 have full service guides. There is no owner's manual,
-and GP600/GP615 have only single-procedure supplements.
+GP605 and GP620 have full service guides and owner's manuals.
+GP600/GP615 have only single-procedure supplements.
 
 ## Key procedures
 

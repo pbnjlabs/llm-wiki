@@ -52,23 +52,35 @@ the model pages.
 | GB106 Buzzaround Lite (discontinued) | 12 Ah | Service guide |
 | GB116/146 Buzzaround XL (discontinued) | 12 Ah or 18 Ah | Service guide |
 | GB117/147 Buzzaround XL | 12 Ah (standard) or **22 Ah (HD, e.g. GB147H)** | [[GB1xx-Buzzaround-XL]] |
-| GB118/148 Buzzaround EX | U1, in two packs | Sell sheet |
-| GB120 Carry On | One 24 V lithium pack, 15 Ah (sell sheet says 12.5) or 6.5 Ah | [[GB120-Buzzaround-CarryOn]] |
+| GB107/108 Buzzaround LT, GB121 Lite, GB121B/124A XL | 12 Ah (one 16–18 lb pack) | [[GB1xx-Buzzaround-XL]] |
+| GB118/148 Buzzaround EX | U1, in two packs | Sell sheet, owner's manual |
+| GB119/149 Buzzaround LX | U1, in two 24 lb packs | [[GB119-149-Buzzaround-LX]] |
+| GB120 / GB220 Carry On | One 24 V lithium pack, 15 Ah (sell sheet and 2025 OM say 12.5) or 6.5 Ah | [[GB120-Buzzaround-CarryOn]] |
+| GL112 LiteRider HD | U1 (21 lb each) or 40 Ah | [[GL112-LiteRider-HD]] |
 | GL109 LiteRider Mini | 12 Ah | Service guide |
 | GL110/140, GL111/141 LiteRider | 22 Ah | Service guide, IPB |
 | GC240/340/440 Companion | U1 (35 Ah); 40 Ah option (2021 IPB); 50 Ah option (2024) | [[GC240-340-440-540-Companion]] |
-| GC540 Companion HD | 22NF | IPB |
+| GC340R ScooterBug | U1 (22 lb) or 40 Ah (29 lb) | [[GC240-340-440-540-Companion]] |
+| GC540 Companion HD | 22NF (37 lb each; 8 A charger) | IPB, owner's manual |
 | GA541 Avenger | 22NF (AGM or gel only) | [[GA541-Avenger]] |
-| GR575 Patriot | 75 Ah (group not stated) | [[GR575-Patriot]] |
+| GR575 Patriot | 75 Ah (group not stated) or 22NF (2020 OM) | [[GR575-Patriot]] |
 | GR595 Eagle | 22NF, or **Group 24** 75 Ah | [[GR595-Eagle]] |
+| GR596 Eagle All Terrain | 75 Ah (52 lb) or **100 Ah** (67 lb) | [[GR596-Eagle-All-Terrain]] |
 | GP160 LiteRider PTC | 18 Ah | [[GP160-LiteRider-PTC]] |
+| GP161 LiteRider Envy Lite | 18 Ah, in a pack (**AGM or gel only**) | [[GP161-LiteRider-Envy-Lite]] |
 | GP162 LiteRider Envy | 22 Ah (Golden); PMS has fitted MK ES17-12 | [[GP162-LiteRider-Envy]] |
+| GP164 BuzzAbout | 22 Ah, in a pack (**AGM or gel only**) | [[GP164-BuzzAbout]] |
 | GP204 Alante DX / GP215 Alante LT | 22 Ah / 18 Ah | [[GP204-Alante-DX]] |
-| GP205 Alante Sport | U1 35 Ah | [[GP205-Alante-Sport]] |
-| GP605 Compass Sport | U1 35 Ah (up to 50 Ah per sell sheet) | [[GP6xx-Compass]] |
-| GP620 Compass HD | U1 35 Ah or 22NF 55 Ah | [[GP6xx-Compass]] |
+| GP205 / GP206 / GP207 Alanté | U1 35 Ah (22 lb each) | [[GP205-Alante-Sport]] |
+| GP208 Alanté Sport | U1 (21 lb each) | [[GP208-Alante-Sport]] |
+| GP605 Compass Sport | U1 35 Ah or 40 Ah (2022 OM; up to 50 Ah per sell sheet) | [[GP6xx-Compass]] |
+| GP620 Compass HD | U1 35 Ah or 22NF 55 Ah (both owner's manuals: 2-NF22) | [[GP6xx-Compass]] |
 | GP302 Cricket | One 24 V 12 Ah lithium pack (A and B versions differ) | [[GP302-Cricket]] |
-| GP303 Ally | 12 Ah lithium | [[GP303-Ally]] |
+| GP303 Ally / GP304 Ally Pro | One 24 V 12 Ah lithium (5.4 lb) | [[GP303-Ally]], [[GP304-Ally-Pro]] |
+| GP305 Ally Sport | One 24 V 10 Ah lithium (4.6 lb) | [[GP305-Ally-Sport]] |
+| GP301 Stride | One 24 V 10 Ah lithium (3.8 lb) | [[GP301-Stride]] |
+| GP309 Cricket LT | One 24 V 10 Ah lithium (2 lb) | [[GP309-Cricket-LT]] |
+| GP130 Carry On power chair | One 12.5 Ah lithium (6 lb) | [[GP130-CarryOn-Power-Chair]] |
 
 ## Pride / Quantum batteries by model (from Pride's documents)
 

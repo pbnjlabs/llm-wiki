@@ -6,7 +6,7 @@ tags: [diagnostics, golden, electrical, linx]
 # LiNX Controller Diagnostics
 
 A 7-code flash-code scheme tied to the **LiNX controller** (Dynamic
-Controls). It is one of six Golden diagnostic schemes, alongside
+Controls). It is one of at least eight Golden code tables ([[Golden]]), alongside
 [[TruCharge-Diagnostics]] (PG S-Drive/VR2), [[Flash-Beep-Diagnostics]]
 (Dynamics R-Series), [[S-Drive-Beep-Codes]], [[Shark-Diagnostics]] and the
 Cricket's Micon table ([[GP302-Cricket]]). Confirmed on the LiNX-controller variant of
@@ -18,6 +18,11 @@ and on the **GP605 Compass Sport** in the 2017
 test procedure behind each code ([[GP6xx-Compass]]). The **GP302B**
 Cricket also has a LiNX controller ([[Cricket Illustrated Parts Breakdown (GP302)]]);
 its own codes aren't documented, so this table is the best guide.
+Owner's manuals added 2026-10-20 print the same table, OONAPU and
+drive-inhibit text for the [[GP164-BuzzAbout]] (40 A),
+the 2022 GP605 ([[Compass Sport Owners Manual (GP605, LiNX)]]) and the
+**2019 GP620 Compass HD** ([[Compass HD Owners Manual (GP620, LiNX)]],
+60 A). The 2017 GP620 manual has a Shark instead ([[Shark-Diagnostics]]).
 Reinforces that Golden's diagnostic scheme is determined by controller
 choice, not model name or product category — check per-model before
 assuming any of the three schemes applies.
@@ -55,5 +60,5 @@ troubleshooting a chair that "won't move":
 
 ## See also
 
-[[GP162-LiteRider-Envy]], [[GP6xx-Compass]], [[GP302-Cricket]], [[TruCharge-Diagnostics]],
+[[GP162-LiteRider-Envy]], [[GP164-BuzzAbout]], [[GP6xx-Compass]], [[GP302-Cricket]], [[TruCharge-Diagnostics]],
 [[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Freewheel-Mode]], [[Golden]]

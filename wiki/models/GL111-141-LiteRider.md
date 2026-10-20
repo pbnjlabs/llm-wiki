@@ -8,7 +8,8 @@ tags: [golden, literider, scooter]
 # LiteRider — GL111, GL141 (current generation)
 
 Golden's current mid-size travel scooter generation, successor to
-[[GL110-140-LiteRider]]. GL111 = 3-wheel, GL141 = 4-wheel. 300 lb
+[[GL110-140-LiteRider]]. The 400 lb one-piece-frame version is the
+[[GL112-LiteRider-HD]]. GL111 = 3-wheel, GL141 = 4-wheel. 300 lb
 capacity, 5 mph, rear-wheel drive, 90 Amp Dynamics R-Series controller
 (same controller part, 3051600170, as [[GC240-340-440-540-Companion]]'s
 GC240/340/440 — confirmed in the IPB, not inferred), 2×22AH batteries,
@@ -42,4 +43,4 @@ applies, but that's not confirmed from GL111/141-specific documentation).
 ## See also
 
 [[Golden]], [[GL110-140-LiteRider]], [[Flash-Beep-Diagnostics]],
-[[Golden-Scooter-Warranty]], [[GC240-340-440-540-Companion]], [[GL109-LiteRider-Mini]]
+[[Golden-Scooter-Warranty]], [[GC240-340-440-540-Companion]], [[GL109-LiteRider-Mini]], [[GL112-LiteRider-HD]]

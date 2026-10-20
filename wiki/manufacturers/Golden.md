@@ -1,15 +1,19 @@
 ---
 type: manufacturer
 manufacturer: Golden
-tags: [manufacturer, scooter, power-wheelchair]
+tags: [manufacturer, scooter, power-wheelchair, lift-chair, bed]
 ---
 
 # Golden (Golden Technologies)
 
-Manufacturer of power scooters and power wheelchairs. Largest manual
-collection in this wiki (101 files), mostly flat under `MANUALS/Golden/`.
-Service guides for discontinued models are in
-`MANUALS/Golden/Discontinued Models/` (the folder name they came with).
+Manufacturer of power scooters, power wheelchairs, lift chairs and home
+adjustable beds. 176 files under `MANUALS/Golden/`: the original 102,
+mostly flat (service guides for discontinued models in
+`Discontinued Models/`), plus 74 pulled on 2026-10-20 from **Golden's
+Dropbox owner's-manual library** ("Owners Manuals", shared by Golden
+Marketing), kept in its folder layout: `Bed/`, `Lift Recliners/` and
+`Mobility/` (`Power Wheelchairs/`, `Scooters/`). 26 of those were
+ingested the same day; see **Not yet ingested** at the end.
 
 ## Model families (by part-number prefix, from filenames — unverified against manual content)
 
@@ -79,14 +83,47 @@ Service guides for discontinued models are in
   300 lb assembled, **PG S-Drive** 140 A. Owner's manual (2022) and IPB
   (2025) on file: [[GR595-Eagle]].
 - **GR575 Patriot**: the Eagle's predecessor, PG S-Drive 140 A, two 75 Ah
-  batteries. Service guide on file: [[GR575-Patriot]].
+  batteries. Service guide and 2020 owner's manual: [[GR575-Patriot]].
+- **GR596 Eagle All Terrain** (2025): the Eagle's successor, 500 lb,
+  **377–407 lb assembled**, 200 A, 11.2 mph, turn signals, NFC fob
+  start, display E-codes: [[GR596-Eagle-All-Terrain]]. Over every
+  outside lift's capacity on file.
 - **GP302 Cricket**: carbon fiber folding power chair, 39.3 lb. Owner's
   manual and IPB on file. **GP302A uses a Micon controller and GP302B
   uses LiNX**: [[GP302-Cricket]].
-- **Newer Buzzarounds** — GB150 (next-generation XL 4-wheel) and GB107 /
-  GB108 Buzzaround LT, sell sheets only; listed on [[GB1xx-Buzzaround-XL]].
+- **Newer Buzzarounds** (all on [[GB1xx-Buzzaround-XL]]): **GB107 /
+  GB108 Buzzaround LT** (owner's manual 2022), **GB121 Buzzaround Lite**
+  (2022), and the 2022 **Buzzaround XL / XLS HD, GB121B / GB124A**.
+  GB150 (next-generation XL 4-wheel) is still sell sheet only.
+- **GB119 / GB149 Buzzaround Luxury (LX)**: the EX platform at 375 lb
+  with a high-back seat: [[GB119-149-Buzzaround-LX]].
+- **GB220 Carry On HD** (400 lb): shares the GB120's 2025 owner's manual,
+  on [[GB120-Buzzaround-CarryOn]].
+- **GL112 LiteRider HD**: 400 lb, one-piece frame: [[GL112-LiteRider-HD]].
+- **GC340R "ScooterBug" Companion**: a 3.1 mph Companion with front
+  anti-tippers and its own warranty; on [[GC240-340-440-540-Companion]],
+  along with the GC540's first owner's manual and the retail (DME)
+  edition of the Companion manual.
+- **More power chairs (owner's manuals 2018–2026):**
+  - [[GP130-CarryOn-Power-Chair]]: center-drive travel chair, 74 lb,
+    lithium (not the GB120 scooter).
+  - [[GP161-LiteRider-Envy-Lite]]: 250 lb, PG nVR2, 113 lb.
+  - [[GP164-BuzzAbout]]: LiNX, 155 lb, take-apart.
+  - [[GP205-Alante-Sport]] now also covers the **GP206 / GP207 Alanté**
+    (2021 manual, PG VR2); [[GP208-Alante-Sport]] is a different, later
+    Alanté Sport with reversed freewheel levers.
+  - [[GP301-Stride]]: folding, 58 lb, Micon-style beep codes.
+  - [[GP304-Ally-Pro]] and [[GP305-Ally-Sport]] (power folding) join the
+    [[GP303-Ally]]; shared display codes on [[Ally-Fault-Codes]].
+  - [[GP309-Cricket-LT]]: 25.8 lb carbon-fiber folding chair.
+  - Owner's manuals for the **GP605** (2022, LiNX) and **GP620** (2017
+    Shark, 2019 LiNX): [[GP6xx-Compass]].
+- **Beds:** the **Passport** Hi Lo Tilt HS adjustable base, home use
+  only: [[Golden-Passport-Bed]].
 - **Lift chairs (PR series, AutoDrive hand control)**: one reset and
-  calibration sheet only, **no owner's manuals**. See [[Golden-Lift-Chairs]].
+  calibration sheet ingested. **35 lift chair owner's manuals are now on
+  disk** (`MANUALS/Golden/Lift Recliners/`, from Golden's Dropbox) but
+  **not yet ingested**. See [[Golden-Lift-Chairs]].
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
@@ -129,7 +166,7 @@ actual topic rather than one page per document:
 - [[Golden-Seating-Systems]] — seat size-code catalog/fitment matrix
   (SM4/SM5/SM9/SMP/SMV etc.), measuring procedure, and the physical
   Proflex seating base behind the "SMP" code (4 docs). GP207 and GP208
-  appear there but have no manuals on file
+  appear there; both have owner's manuals now
 - [[Golden-Dealer-Tips]] — general reminders (incl. **lift chair** care)
   and cosmetic touch-up paint tips (2 docs)
 - [[Golden-Key-Switch-Replacement]] — universal key/key-switch swap
@@ -162,28 +199,59 @@ actual topic rather than one page per document:
   line AND both LiteRider generations (GL110/140, GL111/141) — the
   controller family determines which scheme applies, not the model name.
   Also confirmed on the Buzzaround XL (GB116/146, GB117/147), Extreme,
-  Carry On and GL109 LiteRider Mini.
+  Carry On and GL109 LiteRider Mini, and (2026-10-20 owner's manuals)
+  the Buzzaround LT, GB121 family, LX, GB220, GL112, GC540 and GC340R.
 - [[LiNX-Diagnostics]]: 7-code scheme on the GP162 LiNX variant, the
-  2017 GP605 and (by part number) the GP302B Cricket.
+  GP164, the GP605 (2017 on), the 2019 GP620 and (by part number) the
+  GP302B Cricket.
 - **Micon** (GP302A Cricket): its own 9-beep table, on [[GP302-Cricket]].
+  The GP301 Stride prints the same table; the GP309 Cricket LT a close
+  variant ([[GP309-Cricket-LT]]).
+- [[Ally-Fault-Codes]]: numbered display codes (E1, 20–24, E6, E7,
+  40/41, 80–96) and voice prompts on the GP303/304/305.
+- **GP130 Carry On power chair**: its own joystick-light flash table, on
+  [[GP130-CarryOn-Power-Chair]].
+- **GR596 Eagle All Terrain**: E1 (sleep) plus E2–E9 with the S-Drive
+  meanings ([[S-Drive-Beep-Codes]]).
 - [[Golden-Wheelchair-Warranty]] — a **separate** warranty policy from
   [[Golden-Scooter-Warranty]], confirmed by the GP162 LiNX owner's manual:
   Golden maintains distinct warranty documents for scooters vs. power
-  wheelchairs (GP162, GP205, GP207, GP605, GP620 named).
+  wheelchairs (GP162, GP205, GP207, GP605, GP620 named; later manuals
+  add GP161, GP164, GP208, and a 2022 version names the GP130, GP301,
+  GP303 and GP305).
 
 PG controller trip codes: [[PG-Drives-Trip-Codes]] (from the [[PG Drives Mobility Diagnostic Guide]]; S-Drive specs on [[PG Drives S-Drive Brochure]]).
 
 Golden uses controllers from at least three makers (PG Drives S-Drive and
 VR2; Dynamic Controls R-Series, Shark and LiNX; Micon), plus an
-"A-Series" named in the GP620 guide whose maker isn't stated. There are
-six diagnostic schemes across scooters and
+"A-Series" named in the GP620 guide and the unnamed controllers on the
+Ally family, GP130, GP309 and GR596. There are at least **eight**
+distinct code tables across scooters and
 wheelchairs — always check the controller before
 assuming any scheme or warranty applies to a model without checking its
 own documentation.
 
 ## Not yet ingested
 
-Nothing. **All 102 Golden files on disk have been ingested**, as 101
+**48 files from Golden's Dropbox library (2026-10-20), on disk but not
+ingested** (the human asked for the mobility manuals and the bed first):
+
+- **35 lift chair (lift recliner) manuals** in
+  `MANUALS/Golden/Lift Recliners/`: the universal owner's manual,
+  massage and heat system manual, Nirvana remote flyer, and under
+  `Other Manuals/` 13 archived model manuals (MaxiComfort, DayDreamer,
+  DreamMaker, PR117–PR515 and others), 5 archived Spanish versions, 2
+  international (English/French, French) and 12 private-label manuals
+  (AmeriGlide, FirstStreet, Member's Mark, RelaxBack and others).
+- **13 Spanish-language scooter and power chair manuals** in
+  `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (Golden's
+  spelling).
+
+**26 ingested 2026-10-20:** 25 mobility owner's manuals and the Passport
+bed manual (listed on [[index#Sources]]). The 7 other Dropbox files were
+already on file, byte for byte.
+
+The original **102 Golden files have all been ingested**, as 101
 distinct documents. The 102nd is the AutoDrive lift chair sheet (2026-10-12). 19 were added on 2026-10-12 from the human's
 Downloads: service guides for the Buzzaround XL/Extreme/Carry On,
 Compass Sport/HD, Patriot and the discontinued GB106, GB116/146, GL109,
@@ -194,6 +262,7 @@ Companion. The one duplicate: `GP162 LiteRider PTC Golden SG 05.16.2014.pdf` and
 (confirmed by md5) of the same file under two filenames, so both map to
 the single [[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]]
 source page. The 14 sell sheets (2018–2026) share
-[[Golden Sell Sheets (2018-2026)]]. Models with sell sheets but no
-manual: GB150 and GB108 (see [[GB1xx-Buzzaround-XL]]). The GB107 has only
-an IPB. No **service guide** is on file for the Eagle or Cricket.
+[[Golden Sell Sheets (2018-2026)]]. Models with a sell sheet but no
+manual: GB150 (see [[GB1xx-Buzzaround-XL]]); the GB107 and GB108 now
+have an owner's manual. No **service guide** is on file for the Eagle,
+Eagle All Terrain, Cricket, Cricket LT, Ally family, Stride or GP130.

@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
+| Golden | [[Golden]] | 176: the original 102 (6 in `Discontinued Models/`) plus 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/` | 114 source pages for 128 files (one duplicate PDF shares a page; 14 sell sheets share one page). **48 not yet ingested:** 35 lift chair manuals and 13 Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -52,7 +52,9 @@ Note: Golden's 102 files include one byte-identical duplicate PDF saved
 under two filenames (the GP162 LiteRider PTC service guide, confirmed by
 md5): 101 distinct documents. 88 source pages: the 14 sell sheets added
 2026-10-08 share one page ([[Golden Sell Sheets (2018-2026)]]). 19 docs
-were added 2026-10-12 from the human's Downloads. See
+were added 2026-10-12 from the human's Downloads. On 2026-10-20, 74 new
+files came from Golden's Dropbox library; 26 were ingested (25 mobility
+owner's manuals and the Passport bed). See
 [[Golden]] for details.
 
 Note: **AutoSlide and Open Sesame are not mobility equipment.** They're
@@ -108,24 +110,36 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VSL-4400 (Joey; inside platform lift, door safety switch) | Bruno | [[VSL-4400]] |
 | VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping) | Bruno | [[VSL-6000-6900]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
-| Buzzaround XL / Lite (GB106/116/146, current GB117/147 incl. **GB147H = HD**; GB107 IPB) | Golden | [[GB1xx-Buzzaround-XL]] |
-| Buzzaround Extreme/EX (GB118/148) | Golden | [[GB118-148-Buzzaround-EX]] |
-| Buzzaround Carry On (GB120) | Golden | [[GB120-Buzzaround-CarryOn]] |
+| Buzzaround XL / Lite / LT (GB106/116/146, current GB117/147 incl. **GB147H = HD**; GB107/108 LT, GB121 Lite, 2022 GB121B/124A XL and XLS HD) | Golden | [[GB1xx-Buzzaround-XL]] |
+| Buzzaround Extreme/EX (GB118/148; SG + OM) | Golden | [[GB118-148-Buzzaround-EX]] |
+| Buzzaround Carry On (GB120, and **GB220 Carry On HD**, 400 lb) | Golden | [[GB120-Buzzaround-CarryOn]] |
 | Companion GC221/321/421 (older gen) | Golden | [[GC221-321-421-Companion]] |
-| Companion GC240/340/440/540 HD (**GC440 changed 2024: newer one heavier, needs an appropriate Harmar lift**) | Golden | [[GC240-340-440-540-Companion]] |
+| Companion GC240/340/440/540 HD and GC340R ScooterBug (**GC440 changed 2024: newer one heavier, needs an appropriate Harmar lift**; GC540 OM; heaviest piece GC440 67.5 lb) | Golden | [[GC240-340-440-540-Companion]] |
 | LiteRider Mini GL109 (discontinued) | Golden | [[GL109-LiteRider-Mini]] |
 | LiteRider GL110/140 (older gen) | Golden | [[GL110-140-LiteRider]] |
 | LiteRider GL111/141 (current gen) | Golden | [[GL111-141-LiteRider]] |
 | LiteRider Envy GP162 (PTC/VR2 + LiNX variants) | Golden | [[GP162-LiteRider-Envy]] |
 | LiteRider PTC GP160 (discontinued power chair, PG VR2) | Golden | [[GP160-LiteRider-PTC]] |
 | Alante DX GP204 / Alante LT GP215 ("Compass Jr"; discontinued, PG VR2) | Golden | [[GP204-Alante-DX]] |
-| Alante Sport GP205 (discontinued, PG VR2) | Golden | [[GP205-Alante-Sport]] |
-| Compass GP600/605/615/620 (GP605: SHARK or LiNX; GP620: Shark) | Golden | [[GP6xx-Compass]] |
-| Ally GP303 | Golden | [[GP303-Ally]] |
+| Alanté Sport GP205 and Alanté GP206 / GP207 (front drive, PG VR2 50 A; 2012 SG + 2021 OM) | Golden | [[GP205-Alante-Sport]] |
+| Compass GP600/605/615/620 (GP605: SHARK or LiNX; GP620: Shark 2017, LiNX 2019; GP605 and GP620 owner's manuals) | Golden | [[GP6xx-Compass]] |
+| Ally GP303 (folding, 56 lb; OM 2024) | Golden | [[GP303-Ally]] |
 | Eagle GR595 (off-road 4W scooter, ~300 lb, PG S-Drive; OM + IPB) | Golden | [[GR595-Eagle]] |
-| Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah) | Golden | [[GR575-Patriot]] |
+| Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah or NF22, 302 lb; SG + OM) | Golden | [[GR575-Patriot]] |
 | Lift chairs PR446/448/510/515/535/632/761/766 (AutoDrive hand control resets/calibration; **no owner's manuals**) | Golden | [[Golden-Lift-Chairs]] |
 | Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
+| Cricket LT GP309 (25.8 lb carbon fiber folding chair, 35 A, own 9-beep table) | Golden | [[GP309-Cricket-LT]] |
+| Stride GP301 (folding, 58 lb, lithium; Micon beep table; capacity 300 vs 265 lb conflict) | Golden | [[GP301-Stride]] |
+| Ally Pro GP304 (folding, 75 lb, recline, 330 lb) | Golden | [[GP304-Ally-Pro]] |
+| Ally Sport GP305 (**power folding**, 92 lb, 265 lb) | Golden | [[GP305-Ally-Sport]] |
+| Carry On power chair GP130 (center drive, 74 lb, lithium; **not** the GB120 scooter) | Golden | [[GP130-CarryOn-Power-Chair]] |
+| LiteRider Envy Lite GP161 (250 lb, PG nVR2, 113 lb) | Golden | [[GP161-LiteRider-Envy-Lite]] |
+| BuzzAbout GP164 (LiNX, 155 lb, take-apart) | Golden | [[GP164-BuzzAbout]] |
+| Alanté Sport GP208 (front drive, PG VR2 40 A, 146.5 lb; **freewheel levers reversed vs GP205–207**) | Golden | [[GP208-Alante-Sport]] |
+| Buzzaround Luxury GB119 / GB149 (EX platform, 375 lb, high-back seat; tiller fuse panel) | Golden | [[GB119-149-Buzzaround-LX]] |
+| LiteRider HD GL112 (400 lb, one-piece 102 lb frame) | Golden | [[GL112-LiteRider-HD]] |
+| Eagle All Terrain GR596 (500 lb, **377–407 lb**, 200 A, 11.2 mph; over every outside lift on file) | Golden | [[GR596-Eagle-All-Terrain]] |
+| Passport bed (Hi Lo Tilt HS adjustable base; home use only, 880 lb; emergency lowering, pairing) | Golden | [[Golden-Passport-Bed]] |
 | J6 (J6 / J6 VA) | Pride | [[J6]] |
 | Q6 Edge 3 Stretto (75 A QLNES or Q-Logic 3) | Pride | [[Q6-Edge-3-Stretto]] |
 | Q6 Edge 3, standard (NF-22; QLNES on 2025 chart; spec sheet only) | Pride | [[Q6-Edge-3]] |
@@ -207,13 +221,14 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Gate and door interlocks (VPLs: EMI/ESI/GAL types, Harmar vs Honeywell wiring, install checks, 2-month tests, door-stuck-locked fix) | [[Gate-and-Door-Interlocks]] |
 | Mobility device weights for vehicle lifts (Golden assembled weights, sizes, wheelbases; Pride scooter and chair weights; hitch tongue-weight check; GC440 2024 = 222 lb) | [[Mobility-Device-Weights]] |
 | Vehicle lift power wiring (Bruno PUL-1100, ASL-275; Harmar 23 ft harness, 20 A breaker, red last) | [[Vehicle-Lift-Power-Wiring]] |
-| Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text) | [[Golden-Scooter-Warranty]] |
-| TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2: GA541, GP160, GP162 PTC, GP204/215, GP205) | [[TruCharge-Diagnostics]] |
-| S-Drive beep codes (7 codes, Golden S-Drive scooters: GB106, GR575 Patriot, GR595 Eagle) | [[S-Drive-Beep-Codes]] |
-| Shark controller diagnostics (11-code Dynamic Shark: GP620, older GP605; DX-HHP joystick calibration; same 11 codes as Pride's 50/60 A Dynamic) | [[Shark-Diagnostics]] |
-| Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion, LiteRiders incl. GL109, Buzzaround XL GB116/146/117/147, Extreme, Carry On) | [[Flash-Beep-Diagnostics]] |
-| LiNX controller diagnostics (7-code: GP162 LiNX variant, 2017 GP605, GP302B) | [[LiNX-Diagnostics]] |
-| Golden wheelchair warranty (separate from scooter warranty: GP162/GP205/GP207/GP605/GP620) | [[Golden-Wheelchair-Warranty]] |
+| Golden scooter warranty (BUZZaround/LiteRider/Companion/Avenger/Patriot; VA contract variant confirmed same text; GB120/220 2-yr batteries; GR596 13-month drive train) | [[Golden-Scooter-Warranty]] |
+| TruCharge battery/fault diagnostics (10-bar, PG S-Drive/VR2: GA541, GP160, GP161, GP162 PTC, GP204/215, GP205/206/207, GP208) | [[TruCharge-Diagnostics]] |
+| S-Drive beep codes (7 codes, Golden S-Drive scooters: GB106, GR575 Patriot, GR595 Eagle; GR596 Eagle All Terrain as E-codes) | [[S-Drive-Beep-Codes]] |
+| Shark controller diagnostics (11-code Dynamic Shark: GP620, older GP605; DX-HHP joystick calibration; same 11 codes as Pride's 50/60 A Dynamic; 2017 GP620 OM numbers 10, M1 = right) | [[Shark-Diagnostics]] |
+| Flash/beep code diagnostics (9-code, Dynamics R-Series controller: Companion incl. GC540/GC340R, LiteRiders incl. GL109/GL112, Buzzaround XL/LT/Lite/EX/LX, Carry On GB120/220; owner's manuals call code 3 "consult provider") | [[Flash-Beep-Diagnostics]] |
+| LiNX controller diagnostics (7-code: GP162 LiNX variant, GP164, GP605, 2019 GP620, GP302B) | [[LiNX-Diagnostics]] |
+| Golden wheelchair warranty (separate from scooter warranty: GP162/GP205/GP207/GP605/GP620, later GP161/GP164/GP208; 2022 version for GP130/GP301/GP303/GP305) | [[Golden-Wheelchair-Warranty]] |
+| **Ally fault codes** (GP303/304/305 display codes E1, 20–24, E6, E7, 40/41 freewheel, 80–96; voice prompts; phone app) | [[Ally-Fault-Codes]] |
 | Golden battery charging (HP8204B, MRC24-4LX + general care) | [[Golden-Battery-Charging]] |
 | Golden accessory installs (8 universal accessory docs) | [[Golden-Accessory-Installs]] |
 | Golden seating systems (size-code catalog, Proflex base) | [[Golden-Seating-Systems]] |
@@ -257,7 +272,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ramp install time estimates (per-component labor minutes from the layout-key sheet, origin unknown, with a worked example) | [[Ramp-Install-Time-Estimates]] |
 
 Golden uses PG Drives (S-Drive/VR2), Dynamic Controls (R-Series, Shark,
-LiNX) and Micon controllers, with 6 diagnostic schemes across scooters and
+LiNX) and Micon controllers, plus unnamed ones on the Ally family, GP130,
+GP309 and GR596, with at least 8 code tables across scooters and
 wheelchairs — always verify the controller before assuming a scheme
 applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3/QLNES controllers
 (see [[Joystick-Controllers]], [[Q-Logic-Fault-Codes]]) are a separate scheme again — don't assume
@@ -406,7 +422,20 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (102 of 102 ingested — fully ingested) — see `wiki/sources/Golden/`: **added 2026-10-12:**
+Golden (128 of 176 ingested; 48 lift chair and Spanish files pending) — see `wiki/sources/Golden/`: **added 2026-10-20 from Golden's Dropbox library:**
+[[Carry On Power Chair Owners Manual (GP130)]], [[LiteRider Envy Lite Owners Manual (GP161)]],
+[[BuzzAbout Owners Manual (GP164, LiNX)]], [[Alante Series Owners Manual (GP205, GP206, GP207)]],
+[[Alante Sport Owners Manual (GP208)]], [[Stride Owners Manual (GP301)]], [[Ally Owners Manual (GP303)]],
+[[Ally Pro Owners Manual (GP304)]], [[Ally Sport Owners Manual (GP305)]], [[Cricket LT Owners Manual (GP309)]],
+[[Compass Sport Owners Manual (GP605, LiNX)]], [[Compass HD Owners Manual (GP620, LiNX)]],
+[[Compass HD Owners Manual (GP620, Shark)]] (Wheelchairs);
+[[Buzzaround LT Owners Manual (GB107, GB108)]], [[Buzzaround Extreme Owners Manual (GB118, GB148)]],
+[[Buzzaround Luxury Owners Manual (GB119, GB149)]], [[Buzzaround Carry On Owners Manual (GB120, GB220)]],
+[[Buzzaround Lite Owners Manual (GB121)]], [[Buzzaround XL Series Owners Manual (GB121B, GB124A)]] (Buzzaround);
+[[Companion Owners Manual (DME Edition)]], [[Companion HD Owners Manual (GC540)]],
+[[ScooterBug Companion Owners Manual (GC340R)]] (Companion); [[LiteRider HD Owners Manual (GL112)]] (LiteRider);
+[[GR575 Patriot Owners Manual]] (Patriot); [[GR596 Eagle All Terrain Owners Manual]] (Eagle);
+[[Passport Hi-Lo Adjustable Base Owners Manual]] (new `Beds/` folder). **Added 2026-10-12:**
 [[AutoDrive Hand Control Resets and Calibrations]] (Lift Chairs),
 [[Buzzaround XL Owners Manual (GB117, GB147)]], [[Buzzaround XL Service Guide (GB117, GB147)]],
 [[Buzzaround Lite and XL Illustrated Parts Breakdown (GB107, GB117, GB147)]],
@@ -693,9 +722,10 @@ the vault's `Clippings/` folder (Pride and `Bruno/TechMate/` synced
 missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
 **Golden:** every manual on Golden's public website was ingested
-2026-10-12 (per the human), so remaining Golden gaps (e.g. Eagle and
-Cricket service guides, GB108, GB150) need Golden tech support
-(800-624-6374, mobility tech x501, VA tech x505).
+2026-10-12 (per the human), and Golden's Dropbox owner's-manual library
+was pulled 2026-10-20, so remaining Golden gaps (e.g. service guides for
+the Eagle, Eagle All Terrain, Cricket and Ally family; GB150) need
+Golden tech support (800-624-6374, mobility tech x501, VA tech x505).
 **Reminder rule:** whenever a tech works on a device with a missing
 manual, remind them to get a copy and add it here.
 
@@ -744,9 +774,12 @@ on file):
   guide for either). **GB147H** = the GB147 HD, covered by the GB117/147
   owner's manual, service guide and IPB ([[GB1xx-Buzzaround-XL]]).
 - [ ] **Golden lift chairs** (PR446/448/510/515/535/632/761/766):
-  only the AutoDrive reset/calibration sheet is on file, no owner's
-  manuals. Ask Golden lift chair tech support (800-624-6374 x502).
-  See [[Golden-Lift-Chairs]].
+  **owner's manuals now on disk** (35 files from Golden's Dropbox,
+  2026-10-20, in `MANUALS/Golden/Lift Recliners/`, including the
+  universal manual and PR446/448 and PR515/405/761), **not yet
+  ingested**. Still no service guide; no manual for PR510/535/632/766 by
+  model number (the universal manual may cover them). Ask Golden lift
+  chair tech support (800-624-6374 x502). See [[Golden-Lift-Chairs]].
 - [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; mostly
   closed 2026-10-20): owner's manuals are now on file for the Edge 4,
   Edge 2.0/3, Edge HD/Ultra, J4/J4E, 4Front, R-Trak, 1450, Jazzy 600 ES,
@@ -788,7 +821,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Bruno — fully ingested, including both halves of TechMate (2026-10-15); SRE-5000 manuals are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
-### Golden — fully ingested, no backlog remaining.
+### Golden — 48 files pending (2026-10-20): 35 lift chair (lift recliner) manuals in `MANUALS/Golden/Lift Recliners/` and 13 Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/`, both from Golden's Dropbox library. Everything else is ingested.
 
 ### Pride — fully ingested (222 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 technical service library on 2026-10-19, 54 from the PQ-365 owner's manuals and basic operations tabs on 2026-10-20). No unread files. Gaps (Missing manuals above): owner's manuals for the original Q6 Edge, Jazzy 614 (2010), Select Elite, Outback and ET Series; IPBs; bulletin LC-029. Owner's-manuals tab items **deliberately skipped**: Baja (Bandit, Raptor 2, Wrangler 2), 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), the AU mid-size and Canadian Go-Go duplicates, scooter intro/contact insert, non-medical scooter safety guide; basic operations tab: Synergy seat and Stealth cushion sheets. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 

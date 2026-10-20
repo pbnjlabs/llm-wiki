@@ -1,21 +1,23 @@
 ---
 type: model
 manufacturer: Golden
-model: GB106, GB107, GB116, GB146, GB117, GB147
-tags: [golden, buzzaround, buzzaround-xl, buzzaround-lite, scooter]
+model: GB106, GB107, GB108, GB116, GB146, GB117, GB147, GB121, GB121B, GB124A
+tags: [golden, buzzaround, buzzaround-xl, buzzaround-lite, buzzaround-lt, scooter]
 ---
 
-# Buzzaround XL / Buzzaround Lite (GB106, GB116, GB146, GB117, GB147)
+# Buzzaround XL / Lite / LT (GB106–GB124A)
 
-Golden's mid-size folding travel scooter family. It comes in two
-generations, plus the older Lite:
+Golden's mid-size folding travel scooter family: the XL in three
+generations, plus the Lite and LT:
 
 | Model | Generation | Wheels | Controller | Status |
 |---|---|---|---|---|
 | GB106 Buzzaround **Lite** | 1st | 3 | **PG S-Drive** | Discontinued |
 | GB116 / GB146 Buzzaround XL | 1st | 3 / 4 | Dynamics R-Series (DR50-A01, 50 A) | Discontinued |
 | **GB117 / GB147** Buzzaround XL | Current | 3 / 4 | Dynamics R-Series (IPB 2025: DR90-A01) | Current |
-| GB107 Buzzaround LT | Current | 3 | Dynamics DR90-A01 | Current (shares the GB117/147 IPB) |
+| GB107 / GB108 Buzzaround LT | Current | 3 / 4 | Dynamics DR90-A01 (GB107, per IPB); 50 A in the OM | Current (GB107 shares the GB117/147 IPB) |
+| GB121 Buzzaround **Lite** | 2022 | 3 (inferred) | 50 A | Owner's manual 2022 |
+| **GB121B / GB124A** Buzzaround XL (-STD) and **XLS HD** (-SHZ) | 2022 | 3 / 4 (inferred from turning radius) | 50 A | Owner's manual 2022 |
 
 **GB147H** (4-wheel) is on Golden's 2026 VA lineup (per the human). Per
 the [[Buzzaround XL Owners Manual (GB117, GB147)]], **H means the HD
@@ -29,6 +31,9 @@ inference.
 
 - [[Buzzaround XL Owners Manual (GB117, GB147)]] (2019): specs, weights,
   disassembly, codes
+- [[Buzzaround LT Owners Manual (GB107, GB108)]] (Nov 2022)
+- [[Buzzaround Lite Owners Manual (GB121)]] (Jan 2022)
+- [[Buzzaround XL Series Owners Manual (GB121B, GB124A)]] (Aug 2022)
 - [[Buzzaround XL Service Guide (GB117, GB147)]] (2015)
 - [[Buzzaround Lite and XL Illustrated Parts Breakdown (GB107, GB117, GB147)]] (2025)
 - [[Buzzaround XL Service Guide (GB116, GB146)]] (2011, discontinued, includes an IPB)
@@ -51,6 +56,36 @@ inference.
 4 mph, 50 A controller, 8 in solid tires, 23 lb seat. The battery pack
 weighs 19 lb (12 Ah) or 29 lb (22 Ah). See [[Mobility-Device-Weights]].
 
+## 2022 owner's manuals: GB107/108, GB121, GB121B/124A
+
+| | Capacity | Assembled | Front / rear half | Seat | Pack | Wheelbase | Turning radius | Range |
+|---|---|---|---|---|---|---|---|---|
+| GB107 LT | 300 lb | **87 lb** | 28 / 20.5 | 13.5 | 17.5 (2-12 Ah) | 33.5 in | 39 in | 5.22 mi |
+| GB108 LT | 300 lb | **91.5 lb** | 34 / 20.5 | 13.5 | 17.5 | 33.5 in | 48.5 in | 5.42 mi |
+| GB121 Lite | 300 lb | 100 lb | 32 / 24 | 23 | 18 (2-12 Ah) | 31.5 in | 38 in | 7.5 mi |
+| GB121B-STD XL | 300 lb | 93 lb | 32 / 24 | 21 | 16 (2-12 Ah) | 31.5 in | 37.5 in | 10.33 mi |
+| GB124A-STD XL | 300 lb | 98 lb | 37 / 24 | 21 | 16 | 30.5 in | 45.5 in | 10.29 mi |
+| GB121B-SHZ XLS HD | **325 lb** | 100 lb | 35 / 28 | 21 | 16 | 31.5 in | 37.5 in | 8.9 mi |
+| GB124A-SHZ XLS HD | **325 lb** | 105 lb | 40 / 28 | 21 | 16 | 30.5 in | 44 in | 9.82 mi |
+
+- The **LT is slow** per its manual: 3.61 mph (GB107) and 3.13 mph
+  (GB108), 180 W motor, 5.2–5.4 mi. The 2025 sell sheet says 4 mph and
+  7.4 mi, so Golden may have changed it. The others do 4 mph. All have
+  50 A controllers and 2-12 Ah.
+- The GB107/108 manual's weights (87 / 91.5 lb) don't match the 2025
+  sell sheet (85.5 / 95 lb). Use the higher figure for lifts.
+- **GB121 and GB121B/124A fuses** (non-code faults): **3 A under the
+  battery pack** (dead dash, no drive) and **5 A under the charger port
+  cover** (won't charge through the XLR port).
+- GB121B/124A: battery pack with a **wireless contact connector**;
+  **tiller lock knob** locks the front wheel so the folded scooter can
+  be carried by the tiller tube; separates with the drivetrain release
+  lever like the GB117/147.
+- The warranty lists add **GB121A** (as an LT) and **GB121B, GB124A**
+  (as XL series) ([[Golden-Scooter-Warranty]]).
+- All of them use the R-Series codes 1–9 ([[Flash-Beep-Diagnostics]])
+  and the same freewheel lever: **forward toward N** = freewheel.
+
 ## Newer Buzzaround models (sell sheets)
 
 From [[Golden Sell Sheets (2018-2026)]]:
@@ -59,7 +94,7 @@ From [[Golden Sell Sheets (2018-2026)]]:
   (MicroTurn), 3.5 in clearance. No manual on file.
 - **GB107 / GB108 Buzzaround LT** (3W / 4W, Jul 2025): 300 lb, 85.5 /
   95 lb assembled, 2-12 Ah. The GB107 is in the 2025 IPB above; the
-  GB108 is not.
+  GB108 is not, but both now have an owner's manual (above).
 
 ## Electrical and diagnostics
 
@@ -101,7 +136,7 @@ From [[Golden Sell Sheets (2018-2026)]]:
 
 ## See also
 
-[[Golden]], [[Golden-Scooter-Warranty]], [[GB118-148-Buzzaround-EX]],
+[[Golden]], [[Golden-Scooter-Warranty]], [[GB118-148-Buzzaround-EX]], [[GB119-149-Buzzaround-LX]],
 [[GB120-Buzzaround-CarryOn]], [[GL110-140-LiteRider]],
 [[Golden-Transaxle-Replacement]], [[Brake-Replacement]],
 [[Flash-Beep-Diagnostics]], [[S-Drive-Beep-Codes]]
