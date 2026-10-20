@@ -179,7 +179,6 @@ the model page.
 ## See also
 
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
-
 [[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Power-Chair-Troubleshooting]],
 [[Ceiling-Lift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
 [[TechMate VPL Troubleshooter]], [[Mobility-Batteries]], [[Joint-Commission-DMEPOS]] (maintenance and
