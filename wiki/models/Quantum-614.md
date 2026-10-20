@@ -30,6 +30,8 @@ file.
 - Inhibit programming: **High Inhibit**.
 - **System Lock on this chair: press the Mode switch until it powers
   off**; unlock forward to a beep, back to a beep.
+  The NE+ BOI ([[NE+ Controller Basic Operation Instructions (INFMANU3765)]])
+  says hold **both profile keys** instead; if Mode doesn't lock it, try that.
 - Extra NE+ messages here: left/right indicator, hazard and running
   light errors (press that key; persists → Quantum).
 

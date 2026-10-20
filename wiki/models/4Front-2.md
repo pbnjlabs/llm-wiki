@@ -53,6 +53,16 @@ shocks (rear 350 lb, front 450 lb) via KIT1902966; under 200 lb,
 KIT1902968 (towers only). Pulling the pivot pins drops the caster arm and
 motor: keep hands clear.
 
+## Owner's manual
+
+[[Quantum 4Front Series Owners Manual (INFMANU4864)]] (4Front, 4Front 2,
+4Front 2HD; 2021):
+- **Smart Traction Control** on the 4Front 2 and 2HD (warning 72 in the
+  controller BOI).
+- **Rear anti-tip wheels required over 200 lb** user weight (optional
+  under 200 lb); without them speed is cut to **5 mph**.
+- Care and charging: [[Pride-Power-Chair-Care]].
+
 ## See also
 
 [[Jazzy-1450]], [[R-Trak]], [[Pride-Power-Chair-Lineup]],

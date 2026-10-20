@@ -41,6 +41,15 @@ slope **6°**; climbs 2.5 in; under 60 N freewheel force.
 - **SC60 Revo battery box** kit: off-board 2.5 A Battery Maximizer
   charger with an XLR port on the box instead of the onboard charger.
 
+## Owner's manual
+
+Covered by the travel scooter owner's manuals
+([[Travel Scooter Series Owners Manual (INFMANU4392)]] and the
+Pride-branded [[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
+**forward = freewheel** (brakes off, motor power cut), pull it back and
+cycle the key. Care: [[Pride-Power-Chair-Care]].
+
 ## See also
 
 [[Go-Go-Sport]], [[Pride-Power-Chair-Lineup]], [[Mobility-Device-Weights]],

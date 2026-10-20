@@ -15,9 +15,30 @@ from a **Q-Logic 3** controller. The guide illustrates it on the
 mounts TB4 tilt and TB4 lift & tilt seats. The older system is on
 [[Tru-Balance-3-Power-Positioning]].
 
-No TB4 owner's manual or **technical troubleshooting guide** is on file
-(Missing manuals). Q-Logic 3 seat/actuator fault codes **150–177** are
-on [[Q-Logic-Fault-Codes]].
+Also on file (2026-10-20): the user manual,
+[[TRU-Balance 4 Basic Operation Instructions (INFMANU5231)]] (2025), and
+the dealer [[TRU-Balance 4 Technical Troubleshooting Guide (INFMANU5254)]]
+(2022). Q-Logic 3 seat/actuator fault codes **150–177** are on
+[[Q-Logic-Fault-Codes]]; the procedures are below.
+
+## Range and limits (BOI)
+
+- Up to **50° tilt** (less on some bases), **12 in lift**, recline
+  **85–165°**, combined to 165°. **300 lb** max (TB3: 450 lb, 175°).
+- Inhibits: elevated = ¼ speed and recline/tilt/elevate lockouts; tilt
+  or recline past 20°, or combined past 125° = full drive lockout.
+- **Anterior tilt drive speed:**
+
+  | Lift | Anterior 0–10° | 11–20° | 21–30° |
+  |---|---|---|---|
+  | 0–2 in | 2 mph | 0.5 mph | lockout |
+  | 2–6 in | 2 mph | 0.5 mph | lockout |
+  | 6–12 in | 2 mph | lockout | lockout |
+
+- **Knee blocks past 10° anterior; knee blocks and chest support at 20°
+  or 30°.** iLevel not engaged during power anterior tilt = **0%**
+  (full lockout) when elevated.
+- Don't bypass or reprogram the factory inhibits.
 
 ## Rules from the guide
 
@@ -39,6 +60,56 @@ on [[Q-Logic-Fault-Codes]].
 | **Actuator Calibration** | After replacing the AAM, recline or elevate actuator, AFP upper, or the seat base | Actuator Calibration (Start) → Start Actuator Feedback Calibration (Yes); confirm by pushing the joystick forward |
 | **Teach Anterior Tilt and Transfer Position** | Seat base replaced; tilt limit switch replaced **with a different angle** (reset, then teach); at delivery to set the user's anterior tilt | Teach Anterior Tilt and Transfer Position (Start), follow the prompts |
 | **Teach Elevate vs AFP Articulation** | Lower leg length or STF height changed (delivery or repair) | Seat home → start → AFP down until the footplates are just above the floor → elevate up to fully articulate the AFP, then elevate down until just above the floor → save |
+
+## Troubleshooting (TTG, codes 150–174)
+
+From the [[TRU-Balance 4 Technical Troubleshooting Guide (INFMANU5254)]].
+Read the faults with a Q-Logic 3 programmer: **Monitor → Advanced
+Actuator Module → Actuator Feedback** (wiper voltage per actuator) and
+**End Switches**.
+
+**Any TB4 error drops the seat into Fall Back Mode**: memory positions
+and anterior tilt are disabled and it runs like a TB3. Give a forward
+command to accept it, then you can still run the actuator while
+monitoring.
+
+| Actuator (AAM port) | Wiper (approx.) | End switch at home |
+|---|---|---|
+| 1 Tilt (A1) | posterior 0.3–4.1 V; anterior 0.3–3.1 V | ES2 off |
+| 2 Recline (A2) | 3.5 V upright → 0.3 V reclined | ES4 on |
+| 3 Lift (A3) | 0.2–4.0 V | ES6 off |
+| 4 AFP elevate (A4) | 0.2–3.7 V | ES8 off |
+| 5 AFP articulate (A5) | 0.3–4.9 V | ES10 on |
+
+End-switch states are only reliable right after a calibration.
+
+**The general rule:** run the actuator a full cycle while watching its
+wiper. **Voltage changes → run Actuator Calibration** (Program
+Adjustments → Seat → Memory Seating Setup → Actuator Calibration, confirm
+with forward), power-cycle and run a memory position. **Voltage stuck
+near 0 V (shorted low or open) or above ~4 V (shorted high) → the
+actuator has failed.** The tilt and lift actuators are part of the
+**seating frame**, so those mean a seating frame; recline and AFP
+actuators are replaced on their own. Warnings (same number, intermittent,
+chair still works) → calibrate; if the error follows, troubleshoot it.
+
+| Code | What it points to | Action |
+|---|---|---|
+| No code, no tilt either way | **Switching motor** under the seat pan | Tilt screen, drive command: LED1 (left, power in) lit but LED2 (right, power out) dark → nudge the switching motor with an 8 mm wrench to reseat the slide pins, else replace it. Neither lit → monitor AM Actuator 1 current: none = tilt actuator (seating frame), current = AAM |
+| 150, 151 | Tilt feedback (4-pin at A1) | Calibrate if the wiper moves; else seating frame. ES2 off while tilted = end switch failed (seating frame) |
+| 152 | Tilt actuator / anterior tilt / **cam lock** | Check for mechanical interference with the cam lock; calibrate; switching motor LED test. In anterior tilt only: unplug the **2-pin anterior tilt switch** on the switching motor; continuity = replace the switching motor, none = replace the switch |
+| 153 | Tilt function error (polarity) | **Switching motor**. As an anomaly: run a full posterior-to-anterior cycle, power-cycle, check the cam locks |
+| 154 | Tilt **home switch** (micro switch on top of the tilt actuator) | Tilt fully back, loosen its two #1 Phillips screws, move it **up** so it trips sooner, power-cycle; still there → seating frame. Check the history: it can follow a 155 |
+| 155 | Anterior tilt switch (2-pin seat-to-base harness; shows only in anterior tilt) | Monitor System → General → Switch 1 (on = anterior). Off in anterior → continuity on the 2-pin harness, then the **PTO harness** at the power module; Switch 1 on in posterior → replace the PTO harness. In posterior with this error → calibrate. **After a power cycle 155 can show as 153; troubleshoot the original** |
+| 156–158 | Recline feedback / tolerance / switch | Usually together. Wiper near 0 V → recline actuator. Multimeter at the AAM (back shroud off, 2 screws hold the AAM to the spine): feedback pins 0–10 kΩ = AAM, open = actuator |
+| 159–161 | Lift feedback / tolerance / switch | Wiper near 0 → seating frame. Lifts up but won't come down (ES6 switches off) → signal switch inside the actuator, seating frame |
+| 169–171 | AFP elevate (6-pin curly cord on the **right** of the AFP) | Continuity on the intermediate harness first (A4 2-pin + 4-pin); good harness → AFP elevate actuator. Shorted high: the AFP goes out but not back in |
+| 166–168 | AFP articulate (curly cord on the **left**) | Same, at A5; good harness → AFP upper assembly |
+| 174 | Memory position invalid | Memory **Operation Type must be Synced, not Sequential**, for anterior tilt positions; also after an anterior tilt reset to 10° with a saved position past 10° |
+
+**Moves on the joystick but nothing happens, no code:** unplug the
+actuator's 2-pin at the AAM and measure the actuator: **about 1–3 Ω =
+actuator fine, replace the AAM; open = replace the actuator.**
 
 ## Torque values
 

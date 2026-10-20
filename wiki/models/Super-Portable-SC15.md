@@ -8,7 +8,7 @@ tags: [pride, scooter, folding, lithium]
 # Super Portable (SC15)
 
 Pride's lightest scooter on file, **41.6 lb without battery**, folding,
-with a carbon-fiber seat. Spec sheet only
+with a carbon-fiber seat. Spec sheet, owner's manual and code sheets
 ([[Super Portable SC15 Specifications (INFINFB4573)]], Rev A, Jul 2024).
 
 | | |
@@ -32,6 +32,24 @@ with a carbon-fiber seat. Spec sheet only
 No minimum-voltage figure for the SC15 battery is on file; Pride's
 general rule still applies: **don't load-test lithium**
 ([[Lithium Battery Field Inspection Instructions]]).
+
+## Owner's manual and codes
+
+- [[Go Go Super Portable SC15 Owners Manual (INFMANU5479)]] (2025):
+  lithium box with a **battery disconnect switch**, breaker and fuse;
+  **magnetic charger connector, keep 6 in from implanted medical
+  devices**. Dead: breaker, battery seated and charged, disconnect
+  switch on.
+- **Fault beeps (Jiuniu controller):** 2 battery low, 4 Hall sensor, 5
+  magnetic brake disconnected (freewheel lever to drive), 6 throttle not
+  at rest at power-up, 7 throttle signal, 9 controller
+  ([[Go Go Carbon and Super Portable Code Sheets]]). The
+  [[SC15 Voltmeter and Diagnostic Codes Insert (INFINFB4704)]] gives a
+  different, S-Drive-style list (1–6, 8, 9); count the beeps and check
+  both.
+- **Lithium meter:** 3 green 90–100%, 2 green 80–90, 1 green 60–80,
+  4 yellow 50–60, 3 yellow 40–50, 2 yellow under 30, 1 yellow under
+  20, all red dead (at full speed on level ground).
 
 ## See also
 

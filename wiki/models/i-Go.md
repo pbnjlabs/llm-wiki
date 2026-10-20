@@ -7,7 +7,7 @@ tags: [pride, scooter, folding, lithium]
 
 # i-Go (S20)
 
-Pride's **folding lithium** scooter, model **S20**. Spec sheet only
+Pride's **folding lithium** scooter, model **S20**. Spec sheet and owner's manual
 ([[i-Go Specifications (INFINFB4404)]], Rev B, Jan 2023).
 
 | | |
@@ -31,6 +31,14 @@ Pride's **folding lithium** scooter, model **S20**. Spec sheet only
 and **Panasonic MEC2200931**; both are bad below **22 VDC** after a full
 charge. **Don't load-test lithium**
 ([[Lithium Battery Field Inspection Instructions]]).
+
+## Owner's manual
+
+[[i-Go Owners Manual (INFMANU5131)]] (2023): removable lithium pack;
+main breaker pops out when tripped (rest a minute, push it in toward the
+rear; frequent trips = charge more often); 3-pin XLR lithium charger
+into the scooter first, then the wall (two red LEDs charging, green
+full). Lithium rules: [[Lithium-Ion Battery Product Insert (INFINFB4079)]].
 
 ## See also
 

@@ -46,3 +46,6 @@ over the lift frame crossbar, cable mount; thread the new hand control
 through the cushion area from the front; connect, take up slack, tie.
 
 Feeds into: [[Pride-Lift-Chairs]].
+
+**Newer revision:** INFINFB2665 Rev M (Sep 2024) changed the flash codes
+and added a USB/outage warning: [[Lift Chair Hand Control Reference (INFINFB2665 Rev M, 2024)]].

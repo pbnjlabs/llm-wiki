@@ -8,9 +8,9 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, ilevel]
 # Q6 Edge 3 (standard)
 
 Quantum (Pride) mid-wheel-drive power chair. **Not the
-[[Q6-Edge-3-Stretto]]**, which is narrower and has its own specs. Only a
-spec sheet is on file for this one; there's **no Edge 3 owner's manual**
-(see the index's Missing manuals).
+[[Q6-Edge-3-Stretto]]**, which is narrower and has its own specs. Its owner's manual is the shared
+[[Q6 Edge 2.0, 2.0X, 3, 2.0HD and Q4 2 Owners Manual (INFMANU4620)]]
+(Rev N, 2025), plus the spec sheet.
 
 From [[Q6 Edge 3 Specifications (INFINFB3925)]] (Rev D, Oct 2022):
 

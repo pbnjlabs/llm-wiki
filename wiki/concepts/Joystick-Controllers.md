@@ -16,7 +16,7 @@ newVSI) or Dynamic controllers instead; those are on
 | You see | It is | Codes |
 |---|---|---|
 | Colour LCD hand control with on/off–mode lever and speed knob (2008-era) | Legacy **Q-Logic** | [[Q-Logic-Fault-Codes]] |
-| Hand control J/AJ/LJ on a Power Base 75; LCD with **icons** and text messages | **Q-Logic NE / NE+** | Message table on [[Power-Chair-Troubleshooting]] §7 (from the Q6 Edge and J6 TTGs) |
+| Hand control J/AJ/LJ on a Power Base 75; LCD with **icons** and text messages | **Q-Logic NE / NE+** | NE/NE+ BOIs below; message table on [[Power-Chair-Troubleshooting]] §7 |
 | Display hand control or Enhanced Display, Home/Aux/Settings screens, Key I/II | **Q-Logic 3** (3e: Bluetooth under Settings) | [[Q-Logic-Fault-Codes]] |
 | **LED-only** joystick, Key I/II, USB-C port, magnetic charger port | **QLNES** | [[Q-Logic-Fault-Codes]] (3-LED digit blink) |
 | Speed dial; or 10-LED arc with speed/profile buttons; or service indicator | GC3; VR2; Dynamic | [[Pride-Controller-Flash-Codes]] |
@@ -204,8 +204,31 @@ dwell-click option for users who can't physically click.
 Bluetooth programming apps (Econ-W, Econ-I), **Interactive Assist**
 remote diagnostics, phone/tablet mouse and Switch Control pairing, and
 the GyroSet Vigo head control:
-[[Q-Logic-3-Bluetooth-and-Remote-Programming]]. **Q-Logic 3e** (on the
-J4E/J4EHD) turns Bluetooth on from the Settings screen instead of Aux.
+[[Q-Logic-3-Bluetooth-and-Remote-Programming]].
+
+### Q-Logic 3e
+
+Source: [[Q-Logic 3e Basic Operation Instructions (INFMANU5154)]]
+(2026). On the J4E/J4EHD. Keys: on/off, horn, **Mode**, **Page** and
+soft keys (speed arc); Bluetooth is turned on from Settings instead of
+Aux.
+- **Lock: hold Mode until it turns off** (off from the factory).
+  Unlock: on, full forward to a beep, full reverse to a beep.
+- **USB-C port, 1.5 A.** Bluetooth programming and Interactive Assist
+  must be accepted with a forward command.
+- Battery meter green ~100–50%, yellow 49–25%, red 24–0%; pop-ups at
+  **50, 30 and 15%** (turn off in Econ-W/Econ-I display settings).
+- Same error numbers as the 2026 Q-Logic 3 BOI.
+
+The 2026 Q-Logic 3 BOI ([[Q-Logic 3 Basic Operation Instructions (INFMANU4809, Rev G 2026)]])
+drops **#75** from its table; the Edge 4 owner's manual still shows it.
+
+### Q-Logic 2
+
+[[Q-Logic 2 Controller Basic Operation Instructions (INFMANU4801)]]:
+lever-style on/off–mode, and the **legacy Q-Logic code numbers**
+(35/37, 36/110, 46, 105, 53, 75, 90, 132, 195, 201). Use the legacy
+table above, not the Q-Logic 3 one.
 
 ## QLNES (2024)
 
@@ -236,11 +259,29 @@ controls, AM1/AM2/LAM2 actuator modules. Faults show as **icons**. Still
 on the 2025 chart for the [[J6]] (70 A) and [[Q6-Edge-HD]] (75 A);
 NE+ also on the [[R-Trak]]; originally on the [[Q6-Edge]].
 
-No NE/NE+ operation manual is on file, but the dealer troubleshooting
-guides for the original Q6 Edge
+End-user manuals: [[NE Controller Basic Operation Instructions (INFMANU3757)]]
+(2016) and [[NE+ Controller Basic Operation Instructions (INFMANU3765)]]
+(2023). From them:
+
+- **NE:** on/off, horn, profile up/down, up to 5 profiles; sleep 0–60
+  min. **NE+:** adds the lights version (turn, hazard, light keys),
+  up to **two actuators** (actuator keys, profile keys plus joystick:
+  forward = lower, reverse = raise, a mono-jack switch, or the attendant
+  control), and the **attendant control overrides the hand control**.
+  Sleep 0–240 min.
+- Battery meter (both): 7 segments; bottom one flashing = 10% or less;
+  scrolling up = charging or inhibit; all or none flashing fast = fault.
+- **Charger/programming socket on the joystick: 8 A max, Neutrik NC3MX
+  plugs only.**
+- Thermal rollback to 20%.
+- NE+ icons add indicator, hazard and light faults, **speed limit
+  warning (return the seat upright)**, idle mode, attendant control
+  fault and "locked out".
+
+The dealer troubleshooting guides for the original Q6 Edge
 ([[Q6 Edge Technical Troubleshooting Guide (INFMANU4109 Rev B, 2012)]])
 and the J6 ([[J6 Technical Troubleshooting Guide (INFMANU4132)]]) cover
-the parts a tech needs:
+the dealer side:
 
 - **LCD** (NE and NE+): charging and lights indicators steady when
   active, **flashing to show where a problem is**; error/warning
@@ -258,11 +299,12 @@ the parts a tech needs:
 - **Save System Configuration** after removing a module on purpose, or
   the chair reports it missing.
 
-**Lock on NE+ differs by guide:** the Q6 Edge and J6 guides and
-Pride's locking sheet say hold **both profile keys**; the **Quantum
-614** guide says press the **Mode switch** until it powers off
-([[Quantum-614]]). Try both. The Quantum 614 NE+ also shows
-indicator, hazard and running-light errors.
+**NE+ lock, settled:** the NE+ BOI (2023) says hold **both profile
+keys** until it shuts off, matching the Q6 Edge and J6 guides and
+Pride's locking sheet. The **Quantum 614** guide's "press the Mode
+switch" is the odd one out ([[Quantum-614]]); try it only if both
+profile keys don't work. The **NE** (not plus) locks by holding
+**on/off** until it shuts off.
 
 Firmware: [[NE+ Firmware Compatibility List (2009)]]. Symptom checklist:
 [[Q6 Edge Basic Troubleshooting]].

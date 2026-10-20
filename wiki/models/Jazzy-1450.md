@@ -53,6 +53,13 @@ Apr 2023):
   same). Q1450: Synergy and TRU-Balance 2 HD power tilt 20–32 W × 20–28
   D in, Q Captain 22–26 × 20–24 in.
 
+## Owner's manual
+
+[[Quantum and Jazzy 1450 Owners Manual (INFMANU4342)]] (Rev C, 2020):
+standard content ([[Pride-Power-Chair-Care]]). The bariatric tilt seat
+has its own manual: [[TRU-Balance Bariatric Power Tilt BOI (INFMANU4082)]]
+(600 lb; full speed tilted up to 20°).
+
 ## See also
 
 [[4Front-2]], [[Q6-Edge-HD]], [[Pride-Power-Chair-Lineup]],

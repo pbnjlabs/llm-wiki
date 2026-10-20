@@ -20,7 +20,10 @@ against the table below.
   2011) — dealer guide with wiring diagrams.
 - [[Jazzy 614 Basic Troubleshooting (INFINFB2468)]] (Rev A, 2010) —
   symptom checklist and flash code table (covers the 614 HD too).
-- No owner's manual or parts guide on file.
+- [[Jazzy EVO 614 Series Owners Manual (INFMANU5238)]] (Rev B, Sep
+  2026) for the current **EVO 614 / 614HD**: two freewheel levers,
+  **pull up** for freewheel; charge reminder after 8 h driving without
+  a charge. No parts guide on file.
 
 ## Electronics
 

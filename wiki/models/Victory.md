@@ -7,8 +7,9 @@ tags: [pride, scooter, victory, s-drive]
 
 # Pride Victory 9 / Victory 10 scooters
 
-Pride's full-size Victory scooters. No owner's manual or spec sheet on
-file; the documents are service ones. The older Victory (before 2002),
+Pride's full-size Victory scooters. Owner's manuals: [[Victory Series Owners Manual (INFMANU3629)]] (2012,
+with specs) and the current
+[[Mid-Size Scooter Series Owners Manual (INFMANU4468)]] (2025). The older Victory (before 2002),
 Rally and Shuttle used a different charger setup (see
 [[Technical Troubleshooting Guide - Battery Guide (2004)]]).
 
@@ -33,6 +34,22 @@ Rally and Shuttle used a different charger setup (see
   freewheel.
 - Motor/transaxle: keep the planetary gear's lower rim flush with or
   below the motor face plate when refitting, O-ring in place.
+
+## Specs (2012 owner's manual)
+
+| | Victory 9 (SC609/709) | 9 PS (SC609PS) | Victory 10 (SC610/710) |
+|---|---|---|---|
+| Capacity | 300 lb | 300 lb | **400 lb** |
+| Speed | 5.25 mph | 5.5 mph | 5.25 mph |
+| Range | 13 mi | 13 mi | 15.5 mi |
+| Max incline / obstacle | 8° / 3 in | 8° / 3 in | **6° / 2 in** |
+| Batteries | 2 × U1 31–36 Ah | same | U1 or 40 Ah |
+
+3 A off-board charger. Hi/lo switch: HI 5.25 mph, LO 2.625 mph. Tiller
+fuses: charger 10 A, key 5 A, lights 1 A. Full table on the source
+page. The 2025 mid-size manual covers models 609 through 712DX and
+gives the beep codes 1–9 ([[S-Drive-Beep-Codes]]). Care:
+[[Pride-Power-Chair-Care]].
 
 ## See also
 

@@ -34,6 +34,13 @@ Check the label on the unit. Don't go by feel.
 | Golden Cricket GP302 (2 levers) | The other position (the manual only names drive) | **Forward** |
 | Pride J6 (2 levers) | Pull **outward** | Push **inward** |
 | Pride Q6 Edge 3 Stretto (2 levers) | Push **down** | Pull **up** |
+| Pride Jazzy 600 ES (2 levers) | Push **down** | Pull up |
+| Pride Jazzy Elite ES | Pull **rearward** toward the seat post | Forward |
+| Pride Jazzy Elite HD / 14 | Rotate **outward**, away from the seat | Inward. **No code if one is left in freewheel** |
+| Pride Jazzy EVO 614 (2 levers) | Pull **up** | Push down |
+| Pride Go Chair (2 levers) | Pull toward the **rear** | Forward |
+| Pride Jazzy Carbon (lever on each motor) | Position **B** (push) | Position **A** (electric) |
+| Pride scooters (2025–2026 owner's manuals) | Push **forward** | Pull **back**, then cycle the key |
 | Red Hawk Phoenix (2 red levers) | Push in the arrow direction | Reverse |
 | Red Hawk Eagle HD | Flip brake release lever **forward** (manual) | Flip **back** (electric) |
 
@@ -121,6 +128,10 @@ then the brake and wiring.
 | Pride Q-Logic 3 | **#3 / #4, #25 / #26** brake; fix: **disengage and re-engage the lever** | [[Q-Logic-Fault-Codes]] |
 | Pride NE / NE+ | "Motor/Brake Error" | [[Power-Chair-Troubleshooting]] |
 | Pride Elite Traveller scooter | **5** beeps, solenoid brake trip | [[Elite-Traveller]] |
+| Pride scooters, owner's manuals (Victory, travel series) | **5** beeps = freewheel lever in freewheel | [[S-Drive-Beep-Codes]] |
+| Pride SC15 (Jiuniu) | **5** = magnetic brake disconnected; lever back to drive | [[Super-Portable-SC15]] |
+| Jazzy Carbon | beep **2+3 / 2+5** right / left brake: lever in A? | [[Jazzy-Carbon]] |
+| **Jazzy Elite HD / 14** | **Nothing**: drives with one lever out; check both by eye | [[Jazzy-Elite]] |
 
 Brake resistance checks by chair, with the lever in drive:
 [[Power-Chair-Troubleshooting]] §6a.

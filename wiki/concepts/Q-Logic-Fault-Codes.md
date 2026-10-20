@@ -12,8 +12,8 @@ for when the short tables on [[Joystick-Controllers]] and
 
 | System | Where the number shows | Source |
 |---|---|---|
-| **Legacy Q-Logic** (2008-era, colour LCD hand control or Enhanced Display) | Pop-up on the LCD; SAJ-only chairs show LED patterns and need a programmer for the number | [[Q-Logic Technical Manual (INFMANU3580)]] (2008), [[Q-Logic Fault Codes (2011)]] |
-| **Q-Logic 3 / 3e** (touchscreen-style display) | Number and text on the display | [[Q-Logic 3 Fault List (2025)]], [[Q-Logic 3 Basic Operation Instructions]] |
+| **Legacy Q-Logic** and **Q-Logic 2** (colour LCD hand control or Enhanced Display) | Pop-up on the LCD; SAJ-only chairs show LED patterns and need a programmer for the number | [[Q-Logic Technical Manual (INFMANU3580)]] (2008), [[Q-Logic Fault Codes (2011)]], [[Q-Logic 2 Controller Basic Operation Instructions (INFMANU4801)]] |
+| **Q-Logic 3 / 3e** (touchscreen-style display) | Number and text on the display | [[Q-Logic 3 Fault List (2025)]], [[Q-Logic 3 Basic Operation Instructions]], [[Q-Logic 3e Basic Operation Instructions (INFMANU5154)]] |
 | **QLNES** (2024, LED hand control, no screen) | Three LEDs blink the digits (below) | [[QLNES Basic Operation Instructions (INFMANU5366)]] |
 
 **The same number means different things on legacy Q-Logic and Q-Logic
@@ -192,7 +192,7 @@ power on". QLNES uses the same numbers for 1–4, 20–26, 46 and 47.
 | 85 | Smart traction control offset (turn rate or temperature) | — |
 | 86 | Power cycle required | Power-cycle |
 | 141 | Advanced seat navigation not allowed with 1-switch scanner | — |
-| 150–155 | **TRU-Balance 4 tilt**: feedback defect, out of tolerance, actuator / anterior tilt / cam lock defect, function error, home switch, anterior tilt switch | Recalibrate feedback; else change tilt actuator, cam lock or switch assembly (150: see the TRU-Balance 4 technical troubleshooting guide, not on file; actuator calibration and parts: [[Tru-Balance-4-Power-Positioning]]) |
+| 150–155 | **TRU-Balance 4 tilt**: feedback defect, out of tolerance, actuator / anterior tilt / cam lock defect, function error, home switch, anterior tilt switch | Recalibrate feedback; else change tilt actuator, cam lock or switch assembly (step-by-step in the [[TRU-Balance 4 Technical Troubleshooting Guide (INFMANU5254)]], summarized on [[Tru-Balance-4-Power-Positioning]]). **153 = switching motor; 155 shows only in anterior tilt and can turn into 153 after a power cycle (check the error history)** |
 | 156–158 | TRU-Balance 4 recline feedback / tolerance / switch | Recalibrate; change recline actuator |
 | 159–162 | Elevate feedback / tolerance / switch / not moving | Check cable; recalibrate; change elevate actuator |
 | 163–171 | AFP (articulating foot platform), AFP articulation and AFP elevation actuators: feedback, tolerance, switch defects | Check feedback cable; recalibrate; change that actuator assembly |
@@ -206,8 +206,11 @@ power on". QLNES uses the same numbers for 1–4, 20–26, 46 and 47.
 | 220 | Firmware update hardware version check failed | — |
 | 221 | Gyro/accelerometer (IMU) fault | — |
 
-Not on file: the **TRU-Balance 4 technical troubleshooting guide**
-(see the index's Missing manuals).
+TRU-Balance 4 codes 150–174 step by step: [[TRU-Balance 4 Technical Troubleshooting Guide (INFMANU5254)]]
+(any of them puts the seat in **Fall Back Mode**: no memory or anterior
+tilt until fixed). The 2026 Q-Logic 3 and 3e BOIs list only the
+user-level codes (1–4, 20, 21, 23–26, 32, 34, 35, 46, 47, 174); #75 has
+dropped out of the BOI table.
 
 **Field note:** repeated "joystick out of center" that only shows up
 over bumps, and survives a firmware update, can be a **bus cable routing

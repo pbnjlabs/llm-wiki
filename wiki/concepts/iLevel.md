@@ -50,6 +50,9 @@ the chair's speed once the seat is up more than 1–2 in
   controller shows **"iLevel not engaged"**, speed drops to **25%** when
   elevated. On a TRU-Balance 4 chair in **power anterior tilt**, it drops
   to **0% (full drive lockout)** instead.
+- **TB4 anterior tilt speed** ([[TRU-Balance 4 Basic Operation Instructions (INFMANU5231)]]):
+  0–10° anterior = 2 mph at any lift; 11–20° = 0.5 mph up to 6 in of
+  lift, lockout above; 21–30° = lockout.
 - **"Not engaged" on level ground = a fault.** Stop using iLevel and get
   it to the provider.
 

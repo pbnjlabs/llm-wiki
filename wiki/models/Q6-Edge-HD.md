@@ -9,7 +9,9 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, heavy-duty, bariat
 
 Quantum's heavy-duty mid-wheel-drive Edge. Spec sheet on file, plus the
 [[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)|iLevel retrofit]]
-and a battery harness routing bulletin. No owner's manual.
+a battery harness routing bulletin, and the
+[[Q6 Series, Q6 Edge HD and Q6 Ultra Owners Manual (INFMANU4237)]]
+(Rev F, 2024; care on [[Pride-Power-Chair-Care]]).
 
 From [[Q6 Edge HD Specifications]] (Rev C, Feb 2020):
 

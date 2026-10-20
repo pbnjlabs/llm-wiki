@@ -5,7 +5,12 @@ tags: [seating, tilt, recline, power-positioning, pride]
 
 # TRU-Balance 3 Power Positioning System (Pride)
 
-Source: [[Tru-Balance 3 Power Positioning Systems BOI]].
+Source: [[Tru-Balance 3 Power Positioning Systems BOI]] (2019; Rev G 2025:
+[[TRU-Balance 3 Basic Operation Instructions (INFMANU4800, Rev G 2025)]]).
+Related seats: [[TB-Flex Seat BOI (INFMANU4737)]] (30° tilt, 10 in lift,
+85–120° recline, full lockout past 110°, 300 lb) and
+[[TRU-Balance Bariatric Power Tilt BOI (INFMANU4082)]] (600 lb; full speed
+up to 20° tilt). Front riggings: [[Front Riggings Basic Operation Instructions (INFMANU3613)]].
 
 Tilt/recline/elevate power seating system mounted on Quantum power bases,
 compatible with both [[J6]] and [[Q6-Edge-3-Stretto]] as an alternative to
@@ -134,7 +139,9 @@ record ([[Joint-Commission-DMEPOS]]).
 **Conflict:** the reinforcement sheet's spec box says **10 in of lift,
 95–175° recline, full drive inhibit at 25° tilt**; the 2019 TB3 BOI
 says 12 in, 85–175° and lockout past 20°. The BOI is newer and is the
-chair's own manual; go by it.
+chair's own manual; go by it. The **2025 Rev G** BOI
+([[TRU-Balance 3 Basic Operation Instructions (INFMANU4800, Rev G 2025)]])
+keeps the same numbers (12 in, 85–175°, 50° tilt, 450 lb).
 
 ## TB3 parts and kits
 

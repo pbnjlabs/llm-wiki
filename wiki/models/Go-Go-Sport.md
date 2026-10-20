@@ -8,7 +8,7 @@ tags: [pride, scooter, go-go, travel-scooter]
 # Go Go Sport (73 / 74)
 
 Pride's sturdiest Go Go travel scooter, **325 lb**: **73 = 3-wheel, 74
-= 4-wheel**. Spec sheet only ([[Go Go Sport Specifications (INFINFB3254)]],
+= 4-wheel**. Spec sheet and the travel scooter owner's manual ([[Go Go Sport Specifications (INFINFB3254)]],
 Rev E, Apr 2025).
 
 | | 3-wheel (73) | 4-wheel (74) |
@@ -28,6 +28,15 @@ Both: folding seat 17 × 17 in, 23 lb; seat height 14 in, seat-to-deck
 24 V motor; regenerative + electromechanical brakes; two 12 V **18 Ah**
 batteries in a **27.5 lb pack**; **2 A** off-board charger; max slope
 6°; climbs 2 in.
+
+## Owner's manual
+
+Covered by the travel scooter owner's manuals
+([[Travel Scooter Series Owners Manual (INFMANU4392)]] and the
+Pride-branded [[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
+**forward = freewheel** (brakes off, motor power cut), pull it back and
+cycle the key. Care: [[Pride-Power-Chair-Care]].
 
 ## See also
 

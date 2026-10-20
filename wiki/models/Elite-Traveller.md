@@ -8,7 +8,7 @@ tags: [pride, scooter, go-go, travel-scooter]
 # Elite Traveller (40E / 44E)
 
 Pride's lightest disassembling travel scooter on file: **40E = 3-wheel,
-44E = 4-wheel**. Spec sheet only
+44E = 4-wheel**. Spec sheet, dealer guide and the travel scooter owner's manual
 ([[Elite Traveller Specifications (INFINFB3208)]], Rev C, Nov 2019).
 
 | | 3-wheel (40E) | 4-wheel (44E) |
@@ -82,6 +82,15 @@ spring), drive wheel nut **28 N·m (20 ft·lb)**, S-Drive controller,
 and the **Elite Traveller Plus (SC53/54)** throttle pot and lower
 console (pull the harness through the tiller with a string; route it
 under the handlebar).
+
+## Owner's manual
+
+Covered by the travel scooter owner's manuals
+([[Travel Scooter Series Owners Manual (INFMANU4392)]] and the
+Pride-branded [[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
+**forward = freewheel** (brakes off, motor power cut), pull it back and
+cycle the key. Care: [[Pride-Power-Chair-Care]].
 
 ## See also
 

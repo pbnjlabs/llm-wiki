@@ -9,8 +9,8 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, ilevel]
 
 Quantum's newest Edge (2025). Mid-wheel drive, the fastest of the Edge
 family. On file: the spec sheet and the
-[[Q6 Edge 4 Parts Replacement Guide (INFMANU5618)]] (Rev A, Apr 2026).
-No owner's manual.
+[[Q6 Edge 4 Parts Replacement Guide (INFMANU5618)]] (Rev A, Apr 2026),
+and the [[Q6 Edge 4 Owners Manual (INFMANU5508)]] (Rev B, Feb 2026).
 
 From [[Q6 Edge 4 Specifications (INFINFB4695)]] (Rev B, Jul 2025):
 
@@ -63,6 +63,18 @@ Full torque table: [[Pride-Parts-Replacement]]. Edge 4 points:
   for the Q-Captain seat, iLevel suspension lock harness.
 - Re-route motor, light and iLevel harnesses exactly as found;
   cable-tie heads face in so they clear the fender.
+
+## Owner's manual
+
+[[Q6 Edge 4 Owners Manual (INFMANU5508)]]: two battery builds, **22NF**
+(front and rear, quick-release connectors) or **Group 24 on a slide-out
+tray**. Group 24 swap: unplug the left motor harness and the main
+controller power harness, slide the tray out to its locks, open the
+breaker with the **yellow button**, front battery in first, check the
+decal on the rear negative harness for the **ceramic fuse** stack-up and
+torque, close the breaker (yellow lever left). "iLevel not engaged" =
+25% speed elevated. Shared care and charging rules:
+[[Pride-Power-Chair-Care]].
 
 ## See also
 

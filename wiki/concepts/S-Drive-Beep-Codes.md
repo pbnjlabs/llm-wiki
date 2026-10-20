@@ -44,6 +44,32 @@ repeats.
 Motor resistance on these service guides: **under 50 Ω, not shorted
 (can be as low as 0.2 Ω)**.
 
+## Pride scooter owner's manuals: the full 1–9 list
+
+Pride's 2025–2026 scooter owner's manuals
+([[Mid-Size Scooter Series Owners Manual (INFMANU4468)]],
+[[Travel Scooter Series Owners Manual (INFMANU4392)]],
+[[Pride Travel Scooter Series Owners Manual (INFMANU4916)]]) give nine
+codes, filling in the 1 and 4 that Golden's guides leave out:
+
+| Beeps | Pride owner's manual |
+|---|---|
+| 1 | Battery too low to run the scooter: charge now |
+| 2 | Battery charge low: charge |
+| 3 | Voltage too high, or the charger is still plugged in: unplug, key off and on; slow down on hills |
+| 4 | **Current limit time-out** |
+| 5 | **Manual freewheel lever in freewheel**: key out, lever back to drive, restart |
+| 6 | Throttle not centered at start-up: charge check, center it, key off and on |
+| 7 | Speed pot error: provider |
+| 8 | Motor volts error: provider |
+| 9 | Other internal error: off a few minutes, then provider |
+
+Codes either play once (fast beeps then the count; reinsert the key to
+hear it again) or repeat until the key is off, depending on the model.
+The scooter won't run until the condition is cleared and the key
+cycled. Note Pride's 5 is the freewheel lever while the Golden service
+guides call 5 a brake trip; on Pride a brake/motor fault shows as 8.
+
 ## See also
 
 [[Flash-Beep-Diagnostics]], [[TruCharge-Diagnostics]], [[PG-Drives-Trip-Codes]], [[Freewheel-Mode]], [[Golden]]

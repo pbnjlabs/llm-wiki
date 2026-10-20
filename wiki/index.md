@@ -12,7 +12,7 @@ Entry point for every query — check here first before opening raw manuals.
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 102 (6 in `Discontinued Models/`) | 88 source pages (one duplicate PDF shares a page; 14 sell sheets share one page) |
-| Pride | [[Pride]] | 168: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 dealer library | 168 files in 119 source pages (72 one-per-file, then 47 pages for the 96 library files, small related sheets grouped); byte-identical duplicate downloads skipped |
+| Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
@@ -138,9 +138,15 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | R-Trak (rear-wheel drive, 7 mph; spec sheet + 2023 parts guide) | Pride | [[R-Trak]] |
 | Quantum Outback (four-motor outdoor; 2025 parts guide: terminal block, sway bars, tie rod) | Pride | [[Quantum-Outback]] |
 | Quantum 600 series / Jazzy 600, Quantum 610, Quantum 6000Z (legacy; parts guides) | Pride | [[Quantum-600-Series]], [[Quantum-610]], [[Quantum-6000Z]] |
-| Quantum 614 (legacy, NE+; dealer troubleshooting guide, brake 35 Ω, NE+ lock via Mode switch) | Pride | [[Quantum-614]] |
+| Quantum 614 (legacy, NE+; dealer troubleshooting guide, brake 35 Ω, NE+ lock via Mode switch, BOI says both profile keys) | Pride | [[Quantum-614]] |
 | Jazzy 1450 / Quantum 1450 (600 lb; VR2 or Q-Logic 3; spec sheet) | Pride | [[Jazzy-1450]] |
-| Jazzy 614 / 614 HD (Dynamic; dealer troubleshooting guide, flash codes 1–11, brake 35 Ω, unlock = horn twice) | Pride | [[Jazzy-614]] |
+| Jazzy 614 / 614 HD (Dynamic; dealer troubleshooting guide, flash codes 1–11, brake 35 Ω, unlock = horn twice; EVO 614 owner's manual) | Pride | [[Jazzy-614]] |
+| Jazzy Air / Air 2 (REAC elevating seat, 6 min on / 54 off; VR2; owner's manual) | Pride | [[Jazzy-Air]] |
+| Jazzy EVO 613 / 613 Li (GC3; lead-acid or LiFePO4; owner's manual) | Pride | [[Jazzy-EVO-613]] |
+| Jazzy Elite ES, Elite 14, Elite HD (GC3 or Dynamic; **HD gives no code with one freewheel lever out**; owner's manuals) | Pride | [[Jazzy-Elite]] |
+| Jazzy Ultra Light (folding lithium; battery switch = main breaker; owner's manual) | Pride | [[Jazzy-Ultra-Light]] |
+| Jazzy Carbon, Carbon 27 / 27X / HD (Innuovo-made folding; beep 2+n codes; owner's manual) | Pride | [[Jazzy-Carbon]] |
+| Go Chair / Go Chair Med (take-apart travel chair, GC3; owner's manual) | Pride | [[Go-Chair]] |
 | Jazzy 600 ES (50 A Dynamic, NF-22; parts guide, **Dynamic codes 3/4 and 5/6 swapped vs the 614**, transit loops) | Pride | [[Jazzy-600-ES]] |
 | Jazzy Select Elite (PG GC2/GC3; dealer troubleshooting guide, brake 60 Ω, under 22 V / over 32 V) | Pride | [[Jazzy-Select-Elite]] |
 | Revo scooter 66/67 (400 lb, U1) | Pride | [[Revo]] |
@@ -150,9 +156,9 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ultra X scooter S39/S49/SC493 | Pride | [[Ultra-X]] |
 | ET Series scooter SC402E/SC442E(MS)/SC443E(MS) | Pride | [[ET-Series]] |
 | i-Go folding lithium scooter S20 | Pride | [[i-Go]] |
-| Super Portable SC15 folding lithium scooter (41.6 lb) | Pride | [[Super-Portable-SC15]] |
-| Lift chairs (troubleshooting, hand control flash codes and lock, motors, frames, scissors, KD setup, measuring, warranty; **no owner's manuals**) | Pride | [[Pride-Lift-Chairs]] |
-| Victory 9 / Victory 10 scooters (PG S-Drive; dealer guide, tiller fuses, motor/transaxle) | Pride | [[Victory]] |
+| Super Portable SC15 folding lithium scooter (41.6 lb; owner's manual, Jiuniu codes, lithium meter) | Pride | [[Super-Portable-SC15]] |
+| Lift chairs (owner's manual: **dual-motor timing reset = hold UP to full lift**, 9 V / lithium backup, thermal shutoff; hand control flash codes and lock, motors, frames, scissors, KD setup, measuring, warranty; VivaLift!) | Pride | [[Pride-Lift-Chairs]] |
+| Victory 9 / Victory 10 scooters (PG S-Drive; dealer guide, tiller fuses, motor/transaxle; owner's manuals with specs) | Pride | [[Victory]] |
 | AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
 | C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
 | P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
@@ -228,7 +234,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | TRU-Balance 3 power positioning (tilt/recline/elevate, iLevel, inhibit matrix) | [[Tru-Balance-3-Power-Positioning]] |
 | **iLevel** (Quantum elevate-and-drive: speeds by chair, boots lock the front casters, 25% / lockout when "not engaged", Q-Logic 3 and QLNES indicators, #47 suspension lock, use rules, base and seat parts with torque) | [[iLevel]] |
 | **TRU-Balance 4** (anterior tilt needs chest support and knee block; legrest ≤ STF − 3.5 in; Q-Logic 3 actuator calibration, teach anterior tilt, teach elevate vs AFP; seat torque, depth and STF tables) | [[Tru-Balance-4-Power-Positioning]] |
-| **Pride/Quantum warranty and returns** (2026 policy: start date, 90-day parts, RA, 35% restock, credit after 6/9 months; terms by product incl. lift chairs) | [[Pride-Warranty]] |
+| **Pride/Quantum warranty and returns** (2026 policy: start date, 90-day parts, RA, 35% restock, credit after 6/9 months; terms by product incl. lift chairs, VivaLift!, Jazzy Carbon) | [[Pride-Warranty]] |
+| **Pride/Quantum care, charging and maintenance** (owner's manuals: 8–14 h + 4 h, weekly 24 h, monthly 48 h; lithium plug order and Endurance shutdown mode; daily/weekly/monthly checks; approved disinfectants; storage; freewheel direction by model) | [[Pride-Power-Chair-Care]] |
 | **Pride/Quantum parts replacement** (torque values side by side from the Q6 Edge, Jazzy 600 ES, Stretto and Edge 4 parts guides; axle key, run-flat wheels, nylon nuts, drive inhibit after service) | [[Pride-Parts-Replacement]] |
 | Harmar warranty (6 product lines/SKU groups, each with its own distinct term; dealer registration/RMA/labor process; FSS vehicle-lift version adds batteries/paint/covers and 1 yr labor) | [[Harmar-Warranty]] |
 | Mobility batteries: MK / Interstate cross-reference by size group, HCPCS codes, Golden and Pride batteries by model, **Pride lithium minimum voltages (never load-test lithium)**; house standard: always replace every battery in the device | [[Mobility-Batteries]] |
@@ -445,7 +452,7 @@ Holder Installation, Power Seat Operation, Proflex Seat Instructions,
 Right to Left Side Joystick Conversion, Seat Belt Instructions, Touch Up
 Paint Tips, Universal Mirror Mount, Mobility Seats.
 
-Pride (168 of 168 ingested — fully ingested) — see `wiki/sources/Pride/`.
+Pride (222 of 222 ingested — fully ingested) — see `wiki/sources/Pride/`.
 Original 10: J6 Specifications, J6 VA Specifications, J6 Operator
 Manual, Q6 Edge 3 Stretto Specifications, Q6 Edge Basic
 Troubleshooting, Q6 Edge 3 Stretto Operator Manual, Q-Logic Controller
@@ -493,7 +500,56 @@ Quantum 600 series, 610 and 6000Z parts guides and Quantum 614 NE+ TTG;
 `Scooters/` Elite Traveller and Victory TTGs, Elite Traveller, Victory,
 Rally and Revo repair sheets, scooter brake kit; `Lift Chairs/`
 measuring and setup, hand controls, motors and battery backup, frames
-and mechanisms, warranty.
+and mechanisms, warranty. **Added 2026-10-20 (54 files, 48 pages) from
+the PQ-365 owner's manuals and basic operations tabs:**
+`Q6 Edge/` [[Q6 Edge 4 Owners Manual (INFMANU5508)]],
+[[Q6 Edge 2.0, 2.0X, 3, 2.0HD and Q4 2 Owners Manual (INFMANU4620)]],
+[[Q6 Series, Q6 Edge HD and Q6 Ultra Owners Manual (INFMANU4237)]];
+`J4/` [[J4 and J4 HD Owners Manual (INFMANU5068)]],
+[[J4E and J4E HD Owners Manual (INFMANU5454)]]; `4Front/`
+[[Quantum 4Front Series Owners Manual (INFMANU4864)]]; `R-Trak/`
+[[R-Trak Owners Manual (INFMANU5323)]]; `Jazzy 1450/`
+[[Quantum and Jazzy 1450 Owners Manual (INFMANU4342)]]; `Seating/`
+[[TRU-Balance 4 Basic Operation Instructions (INFMANU5231)]],
+[[TRU-Balance 4 Technical Troubleshooting Guide (INFMANU5254)]],
+[[TRU-Balance 3 Basic Operation Instructions (INFMANU4800, Rev G 2025)]],
+[[TRU-Balance Bariatric Power Tilt BOI (INFMANU4082)]],
+[[TB-Flex Seat BOI (INFMANU4737)]],
+[[Front Riggings Basic Operation Instructions (INFMANU3613)]];
+`Controllers/` [[NE Controller Basic Operation Instructions (INFMANU3757)]],
+[[NE+ Controller Basic Operation Instructions (INFMANU3765)]],
+[[Q-Logic 3 Basic Operation Instructions (INFMANU4809, Rev G 2026)]],
+[[Q-Logic 3e Basic Operation Instructions (INFMANU5154)]],
+[[Q-Logic 2 Controller Basic Operation Instructions (INFMANU4801)]],
+[[Quantum VR2 Controller BOI (INFMANU3354, 2020)]],
+[[Dynamic LiNX Fault Code Sheet]]; `Jazzy/`
+[[Go Chair Owners Manual (INFMANU4750)]],
+[[Jazzy 600 ES Owners Manual (INFMANU4480)]],
+[[Jazzy Air Series Owners Manual (INFMANU4922)]],
+[[Jazzy Carbon Owners Manual (Innuovo, INFMANU5389)]],
+[[Jazzy Carbon Diagnostic Code Sheets]],
+[[Jazzy EVO 614 Series Owners Manual (INFMANU5238)]],
+[[Jazzy Elite ES Owners Manual (INFMANU4355)]],
+[[Jazzy Elite Series HD and 14 Owners Manual (INFMANU4371)]],
+[[Jazzy EVO Series Owners Manual (INFMANU5239)]],
+[[Jazzy Ultra Light Owners Manual (INFMANU5449)]]; `General/`
+[[Lithium-Ion Battery Product Insert (INFINFB4079)]],
+[[Power Chair Consumer Safety Guide (INFMANU3992)]],
+[[Scooter Consumer Safety Guide (INFMANU3989)]]; `Scooters/`
+[[Mid-Size Scooter Series Owners Manual (INFMANU4468)]],
+[[Victory Series Owners Manual (INFMANU3629)]],
+[[Travel Scooter Series Owners Manual (INFMANU4392)]],
+[[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+[[Go Go Super Portable SC15 Owners Manual (INFMANU5479)]],
+[[SC15 Voltmeter and Diagnostic Codes Insert (INFINFB4704)]],
+[[i-Go Owners Manual (INFMANU5131)]],
+[[Curtis Scooter Fault Codes Insert (2022)]],
+[[Go Go Carbon and Super Portable Code Sheets]]; `Lift Chairs/`
+[[Lift Chair Series Owners Manual (INFMANU3446)]],
+[[Lift Chair Hand Control Reference (INFINFB2665 Rev M, 2024)]],
+[[Lift Chair Product Inserts (Transformer, Wireless Charger, Heat)]],
+[[VivaLift Owners Insert (INFINFB3834)]],
+[[VivaLift Product Inserts (Premier PLR5900, Heat, Tilt)]].
 
 Prism (5 of 5 ingested — fully ingested) — see `wiki/sources/Prism/`:
 C-450/C-625 Technical Manual, Ceiling Lift Evaluation Form (generic
@@ -691,32 +747,30 @@ on file):
   only the AutoDrive reset/calibration sheet is on file, no owner's
   manuals. Ask Golden lift chair tech support (800-624-6374 x502).
   See [[Golden-Lift-Chairs]].
-- [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; updated
-  2026-10-19): the Q6 Edge 3 (standard), Edge 4 (now has a parts guide),
-  Edge 2.0, Edge HD, J4/J4E, 4Front 2/2 HD, R-Trak, Outback,
-  Jazzy/Quantum 1450, the original Q6 Edge, Jazzy 614, Jazzy 600 ES and
-  Select Elite (service guides only), Victory, and all eight spec-sheet
-  scooters (Revo, Go Go LX, Elite Traveller, Go Go Sport, Ultra X, ET
-  Series, i-Go, SC15) have **no owner's manual**. The PQ-365 library
-  pulled 2026-10-19 doesn't carry owner's manuals; they're on
-  pridemobility.com's public resource page. Also missing: an **NE/NE+** operation manual (the
-  Q6 Edge and J6 TTGs now cover the LCD messages, lock and inhibit
-  programming), the **Q-Logic 3e** BOI, the **TRU-Balance 4 technical
-  troubleshooting guide** (Q-Logic 3 seat codes 150–177 point to it;
-  only the TB4 parts guide is on file), **IPBs** for any Pride chair
-  (the parts guides send you to them for part numbers), and anything
-  for the Jazzy/retail chairs beyond Pride's charts.
-- [ ] **Pride lift chairs** (added 2026-10-19; updated the same day):
-  the PQ-365 library's 24 lift chair documents are now on file
-  (troubleshooting, hand controls, motors, frames, warranty), but still
-  **no owner's manual** for the models PMS sells, and TechnoBulletin
-  **LC-029** (motor timing correction) isn't on file.
-  Pride Technical Service 1-877-800-1248 (7, then 5 for lift chairs).
-  See [[Pride-Lift-Chairs]].
+- [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; mostly
+  closed 2026-10-20): owner's manuals are now on file for the Edge 4,
+  Edge 2.0/3, Edge HD/Ultra, J4/J4E, 4Front, R-Trak, 1450, Jazzy 600 ES,
+  EVO 613/614, Elite, Air, Ultra Light, Carbon, Go Chair, Victory, the
+  mid-size and travel scooters (Revo, Go Go LX/Sport, Elite Traveller,
+  Ultra X), i-Go and SC15; plus the **NE and NE+ BOIs**, the **Q-Logic
+  3e BOI** and the **TRU-Balance 4 technical troubleshooting guide**.
+  **Still missing:** owner's manuals for the **original Q6 Edge**, the
+  2010-era **Jazzy 614**, the **Jazzy Select Elite**, the **Outback**
+  and the **ET Series**; owner's manuals for the Jazzy Carbon 27/27X/HD;
+  and **IPBs** for any Pride chair (the parts guides send you to them
+  for part numbers).
+- [x] **Pride lift chairs** (added 2026-10-19): the lift chair series
+  owner's manual, the 2024 hand control reference and the VivaLift!
+  inserts were ingested 2026-10-20 ([[Pride-Lift-Chairs]]). TechnoBulletin
+  **LC-029** (dealer motor timing correction) still isn't on file; the
+  owner's manual's timing reset (hold UP to full lift) covers the user
+  side. Pride Technical Service 1-877-800-1248 (7, then 5 for lift
+  chairs).
 
-  Source for both: pridemobility.com / quantumrehab.com owner's manuals
-  (pridemobility.com resource files), the PQ-365 dealer library
-  (pridemobility365.com, log-in; **has no owner's manuals or IPBs**),
+  Source for both: the PQ-365 dealer library (pridemobility365.com,
+  log-in): **Resources → Owner's Manuals and Basic Operations
+  Documents** (the files are served from share.quantumrehab.com); the
+  technical service section has **no owner's manuals or IPBs**. Also
   Pride Technical Service 1-877-800-1248, Quantum 866-800-2002.
 - Power chairs and scooters: only Golden, Pride and Red Hawk are on
   file. Add other brands as VA jobs turn them up.
@@ -736,7 +790,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Golden — fully ingested, no backlog remaining.
 
-### Pride — fully ingested (168 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 dealer library on 2026-10-19). No unread files. Gaps (Missing manuals above): owner's manuals for most models, an NE/NE+ operation manual, the TRU-Balance 4 technical troubleshooting guide, IPBs, lift chair owner's manuals and bulletin LC-029. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
+### Pride — fully ingested (222 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 technical service library on 2026-10-19, 54 from the PQ-365 owner's manuals and basic operations tabs on 2026-10-20). No unread files. Gaps (Missing manuals above): owner's manuals for the original Q6 Edge, Jazzy 614 (2010), Select Elite, Outback and ET Series; IPBs; bulletin LC-029. Owner's-manuals tab items **deliberately skipped**: Baja (Bandit, Raptor 2, Wrangler 2), 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), the AU mid-size and Canadian Go-Go duplicates, scooter intro/contact insert, non-medical scooter safety guide; basic operations tab: Synergy seat and Stealth cushion sheets. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 
 ### Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. Open question: is [[C-450-C-625]] itself also Handicare-manufactured? Not yet confirmed either way.
 

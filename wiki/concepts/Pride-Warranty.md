@@ -62,6 +62,8 @@ signature and PO#) ([[Pride Provider Forms (Field Service Request, Quote and Ord
 | **Jazzy Select family, Jazzy 614/614HD, Z-Chair** (2010 insert) | **5 years** | **13 months** (incl. motor/gearbox, brakes' electronic function) | Batteries 6 months (maker) |
 | **Current Jazzy and Go Chair** (2026 chart) | 5 years | 13 months incl. batteries | EVO 613 Li battery 3 years; Carbon family and Jazzy 1450 differ ([[Pride-Power-Chair-Lineup]]) |
 | **Lift chairs** (2021 insert) | Lifetime lift/recline mechanism and frame (not 102/105/106/107/250/358XXL) | Heritage, Infinity, Oasis: motor, hand control, control box, heat, massage 4 years then 25/15/5% pro-rated | RF pendant 90 days; lithium backup 1 year; fabric not covered; **over the weight limit voids it** |
+| **VivaLift! lift chairs** (2022 insert) | Lifetime lift/recline mechanism and frame | Hand control, transformer/control box, motor, power headrest, power lumbar: 4 years, then 25/15/5% off retail in years 5–7 | Lithium pack 1 year; no fabric; **400 lb, over it voids it** ([[VivaLift Owners Insert (INFINFB3834)]]) |
+| **Jazzy Carbon** (Innuovo owner's manual) | Lifetime | 1 year: controller, motor/drive, bearings, **battery** | Not the shell, tires or cushion ([[Jazzy-Carbon]]) |
 | **Reconditioned units** | 6 months on everything | | |
 | **TRU-Balance 3 seating** | 3 years structural | 2 years electronics and cushions | Actuator 18 months ([[Tru-Balance-3-Power-Positioning]]) |
 

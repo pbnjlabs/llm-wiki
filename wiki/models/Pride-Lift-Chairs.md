@@ -11,14 +11,21 @@ Pride power lift chairs and recliners. PMS sells them (a 2022 private-pay
 Pride lift chair sale is in [[Delivery Ticket and Invoice Examples]]);
 **all lift chair sales are final** ([[PMS-Office-Procedures]]).
 
-> **Still missing: owner's manuals.** Pride's service instructions
-> (troubleshooting, frames, motors, hand controls, warranty) are now on
-> file, but no owner's manual or model spec sheet for the models PMS
-> sells. Get them from pridemobility.com or Pride Technical Service
-> **1-877-800-1248** (7, then 5 for lift chair tech).
+Owner's manuals added 2026-10-20. Still no per-model spec sheets or
+TechnoBulletin LC-029; Pride Technical Service **1-877-800-1248** (7,
+then 5 for lift chair tech).
 
 ## Documents
 
+- [[Lift Chair Series Owners Manual (INFMANU3446)]] (Rev Y, 2025): the
+  owner's manual for Pride lift chairs.
+- [[Lift Chair Hand Control Reference (INFINFB2665 Rev M, 2024)]]
+  (newer than the Rev K on the hand controls page; flash codes
+  changed).
+- [[Lift Chair Product Inserts (Transformer, Wireless Charger, Heat)]].
+- **VivaLift!:** [[VivaLift Owners Insert (INFINFB3834)]] (hand
+  controls, assembly, warranty, **400 lb**) and
+  [[VivaLift Product Inserts (Premier PLR5900, Heat, Tilt)]].
 - [[Lift Chair Basic Troubleshooting (INFINFB2061)]] (2008): symptom
   table. **Not for Okin-motor models.**
 - [[Lift Chair Measuring, Setup and Leg Levelers]]: measuring, KD
@@ -40,12 +47,16 @@ Pride lift chair sale is in [[Delivery Ticket and Invoice Examples]]);
    transformer not crimped, cut or cracked.
 4. **Dip switch** in the standard control box set right, or the hand
    control runs the wrong things.
-5. **Hand control flash codes** (newer controls): buttons blinking
-   **every second** = hand control or the USB device/cable (unplug the
-   USB device to tell which); **every 5–7 seconds** = the chair **lost
-   power** (low-power mode): check the outlet. 5-LED controls: LED 3 =
-   actuator; 3 + 4 = zone 1A/1B; 3 + 5 = zone 2A/2B; 3 + 1 = back heat;
-   3 + 2 = base heat.
+5. **Hand control flash codes.** Rev M (2024) hand controls: **top two
+   LEDs by the USB port lit** = fault in the hand control or the USB
+   device/cable; USB dead with no code = unplug and replug the device.
+   Rev K (2021) controls: buttons blinking **every second** = hand
+   control or USB device (unplug the device to tell which); **every 5–7
+   seconds** = the chair **lost power**: check the outlet. 5-LED
+   controls: LED 3 = actuator; 3 + 4 = zone 1A/1B; 3 + 5 = zone 2A/2B;
+   3 + 1 = back heat; 3 + 2 = base heat.
+   **Don't charge a phone from the USB port during an outage**; it
+   drains the backup battery.
 6. **Locked hand control?** Lock/unlock button lit: hold about **10 s**
    to unlock (hold 5 s to lock).
 7. Push-button hand controls are on standard chairs with serial numbers
@@ -60,9 +71,19 @@ Pride lift chair sale is in [[Delivery Ticket and Invoice Examples]]);
   lift/recline bracket, broken side bracket pin, T-bracket catching.
   Keep people out of the chair until it's found.
 - **Won't lift or recline fully, sits crooked, one side lands first:**
-  **dual motors out of timing** (Pride's fix is TechnoBulletin LC-029,
-  not on file), bent scissors, twisted wood frame, leveling leg (tighten
-  to lower, loosen to raise), uneven floor, loose bolts, worn foam.
+  **dual motors out of timing**, bent scissors, twisted wood frame,
+  leveling leg (tighten to lower, loosen to raise), uneven floor, loose
+  bolts, worn foam.
+- **Dual-motor chair won't move either way:** one motor extended
+  farther than the other and the **pressure safety switch pinched** =
+  motors out of sync. **Hold UP to the full lift position** to reset the
+  timing (owner's manual). Using full lift to get in and out keeps them
+  in time. (TechnoBulletin LC-029, the dealer version, isn't on file.)
+- **Stops partway through a lift:** thermal shutoff in the transformer;
+  leave it **10 min**. Or a power outage with dead or missing backup
+  batteries.
+- **Works in one direction only:** a sticking UP or DOWN button; replace
+  the hand control.
 - **Footrest won't close:** gap between the lift/recline bracket and the
   frame should be **3/16–1/4 in**; move the footrest slightly up or down
   on its holes; side brackets, scissors, stroke tube.
@@ -88,8 +109,26 @@ Pride lift chair sale is in [[Delivery Ticket and Invoice Examples]]);
   corners, T-bracket level. KD sleeve screws **6.8 N·m (5 ft·lb)**.
 - **Two-button (Limoss) hand control:** replaced together with the
   motor control box.
-- **Lithium battery backup** clips onto the external transformer; take
-  it off for long storage (the chair drains it).
+- **Battery backup** returns a reclined chair upright **once** in an
+  outage. **9 V version:** two alkaline 9 V in the transformer, replaced
+  after every use **or every 6 months**; take them out if the chair is
+  unplugged over an hour. **Lithium version:** clips onto the
+  transformer, charge to green before first use, runs the chair **up to
+  48 h** unplugged; take it off for long storage (the chair drains it).
+- **Power (owner's manual):** no extension cords; a UL single-outlet
+  surge protector (1000 J minimum) plugged straight into the wall is
+  OK. Transformer in the open, **nameplate down**, never under the chair
+  or covered. Chair back **30 in from the wall**. Duty cycle **2 min on
+  / 18 min off**; indoor only, 50–104 °F.
+- Heat and massage plug into the **junction box**, never straight into
+  the motor. Heat pad runs 106–118 °F: 20 min at a time, never while
+  asleep.
+- **VivaLift! assembly:** chair upside down, plug the three small cables
+  at the junction box first, run cables along the frame (not through
+  the mechanism), control box cables A to A and B to B; PLR3955LT
+  ships without leg levelers.
+- Serial number: on the steel lift frame near the motor and on the wood
+  frame under the scissors.
 - **Measuring** for a replacement or quote: seat to floor, depth, width
   (4 in from the back), back height, overall width, arm height; don't
   compress the foam.
@@ -102,6 +141,10 @@ Infinity and Oasis: motor, hand control, control box, heat and massage
 4 years full then pro-rated 25/15/5% in years 5–7; RF pendants 90 days;
 lithium pack 1 year; fabric and labor not covered.
 [[Pride Lift Chair Warranty (INFINFB2685)]].
+**VivaLift!** (2022 insert): lifetime mechanism and frame; hand control,
+transformer/control box, motor, power headrest and lumbar 4 years then
+25/15/5% in years 5–7; lithium pack 1 year; **400 lb**, over it voids
+the warranty.
 
 ## Joint Commission (house standard)
 

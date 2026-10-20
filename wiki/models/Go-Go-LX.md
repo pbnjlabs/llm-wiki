@@ -8,7 +8,7 @@ tags: [pride, scooter, go-go, travel-scooter]
 # Go Go LX (50LX / 54LX)
 
 Pride travel scooter that comes apart for transport: **50LX = 3-wheel,
-54LX = 4-wheel**. Spec sheet only on file
+54LX = 4-wheel**. Spec sheet and the travel scooter owner's manual on file
 ([[Go Go LX Specifications (INFINFB3186)]], Rev F, Nov 2019).
 
 | | 3-wheel (50LX) | 4-wheel (54LX) |
@@ -31,6 +31,15 @@ brakes; two 12 V sealed batteries **12 Ah or 18 Ah**, in a **pack**: 12
 Ah 19 lb, 12 Ah extended 23.5 lb, 18 Ah 30 lb, 18 Ah extended 31.75 lb;
 **2 A** off-board charger; max slope 6°; climbs 2 in. With 12 Ah
 batteries it doesn't meet AS/NZS 3695.2 / EN12184.
+
+## Owner's manual
+
+Covered by the travel scooter owner's manuals
+([[Travel Scooter Series Owners Manual (INFMANU4392)]] and the
+Pride-branded [[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
+**forward = freewheel** (brakes off, motor power cut), pull it back and
+cycle the key. Care: [[Pride-Power-Chair-Care]].
 
 ## See also
 

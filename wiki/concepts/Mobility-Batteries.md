@@ -171,6 +171,15 @@ mode**: wake it per the device's instructions first.
 Lithium packs are Pride-specific parts, not MK/Interstate size groups.
 Pride Technical Service: 1-877-800-1248.
 
+**Charging Pride lithium** ([[Lithium-Ion Battery Product Insert (INFINFB4079)]]):
+supplied XLR charger into the product first, then the wall; wait 2 min
+for two red LEDs; green = full. Wrong order: unplug both, wait 1 min,
+redo. **Go-Go Endurance Li: new or stored 25 days = shutdown mode;
+charge it off the scooter.** Won't charge: plug order, **battery fuse**,
+disconnect switch. EVO 613 Li: charge only at 32–104 °F.
+Owner's-manual charging and storage rules for lead-acid and lithium:
+[[Pride-Power-Chair-Care]].
+
 ## In the field
 
 - **Scootaround VA repairs:** batteries are the one non-OEM part allowed, from **MK, Interstate or Electro Battery** only ([[Scootaround-VA-Repairs]]).

@@ -66,6 +66,9 @@ manufacturer's instructions (PC.02.03.01 EP 15).
   contact after hours** (PC.02.02.05).
 - Tell the patient how to raise safety concerns (EP 27) and how to file
   complaints (RI.01.07.01).
+- Pride/Quantum chairs and scooters: the owner's-manual care, charging
+  and check schedule to teach is on [[Pride-Power-Chair-Care]]; the
+  consumer safety guides cover inclines, curbs and vehicle transport.
 
 ## Maintenance, repair and inspection (EQ.01.03.01)
 

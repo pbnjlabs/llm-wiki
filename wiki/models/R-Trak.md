@@ -8,7 +8,8 @@ tags: [pride, quantum, r-trak, power-chair, rear-wheel-drive]
 # R-Trak
 
 Quantum's rear-wheel-drive chair. On file: the spec sheet and the
-[[R-Trak Parts Replacement Guide (INFMANU5383)]] (2023). No owner's manual.
+[[R-Trak Parts Replacement Guide (INFMANU5383)]] (2023), and the
+[[R-Trak Owners Manual (INFMANU5323)]] (2023).
 
 From [[Quantum R-Trak Specifications (INFINFB4461)]] (Rev B, Aug 2023):
 
@@ -45,6 +46,14 @@ Q-Logic NE+**; Group 3 codes; **not yet on the VA FSS contract**
   wheel nut 8–12 N·m; breaker lead nuts 11.3 N·m.
 - Q-Logic 3 and NE+ wiring appendices; PTO backup camera option.
 - Full table: [[Pride-Parts-Replacement]].
+
+## Owner's manual
+
+[[R-Trak Owners Manual (INFMANU5323)]]: standard Quantum content
+(freewheel, adjustments, charging, care; [[Pride-Power-Chair-Care]]),
+plus optional integrated front caster lights and rear fender lights.
+TB-Flex ([[TB-Flex Seat BOI (INFMANU4737)]]), Q Captain and TRU-Balance 3
+seats have their own manuals.
 
 ## See also
 

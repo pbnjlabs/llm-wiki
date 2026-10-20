@@ -3,7 +3,7 @@ type: concept
 tags: [pride, jazzy, controller, flash-codes, diagnostics, pg-drives, vr2, gc3, newvsi, dynamic-controls]
 ---
 
-# Pride Controller Flash Codes (VR2, GC3, newVSI, Dynamic)
+# Pride Controller Flash Codes (VR2, GC3, newVSI, Dynamic, Carbon, scooters)
 
 Pride's **Jazzy** and retail chairs mostly don't use Q-Logic. They use
 **PG Drives** (VR2, GC3, newVSI) or **Dynamic Controls** electronics,
@@ -125,6 +125,58 @@ M2 = right. [[Jazzy-600-ES]].
 | Sleep | All blink every 2.5 s | — | All blink every 2.5 s | — |
 | Locked | Speed/profile indicator ripples | LEDs step up for two cycles | Speed/profile lights ripple | Right-to-left ripple |
 
+## Dynamic LiNX (numbered codes)
+
+From the [[Dynamic LiNX Fault Code Sheet]] (PQ-365 Jazzy section):
+1 remote/joystick; 2 network or configuration (cables, Bluetooth
+pairing, reconfigure, charge, check the charger, replace modules);
+3 / 4 left / right motor; 5 / 6 left / right park brake; 7 module error
+other than the remote (replace the **LiNX Access Key** or the power
+module, charge; stalled → reverse away; pushed while off → power-cycle).
+**The sheet's fixes for 4 and 6 say "left"; check the right side.**
+Golden's LiNX chairs: [[LiNX-Diagnostics]].
+
+## Jazzy Carbon family (brushless, Innuovo)
+
+From the [[Jazzy Carbon Owners Manual (Innuovo, INFMANU5389)]] and the
+[[Jazzy Carbon Diagnostic Code Sheets]]. **Jazzy Carbon:** two beeps, then
+a count:
+
+| Beeps | Fault | Do |
+|---|---|---|
+| 2 + 1 | Joystick-to-controller communication | Check that cable |
+| 2 + 2 / 2 + 4 | Right / left motor or plug | Motor and harness |
+| 2 + 3 / 2 + 5 | Right / left brake or cable | **Brake lever in drive (A)?** Brake damaged? |
+| 2 + 6 | Overcurrent, motor short, overload | Brakes released? Wheels locked? Motor |
+| 2 + 7 | Joystick not centered or loose | Release, restart |
+| 2 + 8 | Controller fault (manual: joystick failure) | Provider/Pride |
+| 2 + 9 | Battery low or failed | Charge; still there → new battery |
+
+**Carbon 27 and Carbon HD** show icons on the joystick display instead:
+controller internal and joystick faults = **return to factory
+service**; right/left motor, right/left **motor Hall**, right/left brake
+and battery faults = check that connector and wire, then the part.
+
+## Pride scooter codes (Curtis, Jiuniu, Go Go Carbon, SC15)
+
+Most Pride scooters use the S-Drive-style 1–9 beep list
+([[S-Drive-Beep-Codes]]). Others:
+
+- **Curtis 1212/1212P** (two-digit flash codes, 1,1 to 4,5): thermal,
+  throttle, speed pot, under/overvoltage, main contactor, EMR/stall,
+  wiring/HPD, brake on/off, precharge, current sense, failsafe, EEPROM,
+  motor open, battery disconnected. Full table:
+  [[Curtis Scooter Fault Codes Insert (2022)]].
+- **Go Go Super Portable / SC15, Jiuniu controller** (light flashes):
+  2 battery low, 4 Hall sensor, 5 magnetic brake disconnected, 6
+  accelerator wire off or not at rest at power-on, 7 accelerator
+  signal, 9 controller ([[Go Go Carbon and Super Portable Code Sheets]],
+  [[Super-Portable-SC15]]). The SC15 insert gives a different list
+  ([[SC15 Voltmeter and Diagnostic Codes Insert (INFINFB4704)]]).
+- **Go Go Carbon** (LCD icons 1–10): battery low, bad motor connection,
+  motor fault, controller hot, LCD fault, charge inhibit, throttle,
+  controller, brake (lever in drive?), high battery voltage.
+
 ## Lock, sleep, thermal rollback, charging
 
 - **Lock (VR2, GC3, newVSI):** power on, hold on/off about 1 s until it
@@ -166,7 +218,8 @@ M2 = right. [[Jazzy-600-ES]].
 ## See also
 
 [[Power-Chair-Troubleshooting]], [[Pride-Power-Chair-Lineup]],
-[[Jazzy-614]], [[Jazzy-600-ES]],
+[[Jazzy-614]], [[Jazzy-600-ES]], [[Jazzy-Carbon]], [[Jazzy-Elite]],
+[[Jazzy-Air]], [[Jazzy-EVO-613]], [[Jazzy-Ultra-Light]], [[Go-Chair]],
 [[Joystick-Controllers]], [[PG-Drives-Trip-Codes]],
 [[TruCharge-Diagnostics]], [[Shark-Diagnostics]], [[LiNX-Diagnostics]],
 [[Freewheel-Mode]]

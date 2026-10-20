@@ -8,7 +8,10 @@ tags: [pride, quantum, q6-edge, power-chair, mid-wheel-drive, ilevel]
 # Q6 Edge 2.0
 
 Quantum mid-wheel-drive chair, the generation before the Edge 3. Spec
-sheet only on file.
+sheet and the shared
+[[Q6 Edge 2.0, 2.0X, 3, 2.0HD and Q4 2 Owners Manual (INFMANU4620)]]
+(Rev N, 2025) on file (iLevel boots, power elevating seat toggle,
+trapeze-bar seat mount; care on [[Pride-Power-Chair-Care]]).
 
 From [[Q6 Edge 2.0 Specifications]] (Rev H, Sep 2019):
 

@@ -8,7 +8,7 @@ tags: [pride, scooter, go-go, travel-scooter]
 # Ultra X (S39 / S49 / SC493)
 
 Pride travel scooter: **S39 = 3-wheel; S49 and SC493 = 4-wheel**.
-Single motor. Spec sheet only ([[Ultra X Specifications (INFINFB3702)]],
+Single motor. Spec sheet and the travel scooter owner's manual ([[Ultra X Specifications (INFINFB3702)]],
 Rev J, Aug 2026).
 
 | | S39 | S49 | SC493 |
@@ -34,6 +34,15 @@ electromechanical brakes; two 12 V sealed batteries, **12 Ah standard
 in the US** (20 lb pack each), 18 Ah standard internationally (29.5 lb
 each); **2 A** off-board charger; max slope 6°. **Class A only with the
 18 Ah batteries.**
+
+## Owner's manual
+
+Covered by the travel scooter owner's manuals
+([[Travel Scooter Series Owners Manual (INFMANU4392)]] and the
+Pride-branded [[Pride Travel Scooter Series Owners Manual (INFMANU4916)]],
+both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
+**forward = freewheel** (brakes off, motor power cut), pull it back and
+cycle the key. Care: [[Pride-Power-Chair-Care]].
 
 ## See also
 

@@ -15,8 +15,10 @@ Dynamic** electronics, HCPCS K0822/K0823.
 ## Documents
 
 - [[Jazzy 600 ES Parts Replacement Guide (INFMANU4844)]] (Rev A, 2017)
-  — the only service document on file. No owner's manual or
-  troubleshooting guide.
+  — the only service document on file. No troubleshooting guide.
+- [[Jazzy 600 ES Owners Manual (INFMANU4480)]] (Rev D, 2020):
+  freewheel = push both levers **down**; seatback 90°, 102°, 105° or
+  107°; care on [[Pride-Power-Chair-Care]].
 
 ## Service notes (PRG)
 
