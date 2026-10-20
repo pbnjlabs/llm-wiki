@@ -12,8 +12,9 @@ mostly flat (service guides for discontinued models in
 `Discontinued Models/`), plus 74 pulled on 2026-10-20 from **Golden's
 Dropbox owner's-manual library** ("Owners Manuals", shared by Golden
 Marketing), kept in its folder layout: `Bed/`, `Lift Recliners/` and
-`Mobility/` (`Power Wheelchairs/`, `Scooters/`). 26 of those were
-ingested the same day; see **Not yet ingested** at the end.
+`Mobility/` (`Power Wheelchairs/`, `Scooters/`). 26 were ingested the
+same day and the 35 lift chair files after that; see **Not yet
+ingested** at the end.
 
 ## Model families (by part-number prefix, from filenames — unverified against manual content)
 
@@ -120,10 +121,13 @@ ingested the same day; see **Not yet ingested** at the end.
     Shark, 2019 LiNX): [[GP6xx-Compass]].
 - **Beds:** the **Passport** Hi Lo Tilt HS adjustable base, home use
   only: [[Golden-Passport-Bed]].
-- **Lift chairs (PR series, AutoDrive hand control)**: one reset and
-  calibration sheet ingested. **35 lift chair owner's manuals are now on
-  disk** (`MANUALS/Golden/Lift Recliners/`, from Golden's Dropbox) but
-  **not yet ingested**. See [[Golden-Lift-Chairs]].
+- **Lift chairs (power lift recliners)**: the 2024 Universal owner's
+  manual, model manuals for the standard, MaxiComfort, Twilight,
+  DayDreamer and bariatric PR502 (700 lb) chairs, private-label
+  manuals (Relax The Back, Healthy Back, AmeriGlide, firstSTREET,
+  Member's Mark, PL340), the massage/heat and Nirvana sheets, and the
+  AutoDrive reset sheet: all on [[Golden-Lift-Chairs]] (hand controls,
+  M-button features, calibration, troubleshooting, warranty).
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
@@ -233,23 +237,19 @@ own documentation.
 
 ## Not yet ingested
 
-**48 files from Golden's Dropbox library (2026-10-20), on disk but not
-ingested** (the human asked for the mobility manuals and the bed first):
+**13 files from Golden's Dropbox library (2026-10-20), on disk but not
+ingested:**
 
-- **35 lift chair (lift recliner) manuals** in
-  `MANUALS/Golden/Lift Recliners/`: the universal owner's manual,
-  massage and heat system manual, Nirvana remote flyer, and under
-  `Other Manuals/` 13 archived model manuals (MaxiComfort, DayDreamer,
-  DreamMaker, PR117–PR515 and others), 5 archived Spanish versions, 2
-  international (English/French, French) and 12 private-label manuals
-  (AmeriGlide, FirstStreet, Member's Mark, RelaxBack and others).
 - **13 Spanish-language scooter and power chair manuals** in
   `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (Golden's
   spelling).
 
 **26 ingested 2026-10-20:** 25 mobility owner's manuals and the Passport
-bed manual (listed on [[index#Sources]]). The 7 other Dropbox files were
-already on file, byte for byte.
+bed manual (listed on [[index#Sources]]). **35 lift chair files ingested
+next** as 23 source pages (34 distinct documents: the PR126/PR631
+Relax The Back manual is on file twice, byte for byte, as "RelaxBack"
+and "DreamMaker"). The 7 other Dropbox files were already on file,
+byte for byte.
 
 The original **102 Golden files have all been ingested**, as 101
 distinct documents. The 102nd is the AutoDrive lift chair sheet (2026-10-12). 19 were added on 2026-10-12 from the human's

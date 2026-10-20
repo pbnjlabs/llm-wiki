@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 176: the original 102 (6 in `Discontinued Models/`) plus 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/` | 114 source pages for 128 files (one duplicate PDF shares a page; 14 sell sheets share one page). **48 not yet ingested:** 35 lift chair manuals and 13 Spanish-language mobility manuals |
+| Golden | [[Golden]] | 176: the original 102 (6 in `Discontinued Models/`) plus 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/` | 137 source pages for 163 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -126,7 +126,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ally GP303 (folding, 56 lb; OM 2024) | Golden | [[GP303-Ally]] |
 | Eagle GR595 (off-road 4W scooter, ~300 lb, PG S-Drive; OM + IPB) | Golden | [[GR595-Eagle]] |
 | Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah or NF22, 302 lb; SG + OM) | Golden | [[GR575-Patriot]] |
-| Lift chairs PR446/448/510/515/535/632/761/766 (AutoDrive hand control resets/calibration; **no owner's manuals**) | Golden | [[Golden-Lift-Chairs]] |
+| Lift chairs (standard, MaxiComfort, Twilight, PR502 700 lb bariatric, private labels: Relax The Back, Healthy Back, AmeriGlide, firstSTREET, Member's Mark; hand controls, M-button disable/function lock/lights out, calibration, symptom-first troubleshooting, warranty) | Golden | [[Golden-Lift-Chairs]] |
 | Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
 | Cricket LT GP309 (25.8 lb carbon fiber folding chair, 35 A, own 9-beep table) | Golden | [[GP309-Cricket-LT]] |
 | Stride GP301 (folding, 58 lb, lithium; Micon beep table; capacity 300 vs 265 lb conflict) | Golden | [[GP301-Stride]] |
@@ -422,7 +422,18 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (128 of 176 ingested; 48 lift chair and Spanish files pending) — see `wiki/sources/Golden/`: **added 2026-10-20 from Golden's Dropbox library:**
+Golden (163 of 176 ingested; 13 Spanish mobility files pending) — see `wiki/sources/Golden/`: **lift chairs, added 2026-10-20 (Lift Chairs):**
+[[Universal Lift Chair Owners Manual]], [[MaxiComfort Lift Chairs Owners Manual]],
+[[MaxiTwilight Owners Manual (PR515, PR405, PR761)]], [[MaxiTwilight Owners Manual (PR514, PR405, PR761)]],
+[[DayDreamer Owners Manual (PR630)]], [[Standard Lift Chairs Owners Manual]], [[PR118 and PR202 Owners Manuals]],
+[[PR404 Owners Manual]], [[PR445 Owners Manual]], [[PR446 and PR448 Owners Manual]], [[PR502 Owners Manual]],
+[[PR117 and PR119 Owners Manual]], [[Value Lift Chairs Owners Manuals (115, 165, 116, 166)]],
+[[Relax The Back Lift Chairs Owners Manuals]], [[Healthy Back Ascent Owners Manual (PR127)]],
+[[AmeriGlide Lift Chair Owners Manual (PR458)]], [[FirstStreet Perfect Sleep and Perfect TV Chair Owners Manuals]],
+[[PL340 Lift Chair Owners Manual]], [[Members Mark Lift Chair Assembly Manual (PL830)]],
+[[Massage and Heat System Manual]], [[Nirvana Air Massage and HeatWave Flyer]],
+[[International Lift Chair Owners Manuals]], [[Spanish Lift Chair Owners Manuals]].
+**Mobility, added 2026-10-20 from Golden's Dropbox library:**
 [[Carry On Power Chair Owners Manual (GP130)]], [[LiteRider Envy Lite Owners Manual (GP161)]],
 [[BuzzAbout Owners Manual (GP164, LiNX)]], [[Alante Series Owners Manual (GP205, GP206, GP207)]],
 [[Alante Sport Owners Manual (GP208)]], [[Stride Owners Manual (GP301)]], [[Ally Owners Manual (GP303)]],
@@ -773,13 +784,12 @@ on file):
   **GP302 Cricket** now have owner's manuals and IPBs (still no service
   guide for either). **GB147H** = the GB147 HD, covered by the GB117/147
   owner's manual, service guide and IPB ([[GB1xx-Buzzaround-XL]]).
-- [ ] **Golden lift chairs** (PR446/448/510/515/535/632/761/766):
-  **owner's manuals now on disk** (35 files from Golden's Dropbox,
-  2026-10-20, in `MANUALS/Golden/Lift Recliners/`, including the
-  universal manual and PR446/448 and PR515/405/761), **not yet
-  ingested**. Still no service guide; no manual for PR510/535/632/766 by
-  model number (the universal manual may cover them). Ask Golden lift
-  chair tech support (800-624-6374 x502). See [[Golden-Lift-Chairs]].
+- [x] **Golden lift chairs**: owner's manuals ingested 2026-10-20 (the
+  2024 Universal manual plus model manuals covering PR446/448,
+  PR510/512/535/632/713/735/756/766 MaxiComfort, PR405/514/515/761
+  Twilight and the standard and private-label chairs). Still **no
+  service guide or parts list**; ask Golden lift chair tech support
+  (800-624-6374 x502). See [[Golden-Lift-Chairs]].
 - [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; mostly
   closed 2026-10-20): owner's manuals are now on file for the Edge 4,
   Edge 2.0/3, Edge HD/Ultra, J4/J4E, 4Front, R-Trak, 1450, Jazzy 600 ES,
@@ -821,7 +831,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Bruno — fully ingested, including both halves of TechMate (2026-10-15); SRE-5000 manuals are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
-### Golden — 48 files pending (2026-10-20): 35 lift chair (lift recliner) manuals in `MANUALS/Golden/Lift Recliners/` and 13 Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/`, both from Golden's Dropbox library. Everything else is ingested.
+### Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.
 
 ### Pride — fully ingested (222 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 technical service library on 2026-10-19, 54 from the PQ-365 owner's manuals and basic operations tabs on 2026-10-20). No unread files. Gaps (Missing manuals above): owner's manuals for the original Q6 Edge, Jazzy 614 (2010), Select Elite, Outback and ET Series; IPBs; bulletin LC-029. Owner's-manuals tab items **deliberately skipped**: Baja (Bandit, Raptor 2, Wrangler 2), 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), the AU mid-size and Canadian Go-Go duplicates, scooter intro/contact insert, non-medical scooter safety guide; basic operations tab: Synergy seat and Stealth cushion sheets. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 

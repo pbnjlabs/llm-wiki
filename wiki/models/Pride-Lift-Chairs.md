@@ -155,6 +155,6 @@ and the "don't get in or out without the hand control" rule)
 
 ## See also
 
-[[Golden-Lift-Chairs]] (Golden's AutoDrive models),
+[[Golden-Lift-Chairs]] (Golden's lift chairs: manuals, hand controls, troubleshooting, warranty),
 [[Golden-Dealer-Tips]] (general lift chair care), [[Troubleshooting]],
 [[Pride-Warranty]], [[Pride]]

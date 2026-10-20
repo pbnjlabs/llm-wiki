@@ -21,8 +21,10 @@ Sources: [[Golden Tips]], [[Touch Up Paint Tips]].
   recline (shortens battery life).
 
 Lift chair procedures (calibration and factory reset for the AutoDrive
-hand controls) are on [[Golden-Lift-Chairs]]. No lift chair owner's
-manuals are on file.
+hand controls), plus everything from Golden's lift chair owner's
+manuals, are on [[Golden-Lift-Chairs]]. The manuals agree on the
+backup batteries: **replace the 9 V batteries after one use and every
+year**.
 
 ## Touch-up paint
 

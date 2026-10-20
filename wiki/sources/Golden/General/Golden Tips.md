@@ -13,6 +13,6 @@ tags: [golden, maintenance]
 passengers, weight limits, key removal) and **Lift Chairs** sections
 (seated position when idle, single-occupant only, backup battery care).
 Lift chair calibration and reset procedures are on [[Golden-Lift-Chairs]].
-No lift chair owner's manuals are on file.
+Golden's lift chair owner's manuals are on file now (2026-10-20).
 
 Feeds: [[Golden-Dealer-Tips]]
