@@ -236,7 +236,7 @@ PG controller trip codes: [[PG-Drives-Trip-Codes]] (from the [[PG Drives Mobilit
 Golden uses controllers from at least three makers (PG Drives S-Drive and
 VR2; Dynamic Controls R-Series, Shark and LiNX; Micon), plus an
 "A-Series" named in the GP620 guide and the unnamed controllers on the
-Ally family, GP130, GP309 and GR596. There are at least **eight**
+Ally family, GP309 and GR596 (the GP130 turned out to be PG VR2). There are at least **eight**
 distinct code tables across scooters and
 wheelchairs — always check the controller before
 assuming any scheme or warranty applies to a model without checking its

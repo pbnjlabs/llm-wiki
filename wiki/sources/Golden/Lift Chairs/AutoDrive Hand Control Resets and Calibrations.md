@@ -12,7 +12,7 @@ tags: [golden, lift-chair, recliner, autodrive, hand-control, calibration]
 
 A one-page sheet (P/N MSWSADRR-GT, file INF-AutoDrive-10.06.2021) for
 Golden's **AutoDrive** power lift chairs. These are 4- and 5-zone
-recliners. This is the **first lift chair procedure document** in the
+recliners. Revised Nov 2021 ([[Lift Chair Sync, Setup and Calibration Sheets]]). This was the **first lift chair procedure document** in the
 wiki.
 
 It covers three procedures:

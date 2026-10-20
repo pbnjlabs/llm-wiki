@@ -129,10 +129,10 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Lift chairs (standard, MaxiComfort, Twilight, PR502 700 lb bariatric, private labels: Relax The Back, Healthy Back, AmeriGlide, firstSTREET, Member's Mark; hand controls, M-button disable/function lock/lights out, calibration, symptom-first troubleshooting, warranty; service on [[Golden-Lift-Chair-Service]]) | Golden | [[Golden-Lift-Chairs]] |
 | Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
 | Cricket LT GP309 (25.8 lb carbon fiber folding chair, 35 A, own 9-beep table) | Golden | [[GP309-Cricket-LT]] |
-| Stride GP301 (folding, 58 lb, lithium; Micon beep table; capacity 300 vs 265 lb conflict) | Golden | [[GP301-Stride]] |
+| Stride GP301 (folding, 58 lb, lithium; **GP301A Micon / GP301B LiNX**; capacity 300 vs 265 lb conflict) | Golden | [[GP301-Stride]] |
 | Ally Pro GP304 (folding, 75 lb, recline, 330 lb) | Golden | [[GP304-Ally-Pro]] |
 | Ally Sport GP305 (**power folding**, 92 lb, 265 lb) | Golden | [[GP305-Ally-Sport]] |
-| Carry On power chair GP130 (center drive, 74 lb, lithium; **not** the GB120 scooter) | Golden | [[GP130-CarryOn-Power-Chair]] |
+| Carry On power chair GP130 (center drive, 74 lb, lithium, **PG VR2**; **not** the GB120 scooter) | Golden | [[GP130-CarryOn-Power-Chair]] |
 | LiteRider Envy Lite GP161 (250 lb, PG nVR2, 113 lb) | Golden | [[GP161-LiteRider-Envy-Lite]] |
 | BuzzAbout GP164 (LiNX, 155 lb, take-apart) | Golden | [[GP164-BuzzAbout]] |
 | Alanté Sport GP208 (front drive, PG VR2 40 A, 146.5 lb; **freewheel levers reversed vs GP205–207**) | Golden | [[GP208-Alante-Sport]] |
@@ -273,8 +273,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ramp install time estimates (per-component labor minutes from the layout-key sheet, origin unknown, with a worked example) | [[Ramp-Install-Time-Estimates]] |
 
 Golden uses PG Drives (S-Drive/VR2), Dynamic Controls (R-Series, Shark,
-LiNX) and Micon controllers, plus unnamed ones on the Ally family, GP130,
-GP309 and GR596, with at least 8 code tables across scooters and
+LiNX) and Micon controllers, plus unnamed ones on the Ally family, GP309 and GR596 (the GP130 turned out to be PG VR2), with at least 8 code tables across scooters and
 wheelchairs — always verify the controller before assuming a scheme
 applies to an un-ingested model. Pride's Q-Logic/Q-Logic 3/QLNES controllers
 (see [[Joystick-Controllers]], [[Q-Logic-Fault-Codes]]) are a separate scheme again — don't assume

@@ -46,9 +46,11 @@ heaviest piece 49.5 lb, 41 × 24.5 in, folding. Compare the lighter
 
 ## Notes
 
-- The Ally's frame collapses into a "bow" shape for transport — a
-  fold-flat mechanism not present on any other Golden model ingested so
-  far.
+- The Ally's frame collapses into a "bow" shape for transport. The
+  [[GP304-Ally-Pro]] folds the same way (release latch on either side);
+  the [[GP305-Ally-Sport]] folds itself. Golden's other folding chairs
+  ([[GP302-Cricket]], [[GP309-Cricket-LT]], [[GP301-Stride]]) use
+  different mechanisms.
 - Main wiring harness routes through the armrests and a hinged frame
   spacer bar; replacement requires folding the frame into transport
   position to access a hinged spacer bar, then fishing the new harness
