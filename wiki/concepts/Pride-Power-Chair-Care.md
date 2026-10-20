@@ -147,5 +147,5 @@ Never freewheel on a slope. More: [[Freewheel-Mode]].
 
 ## See also
 
-[[Pride-Warranty]], [[Pride-Power-Chair-Lineup]], [[Mobility-Batteries]],
+[[Transport-and-Tie-Downs]], [[Pride-Warranty]], [[Pride-Power-Chair-Lineup]], [[Mobility-Batteries]],
 [[Power-Chair-Troubleshooting]], [[Joint-Commission-DMEPOS]], [[Pride]]

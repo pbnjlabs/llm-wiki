@@ -147,6 +147,6 @@ AL625/AL625HD manual (see Legacy above; ticked off at
 [[index#Missing manuals]]).
 
 ## See also
-[[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],
+[[Transport-and-Tie-Downs]], [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],
 [[Hoist-Series-Inside-Vehicle-Lifts]], [[Vehicle-Lift-Power-Wiring]],
 [[Harmar-Warranty]], [[Docking-Devices]]
