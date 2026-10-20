@@ -15,6 +15,9 @@ covered by the [[Golden-Scooter-Warranty]] with a **5-year frame**
 ## Documents on file
 
 - [[GR575 Patriot Owners Manual]] (Feb 2020)
+- [[GR575 Patriot Illustrated Parts Breakdown]] (Mar 2024): S-Drive MBC-575D-CNT, SP1 programmer
+  with S-Drive adaptor, hand brake, brake drum and disc, transaxle,
+  22NF or Group 24 75 Ah batteries
 - [[GR575 Patriot Service Guide]] (2014). It covers troubleshooting,
   replacement steps and a full IPB.
 

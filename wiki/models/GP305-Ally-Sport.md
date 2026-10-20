@@ -14,6 +14,9 @@ app and fault codes. Link to [[Golden]].
 ## Documents on file
 
 - [[Ally Sport Owners Manual (GP305)]] (Rev. B, Jan 2025)
+- [[Ally Sport Illustrated Parts Breakdown (GP305)]] (Rev. A, Jan 2025): controller with harness
+  MBE-0079, joystick MBE-0072, **folding actuator MBE-0069**, 10 Ah pack
+  MBE-0075/0076, charger MBE-0078; nothing electrical shared with the GP303/304
 
 ## Specs
 

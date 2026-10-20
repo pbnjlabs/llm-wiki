@@ -14,6 +14,8 @@ reclining back and adjustable arm width. Link to [[Golden]].
 ## Documents on file
 
 - [[Ally Pro Owners Manual (GP304)]] (Rev. C, Jan 2025)
+- [[Ally Pro Illustrated Parts Breakdown (GP304)]] (Rev. B, Nov 2024): own controller MBE-0068 and
+  motors; joystick, battery and charger shared with the GP303
 
 ## Specs
 

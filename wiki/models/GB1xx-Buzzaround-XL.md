@@ -16,8 +16,8 @@ generations, plus the Lite and LT:
 | GB116 / GB146 Buzzaround XL | 1st | 3 / 4 | Dynamics R-Series (DR50-A01, 50 A) | Discontinued |
 | **GB117 / GB147** Buzzaround XL | Current | 3 / 4 | Dynamics R-Series (IPB 2025: DR90-A01) | Current |
 | GB107 / GB108 Buzzaround LT | Current | 3 / 4 | Dynamics DR90-A01 (GB107, per IPB); 50 A in the OM | Current (GB107 shares the GB117/147 IPB) |
-| GB121 Buzzaround **Lite** | 2022 | 3 (inferred) | 50 A | Owner's manual 2022 |
-| **GB121B / GB124A** Buzzaround XL (-STD) and **XLS HD** (-SHZ) | 2022 | 3 / 4 (inferred from turning radius) | 50 A | Owner's manual 2022 |
+| GB121 Buzzaround **Lite** | 2022 | 3 | Dynamics DR50-A01, 50 A | Owner's manual 2022, IPB 2024 |
+| **GB121B / GB124A** Buzzaround XL (-STD) and **XLS HD** (-SHZ) | 2022 | 3 / 4 (the IPB's steering pages confirm GB121 = 3W, GB124 = 4W) | Dynamics DR50-A01, 50 A | Owner's manual 2022, IPB 2024 |
 
 **GB147H** (4-wheel) is on Golden's 2026 VA lineup (per the human). Per
 the [[Buzzaround XL Owners Manual (GB117, GB147)]], **H means the HD
@@ -34,6 +34,11 @@ inference.
 - [[Buzzaround LT Owners Manual (GB107, GB108)]] (Nov 2022)
 - [[Buzzaround Lite Owners Manual (GB121)]] (Jan 2022)
 - [[Buzzaround XL Series Owners Manual (GB121B, GB124A)]] (Aug 2022)
+- [[Buzzaround LT Illustrated Parts Breakdown (GB107, GB108)]] (May 2024): **DR50-A01 50 A**, 1.5 A
+  charger, 12 V 12 Ah battery box. The 2025 Lite/XL IPB lists the GB107
+  with a **DR90-A01**: check the label before ordering
+- [[Buzzaround Lite and XL Illustrated Parts Breakdown (GB121, GB124)]] (Jan 2024): DR50-A01 50 A,
+  12 V 12 Ah F2-terminal batteries, transaxle MBX-121A-TRANS-BA
 - [[Buzzaround XL Service Guide (GB117, GB147)]] (2015)
 - [[Buzzaround Lite and XL Illustrated Parts Breakdown (GB107, GB117, GB147)]] (2025)
 - [[Buzzaround XL Service Guide (GB116, GB146)]] (2011, discontinued, includes an IPB)

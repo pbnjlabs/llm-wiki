@@ -12,7 +12,9 @@ the "SHARK" named in the older GP605 supplements and in
 [[Golden-Joystick-Side-Conversion]].
 
 Applies to: [[GP6xx-Compass]], meaning the **GP620** Compass HD and
-**older GP605** Compass Sports. The 2017 GP605 guide uses LiNX instead,
+**older GP605** Compass Sports. The 2024 GP620 IPB still lists the Shark
+REMD joystick and **75 A Shark module** (MBC-DYNSJ1, MBC-DYNSC75), even
+though a 2019 GP620 owner's manual is a LiNX edition. The 2017 GP605 guide uses LiNX instead,
 so check which controller is fitted.
 
 The **amber wrench LED** on the remote flashes the count.

@@ -11,7 +11,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
 | Bruno | [[Bruno]] | 27 in `MANUALS/Bruno/` (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
-| Golden | [[Golden]] | 176: the original 102 (6 in `Discontinued Models/`) plus 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/` | 137 source pages for 163 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals). **13 not yet ingested:** Spanish-language mobility manuals |
+| Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
@@ -126,7 +126,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Ally GP303 (folding, 56 lb; OM 2024) | Golden | [[GP303-Ally]] |
 | Eagle GR595 (off-road 4W scooter, ~300 lb, PG S-Drive; OM + IPB) | Golden | [[GR595-Eagle]] |
 | Patriot GR575 (heavy-duty scooter, PG S-Drive, 75 Ah or NF22, 302 lb; SG + OM) | Golden | [[GR575-Patriot]] |
-| Lift chairs (standard, MaxiComfort, Twilight, PR502 700 lb bariatric, private labels: Relax The Back, Healthy Back, AmeriGlide, firstSTREET, Member's Mark; hand controls, M-button disable/function lock/lights out, calibration, symptom-first troubleshooting, warranty) | Golden | [[Golden-Lift-Chairs]] |
+| Lift chairs (standard, MaxiComfort, Twilight, PR502 700 lb bariatric, private labels: Relax The Back, Healthy Back, AmeriGlide, firstSTREET, Member's Mark; hand controls, M-button disable/function lock/lights out, calibration, symptom-first troubleshooting, warranty; service on [[Golden-Lift-Chair-Service]]) | Golden | [[Golden-Lift-Chairs]] |
 | Cricket GP302 (carbon fiber folding power chair, 39.3 lb; GP302A Micon / GP302B LiNX; OM + IPB) | Golden | [[GP302-Cricket]] |
 | Cricket LT GP309 (25.8 lb carbon fiber folding chair, 35 A, own 9-beep table) | Golden | [[GP309-Cricket-LT]] |
 | Stride GP301 (folding, 58 lb, lithium; Micon beep table; capacity 300 vs 265 lb conflict) | Golden | [[GP301-Stride]] |
@@ -266,6 +266,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
+| **Golden lift chair service** (tech reference from the 2021 service guide: test values 27 V transformer / 27–32 V control box / heat pad 40 Ω / vibrator 25 Ω, Smart Tek LED table by chair type, **sync after replacing any motor, box, hand control or cable**, hand controls by model, Okin/Richmat motors, frames and scissors, fork head left-hand thread, lubrication, heat/massage generations, lithium backup care, set-up checklist) | [[Golden-Lift-Chair-Service]] |
 | **Joint Commission DMEPOS standards (PMS adheres; house standard):** delivery, home setup safety check, patient training, inspection between patients, maintenance per manufacturer, recalls/serials, dirty/clean/patient-ready storage, incident 24/72 h, complaints 5/14 days, staff competency | [[Joint-Commission-DMEPOS]] |
 | ADA ramp requirements (from the U.S. Access Board guide: slope, width, landings, handrails, edge protection, curb ramps; the PMS 1:12 rule overrides ADA's alteration exceptions) | [[ADA-Ramp-Requirements]] |
 | Ramp site planning (**PMS evaluation procedure from the Ramps Handbook**: start inside, fire egress, 5 ft level at the door, five design rules; PMS evaluation form's total-rise formula and photo list; **PMS measurement methods** (tape, pen trick, laser-level total rise, cone layout, landing surfaces); **ramp completion pictures** list; plus intake questions, product picker, site-survey checklist, install/test) | [[Ramp-Site-Planning]] |
@@ -422,7 +423,21 @@ Highlander II Service Mode timer).
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
 
-Golden (163 of 176 ingested; 13 Spanish mobility files pending) — see `wiki/sources/Golden/`: **lift chairs, added 2026-10-20 (Lift Chairs):**
+Golden (218 of 231 ingested; 13 Spanish mobility files pending) — see `wiki/sources/Golden/`: **tech library, added 2026-10-20:** IPBs
+[[Ally Illustrated Parts Breakdown (GP303)]], [[Ally Pro Illustrated Parts Breakdown (GP304)]],
+[[Ally Sport Illustrated Parts Breakdown (GP305)]], [[Stride Illustrated Parts Breakdown (GP301)]],
+[[Carry On Power Chair Illustrated Parts Breakdown (GP130)]], [[LiteRider Envy Lite Illustrated Parts Breakdown (GP161)]],
+[[BuzzAbout Illustrated Parts Breakdown (GP164)]], [[Alante Illustrated Parts Breakdown (GP205, GP206, GP207)]],
+[[Alante Sport Illustrated Parts Breakdown (GP208)]], [[Compass Sport Illustrated Parts Breakdown (GP605A)]],
+[[Compass HD Illustrated Parts Breakdown (GP620)]] (Wheelchairs); [[Buzzaround LT Illustrated Parts Breakdown (GB107, GB108)]],
+[[Buzzaround Lite and XL Illustrated Parts Breakdown (GB121, GB124)]], [[Buzzaround Extreme Illustrated Parts Breakdown (GB118, GB148)]],
+[[Buzzaround Luxury Illustrated Parts Breakdown (GB119, GB149)]], [[Buzzaround Carry On Illustrated Parts Breakdown (GB120)]] (Buzzaround);
+[[GR575 Patriot Illustrated Parts Breakdown]] (Patriot); lift chairs [[Lift Chair Service Guide]],
+[[Discontinued Lift Chair Service Guides (115, 165, PR116, PR117, PR119)]], [[Lift Chair Sync, Setup and Calibration Sheets]],
+[[Lift Chair Control Box and Parts Replacement Sheets]], [[Lift Chair Back Assembly Sheets]],
+[[Lift Chair Footrest and Lift Options]], [[Lift Chair Power, Massage and Lumbar Options]],
+[[Lift Chair Quick Start Guides and Set Up Checklist]]; beds [[Adjustable Bed Service Manual (3101, 4101)]].
+**Lift chairs, added 2026-10-20 (Lift Chairs):**
 [[Universal Lift Chair Owners Manual]], [[MaxiComfort Lift Chairs Owners Manual]],
 [[MaxiTwilight Owners Manual (PR515, PR405, PR761)]], [[MaxiTwilight Owners Manual (PR514, PR405, PR761)]],
 [[DayDreamer Owners Manual (PR630)]], [[Standard Lift Chairs Owners Manual]], [[PR118 and PR202 Owners Manuals]],
@@ -734,7 +749,8 @@ missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
 **Golden:** every manual on Golden's public website was ingested
 2026-10-12 (per the human), and Golden's Dropbox owner's-manual library
-was pulled 2026-10-20, so remaining Golden gaps (e.g. service guides for
+was pulled 2026-10-20 along with its tech library (IPBs, lift chair
+service guide), so remaining Golden gaps (e.g. service guides for
 the Eagle, Eagle All Terrain, Cricket and Ally family; GB150) need
 Golden tech support (800-624-6374, mobility tech x501, VA tech x505).
 **Reminder rule:** whenever a tech works on a device with a missing
@@ -787,9 +803,10 @@ on file):
 - [x] **Golden lift chairs**: owner's manuals ingested 2026-10-20 (the
   2024 Universal manual plus model manuals covering PR446/448,
   PR510/512/535/632/713/735/756/766 MaxiComfort, PR405/514/515/761
-  Twilight and the standard and private-label chairs). Still **no
-  service guide or parts list**; ask Golden lift chair tech support
-  (800-624-6374 x502). See [[Golden-Lift-Chairs]].
+  Twilight and the standard and private-label chairs). The **2021 lift
+  chair service guide** (parts by model) and instruction sheets followed
+  the same day from Golden's tech library ([[Golden-Lift-Chair-Service]]).
+  See [[Golden-Lift-Chairs]].
 - [ ] **Pride/Quantum owner's manuals** (added 2026-10-15; mostly
   closed 2026-10-20): owner's manuals are now on file for the Edge 4,
   Edge 2.0/3, Edge HD/Ultra, J4/J4E, 4Front, R-Trak, 1450, Jazzy 600 ES,

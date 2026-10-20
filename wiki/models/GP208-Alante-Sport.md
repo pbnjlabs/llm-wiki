@@ -15,6 +15,9 @@ older [[GP205-Alante-Sport]]. It's a different chair: lighter, faster,
 ## Documents on file
 
 - [[Alante Sport Owners Manual (GP208)]] (Jun 2018)
+- [[Alante Sport Illustrated Parts Breakdown (GP208)]] (Nov 2020): **PG nVR2 40 A** (same joystick and
+  module as the GP161), own motors and brake release handles, U1
+  batteries, 3.5 A charger, PP1 programmer
 
 ## Specs
 

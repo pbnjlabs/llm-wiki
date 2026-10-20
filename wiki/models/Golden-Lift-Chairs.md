@@ -45,8 +45,17 @@ Private label (built by Golden for other sellers):
   [[PL340 Lift Chair Owners Manual]], [[Members Mark Lift Chair Assembly Manual (PL830)]],
   [[Value Lift Chairs Owners Manuals (115, 165, 116, 166)]]
 
-No service guide or parts list is on file (the PR502 manual has a small
-mechanism diagram). General care tips: [[Golden-Dealer-Tips]].
+**Service and parts:** the 2021 [[Lift Chair Service Guide]] (test
+values, Smart Tek troubleshooting, replacement steps, wiring and parts
+by model), the [[Discontinued Lift Chair Service Guides (115, 165, PR116, PR117, PR119)]],
+and Golden's instruction sheets:
+[[Lift Chair Sync, Setup and Calibration Sheets]],
+[[Lift Chair Control Box and Parts Replacement Sheets]],
+[[Lift Chair Back Assembly Sheets]], [[Lift Chair Footrest and Lift Options]],
+[[Lift Chair Power, Massage and Lumbar Options]],
+[[Lift Chair Quick Start Guides and Set Up Checklist]]. All distilled on
+**[[Golden-Lift-Chair-Service]]**, the tech reference. General care tips:
+[[Golden-Dealer-Tips]].
 
 ## Model lines at a glance
 
@@ -176,6 +185,10 @@ twilight):
 
 ## Troubleshooting (symptom first)
 
+User-level checks below. For meter readings, the Smart Tek LED table by
+chair type, motor/control box diagnosis and **sync after replacing any
+electrical part**, see [[Golden-Lift-Chair-Service]].
+
 From the Universal manual, the AutoDrive sheet and the 2004 manual.
 
 | Symptom | Check, in order |
@@ -265,6 +278,7 @@ seller's warranty terms above; the hardware is Golden's.
 
 ## See also
 
+[[Golden-Lift-Chair-Service]] (tech reference), 
 [[Golden]], [[Golden-Dealer-Tips]], [[Golden Tips]],
 [[Pride-Lift-Chairs]] (Pride's troubleshooting sheet: wiring, dip
 switch, motor timing, scissors), [[PMS-Office-Procedures]]

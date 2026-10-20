@@ -9,8 +9,7 @@ tags: [golden, buzzaround, buzzaround-carryon, scooter, travel]
 
 Golden's smallest/lightest travel scooter, designed around airline travel
 — quick-release lithium battery packs rather than a fixed or dock-charged
-battery. A service guide and an owner's manual are on file; there is no
-IPB yet. The **GB220 Carry On HD** (400 lb) shares the owner's manual.
+battery. A service guide, an owner's manual and an IPB are on file. The **GB220 Carry On HD** (400 lb) shares the owner's manual.
 Not to be confused with the **GP130 Carry On power chair**
 ([[GP130-CarryOn-Power-Chair]]).
 
@@ -43,6 +42,9 @@ horn beeps ([[Flash-Beep-Diagnostics]]).
 ## Documents on file
 
 - [[Buzzaround Carry On Owners Manual (GB120, GB220)]] (Rev. D, 2025)
+- [[Buzzaround Carry On Illustrated Parts Breakdown (GB120)]] (Jan 2025): **Dynamics DR50-A01 50 A**,
+  brake (freewheel) switch, 3 A and 35 A fuses, 15 Ah and 6.5 Ah
+  (airline-approved) packs, Li-ion charger MBE-0028 (also the GP130's)
 - [[Buzzaround Carry On Service Guide (GB120)]] (2021)
 - [[BuzzAround CarryOn Transportation Guide]]
 - [[GB120 Kickstand Installation Guide]]

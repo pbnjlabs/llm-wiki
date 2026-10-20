@@ -31,7 +31,7 @@ on the serial label.
 
 From the owner's manual (GP302A): the horn beeps **twice**, then the
 count. The [[GP301-Stride]] manual prints the **same table**, word for
-word. The [[GP309-Cricket-LT]] uses a close variant (1 = communication,
+word, and the Stride also comes as **GP301A (Micon) and GP301B (LiNX)**. The [[GP309-Cricket-LT]] uses a close variant (1 = communication,
 8 = joystick failure).
 
 | Beeps | Fault | Check |

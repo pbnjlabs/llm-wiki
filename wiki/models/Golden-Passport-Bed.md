@@ -62,6 +62,16 @@ approved for hospital use. PMS's hospital beds are a different product
 - Warranty: 1 yr parts and labor, years 2–3 parts only, lifetime on
   the steel frame; residential use only, through the retailer.
 
+## Older Golden beds: 3100 / 4100 series (discontinued)
+
+A different, earlier adjustable bed. The
+[[Adjustable Bed Service Manual (3101, 4101)]] (2012) covers it: one
+combined motor that pushes onto the head and foot drive bars (BPBMO-A
+on the 3101, BPBMO-IR on the 4101 with vibrators), 5-pin hand control
+and 7-pin vibrator sockets on the motor, vibrators on rubber mounts,
+King bed lock BL100, 2–6 in risers, half rails and headboard brackets.
+Unplug it in the flat position before changing the motor.
+
 ## See also
 
 [[Golden]], [[MedMizer]], [[Golden-Lift-Chairs]]

@@ -22,7 +22,11 @@ Owner's manuals added 2026-10-20 print the same table, OONAPU and
 drive-inhibit text for the [[GP164-BuzzAbout]] (40 A),
 the 2022 GP605 ([[Compass Sport Owners Manual (GP605, LiNX)]]) and the
 **2019 GP620 Compass HD** ([[Compass HD Owners Manual (GP620, LiNX)]],
-60 A). The 2017 GP620 manual has a Shark instead ([[Shark-Diagnostics]]).
+60 A). The 2017 GP620 manual has a Shark instead ([[Shark-Diagnostics]]),
+and so does the 2024 GP620 IPB. LiNX parts are shared: the GP164's power
+module is the **GP605L's** and its joystick (DLX-REM060-A) the
+**GP162B's**; the GP605A uses DLX-REM050-A. The **GP301B** Stride also has
+a LiNX joystick ([[GP301-Stride]]).
 Reinforces that Golden's diagnostic scheme is determined by controller
 choice, not model name or product category — check per-model before
 assuming any of the three schemes applies.

@@ -14,6 +14,10 @@ Link to [[Golden]].
 ## Documents on file
 
 - [[Stride Owners Manual (GP301)]] (Apr 2024)
+- [[Stride Illustrated Parts Breakdown (GP301)]] (Jul 2024): **two versions like the Cricket:
+  GP301A = Micon joystick (MBE-0001), GP301B = LiNX joystick (MBE-0052)**,
+  different 10 Ah batteries (MBE-0002 / MBE-0053), charger MBE-0014 (shared
+  with the GP302A). The GP301B's codes would be [[LiNX-Diagnostics]].
 
 ## Specs
 

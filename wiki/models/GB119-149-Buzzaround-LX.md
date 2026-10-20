@@ -14,6 +14,9 @@ a 375 lb rating and a high-back seat. **GB119 = 3-wheel, GB149 =
 ## Documents on file
 
 - [[Buzzaround Luxury Owners Manual (GB119, GB149)]] (Jan 2020)
+- [[Buzzaround Luxury Illustrated Parts Breakdown (GB119, GB149)]] (Jan 2025): **Dynamics DR90-A01
+  90 A**, own harness and complete dash, fuse box, volt meter, battery
+  dock, charger Y-harness
 
 ## Specs
 

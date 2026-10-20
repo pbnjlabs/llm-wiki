@@ -13,6 +13,10 @@ rear-wheel drive, splits into front and rear halves. Link to [[Golden]].
 ## Documents on file
 
 - [[LiteRider Envy Lite Owners Manual (GP161)]] (Oct 2021)
+- [[LiteRider Envy Lite Illustrated Parts Breakdown (GP161)]] (Dec 2023): **PG nVR2 40 A** joystick
+  and power module (the owner's manual says 50 A; go by the label),
+  12 V 18 Ah batteries, 35 A breaker, 3.5 A charger; brake handle and
+  battery box shared with the GP160 and GP162B
 
 ## Specs
 

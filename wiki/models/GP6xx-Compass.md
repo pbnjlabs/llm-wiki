@@ -23,6 +23,8 @@ four. Link to [[Golden]].
 | GP605 Compass Sport, **2017 service guide and 2022 owner's manual** | Dynamic **LiNX** (LiNX LE) | [[LiNX-Diagnostics]] (7 codes) |
 | GP620 Compass HD, **2017** (service guide and owner's manual) | Dynamic **Shark** (REMA/REMD remotes) or **A-Series**; OM says **75 A** | [[Shark-Diagnostics]] (11 codes; the OM numbers 10) |
 | GP620 Compass HD, **2019 owner's manual** | Dynamic **LiNX**, **60 A** | [[LiNX-Diagnostics]] |
+| GP620 Compass HD, **2024 IPB** | Dynamic **Shark** REMD + 75 A module (no LiNX listed) | [[Shark-Diagnostics]] |
+| GP605**A** (2022/2023 IPBs) | Dynamic **LiNX** DLX-REM050-A | [[LiNX-Diagnostics]] |
 
 All of these are Dynamic Controls products. Look at the joystick: a
 LiNX remote has a status light under the power button, and a Shark
@@ -67,6 +69,12 @@ batteries 22 or 30 lb each), 39.5 × 24 in, 24 in turning radius, seats
 ## Documents on file
 
 - [[Compass Sport Owners Manual (GP605, LiNX)]] (Jan 2022)
+- [[Compass Sport Illustrated Parts Breakdown (GP605A)]] (2022, 2023): LiNX DLX-REM050-A + power
+  module, Bluetooth dongle, 50 A breaker harness, U1 or 12 V 40 Ah
+  batteries, motors RA03E102/103
+- [[Compass HD Illustrated Parts Breakdown (GP620)]] (Apr 2024): **Shark REMD + 75 A Shark module**,
+  22NF batteries, 8 A charger. Lists only the Shark, though the 2019
+  owner's manual is a LiNX edition: check the joystick
 - [[Compass HD Owners Manual (GP620, LiNX)]] (May 2019)
 - [[Compass HD Owners Manual (GP620, Shark)]] (Dec 2017)
 - [[Compass Sport Service Guide (GP605, LiNX)]] (2017)

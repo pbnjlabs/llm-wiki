@@ -15,6 +15,9 @@ On". Link to [[Golden]].
 ## Documents on file
 
 - [[Carry On Power Chair Owners Manual (GP130)]] (Rev. B, 2024)
+- [[Carry On Power Chair Illustrated Parts Breakdown (GP130)]] (Rev. E, Jan 2025): **controller PG VR2**
+  (MBE-0061), joystick MBE-0062, 12.5 Ah Li-ion pack MBE-0064, charger
+  MBE-0028 (the GB120's), 35 A blade fuse, seat post connector MBE-0063
 
 ## Specs
 
@@ -34,9 +37,10 @@ assembled** (base 46, seat 22, battery 6). See [[Mobility-Device-Weights]].
 ## Fault codes
 
 Joystick lights flash the count; some faults also sound the horn until
-cleared. The controller's maker isn't named. The layout resembles the
-PG VR2 table ([[TruCharge-Diagnostics]]) but has no code 6 and puts the
-brake at 9.
+cleared. The parts breakdown shows a **PG VR2** controller, so a PG
+programmer reads its trip codes ([[PG-Drives-Trip-Codes]]). The
+owner's manual table follows the VR2 layout ([[TruCharge-Diagnostics]])
+but has no code 6 and puts the brake at 9.
 
 | Flashes | Fault | Check |
 |---|---|---|

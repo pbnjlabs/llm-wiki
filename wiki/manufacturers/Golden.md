@@ -7,13 +7,17 @@ tags: [manufacturer, scooter, power-wheelchair, lift-chair, bed]
 # Golden (Golden Technologies)
 
 Manufacturer of power scooters, power wheelchairs, lift chairs and home
-adjustable beds. 176 files under `MANUALS/Golden/`: the original 102,
+adjustable beds. 231 files under `MANUALS/Golden/`: the original 102,
 mostly flat (service guides for discontinued models in
 `Discontinued Models/`), plus 74 pulled on 2026-10-20 from **Golden's
 Dropbox owner's-manual library** ("Owners Manuals", shared by Golden
 Marketing), kept in its folder layout: `Bed/`, `Lift Recliners/` and
 `Mobility/` (`Power Wheelchairs/`, `Scooters/`). 26 were ingested the
-same day and the 35 lift chair files after that; see **Not yet
+same day and the 35 lift chair files after that. Then **55 more from
+Golden's Dropbox tech library** ("Illustrated Parts Breakdown",
+"Service Guides", "Instructions" folders, also kept in its layout): 18
+IPBs, the 2021 lift chair service guide and 4 discontinued-model guides,
+and 32 lift chair instruction sheets, all ingested. See **Not yet
 ingested** at the end.
 
 ## Model families (by part-number prefix, from filenames — unverified against manual content)
@@ -127,7 +131,10 @@ ingested** at the end.
   manuals (Relax The Back, Healthy Back, AmeriGlide, firstSTREET,
   Member's Mark, PL340), the massage/heat and Nirvana sheets, and the
   AutoDrive reset sheet: all on [[Golden-Lift-Chairs]] (hand controls,
-  M-button features, calibration, troubleshooting, warranty).
+  M-button features, calibration, troubleshooting, warranty). The 2021
+  **lift chair service guide** and 32 instruction sheets are distilled
+  on [[Golden-Lift-Chair-Service]] (test values, Smart Tek table, sync
+  after parts swaps, motors, frames, parts by model, heat/massage).
 - **Chargers**: HP8204B, MRC24-4LX. **Fully ingested** — see
   [[Golden-Battery-Charging]].
 
@@ -251,6 +258,15 @@ Relax The Back manual is on file twice, byte for byte, as "RelaxBack"
 and "DreamMaker"). The 7 other Dropbox files were already on file,
 byte for byte.
 
+**55 tech files ingested 2026-10-20** (Golden's Dropbox tech library):
+18 IPBs (GB107/108, GB118/148, GB119/149, GB120, GB121/124, GR575, GP130,
+GP161, GP164, GP205–207, GP208, GP301, GP303, GP304, GP305, GP605A × 2,
+GP620) and 8 lift chair/bed service source pages. Two library files
+were left out: a byte-for-byte text duplicate of the GB116/146 service
+guide already on file, and a one-page "Get Tech Certified" flyer. Key
+finds: the **GP130 is PG VR2**; the **GP301 Stride comes as A (Micon)
+and B (LiNX)**; the 2024 GP620 IPB lists a **Shark**.
+
 The original **102 Golden files have all been ingested**, as 101
 distinct documents. The 102nd is the AutoDrive lift chair sheet (2026-10-12). 19 were added on 2026-10-12 from the human's
 Downloads: service guides for the Buzzaround XL/Extreme/Carry On,
@@ -265,4 +281,6 @@ source page. The 14 sell sheets (2018–2026) share
 [[Golden Sell Sheets (2018-2026)]]. Models with a sell sheet but no
 manual: GB150 (see [[GB1xx-Buzzaround-XL]]); the GB107 and GB108 now
 have an owner's manual. No **service guide** is on file for the Eagle,
-Eagle All Terrain, Cricket, Cricket LT, Ally family, Stride or GP130.
+Eagle All Terrain, Cricket, Cricket LT, Ally family, Stride or GP130 (the
+tech library has IPBs for most of them, but no service guides). No IPB
+for the GR596, GP309 or GL112.

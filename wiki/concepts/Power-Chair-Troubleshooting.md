@@ -354,9 +354,9 @@ provider support.
 | PG programmer trip codes | PG S-Drive, VR2, VSI, Pilot+ | [[PG-Drives-Trip-Codes]] |
 | Dynamic Shark (11 codes) | 2017 GP620, older GP605 | [[Shark-Diagnostics]] |
 | Dynamic LiNX (7 codes) | GP162 LiNX, GP164, GP605 (2017 on), 2019 GP620, GP302B | [[LiNX-Diagnostics]] |
-| Micon (beeps) | GP302 Cricket, GP301 Stride (same table); GP309 Cricket LT (close variant) | [[GP302-Cricket]], [[GP309-Cricket-LT]] |
+| Micon (beeps) | GP302A Cricket, GP301A Stride (same table); GP309 Cricket LT (close variant). The **B** versions (GP302B, GP301B) are LiNX | [[GP302-Cricket]], [[GP309-Cricket-LT]] |
 | Ally display (numbered codes, voice prompts) | GP303 Ally, GP304 Ally Pro, GP305 Ally Sport | [[Ally-Fault-Codes]] |
-| Joystick-light flashes (maker not named) | GP130 Carry On power chair | [[GP130-CarryOn-Power-Chair]] |
+| Joystick-light flashes; **PG VR2** per the IPB | GP130 Carry On power chair | [[GP130-CarryOn-Power-Chair]] |
 
 ## 8. Charging
 

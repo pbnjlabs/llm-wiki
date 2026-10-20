@@ -19,6 +19,10 @@ different chair: [[GP208-Alante-Sport]]. Link to [[Golden]].
 
 - [[Alante Sport Service Guide (GP205)]] (2012)
 - [[Alante Series Owners Manual (GP205, GP206, GP207)]] (Aug 2021)
+- [[Alante Illustrated Parts Breakdown (GP205, GP206, GP207)]] (May 2024): PG VR2 module MBC-AJPGVR2,
+  joystick MBX-AJVR2JA (shared with the GP200 and GP204), Compass Sport
+  brakes, harness with circuit breaker, U1 batteries, 3.5 A charger, PP1
+  programmer
 
 ## GP205 / GP206 / GP207 specs (2021 OM)
 

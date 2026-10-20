@@ -14,6 +14,9 @@ Link to [[Golden]].
 ## Documents on file
 
 - [[BuzzAbout Owners Manual (GP164, LiNX)]] (Nov 2021)
+- [[BuzzAbout Illustrated Parts Breakdown (GP164)]] (Nov 2023): LiNX **power module from the GP605L**
+  (MBC-605L-CNT-PMOD), **joystick DLX-REM060-A from the GP162B**, light
+  control module, 12 V 22 Ah batteries, 35 A breaker, 3.5 A charger
 
 ## Specs
 

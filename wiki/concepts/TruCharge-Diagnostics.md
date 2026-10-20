@@ -58,9 +58,9 @@ Owner's manuals added 2026-10-20 print the same 10-LED table, with the
 VR2 lock/unlock sequence, for the [[GP161-LiteRider-Envy-Lite]] (PG
 **nVR2**, 50 A), the **GP205/206/207 Alanté** series
 ([[Alante Series Owners Manual (GP205, GP206, GP207)]], 50 A) and the
-[[GP208-Alante-Sport]] (40 A). The [[GP130-CarryOn-Power-Chair]] uses a
-similar but **different** 9-entry table (no 6, brake at 9), on its own
-page.
+[[GP208-Alante-Sport]] (40 A). The [[GP130-CarryOn-Power-Chair]] is also a **PG VR2** chair (per its 2025
+IPB), but its owner's manual prints a shorter 9-entry table (no 6,
+brake at 9), on its own page.
 
 | Bar | Fault |
 |---|---|
