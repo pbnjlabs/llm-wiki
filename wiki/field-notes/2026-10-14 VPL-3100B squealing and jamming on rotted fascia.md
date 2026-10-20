@@ -3,13 +3,13 @@ type: field-note
 manufacturer: Bruno
 model: VPL-3100B
 date: 2026-10-14
-status: open
+status: resolved
 tags: [vpl, porch-lift, bruno, vpl-3100b, fascia, plywood, running-clearance, noise, squeal, stuck, deck, field-note]
 ---
 
 # 2026-10-14 — VPL-3100B: squealing and getting stuck (delaminating plywood fascia)
 
-**Status: open (cause found; fix planned, not done yet).** PMS service
+**Status: resolved (closed 2026-10-20, per the human).** PMS service
 call on a [[VPL-3100B]] at a deck. **The problem isn't specific to one
 make:** it applies to any VPL running past a plywood fascia. Job date
 assumed to be today (not confirmed).
@@ -50,12 +50,13 @@ was installed in 2020 (per the human).
 
 ## Fix
 
-**Planned:** remove the existing plywood fascia and **rebuild it with
-treated decking boards** (per the human). Not done yet.
+Removed the plywood fascia and **rebuilt it with treated decking
+boards** (per the human). The human closed the job on 2026-10-20; the
+completion date and the running-clearance check weren't recorded.
 
 ## Parts used
 
-Treated decking boards (quantity not recorded; job not done yet).
+Treated decking boards (quantity not recorded).
 
 ## Takeaways
 

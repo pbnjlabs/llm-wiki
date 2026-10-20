@@ -1252,3 +1252,9 @@ Per the human ("here's the owner's manuals library. i'm logged in. go ahead and 
 - **Flagged:** Dynamic LiNX sheet says "left" for the right-side codes 4 and 6; Jazzy Carbon 2+8 is "controller" on the sheet but "joystick" in the manual; the SC15 owner's manual (Jiuniu 2, 4–7, 9) and the SC15 insert (S-Drive-style 1–6, 8, 9) give different code lists; the 2026 Q-Logic 3 BOI drops #75 though the Edge 4 OM still uses it; the safety guides' "ADA requires 5°" (PMS builds 1:12, 4.8° or less); the Jazzy Carbon manual's inside page says Rev A July 2020 while the file name says Oct 2022.
 - **Missing manuals:** Pride owner's-manual item mostly closed (still missing: original Q6 Edge, 2010 Jazzy 614, Select Elite, Outback, ET Series, Carbon 27/27X/HD, IPBs); NE/NE+, Q-Logic 3e and TB4 TTG gaps closed; lift chair item ticked (LC-029 still not on file).
 - **Deliberately skipped:** Baja Bandit/Raptor 2/Wrangler 2, 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), AU mid-size and Canadian Go-Go duplicates, scooter intro insert, non-medical scooter safety guide, Synergy seat and Stealth cushion sheets.
+
+## [2026-10-20] field-note | Bruno VPL-3100B — squealing and jamming on rotted fascia (resolved)
+Per the human: closed [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]. Fix recorded as done (plywood fascia replaced with treated decking boards); the completion date and the running-clearance check weren't given. Index row set to resolved.
+
+## [2026-10-20] maintenance | Downloads duplicates deleted
+Per the human: deleted `fault_list-q-logic-3.pdf` and `qlogic_fault_codes.pdf` from `~/Downloads` after re-checking that each was byte-identical (md5) to the copies in both `MANUALS/` folders (`Pride/Controllers/Q-Logic 3/` and `Pride/Controllers/Q-Logic/`).
