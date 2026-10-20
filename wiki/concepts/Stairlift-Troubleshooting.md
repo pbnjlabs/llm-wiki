@@ -480,6 +480,8 @@ None yet for stairlifts. Add them here as they come in.
 
 ## See also
 
+[[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
+
 [[Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
 [[Diagnostic-Codes]], [[Harmar-Stairlift-Beep-Codes]],
 [[Overspeed-Safety-Brake]], [[Folding-Rail]], [[Mobility-Batteries]],

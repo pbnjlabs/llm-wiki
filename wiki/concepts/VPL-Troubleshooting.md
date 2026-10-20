@@ -353,6 +353,8 @@ applies; the Highlander has its own interlock wiring
 
 ## See also
 
+[[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
+
 [[Troubleshooting]], [[TechMate VPL Troubleshooter]], [[VPL-3100B]],
 [[VPL-3200B]], [[HighlanderII]], [[Gate-and-Door-Interlocks]],
 [[Battery-Charger-LED-Diagnostics]], [[Top-Landing-Gate-Installation]],
