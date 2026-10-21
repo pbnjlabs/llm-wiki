@@ -117,5 +117,12 @@ instructions that come with it.
 
 ## See also
 
+Bruno's 2005 sheet for the **Invacare Arrow Storm FWD** (WLD-00967):
+the chair is over 300 lb with its tail weight, so **remove the tail
+weight unless the lift is rated 400 lb** (a claw lets the lift pick the
+42 lb weight up separately) ([[ILS - Curb-Sider (VSL-6000-6900) Service Sheets]]).
+Bruno's other docking-device sheets are in `MANUALS/Bruno/Drawings/Docking Devices/`
+(not yet ingested).
+
 [[Transport-and-Tie-Downs]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[VSL-6000-6900]], [[PUL-1100]],
 [[Hybrid-Vehicle-Lifts]], [[Mobility-Device-Weights]], [[Hitch-Adapters]], [[Harmar]], [[Bruno]]

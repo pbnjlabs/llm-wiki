@@ -94,5 +94,16 @@ Harmar says never cut the harness.
 
 ## See also
 
+**Trailer-light problems on hitch lifts (Bruno ILS sheets):** lift LEDs
+stay on with the vehicle lights off (aftermarket taillight converter) →
+resistor kit **ASL-16727** (ASL-275) or **ASL-70161** (ASL-700).
+**Hyper-flashing turn signals, "trailer connected/disconnected" or
+bulb-out messages, blind-spot or park-aid alerts** (OEM tow recognition
+module) → **ASL-K-284** (ASL-250/275) or **AWL-K-1601** (AWL-1600). 7-pin
+adapters need battery voltage at the twin lead with the ignition off: 30 A
+trailer fuse, bypass a trailer tow relay (Ford), connect the loose
+red/black wire (GM). See [[ILS - Out-Sider (ASL-250-275) Install and Service Sheets]]
+and [[ILS - Chariot (ASL-700) Service Sheets]].
+
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
 [[PUL-1100]], [[ASL-275]], [[ASL-250]], [[ASL-700]], [[VSL-4400]], [[VSL-6000-6900]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]

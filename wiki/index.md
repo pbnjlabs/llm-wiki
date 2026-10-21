@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` and **636 ILS instruction sheets** in `MANUALS/Bruno/Drawings/` (161 stairlift and 134 VPL sheets ingested) (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` and **636 ILS instruction sheets** in `MANUALS/Bruno/Drawings/` (161 stairlift, 134 VPL and 277 vehicle lift sheets ingested) (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -112,8 +112,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
 | ASL-250 (Out-Sider, legacy) | Bruno | [[ASL-250]] |
 | ASL-700 (Chariot; wheeled hitch carrier, VIN/title, class I/II) | Bruno | [[ASL-700]] |
-| VSL-4400 (Joey; inside platform lift, door safety switch) | Bruno | [[VSL-4400]] |
-| VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping) | Bruno | [[VSL-6000-6900]] |
+| VSL-4400 (Joey; inside platform lift, door safety switch; **mounting kit by vehicle**: [[ILS - Joey Mounting Kit Fitment by Vehicle]]) | Bruno | [[VSL-4400]] |
+| VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping; **sub-base by vehicle**: [[ILS - Curb-Sider Sub-Base Fitment by Vehicle]]) | Bruno | [[VSL-6000-6900]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
 | Buzzaround XL / Lite / LT (GB106/116/146, current GB117/147 incl. **GB147H = HD**; GB107/108 LT, GB121 Lite, 2022 GB121B/124A XL and XLS HD) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148; SG + OM) | Golden | [[GB118-148-Buzzaround-EX]] |
@@ -382,8 +382,13 @@ and canopies, ACME screw/nut/bearing service, AC brake retrofits,
 electric interlock wiring, timers and door operators, 3-stop and
 redundant limit kits, cold weather and battery kits, electrical
 retrofits, travelling cable, flood sensors, shipping and brush kits.
-New pages [[VPL-Maintenance]] and [[VPL-3300B]]. **Pending:** Vehicle
-Lifts (277), Docking Devices (60), General (3).
+New pages [[VPL-Maintenance]] and [[VPL-3300B]]. **Vehicle lifts
+ingested** (277 sheets → 8 source pages in `sources/Bruno/Vehicle Lifts/`):
+fitment tables [[ILS - Curb-Sider Sub-Base Fitment by Vehicle]],
+[[ILS - Joey Mounting Kit Fitment by Vehicle]],
+[[ILS - Pickup Truck Bases and Stow-Away Mounting Kits]]; service sheets
+for the Curb-Sider, Joey, Out-Sider, Chariot and Out-Rider/Stow-Away.
+**Pending:** Docking Devices (60), General (3).
 
 Bruno dealer-portal **Tech Tips** (pulled 2026-10-21 into
 `MANUALS/Bruno/Tech Tips/`, 107 files; manifest `_manifest.md`).

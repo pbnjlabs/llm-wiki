@@ -193,8 +193,18 @@ including the nut safety switch test tool, AC brake retrofits,
 interlock wiring (24 VAC vs 24 VDC), timers and door operators (DS-4H
 codes), 3-stop and redundant limit kits, cold-weather kits, electrical
 retrofits (PCB-00164, aux disconnect, 240 V), travelling cable, flood
-sensors, shipping. **Vehicle lift, docking device and general sheets:
-downloaded, not yet ingested.**
+sensors, shipping.
+
+**Vehicle lifts ingested 2026-10-21** (277 sheets, 8 source pages). Most
+are **vehicle fitment**: [[ILS - Curb-Sider Sub-Base Fitment by Vehicle]]
+(144 bases), [[ILS - Joey Mounting Kit Fitment by Vehicle]] (60 kits) and
+[[ILS - Pickup Truck Bases and Stow-Away Mounting Kits]]. The rest are
+service sheets per lift: Curb-Sider (lift belt, head assembly, controller
+retrofit, capacity decal), Joey (belt, motors, wheels, VSL-4000HW
+override), Out-Sider (hitch adapters, platform setup, fold cam, trailer
+wiring and resistor kits, camera), Chariot (linkage, actuator, latch,
+wheels, camera), Out-Rider and the **PUL-1850 Stow-Away**. **Docking
+device and general sheets: downloaded, not yet ingested.**
 
 Bruno also publishes Australian-market addenda for its G models
 ([[ILS - Stairlift Australian Addenda]]); they're not US requirements.

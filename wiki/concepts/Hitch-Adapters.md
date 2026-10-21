@@ -161,6 +161,12 @@ welds. Harmar reimburses 1 h labor plus mileage under CSV-000014
 
 ## See also
 
+Bruno's ILS sheets add the ASL-250 adapter table (mount tube 10–12 in off
+the ground; standard / 3 in / 6 in adapters, Class II and III), the
+ASL-275 "6 in adapter up" rule for 6–10 in hitches, and the Chariot
+linkage torques: [[ILS - Out-Sider (ASL-250-275) Install and Service Sheets]],
+[[ILS - Chariot (ASL-700) Service Sheets]].
+
 [[AL-Series-Outside-Vehicle-Lifts]], [[ASL-275]], [[ASL-250]], [[ASL-700]],
 [[Mobility-Device-Weights]], [[Docking-Devices]], [[Vehicle-Lift-Power-Wiring]],
 [[Harmar]], [[Bruno]]
