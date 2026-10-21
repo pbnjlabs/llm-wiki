@@ -53,6 +53,15 @@ above, but **two extra conditions**:
 Bruno's VA returns, restocking and damaged-delivery rules are on the
 price list page and compared with Harmar's on [[VA-FSS-Contracts]].
 
+**Bruno dealer returns** ([[Tech Tip - Bruno Return Goods Policy]]): RMA
+number on the outside of **every box** or it's refused; back within **30
+days**; serials must match. No defect found → **15%** restock minimum;
+full units 15% (installed or not new: 25% or refused); nothing over 60
+days old except warranty; custom/special orders not returnable. **Note
+shipping damage with the driver before signing**, report concealed
+damage at once and keep everything for the carrier's inspector; claims
+go to the carrier, not Bruno.
+
 ## Stairlifts — 5yr major components / 2yr parts (2014 card)
 
 Identical warranty text appears standalone (`Bruno Stair Lift Warranty.pdf`)

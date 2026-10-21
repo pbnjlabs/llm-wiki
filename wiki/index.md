@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 58 tech-tip source pages (2026-10-21): 33 for the 46 stairlift tips, 25 for the 49 VPL tips; 12 vehicle lift/general tips pending. The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -381,7 +381,13 @@ VPL-31496 motor, delay and ESI timers, interlock wiring (Waupaca, HES
 VPL-3200B lower-interlock notice 2011, travelling cable colours, cold
 weather kits, 2011–2012 control change serials, tall VPL install notes,
 3-stop kit VPL-K-3233, flush doors, ETL and CSA certificates.
-**Pending:** Vehicle Lifts (9), General (3).
+**Vehicle lifts and general ingested** (12 files → 9 pages in
+`sources/Bruno/Vehicle Lifts/` and `General/`): ASL-700 Chariot spec
+sheet 2016, Chariot lights and trailer wiring, Chariot certificate
+replacement, PUL-1100 dimensions, VSL-4000HW Joey troubleshooting
+TSG-4000-001, trunk-lift motor MDC-12009, Auto Meter RC-300 battery
+tester, Bruno return goods policy, Bruno serial numbers (2018 list).
+**All 107 tech tips ingested.**
 
 Bruno dealer tools — see `wiki/sources/Bruno/General/`:
 [[TechMate Stairlift Troubleshooter]] (Bruno dealer-portal decision trees,
@@ -887,7 +893,7 @@ Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
-### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: stairlift and VPL tips ingested; **12 pending** (Vehicle Lifts 9, General 3 in `MANUALS/Bruno/Tech Tips/`). SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
+### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.
 

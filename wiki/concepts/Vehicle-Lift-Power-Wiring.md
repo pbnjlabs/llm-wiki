@@ -41,7 +41,14 @@ pattern (30 A, battery direct, 12 V battery on hybrids/EVs), plus:
 - **Chariot:** also needs a **flat-4 trailer light harness** with the
   hitch; leave slack for the lift's vertical travel. If the light
   circuit tests "hot" with power off, the vehicle's multiplex system
-  switches ground: add a low-side switching adapter.
+  switches ground: add a low-side switching adapter. **Lights stay on with
+  the vehicle off** → the taillight converter module is powered from the
+  battery: re-feed it from an ignition source (or three 2200 Ω resistors
+  across the flat-4). A flat-4 tester checks the vehicle side
+  ([[Tech Tip - ASL-700 Chariot Lights and Trailer Wiring]]).
+- **Joey (older VSL-4000HW):** its board cuts out below **8.5–9 V**, so a
+  weak vehicle battery shows up as stop-start lifting
+  ([[Tech Tip - VSL-4000HW Joey Troubleshooting Guide (TSG-4000-001)]]).
 - Disable a **third-row power-folding seat** before installing a Joey or
   Curb-Sider.
 

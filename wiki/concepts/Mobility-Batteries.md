@@ -114,6 +114,12 @@ Full lineup with chargers and controllers: [[Pride-Power-Chair-Lineup]].
 Pride's battery HCPCS codes match the Interstate sheet: U-1 E2365, NF-22
 E2361, Group 24 E2363, 18 Ah K0733; **lithium E2397**.
 
+**Bruno's recommended tester:** the **Auto Meter RC-300**, a hand-held
+reserve-capacity load tester for 6 V and 12 V batteries of 4–50 Ah (40 A
+load). Under 11.0 V it asks you to charge first; results read Good,
+Marginal, Bad, Good needs charge, or Charge and retest
+([[Tech Tip - Auto Meter RC-300 Battery Tester]]).
+
 ## Testing lead-acid batteries (Pride)
 
 From Pride's [[Technical Troubleshooting Guide - Battery Guide (2004)]]

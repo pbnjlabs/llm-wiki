@@ -91,7 +91,11 @@ Part numbers: class III **ASL-16604** (standard), **ASL-16605** (3 in),
   receivers, in four settings: 1 = 8–9¾ in, 2 = 10–11¾ in,
   3 = 12–13½ in, 4 = 13¾–16 in. Keep the linkage bars as close to
   parallel as possible. Bruno recommends a **frame-rail hitch**, not a
-  trunk-pan or floor-style hitch ([[ASL-700]]).
+  trunk-pan or floor-style hitch ([[ASL-700]]). Bruno's 2016 spec sheet:
+  tongue weight about **50 lb**, vehicle at least **2,400 lb**; it also
+  mentions a 2 in receiver with adapter ASL-K-707, which the 2025 manual
+  doesn't allow (manual wins)
+  ([[Tech Tip - ASL-700 Chariot Specification Sheet (2016)]]).
 
 ## Installing
 

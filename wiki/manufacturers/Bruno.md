@@ -105,7 +105,18 @@ lower-interlock field notice. New pages: [[VPL-Drive-Service]] and
 on Bruno's server (Electric Strike Offerings, Von Duprin 6211, Fuse &
 Circuit Breaker Listing).
 
-**Vehicle lift and general tips: downloaded, not yet ingested.**
+**Vehicle lift and general tips: ingested 2026-10-21** (12 files, 9
+source pages): Chariot spec sheet, lights and wiring, certificate
+replacement; PUL-1100 dimensions; the older **VSL-4000HW Joey**
+troubleshooting guide (now on [[VSL-4400]]); the trunk-lift motor note;
+the Auto Meter RC-300 battery tester; Bruno's return goods policy; and
+the 2018 serial number list ([[Bruno-Serial-Numbers]]). **All 107
+downloaded tech tips are now ingested.**
+
+**Legacy vehicle lifts** (tech tips only, no manuals): **VSL-4000HW**
+Joey (before the VSL-4400), and the **AWL-100/125/150/160 and VSL-175**
+trunk lifts (hoist motor MDC-12009; see
+[[Tech Tip - Trunk Lift Motor MDC-12009 Replacement]]).
 
 They're manufacturer-authored, so they rank like TechMate: above
 clippings, **below the manuals**. Where they disagree, the pages say so.
@@ -157,9 +168,9 @@ Bruno **vehicle lifts only** (65 II F); it doesn't handle 65 II A. See
 
 All Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
-out-of-repo `MANUALS/Bruno/` drop). **Pending:** 12 dealer-portal tech
-tips in `MANUALS/Bruno/Tech Tips/` (Vehicle Lifts 9, General 3); the 46
-stairlift and 49 VPL tips were ingested 2026-10-21.
+out-of-repo `MANUALS/Bruno/` drop). All 107 dealer-portal tech tips in
+`MANUALS/Bruno/Tech Tips/` were ingested 2026-10-21 (46 stairlift, 49
+VPL, 9 vehicle lift, 3 general).
 
 **Missing manuals:** the **SRE-5000** (added 2026-10-15, see TechMate
 above), and Bruno's **ILS-01446** Maintenance Control Plan for CRE/SRE

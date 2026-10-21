@@ -31,9 +31,28 @@ elevator/VPL, 04 part order (line), 05 part order (service stock), 06
 1202), 3 **SRE-3000 Elan** (1202), 4 **CRE** (about 1308), 5 **VPL**
 (1307), 9 scooters built for Bruno outside the USA (Taiwan).
 
-Bruno's own example pairs product group 03 with model group 2 (Elite), so
-don't read too much into the product group on stairlifts. The year,
-month and model digits are the useful part.
+**Bruno's 2018 list** ([[Tech Tip - Bruno Serial Numbers (2017 Scheme)]])
+reads the PP and M digits together as a 3-digit product code, and calls
+group 03 **accessibility** (stairlifts and VPLs), which is why the 2014
+example pairs 03 with the Elite:
+
+| Code | Product |
+|---|---|
+| 032 / 033 / 034 / 035 | Elite SRE-2010 / Elan SRE-3000 / Curve CRE / VPL (all models) |
+| 011 | Rear hoist (VSL-570, PUL-1100, VSL-6000, VSL-6900) |
+| 012 | ASL-250 |
+| 013 | Swing-away |
+| 014 | Interior lift (VSL-4400 Joey) |
+| 015 | Valet turning seats (VSS) |
+| 016 | Light exterior (ASL-225, AWL-1600) |
+| 017 | Manual trunk lift (ASL-150, ASL-325) |
+| 018 | Under-vehicle seating (PUL-1850) |
+| 060 | Chariot (ASL-700) |
+| 040 / 050 | New / refurbished replacement part |
+
+So group **01 = vehicle lifts**. The 2014 sheet's "06 = Chariot" matches
+code 060. Before about 2012 the model digit is usually 0 (e.g. VPL serial
+12070300108).
 
 **Checked against a real unit:** the 2020 VPL-3100B in
 [[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]] has
