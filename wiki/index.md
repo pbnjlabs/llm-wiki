@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` and **636 ILS instruction sheets** in `MANUALS/Bruno/Drawings/` (161 stairlift sheets ingested) (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -100,10 +100,12 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | SRE-2010 (Elite) | Bruno | [[SRE-2010]] |
 | SRE-3000 (Elan, legacy) | Bruno | [[SRE-3000]] |
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
+| SRE-5000 (Elan, 2026; no manuals yet, specs and service from 2026 ILS sheets; product code 036, PCB kit split at SN 26080361090) | Bruno | [[SRE-5000]] |
 | VPL-3100B | Bruno | [[VPL-3100B]] |
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
 | VPL-3153 / VPL-3175 (AC low-rise, no "B"; tech tips only: PCB-00143 90 V board, E1–E18 LEDs, fault flash codes) | Bruno | [[VPL-3153-3175]] |
 | CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
+| CRE-3110 (newer curved rail, 2026 spec sheet: 300 lb, 0–65°, Smart Swivel) | Bruno | [[CRE-3110]] |
 | CRE-2100 (Electra-Ride III, legacy curved rail; 2001 spec sheet only) | Bruno | [[CRE-2100]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
@@ -211,7 +213,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
 | **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant; Bruno test methods: trip key, SRE-2010C drop test SRV-2010-018, legacy duct-tape and 96 V fixture) | [[Overspeed-Safety-Brake]] |
-| **Stairlift maintenance (Bruno)**: yearly checklist from the manuals, **grease by model (PTFE SRE-3050, white lithium SRE-3000/CRE-2110; flagged conflict with Magnalube/Lubriplate)**, batteries (SRE-3000 = MK ES3-12 3 Ah; Elite/CRE 7 Ah; 3–5 yr, 10–15 trips), remote batteries yearly, overspeed tests, ILS-01446 for ASME A18.1-2017 units, Joint Commission records | [[Stairlift-Maintenance]] |
+| **Stairlift maintenance (Bruno)**: yearly checklist from the manuals, **grease: PTFE on every CRE/SRE gear rack (ILS-01446, 2026; settles the older white lithium/Magnalube/Lubriplate notes)**, ILS-01446 weekly checklist, 6-month/yearly/5-year inspection intervals and 5-year logs, batteries (SRE-3000 = MK ES3-12 3 Ah; Elite/CRE 7 Ah; 3–5 yr, 10–15 trips), remote batteries yearly, overspeed tests, Joint Commission records | [[Stairlift-Maintenance]] |
 | Bruno serial numbers: YY MM PP M SSSS layout, product and model groups, stairlift component date codes (S1/S2, F1/F2, R1/R2), where the SRE-3000 serial is | [[Bruno-Serial-Numbers]] |
 | Folding rail (manual/power) | [[Folding-Rail]] |
 | Automatic door operators (AutoSlide vs. AutoSwing vs. Open Sesame 133/233; swing-door site survey; activation options) | [[Automatic-Door-Operators]] |
@@ -355,6 +357,23 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 [[ASL-700 Operator Manual (2023)]], [[VSL-4400 Installation Manual (2026)]],
 [[VSL-4400G Operator Manual (2022)]], [[VSL-6000-6900 Installation Manual (2023)]],
 [[VSL-6000-6900 Operator Manual (2022)]].
+
+Bruno dealer-portal **Drawings** (ILS instruction sheets, pulled
+2026-10-21 into `MANUALS/Bruno/Drawings/`, 636 files; manifest
+`_manifest.md`). **Stairlifts ingested** (161 sheets → 31 "ILS - …"
+source pages, plus [[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]],
+[[ILS-01512 SRE Rail Mounting Guidance (2026)]] and
+[[ILS-01620 CRE-3110 Technical Specifications]]): spec and application
+drawings for SRE-2010, SRE-3000/3050, SRE-5000, CRE-2110 and legacy
+SRE-2000; Picture Perfect instructions and camera settings; overspeed
+tests; brake kits; gear motors and brushes; remotes, RF repeater and
+IR-to-RF; diagnostic modes; armrest and paddle switches; footrest, seat,
+belt and harness kits; SRE-3050 Service Bulletin 81; folding rail install
+and service; SRE-2010 retrofit kits; rail mounting hardware and tools;
+soft-stop and charge contacts; wheels; final limit compression; CRE drive
+and overspeed; flood sensors; USB kits; Australian addenda; SRE-5000
+service. **Pending:** VPL (134), Vehicle Lifts (277), Docking Devices
+(60), General (3).
 
 Bruno dealer-portal **Tech Tips** (pulled 2026-10-21 into
 `MANUALS/Bruno/Tech Tips/`, 107 files; manifest `_manifest.md`).
@@ -827,13 +846,14 @@ on file):
 
 **Bruno stairlifts (PMS sells and services, per the human 2026-10-15):**
 - [ ] **SRE-5000**: no install, operator or tech support manual on file.
-  Found through TechMate, which already covers its troubleshooting
-  ([[Stairlift-Troubleshooting]]). Get the manuals from Brunopartner
-  (Manuals menu) or Bruno Technical Service (1-800-656-0552).
-- [ ] **ILS-01446, Maintenance Control Plan for CRE/SRE Chair Lifts**:
-  the SRE-3050 manuals point to it for units needing ASME A18.1-2017
-  compliance; not on file and not in the Tech Tips library
-  ([[Stairlift-Maintenance]]). Brunopartner or Bruno Technical Service.
+  TechMate covers troubleshooting and Bruno's 2026 ILS sheets cover specs
+  and service ([[SRE-5000]]); the sheets refer to an "SRE-5000 Technical
+  Support Guide" (also needed for the folding rail's mid-park stop mode).
+  Get the manuals from Brunopartner (Manuals menu) or Bruno Technical
+  Service (1-800-656-0552).
+- [x] **ILS-01446, Maintenance Control Plan for CRE/SRE Chair Lifts**:
+  found in the Brunopartner Drawings library and ingested 2026-10-21
+  ([[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]]).
 - [ ] **Three Bruno VPL tech tips broken on Bruno's server** (2026-10-21):
   VPL Electric Strike Offerings, Von Duprin 6211 installation
   instructions, VPL Fuse & Circuit Breaker Listing. Ask Bruno Technical
@@ -893,6 +913,7 @@ Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
+### Bruno — Drawings library (ILS sheets) pulled 2026-10-21: stairlift sheets ingested; **474 pending** (VPL 134, Vehicle Lifts 277, Docking Devices 60, General 3 in `MANUALS/Bruno/Drawings/`).
 ### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.

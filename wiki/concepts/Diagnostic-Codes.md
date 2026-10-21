@@ -92,6 +92,11 @@ Elan (SRE-3000/3050) gives the same beeps with no display.
 table says **d4**. The manual wins. TechMate's d5 (over-temperature) and
 d7 (low voltage) match.
 
+**Quiet mode (ILS-01446):** a CRE-2110 or SRE-2010 that makes no
+diagnostic sound may be in **Mode 3** (DIP 1 on, DIP 2 off). Single-user
+mode on the Elite is DIP 1 and 2; on the Elan it's a jumper on the two
+right-hand pins ([[ILS - Stairlift Diagnostic Mode and Charger LED Sheets]]).
+
 **More beeps** (from the 2020 code-translations tech tip):
 - **1 short beep every 3 s** = seat safety switch open (seat not in the
   riding position).

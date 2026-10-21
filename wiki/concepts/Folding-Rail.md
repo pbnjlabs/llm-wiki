@@ -93,6 +93,30 @@ damaging the folding rail assembly.
   (loosen primary bracket screws, reposition, re-tighten gear rack screw →
   jack bolt → latch screws → bracket screws in that order).
 
+## Install and service (Bruno ILS sheets)
+
+From [[ILS - Folding Rail Install and Service Sheets]] (2018–2022):
+- **Special bracket** on the first step **2 in from the wall, 2½ in from
+  the step nose**; rail about 4 in from the wall. Other mounts **2 in
+  (2½ in on carpet) minimum** off every step nose. **Rail bottom ⅛ in or
+  less off the floor** (set with a ⅛ in spacer; landing pad on thick
+  carpet). Primary bracket bolt **5 ft-lb**, special bracket **50 ft-lb**.
+- **Jacking bolt:** tighten only until the gear rack stops rattling; **no
+  impact driver**. After a rack change, finger tight then **no more than
+  one turn**.
+- The main board talks to the fold board through the **third finger and
+  purple wire**: intermittent folding = contact problem (see
+  [[Stairlift-Troubleshooting]]).
+- **Bounce-back** on newer rails: bend the limit switch roller up, or back
+  off the floor support screws.
+- Retaining plate kit stops the primary bracket's gear shafts pushing out
+  (standard since 2018). Pivoting end plate kit SRE-K-3111.
+- Carriage safety bracket kit **SRE-K-3089L/R**.
+- **SRE-5000:** its own rail and fold design; **continuous mode** by
+  default; actuator and switch replacement on
+  [[ILS - SRE-5000 Service Sheets]].
+- Never fold a power rail by hand ([[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]]).
+
 ## Fixes from Bruno's tech tips
 
 Older, model-specific notes (2014–2022), below the manuals:

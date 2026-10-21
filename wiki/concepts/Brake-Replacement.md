@@ -79,6 +79,14 @@ quarter turn past snug, then lever to drive and test
 ([[Scooter Brake Replacement (INFINFB1742)]]). Golden's procedures above
 don't apply to Pride units.
 
+## Bruno stairlift brake kits (ILS sheets)
+
+All current Bruno carriages have a separate brake kit: **SRV-3000-016**
+(SRE-3000/SRE-3050), **SRV-2110-032** (2025-and-later CRE-2110/SRE-2010)
+and **SRV-2010-045** (Elite). SRE-3000 brake screws **41–42 in-lb**; check
+the drive hub isn't loose (loose = replace the carriage). See
+[[ILS - Stairlift Motor Brake Kits]].
+
 ## Bruno SRE-3000 Elan stairlift (kit SRV-3000-016)
 
 Not a mobility device, but the same idea: an electromagnetic brake on the

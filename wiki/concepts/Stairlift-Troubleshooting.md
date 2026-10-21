@@ -238,23 +238,29 @@ replace the rocker switch assembly. On the SRE-3050 that's
 4. **IR sensors:** one bad sensor or harness can block both. Unplug one
    at the board and test, then swap. The sensor plug should read **5VDC**
    red to black. None at the plug or at the header pins → board.
-5. **RF (2.4 GHz) units**, both remotes dead with fresh batteries: unplug
+5. **RF troubleshooting order** (Bruno ILS-00997): antenna connector
+   bonded to the metal plate, antenna and cable connections, cable
+   continuity and no centre-to-shield short, turn off other 2.4 GHz gear
+   (the system cuts out fail-safe under interference), patch antenna, new
+   PCB, and only then new remotes. RF repeater channels and IR-to-RF
+   conversion: [[ILS - Stairlift Remotes, RF Repeater and IR-to-RF Conversion]].
+6. **RF (2.4 GHz) units**, both remotes dead with fresh batteries: unplug
    the **antenna coax** from the board (carefully). Remotes work without
    it (short range) → shorted antenna wire. Internal Bruno notes for
    CRE/SRE-2010E double failures: power-cycle and wait 60 s; repeat
    failures → newer remote CRE-01065 (replaces SRE-00947); outdoor units
    have no new remote, so board SRV-2010-007. Antenna parts SRE-20778 +
    ANT-00109.
-6. **One IR call station flaky** (SRE-3000 tech tip): **unplug the IR
+7. **One IR call station flaky** (SRE-3000 tech tip): **unplug the IR
    sensor at the opposite end** of the carriage. Now works → a reflected
    signal was interfering, not a bad part
    ([[Tech Tip - SRE-3000 IR Call-Send Interference]]).
-7. **RF remotes eating batteries** (tech tip): high-power X-Bee Pro
+8. **RF remotes eating batteries** (tech tip): high-power X-Bee Pro
    remotes make it worse, not better. The 9 V works down to 4 V; use good
    alkalines; replace yearly. Good battery but only a re-seat brings it
    back → the battery contacts. Remotes time out after **3 minutes** of a
    held button ([[Tech Tip - Stairlift RF Remote Battery Issues]]).
-8. **Stops intermittently on the remote with no beep** = interference.
+9. **Stops intermittently on the remote with no beep** = interference.
    Does the remote's green light go out when it stops? Yes → remote.
    Otherwise look for sources: IR (IR smoke or motion detectors, alarm
    sensors, robot vacuums, CFL bulbs, sunlight, TV boxes, garage door
@@ -313,10 +319,16 @@ usual cause is a **brake that isn't releasing**.
      crank → gearbox (carriage). Cranks, and runs after → the overspeed
      may have been set mechanically without tripping the switch. Trips
      again → overspeed (carriage).
-2. **Elite/CRE brake:** TechMate disagrees with itself on whether the
-   brake can be replaced alone. Confirm with Bruno before ordering.
-   (The **SRE-3000 Elan** brake has its own kit, **SRV-3000-016**:
-   [[Tech Tip - SRE-3000 Elan Brake Replacement (ILS-01324)]].)
+2. **Brakes are replaceable on their own** (Bruno ILS sheets, 2025):
+   **SRV-3000-016** for SRE-3000/SRE-3050, **SRV-2110-032** for 2025-and-later
+   CRE-2110/SRE-2010 carriages, **SRV-2010-045** for Elite carriages (hex
+   hub set at 0.059–0.079 in). This settles TechMate's "Elite/CRE brake
+   can't be replaced alone" note. On an SRE-3000, if the brake disc drive
+   hub is loose on the motor shaft, the carriage has to be replaced
+   ([[ILS - Stairlift Motor Brake Kits]]).
+3. **Elite/CRE carriage runs the wrong way after a gear motor swap**
+   (Feb 2025 motor change): swap the **brown and blue** motor leads on
+   the PCB ([[ILS - Stairlift Gear Motor and Brush Replacement]]).
 
 See also the SRE-3050/SRE-3000 brake procedure on [[SRE-3050]].
 
@@ -503,7 +515,20 @@ with every harness off → board.
 - Newer power folding rails have board **PCB-00193** and a notched down
   limit bracket ([[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]]).
 
-**SRE-5000 folding rail** (its own design):
+- **Power folding rail stops abruptly, works intermittently or needs
+  several presses, or no slow-down at the soft stops** (ILS-01383): the
+  main board talks to the fold board through the **third finger and the
+  purple wire**, so check the carriage contacts on the charge and mid-park
+  strips. Parked on the strip, the charger should show **red + yellow or
+  red + green**; red only = poor contact.
+- **Won't run down, unit is outdoors or in a basement:** if a **flood
+  sensor** kit is fitted, water (or a wet cleaner) under the sensor stops
+  down travel; it can still go up. Let it dry about ½ hour
+  ([[ILS - Stairlift Flood Sensor Kits]]).
+
+**SRE-5000 folding rail** (its own design). It ships in **continuous
+mode** (folds automatically while the paddle is held); mid-park stop
+mode is optional ([[SRE-5000]]):
 - **Both fold switches pressed at once** → nothing moves. Look for
   debris.
 - **Folds only at the mid-park** → the switch on the fold board is set
@@ -521,6 +546,7 @@ None yet for stairlifts. Add them here as they come in.
 ## See also
 
 [[Stairlift-Maintenance]] (yearly checklist, grease, batteries, overspeed tests),
+[[SRE-5000]], [[ILS - Soft-Stop and Charge Contact Kits]], [[ILS - Stairlift Diagnostic Mode and Charger LED Sheets]],
 [[Tech Tip - SRE-3000 Elan Troubleshooting Guide]],
 [[Tech Tip - SRE-2010 Troubleshooting Guide (No Power Options)]],
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),

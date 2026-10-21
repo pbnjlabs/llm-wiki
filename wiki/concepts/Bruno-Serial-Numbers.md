@@ -59,6 +59,18 @@ code 060. Before about 2012 the model digit is usually 0 (e.g. VPL serial
 serial **20060350524**: 2020, June, group 03 (VPL), model 5 (VPL), unit
 0524. It fits.
 
+## Stairlift serial cutoffs (ILS sheets)
+
+- **SRE-5000** product code **036**; motor controller kit SRV-5000-018 up
+  to **26080361089**, SRV-5000-001 from **26080361090** ([[SRE-5000]]).
+- **SRE-3000:** soft-stop retrofit fits units after **12070330924**
+  (7/31/2012), older ones need a new PCB; brake wiring changes at
+  **14010330855** (one brake wire to the breaker harness).
+- **Elite seat:** belt BLT-00005 before October 2020, BLT-00035 after,
+  BLT-00037 on the new seat from **September 27, 2022**.
+- **Elite gear motor** changed supplier in **February 2025** (blue/brown
+  leads).
+
 ## VPL serial cutoffs
 
 Bruno's VPL documents switch at these serials (from the tech tips and

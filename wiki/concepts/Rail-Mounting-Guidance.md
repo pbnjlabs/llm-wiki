@@ -36,6 +36,30 @@ Bruno straight-rail model, not just the SRE-2010.
 - Clamp (tensile pull-out) load: ≥750 lbf/anchor
 - These were derived via worst-case testing with a 5x safety factor
 
+**Current version:** the standalone [[ILS-01512 SRE Rail Mounting Guidance (2026)]]
+(04/30/26) covers the same rules for SRE-2010 (all variants), SRE-3050
+and **SRE-5000**, and adds **"Polywood"** (HDPE lumber, polymer or
+composite decking treads): no standard wood fasteners, custom mounting
+after expert review. It also says indoor SRE-2010, SRE-3050 and SRE-5000
+models aren't for outdoor masonry, block or railroad-tie stairs.
+
+## Mounting hardware (Bruno ILS sheets)
+
+From [[ILS - Stairlift Rail Mounting Hardware]] and
+[[ILS - Stairlift Rail and Gear Rack Tools]]:
+- **1 in rail mount spacer SRE-30545:** moves mounts back so all four
+  fasteners bite and adds a **2° setback toward the wall** against lean;
+  use the longer screws from its kit on wood.
+- Adjustable stand feet; spiral stand feet (**at least 2 bolts**, M12
+  50 ft-lb); **tall CRE feet** 14.9–23.9 in (M10 30 ft-lb, M12 50 ft-lb);
+  CRE adjustable clamps K, L, M.
+- **2021 fabricated stand feet** (supply-chain substitute for SRE-30501):
+  don't loosen the factory spacer hardware.
+- **Rail cross pin** (kit SRV-3000-023) keeps the gear rack in if the
+  bottom end plate comes off; **swage tool** tightens a loose rack.
+- **CRE slope:** digital inclinometer on top of the rail, **±0.5°**, every
+  2 ft.
+
 ## Clamps and rail position (Bruno tech tips)
 
 Older dealer-portal notes; the model's install manual wins:
@@ -64,4 +88,4 @@ environments, or areas with frequent vibration (nearby roads/rail).
 
 ## See also
 
-[[SRE-2010]], [[SRE-3050]], [[SRE-3000]], [[CRE-2110]], [[Stairlift-Maintenance]], [[Bruno]]
+[[SRE-2010]], [[SRE-3050]], [[SRE-3000]], [[SRE-5000]], [[CRE-2110]], [[Stairlift-Maintenance]], [[Bruno]]

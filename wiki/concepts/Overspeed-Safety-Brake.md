@@ -106,6 +106,29 @@ run, confirming the governor actually engages under load. (Kit
 SRV-3000-002 holds both the overspeed key and the manual back-up tool,
 per the SRE-3000 manual.)
 
+**Current method (ILS-01446 Rev 4, 2026):**
+- **SRE-2010C/EC/EOS/OS, SRE-3000, SRE-3050, SRE-5000:** seat, footrest,
+  drive cover and safety panels off (seat and footrest back on), run down
+  on the remote and push the **overspeed trip key** into the flange cover
+  slot. Replacement key **SRE-20770**. Reset, reassemble, retest.
+- **CRE-2110C/OS, wheel-driven overspeed:** while running down, press the
+  reset arm with a ruler.
+- **CRE-2110C/EC/EOS/OS, gear-driven overspeed:** on a straight section,
+  a **magnet retriever** (1.5 lb pull minimum, 5/16 in head max) in the
+  manual trip pocket while running down; trips within inches. Reset:
+  breaker off, 8 mm ratchet counter-clockwise on the motor hex shaft,
+  rotate the OS trip plate to neutral (groove in line with the hole).
+- Intervals: yearly test (A18.1 10.3.1), and every **5 years** with a
+  **dated metal tag** on the safety carrier plus a **125% rated load brake
+  test** (10.3.3).
+- A replacement CRE overspeed assembly (SRV-2110-022L/R) comes with a
+  factory **Overspeed Certificate CRE-01176**: keep it for inspectors
+  ([[ILS - CRE-2110 Drive and Overspeed Sheets]]).
+
+Source: [[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]].
+Older sheets: [[ILS - Stairlift Overspeed Test Sheets]] (96 V fixture
+lead chart, SRE-2010C slotted flange cover and N/O-to-N/C reset).
+
 Bruno's tech tips add three other test methods, for other models. All
 of them: lift **unoccupied**, stairs blocked, nobody on the down side,
 state/local load and witness rules followed, test weights strapped down

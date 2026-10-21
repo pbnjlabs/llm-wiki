@@ -25,7 +25,24 @@ more often on heavily used or harsh-environment units.
 **ASME A18.1-2017 units:** the SRE-3050 install manual and tech support
 guide point to Bruno's **ILS-01446, Maintenance Control Plan for CRE/SRE
 Chair Lifts**, for units that need ASME A18.1-2017 or newer compliance.
-**ILS-01446 is not on file** (index: Missing manuals).
+It's now on file (Rev 4, 04/20/26):
+[[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]]. It covers
+**every CRE and SRE model** and must be **kept with the unit's manuals**
+for inspectors.
+
+| What | How often (ILS-01446) |
+|---|---|
+| Operational checklist (controls, stops, diagnostics, belt, charger, seat switch, safety panels, wheels, key switch, breaker, noise, clean rail and contacts) | **Weekly**, by authorized personnel (optional for residential Section 7 lifts) |
+| Clean rail charge contacts (rubbing alcohol) | Every 6 months |
+| Rail mount hardware, **regrease gear rack (PTFE)** | Yearly |
+| Routine inspection and tests (A18.1 10.2) | **6 months commercial (Section 4), 1 year residential (Section 7)** |
+| Periodic tests: safety panels, governor/overspeed, normal and final stops (10.3.1) | **Yearly** |
+| Governor test with a dated metal tag; **brake test at 125% of rated load** (10.3.3) | **Every 5 years** |
+| Keep the checklist log and the maintenance/repair log (malfunctions, accidents, work done) | **5 years minimum** |
+
+Rail: clean with **Pledge**; contacts and soft-stop strips with
+**rubbing alcohol**. A cyclic clunk or squeak about every 5 in is a flat
+or damaged wheel.
 
 ## Yearly checklist
 
@@ -69,11 +86,14 @@ monthly, and keep the charger plugged in.
 | TechMate ([[Stairlift-Troubleshooting]]) | Magnalube, after cleaning off old grease and dust |
 | [[Tech Tip - Stairlift Grease Specifications]] (older) | Lubriplate **130-AA** shipped; **630-AA** for high temperatures |
 | [[Tech Tip - SRE-2010 Quick Install Guide (Old Style Rail)]] | Lubriplate, a bead 6 in on, 6 in off |
+| [[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]] (2026) | **PTFE, gear rack teeth only, yearly, all CRE and SRE models** |
 
-**Flag:** the sources name four different greases. **Use what the
-model's manual says** (PTFE on the SRE-3050, white lithium on the
-SRE-3000 and CRE-2110). The Lubriplate and Magnalube notes are older or
-come from TechMate, which ranks below the manuals.
+**Settled (2026-10-21):** Bruno's current maintenance control plan
+(ILS-01446 Rev 4, April 2026) says **PTFE grease on the gear rack for
+every CRE and SRE unit**. It's newer than the 2015 SRE-3000 and 2018
+CRE-2110 manuals' white lithium, so **use PTFE**. The Lubriplate and
+Magnalube notes are older or from TechMate. Bearings in the SRE-2010
+wheel kit get Magnalube-G ([[ILS - Stairlift Carriage Wheels]]).
 
 ## Batteries
 
@@ -103,8 +123,11 @@ See [[Tech Tip - Stairlift RF Remote Battery Issues]].
 
 ## Overspeed testing
 
-Field reset and the install manuals' trip-key test are on
-[[Overspeed-Safety-Brake]]. The tech tips add two older methods: the
+Field reset and the trip-key test are on [[Overspeed-Safety-Brake]];
+ILS-01446 gives the current field test for every model (trip key
+**SRE-20770** for SRE units; ruler on the reset arm or a magnet retriever
+for CRE units). Where the final limit must be tested with the end cap on,
+see [[ILS - Final Limit Compression System]]. The tech tips add two older methods: the
 **SRE-2010C drop test** with kit **SRV-2010-018** (must stop within
 1.5 in) and, for SRE-1540/1550/2000, the **duct-tape** and **96 V test
 fixture** methods. Follow state and local load and witness rules.
@@ -117,6 +140,9 @@ checklist**: undamaged seat, rail and paint; charger light on; shown the
 warranty, belt, rocker, footrest and final limit switches, lights,
 breaker, swivel latch and remotes. That covers the Joint Commission's
 setup and patient-training points ([[Joint-Commission-DMEPOS]]).
+ILS-01446's weekly checklist log and maintenance/repair log (kept 5
+years) are a ready-made format for the Joint Commission's maintenance
+records.
 
 ## See also
 

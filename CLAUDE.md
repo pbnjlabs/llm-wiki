@@ -152,6 +152,21 @@ share a page too. They rank like TechMate: manufacturer-authored, above
 clippings, but **a manual wins any conflict**, and they're often older
 than the manuals on file, so check and flag disagreements.
 
+### Dealer-portal Drawings (ILS instruction sheets)
+
+Brunopartner's **Drawings** page lists Bruno's numbered instruction
+sheets (**ILS-xxxxx**) and part drawings. The ILS sheets are pulled into
+`MANUALS/Bruno/Drawings/<Category>/` (Stairlifts, VPL, Vehicle Lifts,
+Docking Devices, General) with a `_manifest.md`; classify by each sheet's
+own title page, since the portal's category tags are unreliable. Source
+pages are titled `ILS - <subject>` (or `ILS-xxxxx <title>` for a single
+important sheet), `doc_type: Instruction Sheet`, `url:` the Drawings
+page, `date:` the newest sheet's date. Related sheets share a page.
+These are Bruno's own install and service documents, so they rank **with
+the manuals**: where they disagree, the **newer revision wins**, and the
+page says so. Skip Valet seats, kits for discontinued vehicle lifts only,
+and plain part drawings unless asked.
+
 ### Manufacturer prices and pay scales
 
 PMS doesn't take work from manufacturers (EZ-ACCESS is only a

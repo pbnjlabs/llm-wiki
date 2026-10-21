@@ -29,6 +29,16 @@ photoshoot (pass/fail) before the job is submitted for rail fabrication.
   diagrams are also embedded in both files above. See
   [[Picture Perfect Staircase Target Placement]].
 
+**Newer revisions (Bruno ILS sheets, 2026-10-21):** ILS-01397 (dated
+01/01/24) supersedes the 2022 Rev 5 instructions, and ILS-01403
+(01-20-2020) the 2019 target placement sheet. Also new: camera settings
+for each kit camera and external-flash setup. Summary on
+[[ILS - Picture Perfect 3.0 Instructions and Camera Settings]]: **f/22,
+1/200 s (Olympus 1/180), ISO 400, manual focus, lens fixed at 18 mm
+(Olympus 14 mm), auto-rotate off, flash on**; every code in at least 10
+photos, about 50 photos, shoot top-down; outdoors early or late, no rain
+or wind.
+
 ## How it works
 
 - Kit contains: matched pairs of numbered step-nose targets (LH/RH, 1-30

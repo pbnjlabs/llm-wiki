@@ -12,6 +12,8 @@ vertical platform lifts (VPL).
 ## Product lines
 
 - **Bruno Curved SL** — curved-rail stair lifts. **Fully ingested.**
+  - [[CRE-3110]] — newer curved rail (2026 spec sheet only): 300 lb,
+    0–65°, Smart Swivel for 26 in stairs
   - [[CRE-2110]] ("Elite Curve") — custom curved rail; shares
     [[Rail-Mounting-Guidance]] and [[Diagnostic-Codes]] with the straight
     Elite/Elan line; overspeed brake is optional (not standard like the
@@ -37,6 +39,8 @@ vertical platform lifts (VPL).
   - [[SRE-3050]] ("Elan") — current generation, successor to SRE-3000
   - [[SRE-3000]] ("Elan", legacy) — same platform as SRE-3050, only a 2015
     manual on file
+  - [[SRE-5000]] ("Elan", 2026) — newest straight rail; no manuals yet,
+    specs and service from Bruno's 2026 ILS sheets
   - **2026 power folding rail update** (Bruno dealer email, clipped
     2026-10-13): board PCB-00193 replaces PCB-00157 on future SRE-3050 and
     SRE-2010 power folding rails. See [[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]].
@@ -133,7 +137,8 @@ Older Bruno models that appear only in tech tips. No manuals are on file.
 - **SRE-2750**: mentioned only as the Elan's predecessor for battery
   range (10–15 trips).
 
-See [[Tech Tip - Legacy SRE-1540, SRE-1550 and SRE-2000]].
+See [[Tech Tip - Legacy SRE-1540, SRE-1550 and SRE-2000]] and
+[[ILS - Legacy Stairlift Sheets (SRE-2000, Decals, Molding Standard)]].
 
 ## TechMate (dealer troubleshooting tool)
 
@@ -153,7 +158,33 @@ TechMate also covers the **SRE-5000**, a newer Bruno straight stairlift
 with three carriage terminal switches, its own beep codes and its own
 folding rail. **No SRE-5000 manual is on file.** PMS sells and services
 it (per the human, 2026-10-15), so it's on the index's
-[[index#Missing manuals]] checklist.
+[[index#Missing manuals]] checklist. Bruno's 2026 ILS sheets now give its
+specs and most service tasks ([[SRE-5000]]).
+
+## Drawings (ILS instruction sheet library)
+
+Brunopartner → **Drawings** is Bruno's library of numbered instruction
+sheets (**ILS-xxxxx**) and part drawings: 4,601 entries. On 2026-10-21
+the 1,368 ILS entries were pulled, classified from their own title pages,
+and **636 relevant sheets** saved to `MANUALS/Bruno/Drawings/`
+(Stairlifts 161, VPL 134, Vehicle Lifts 277, Docking Devices 60,
+General 3; manifest `_manifest.md`). Skipped: Valet seats, kits for
+discontinued vehicle lifts, image-only scans and part drawings.
+
+**Stairlifts ingested 2026-10-21** (161 sheets, 31 "ILS - …" source
+pages). Headlines: the **ILS-01446 maintenance control plan**, SRE-5000
+and CRE-3110 specs, brake kits for every carriage, the Feb 2025 Elite gear
+motor change, SRE-3050 Service Bulletin 81 seat fixes, folding rail
+install numbers, flood sensor and USB kits, and current spec sheets for
+every model. **VPL, vehicle lift, docking device and general sheets:
+downloaded, not yet ingested.**
+
+Bruno also publishes Australian-market addenda for its G models
+([[ILS - Stairlift Australian Addenda]]); they're not US requirements.
+
+ILS sheets are Bruno's own installation and service documents (the same
+series the manuals are built from), so they rank **with the manuals**:
+where they disagree, the newer revision wins.
 
 Bruno Technical Service: 1-800-656-0552.
 
@@ -172,10 +203,10 @@ out-of-repo `MANUALS/Bruno/` drop). All 107 dealer-portal tech tips in
 `MANUALS/Bruno/Tech Tips/` were ingested 2026-10-21 (46 stairlift, 49
 VPL, 9 vehicle lift, 3 general).
 
-**Missing manuals:** the **SRE-5000** (added 2026-10-15, see TechMate
-above), and Bruno's **ILS-01446** Maintenance Control Plan for CRE/SRE
-chair lifts (ASME A18.1-2017 units; added 2026-10-21, see
-[[Stairlift-Maintenance]]). The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
+**Missing manuals:** the **SRE-5000** install, operator and tech support
+manuals (added 2026-10-15; the ILS sheets cover specs and service but the
+manuals are still needed). Bruno's **ILS-01446** maintenance control plan
+was found in the Drawings library and ingested 2026-10-21. The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
 (ticked off at [[index#Missing manuals]]).
 
 ## See also

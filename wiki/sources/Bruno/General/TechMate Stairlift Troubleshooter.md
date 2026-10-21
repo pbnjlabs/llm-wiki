@@ -76,8 +76,10 @@ The full steps are summarized on [[Stairlift-Troubleshooting]].
   temperature. The manual wins: treat **d4** as over-current.
 - **Elite/CRE brake.** TechMate's 4-short-beep tree says "replace the
   brake" for non-Elan units, but its noise tree says the Elite/CRE brake
-  "cannot be replaced on its own" (replace the carriage). Unresolved; ask
-  Bruno Technical Service before ordering.
+  "cannot be replaced on its own" (replace the carriage). **Resolved
+  2026-10-21:** Bruno's ILS sheets list brake kits for Elite/CRE carriages
+  (SRV-2010-045, and SRV-2110-032 for 2025-and-later carriages), so the
+  brake can be replaced ([[ILS - Stairlift Motor Brake Kits]]).
 - **CRE overspeed reset.** TechMate resets a tripped CRE overspeed by
   cranking counter-clockwise until the hole centers in the notch. The
   [[CRE-2110 Install Manual]] uses a two-lever reset. Follow the manual.
