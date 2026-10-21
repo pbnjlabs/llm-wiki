@@ -31,6 +31,12 @@ manuals and both operator manuals, word-for-word.
 | FLASH | OFF | OFF | FLASH | Over-temp shutdown | Same as above |
 | ON | FLASH | FLASH | FLASH | Internal charger fuse blown (VPL-3100B only lists this row) | Replace charger |
 
+Bruno's older VPL troubleshooting guides (2010–2011) add: **all four
+lights flashing** → unplug the charger from the wall and from the
+batteries for about a minute, then reconnect; still flashing → replace
+the charger. **Only the power light flashing** → AC lost (matches the
+table). See [[Tech Tip - Low-Rise DC VPL Troubleshooting Guides (2010-2011)]].
+
 Note: the "over-temp shutdown" row appears with two different LED
 combinations across the two manuals' printings (ON/OFF/OFF/FLASH in one
 listing, FLASH/OFF/OFF/FLASH in another) — treat either as the same fault

@@ -34,7 +34,9 @@ sent straight to Bruno Technical Service.
 | Short commercial (DC) | VPL-3353B, VPL-3375B | none | 3353B from 16010350319, 3375B from 16010350324 |
 | Tall commercial (DC) | VPL-3310B, 3312B, 3314B | none | all |
 
-The AC and commercial models have no manual or model page in the wiki.
+The AC models now have a page built from the tech tips,
+[[VPL-3153-3175]]; the commercial models still have no manual or model
+page (only jumper sheets and certificates in the tech tips).
 
 ## What's in it (35 VPL trees)
 
@@ -60,6 +62,13 @@ tables are short (E-stop, fuse, limits, charger LEDs); TechMate goes much
 further and agrees with them. Both say to put **dielectric grease** on
 connectors. TechMate's charger steps use the same LEDs as
 [[Battery-Charger-LED-Diagnostics]].
+
+**Against Bruno's tech tips** (2026-10-21 check): no conflicts. The
+tips fill TechMate's gaps: step guides for units older than its serial
+cutoffs (the cutoffs match the tips' July 2012 control change), the
+PCB-00143 fault flash codes, and drive work ([[VPL-Drive-Service]]). The
+guide-pad numbers agree (TechMate: adjust at ½ in deflection or more;
+the 2021 tip: 0.5–0.75 in is normal, back plungers off ¼ turn).
 
 Small inconsistencies inside TechMate (noted, not conflicts):
 - Tall units' emergency-lowering test point: the main tree says 52–67

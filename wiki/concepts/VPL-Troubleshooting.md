@@ -9,7 +9,10 @@ A symptom-first guide for vertical platform lifts. The Bruno steps are
 condensed from Bruno's dealer troubleshooter,
 [[TechMate VPL Troubleshooter]], for the [[VPL-3100B]] (VPL-3153B/3175B,
 "short residential DC") and the [[VPL-3200B]] (VPL-3210B/3212B/3214B,
-"tall residential"). Harmar notes are added where the wiki has them. For
+"tall residential"). Bruno's older dealer-portal **tech tips** add the
+pre-2012 units TechMate doesn't cover, the AC board's fault codes and
+the drive work ([[VPL-Drive-Service]]); they rank with TechMate, below
+the manuals. Harmar notes are added where the wiki has them. For
 the general method and other equipment, see [[Troubleshooting]].
 
 Bruno Technical Service: **1-800-656-0552**. Older Bruno boards (see the
@@ -139,6 +142,53 @@ doesn't, the board is suspect. All lit and no click → power down until
 every light (E1 too) goes out, then retry. PMS has no AC VPL on file; see
 the raw outline before working on one.
 
+Bruno's **TSG-VPL-004** sheet for this board (**PCB-00143**, 90 V motor)
+adds detail: **E1** HV bus (no light → AC in, **F1 20 A**, or the upper
+final limit), **E2** 3.3 V logic (off → 24 V regulator bad, replace the
+board), **E3** 24 VDC through **F2 2.5 A**, **E6/E8** upper/platform gate
+**closed** (E7/E9 are **locked**). **E18 (red) is the fault light: off
+is normal.** It flashes a code as short flashes plus one long, counted
+together:
+
+| Code | Fault | Likely cause |
+|---|---|---|
+| 1 / 2 | Stall / stall + over-temperature | Overloaded platform |
+| 3 | Over-temperature | |
+| 4 | 24 V overload | Accessory short |
+| 5 | Over-voltage | High AC line |
+| 6 | Over-current | Overloaded platform |
+| 7 | Max current | Motor failing |
+| 8 / 9 | Low voltage / low 24 VDC | AC line too low |
+
+Most codes clear by pressing the **E-stop**; otherwise remove AC power
+and wait 1 minute. High voltage: wait 3 minutes after unplugging before
+touching the board. See [[VPL-3153-3175]] and
+[[Tech Tip - VPL 90V Board PCB-00143 (TSG-VPL-004, SCH-00229)]].
+
+### Older units (before TechMate's serials)
+
+TechMate sends pre-2012 low-rise and tall units (and AC units before
+2017) to Bruno. Bruno's 2009–2011 step guides cover them; they use
+terminal-strip test points instead of JP connectors:
+- **AC relay-logic** (to serial 10020300227) and the first AC control
+  board: 115 VAC minimum in, 24 VAC control; a TB2 jumper map; E (pause)
+  and E1 (brake) relays; brake 105+ VDC from a bridge rectifier
+  ([[Tech Tip - Low-Rise AC VPL Troubleshooting Guides (2009-2010)]]).
+- **DC low-rise** (2010–2011): 24 VDC at J1, 3 A fuse, TB1/TB3/TB5 test
+  points; jump **TB2-1 to TB1-7 = up, TB2-1 to TB5-6 = down**; motor test
+  12–24 VDC on orange/blue
+  ([[Tech Tip - Low-Rise DC VPL Troubleshooting Guides (2010-2011)]]).
+- **Tall** (2011): same method, tall terminals, emergency lowering and
+  phone options ([[Tech Tip - Tall VPL-3200 Troubleshooting Guide (2011)]]).
+- Wiring schematics with the circuit under test circled:
+  [[Tech Tip - VPL Troubleshooting Diagrams (AC and DC)]].
+
+**July 2012 (serials 12 07 …)** is when Bruno changed the residential
+controls, Waupaca wiring kits and the boards TechMate supports
+([[Tech Tip - VPL Platform Control Change (2011-2012 Serials)]]). Jumper
+bypasses start the lift **immediately** and skip safeties: keep clear and
+never leave one in.
+
 ## 4. One circuit at a time
 
 - **Top cover switch:** pulled up into maintenance (or pressed down by
@@ -212,7 +262,24 @@ door unlocked. See [[Gate-and-Door-Interlocks]] for interlock types.
   Doesn't lock → interlock (check it isn't unlocked with an emergency
   key).
 - A lift that **runs with a gate or door open** is miswired or has a
-  jumper left in. Call Bruno, and don't leave it in service.
+  jumper left in. Call Bruno, and don't leave it in service. Known case:
+  **VPL-3210B/3212B/3214B with a platform gate, serials 11080300300 to
+  11100301707 (Aug–Oct 2011)**, shipped with a jumper plug (6-pin, one
+  blue wire) in the lower interlock harness; remove it
+  ([[Tech Tip - VPL-3200B Lower Interlock Jumper Issue (2011)]]). Older
+  tall units: an uncut **J1 jumper** with a lower gate lets the door open
+  anywhere ([[Tech Tip - Tall VPL Installation Notes]]).
+- **Waupaca interlock not working:** 24 V at its pins 3–4 needs the
+  **bottom of the three tower limits** made; jump 1–2 to bypass it. Its
+  **terminal block must be at the top** of the interlock or it won't
+  work.
+- **Electric strike / door won't unlock at the landing:** it's on a
+  timer. Press the landing button for at least 1 s. On an ESI timer the
+  LED blinking with only the tower switch made just means it has power;
+  it also needs a call button ([[Tech Tip - VPL Delay Timers and ESI Shut-off Timers]]).
+- Upper gate switch wiring after a repair (PBS-00118 closed, PBS-00116
+  lock with its roller on the beveled edge):
+  [[Tech Tip - VPL Door Interlock Wiring (Waupaca, HES 5200, Upper Gate Switches)]].
 
 ## 6. Calls: platform control and call/send
 
@@ -264,6 +331,12 @@ door unlocked. See [[Gate-and-Door-Interlocks]] for interlock types.
 - **Squealing and jamming** on a deck: check the platform isn't rubbing
   the fascia ([[2026-10-14 VPL-3100B squealing and jamming on rotted fascia]]).
 
+**Shudders or grabs** → guide pads (round the pad edges, then the ball
+plungers: bottom out, back ¼ turn; 0.5–0.75 in deflection is normal).
+**Won't lift its rated load** → carriage not square to the nut; shim it.
+**Squealing** with ball plungers fitted → square the screw. Belts:
+⅛ in deflection at 2½–3½ lb. All on [[VPL-Drive-Service]].
+
 **Stops partway:** give another command the same way. Runs on → does it
 stop at the same spot every time? Note where (2 in from top, 2 in from
 bottom, mid, top, bottom) and call Bruno. Doesn't always restart → treat
@@ -281,6 +354,9 @@ Charger LED meanings: [[Battery-Charger-LED-Diagnostics]].
   **charger**.
 - Batteries read 24V together but won't charge → wiring between batteries
   and charger, or the charger; call Bruno.
+- **All four charger lights flashing** (older guides): unplug the charger
+  from the wall **and** the batteries for about a minute and reconnect.
+  Still flashing → replace the charger.
 
 ## 10. Runs on its own
 
@@ -353,6 +429,7 @@ applies; the Highlander has its own interlock wiring
 
 ## See also
 
+[[VPL-Drive-Service]], [[VPL-3153-3175]], [[Tech Tip - VPL Traveling Cable Assignments]],
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
 [[Troubleshooting]], [[TechMate VPL Troubleshooter]], [[VPL-3100B]],
 [[VPL-3200B]], [[HighlanderII]], [[Gate-and-Door-Interlocks]],

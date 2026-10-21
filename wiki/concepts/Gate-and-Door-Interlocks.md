@@ -35,7 +35,37 @@ gates come with a Bruno interlock.
 
 Bruno recommends a **landing timer** with its flush-mount doors and
 electric strike interlocks; it isn't needed with electro-mechanical
-interlocks. VA FSS prices (Bruno): EMI top landing gate $695.75 (36 in)
+interlocks. Bruno's tech tips spell it out
+([[Tech Tip - VPL Delay Timers and ESI Shut-off Timers]]):
+- **Residential VPLs need a delay timer** (one per landing) for any
+  platform gate operator, landing gate operator or door operator, and
+  should have one for electric strikes. **Commercial VPLs** have a relay
+  for operators; a timer is only recommended for strikes.
+- Factory settings **3 s** (door operators) and **6 s** (interlocks),
+  adjustable to about 30 s. Power left on an interlock shortens its life.
+- Not for **Waupaca EMI III, Honeywell RDI2, Porta** or **GAL**
+  interlocks.
+- Tall VPL **ESI shut-off timer kits**: VPL-K-3222 (single), VPL-K-3223
+  (dual), VPL-K-3225 (add-on); each landing also needs an extra limit
+  switch from its interlock wiring kit.
+
+Strikes and interlocks on Bruno's wiring sheets: **HES 5200** and **Von
+Duprin 6211** electric strikes (the Von Duprin is on the flush-mount
+doors), **Waupaca** EMI and **Euchner** interlocks
+([[Tech Tip - VPL 90V Board PCB-00143 (TSG-VPL-004, SCH-00229)]],
+[[Tech Tip - VPL Door Interlock Wiring (Waupaca, HES 5200, Upper Gate Switches)]]).
+Waupaca wiring kits changed in **July 2012**: VPL-K-3138 (upper door) and
+VPL-K-3139 (lower door) replace VPL-K-3121 / VPL-K-3131. A **GAL**
+interlock on a wood gate post needs the post machined to Bruno's drawing
+([[Tech Tip - GAL Interlock Wood Posts (Left and Right)]]).
+
+**Code** (ASME A18.1 excerpt, [[Tech Tip - Code Requirements for Door Interlocks]]):
+every door needs a combination **mechanical lock and electric contact**;
+it may unlock only with the platform **within 2 in** of that landing, and
+the platform must stop if it gets more than 2 in away before the door
+locks. Residential (Section 5) follows the commercial door rules
+(Section 2). Offset doors need a **toe guard** round the interlock; Bruno
+recommends **flush doors** ([[Tech Tip - Tall VPL Flush Mount Doors]]). VA FSS prices (Bruno): EMI top landing gate $695.75 (36 in)
 or $833.09 (42 in); ESI $1,196.25 / $1,344.75; interlock kit for a
 gate or door not by Bruno **$462.00**; landing timer $187.01
 ([[Bruno VA FSS Price List (2021-2026)]]). These are the ceiling for
@@ -104,6 +134,9 @@ Honeywell ([[Bulletin - New Harmar Interlock Introduction]]):
 | Symptom | Check |
 |---|---|
 | **Bruno VPL: door stuck locked** | The spring-loaded interlock spring can partially fail. With the lift at the top, pull the friction-fit post cap and push the lock rod down by hand. If it doesn't spring back, or springs back slowly, **replace the interlock assembly** (VPL-31452L, left hand; right-hand number not on file). The call/send station comes off the post with four screws for access. See [[2026-10-01 Bruno-VPL door interlock spring]]. |
+| Bruno VPL: lift runs with the platform gate open | Jumper left in. VPL-3200B with platform gate, serials 11080300300–11100301707: remove the 6-pin blue-wire jumper plug in the lower interlock harness ([[Tech Tip - VPL-3200B Lower Interlock Jumper Issue (2011)]]). |
+| Bruno VPL: Waupaca interlock dead | 24 V at pins 3–4 needs the bottom tower limit made; jump 1–2 to bypass; terminal block must be at the **top** ([[VPL-Troubleshooting]]). |
+| Bruno VPL: door locked at its own landing | Timer timed out: press the landing button at least 1 s. |
 | Highlander II: no function, **top cap solid red** | Check the E-stop and the **interlocks** ([[HighlanderII]]). |
 | Highlander II: which gate is open? | On the control board, the **Bottom/Mid/Top Gate** green LEDs mean that gate's interlock is closed; **Bottom/Mid Lock** green means the lock is active ([[Highlander II with Enclosure Installation and Service Manual]]). |
 | Highlander II platform gate jogs up twice | Normal with the Harmar interlock (see above). |

@@ -40,6 +40,21 @@ month and model digits are the useful part.
 serial **20060350524**: 2020, June, group 03 (VPL), model 5 (VPL), unit
 0524. It fits.
 
+## VPL serial cutoffs
+
+Bruno's VPL documents switch at these serials (from the tech tips and
+TechMate):
+- **12020300831**: new belt tensioning setup
+  ([[Tech Tip - VPL Field Tensioning of Belts]]).
+- **12070300108–112 (July 2012)**, 3214B **12110300156**: new
+  platform controls, new Waupaca wiring kits, and the first boards
+  TechMate supports
+  ([[Tech Tip - VPL Platform Control Change (2011-2012 Serials)]]).
+- **11080300300–11100301707**: VPL-3200B lower-interlock jumper notice.
+- **17090350001 / 17090350008**: AC VPL-3153/3175 on the PCB-00143 board
+  ([[VPL-3153-3175]]).
+- **08100300135 and up**: motor VPL-31496 → VPL-31953 swap.
+
 ## Stairlift component date codes
 
 Seats, footrests and folding rails carry a **month/year + code** label

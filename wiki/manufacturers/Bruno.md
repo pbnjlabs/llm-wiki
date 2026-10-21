@@ -70,6 +70,9 @@ vertical platform lifts (VPL).
   - [[VPL-3200B]] — larger hoistway lift, up to 123" (3.1m) floor-to-floor,
     electrical emergency lowering kit + hand wheel, two-section tower
     joined on site
+  - [[VPL-3153-3175]] — the **AC** low-rise VPL (no "B"), from tech
+    tips only: PCB-00143 90 V board, LEDs E1–E18 and fault flash codes
+  - Drive work for all of them: [[VPL-Drive-Service]]
   - Both share [[Top-Landing-Gate-Installation]] and
     [[Battery-Charger-LED-Diagnostics]] — same gate hardware/procedure and
     charger diagnostics reused verbatim across both install manuals.
@@ -92,7 +95,17 @@ ride-out, folding-rail fixes, and serial number decoding
 ([[Bruno-Serial-Numbers]]). Yearly service is summarized on
 [[Stairlift-Maintenance]].
 
-**VPL, vehicle lift and general tips: downloaded, not yet ingested.**
+**VPL: ingested 2026-10-21** (49 files, 25 source pages). Older step
+guides for units TechMate doesn't support (pre-2012 low-rise and tall,
+AC before 2017), the AC PCB-00143 board's fault flash codes, shipping
+jumper sheets, drive work (screw, nuts, bearing, belts, guide pads),
+timers and interlock wiring, tall-VPL rigging notes, and a 2011 VPL-3200B
+lower-interlock field notice. New pages: [[VPL-Drive-Service]] and
+[[VPL-3153-3175]] (the AC low-rise VPL). Three VPL tips are broken links
+on Bruno's server (Electric Strike Offerings, Von Duprin 6211, Fuse &
+Circuit Breaker Listing).
+
+**Vehicle lift and general tips: downloaded, not yet ingested.**
 
 They're manufacturer-authored, so they rank like TechMate: above
 clippings, **below the manuals**. Where they disagree, the pages say so.
@@ -144,9 +157,9 @@ Bruno **vehicle lifts only** (65 II F); it doesn't handle 65 II A. See
 
 All Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
-out-of-repo `MANUALS/Bruno/` drop). **Pending:** 61 dealer-portal tech
-tips in `MANUALS/Bruno/Tech Tips/` (VPL 49, Vehicle Lifts 9, General 3);
-the 46 stairlift tips were ingested 2026-10-21.
+out-of-repo `MANUALS/Bruno/` drop). **Pending:** 12 dealer-portal tech
+tips in `MANUALS/Bruno/Tech Tips/` (Vehicle Lifts 9, General 3); the 46
+stairlift and 49 VPL tips were ingested 2026-10-21.
 
 **Missing manuals:** the **SRE-5000** (added 2026-10-15, see TechMate
 above), and Bruno's **ILS-01446** Maintenance Control Plan for CRE/SRE

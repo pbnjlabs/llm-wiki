@@ -154,6 +154,32 @@ manual.
 | Path in | A clear path to move the unit into place (VPL-3153B weighs **705–745 lb**, VPL-3175B **758–798 lb**) |
 | Parts | Check the order form against what arrived; **ramp and ramp activator on the correct side** (moving them is an involved procedure, pp.32–34) |
 
+**Shipping jumpers (Bruno tech tips, 2017):** every Bruno VPL ships with
+coloured jumpers in place of switches that aren't fitted yet. **Remove
+each only when its harness is plugged in**: yellow VPL-31924 (terminal
+block: install mode or normal; tall units 59–61 unless there's a mid
+landing), blue VPL-31910 (upper gate/door), and on tall units red
+VPL-32252 (emergency lowering kit), green VPL-32277 (lower door or
+platform gate), plus pit-switch and interlock jumpers on commercial
+units. Install wiring per **NFPA 70 Article 620**. Model-by-model table:
+[[Tech Tip - VPL Jumper Sheets (2017)]].
+
+**Cold climates:** cold-weather packages per model (cable carrier,
+grease, battery heater pads) ([[Tech Tip - VPL Cold Weather Solutions]]).
+
+**Certificates** for an inspector: CSA for the VPL-3100B/3200B (750 lb,
+10 ft/min), ETL for the commercial models
+([[Tech Tip - VPL Certifications (ETL and CSA)]]).
+
+**Tall VPLs (VPL-3200B family), from the tech tips:** 2 people with a
+hoist, 3 without; the hoist must lift **1000 lb**; forklift with **5 ft
+extended forks**; lower section first, then the top section lifted in;
+tie the tower feet down **last**; side tie-ins no lower than the
+landing; panels: 3210B no C1, 3212B one, 3214B two. Section weights
+disagree between Bruno's notes (lower section 550 or 900 lb), so plan
+for the heavier ([[Tech Tip - Tall VPL Installation Notes]]). Mid
+landing: [[Tech Tip - Tall VPL 3-Stop Assembly (VPL-K-3233)]].
+
 Harmar ships with a **temporary power cord**; the **NEC requires
 permanent wiring within 60–90 days**, and there's no disconnect supplied
 ([[HighlanderII]], from [[Harmar Product Insights (2021-2023)]]).
@@ -216,4 +242,5 @@ same section on [[Porch-Lift-Evaluation]].
 
 [[Porch-Lift-Evaluation]], [[VPL-Troubleshooting]],
 [[Top-Landing-Gate-Installation]], [[Gate-and-Door-Interlocks]],
-[[Battery-Charger-LED-Diagnostics]], [[PMS-Office-Procedures]]
+[[Battery-Charger-LED-Diagnostics]], [[PMS-Office-Procedures]],
+[[VPL-Drive-Service]], [[VPL-3153-3175]]

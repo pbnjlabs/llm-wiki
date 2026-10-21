@@ -10,7 +10,7 @@ Entry point for every query — check here first before opening raw manuals.
 
 | Manufacturer | Page | Manuals on disk | Ingested |
 |---|---|---|---|
-| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 33 tech-tip source pages for the 46 stairlift tips (2026-10-21; 61 VPL/vehicle lift/general tips pending). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
+| Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` (2026-10-21) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 58 tech-tip source pages (2026-10-21): 33 for the 46 stairlift tips, 25 for the 49 VPL tips; 12 vehicle lift/general tips pending. The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 not yet ingested:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
@@ -102,6 +102,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
 | VPL-3100B | Bruno | [[VPL-3100B]] |
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
+| VPL-3153 / VPL-3175 (AC low-rise, no "B"; tech tips only: PCB-00143 90 V board, E1–E18 LEDs, fault flash codes) | Bruno | [[VPL-3153-3175]] |
 | CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
 | CRE-2100 (Electra-Ride III, legacy curved rail; 2001 spec sheet only) | Bruno | [[CRE-2100]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
@@ -206,6 +207,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | **Troubleshooting (start here for any "it doesn't work" call):** the method (record state, test each input, classify the response, prove power, voltage walk, jump outward from the board, swap and compare, same spot vs whole way) plus a symptom index for stairlifts, VPLs, vehicle lifts, scooters/chairs, ceiling lifts | [[Troubleshooting]] |
 | **Power chair troubleshooting, symptom-first** (Pride/Quantum detail + Golden controller index): triage, dead system (batteries near zero won't wake a Pride charger; **Pride TTG voltage walk**), powers on but won't drive (freewheel, charger inhibit with **jumper tests** and inhibit programming, joystick at power-up, seat drive inhibit, lock), **motor/brake resistance by chair**, **NE/NE+ LCD messages**, Elite Traveller beep codes, short range, slow/thermal rollback, pulling, clicking, **Q-Logic 3 error codes** (vs legacy Q-Logic: #35 and #75 mean different things), QLNES digit blinks, Pride VR2/GC3/Dynamic flash codes, lithium sleep mode, charging | [[Power-Chair-Troubleshooting]] |
 | **Ceiling lift troubleshooting, symptom-first** (Prism/Handicare P440 + C-450/C-625): before-you-open checklist, P440 light meanings, won't wake/E-stop, swapped or self-triggering buttons (airline, grommet leaks), slack/thick-strap switches, overspeed (motor), board/fuse/motor tests, charging strips, track alignment, emergency lowering | [[Ceiling-Lift-Troubleshooting]] |
+| **VPL drive service (Bruno)**: how the screw hangs, **½ in drive-nut gap and loose-by-design bolts**, screw/nut kits (ILS-01129), tall nut change, lower bearing (¼ in gap), belts (⅛ in at 2½–3½ lb, 150 in-lb studs), guide pads and ball plungers (TSG-VPL-007), squeal and won't-lift shimming, old motor swap, brake, grease, cold weather | [[VPL-Drive-Service]] |
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
 | **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant; Bruno test methods: trip key, SRE-2010C drop test SRV-2010-018, legacy duct-tape and 96 V fixture) | [[Overspeed-Safety-Brake]] |
@@ -368,8 +370,18 @@ numbers and decals, gear rack ILS-01079, clamp comparison, folding rail
 fixes; folding rail gas shock; legacy SRE-1540/1550/2000; CRE-2100 specs,
 CRE ride-out, CRE fit issues, CRE-2110 final limit; code translations,
 yearly maintenance checklist, grease specs, RF remote batteries, footrest
-link, serial number decoding. **Pending:** VPL (49), Vehicle Lifts (9),
-General (3).
+link, serial number decoding. **VPL ingested** (49 files → 25 pages in
+`sources/Bruno/VPL/`): low-rise AC guides 2009–2010, low-rise DC guides
+2010–2011, tall VPL-3200 guide 2011, AC/DC troubleshooting diagrams,
+PCB-00143 90 V board (TSG-VPL-004, SCH-00229), jumper sheets 2017, short
+VPL screw and nut ILS-01129, tall nut change, lower bearing, belt
+tensioning, guide pads TSG-VPL-007, squealing and won't-lift shims,
+VPL-31496 motor, delay and ESI timers, interlock wiring (Waupaca, HES
+5200, upper gate switches), GAL wood posts, interlock code excerpt,
+VPL-3200B lower-interlock notice 2011, travelling cable colours, cold
+weather kits, 2011–2012 control change serials, tall VPL install notes,
+3-stop kit VPL-K-3233, flush doors, ETL and CSA certificates.
+**Pending:** Vehicle Lifts (9), General (3).
 
 Bruno dealer tools — see `wiki/sources/Bruno/General/`:
 [[TechMate Stairlift Troubleshooter]] (Bruno dealer-portal decision trees,
@@ -816,6 +828,10 @@ on file):
   the SRE-3050 manuals point to it for units needing ASME A18.1-2017
   compliance; not on file and not in the Tech Tips library
   ([[Stairlift-Maintenance]]). Brunopartner or Bruno Technical Service.
+- [ ] **Three Bruno VPL tech tips broken on Bruno's server** (2026-10-21):
+  VPL Electric Strike Offerings, Von Duprin 6211 installation
+  instructions, VPL Fuse & Circuit Breaker Listing. Ask Bruno Technical
+  Service for copies.
 
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
@@ -871,7 +887,7 @@ Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
-### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: stairlift tips ingested; **61 pending** (VPL 49, Vehicle Lifts 9, General 3 in `MANUALS/Bruno/Tech Tips/`). SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
+### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: stairlift and VPL tips ingested; **12 pending** (Vehicle Lifts 9, General 3 in `MANUALS/Bruno/Tech Tips/`). SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.
 
