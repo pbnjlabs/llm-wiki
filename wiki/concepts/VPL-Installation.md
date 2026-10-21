@@ -167,6 +167,19 @@ units. Install wiring per **NFPA 70 Article 620**. Model-by-model table:
 **Cold climates:** cold-weather packages per model (cable carrier,
 grease, battery heater pads) ([[Tech Tip - VPL Cold Weather Solutions]]).
 
+**Bruno ILS sheets** (rank with the manuals): spec sheets and site prep
+([[ILS - VPL Technical Specifications]]); **application drawings with
+slab size and anchor locations for each layout** (unenclosed, hoistway,
+enclosure; hoistways **plumb within ±1/8 in**)
+([[ILS - VPL Application Drawings]]); gate framing, gate alignment and
+flush-mount doors (rough opening = frame + ½ in)
+([[ILS - VPL Landing Gates, Platform Gates and Flush-Mount Doors]]);
+unpacking a 4 ft VPL and fitting the platform with the setup harness
+VPL-32249 ([[ILS - VPL Shipping, Handling and Brush Kits]]); 90° ↔
+straight-through conversions ([[ILS - VPL Platform Conversions and Canopies]]).
+Leave a copy of **ILS-01444** with the manuals at handover
+([[VPL-Maintenance]]).
+
 **Certificates** for an inspector: CSA for the VPL-3100B/3200B (750 lb,
 10 ft/min), ETL for the commercial models
 ([[Tech Tip - VPL Certifications (ETL and CSA)]]).
@@ -176,8 +189,12 @@ hoist, 3 without; the hoist must lift **1000 lb**; forklift with **5 ft
 extended forks**; lower section first, then the top section lifted in;
 tie the tower feet down **last**; side tie-ins no lower than the
 landing; panels: 3210B no C1, 3212B one, 3214B two. Section weights
-disagree between Bruno's notes (lower section 550 or 900 lb), so plan
-for the heavier ([[Tech Tip - Tall VPL Installation Notes]]). Mid
+disagree between Bruno's tech-tip notes (lower section 550 or 900 lb)
+([[Tech Tip - Tall VPL Installation Notes]]); Bruno's shipping sheet
+**ILS-00992** gives **570 lb** for the tower bottom section and
+190–280 lb for the top, and requires a dock or yard forklift with 5 ft
+forks and two people minimum
+([[ILS - VPL Shipping, Handling and Brush Kits]]). Mid
 landing: [[Tech Tip - Tall VPL 3-Stop Assembly (VPL-K-3233)]].
 
 Harmar ships with a **temporary power cord**; the **NEC requires

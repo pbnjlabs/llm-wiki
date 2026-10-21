@@ -69,3 +69,11 @@ operation while engaged. Adjustment is nearly identical for straight and
 ## See also
 
 [[VPL-3100B]], [[VPL-3200B]], [[Bruno]], [[Gate-and-Door-Interlocks]] (interlock types, testing, troubleshooting)
+
+Bruno's gate drawings: framing must take a **200 lb load in any
+direction**; rough opening **44¼ in (36 in gate) / 50¼ in (42 in
+gate)**; platform tube flush with the handle-side gate upright, 2 in
+from the ramp face to the gate post, sill gap 3/8–3/4 in, a left-hand
+gate on a right-hand unit. The gate activator's roller wheel can be
+flipped or swapped for the offset wheel in the field (ILS-01570). See
+[[ILS - VPL Landing Gates, Platform Gates and Flush-Mount Doors]].

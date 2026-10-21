@@ -123,6 +123,20 @@ Honeywell ([[Bulletin - New Harmar Interlock Introduction]]):
   door interlock**, the platform must not move when any door isn't
   closed and locked. With a **GAL interlock**, it must not move more than
   **2 in** from the landing.
+- **Bruno ILS-01444 (2022):** weekly on commercial lifts, optional on
+  residential. Gates and doors must **lock within 2 in** of the platform
+  leaving the landing; the lift won't run with one open. **Evacuation:**
+  at the lower landing push the gate rod up (or use the bypass key); at
+  the upper landing push the actuator wheel up
+  ([[ILS-01444 Maintenance Control Plan for VPLs]], [[VPL-Maintenance]]).
+- **Bruno interlock kits:** **VPL-3100 (AC) needs a 24 VAC interlock,
+  VPL-3100B (DC) a 24 VDC one**. Every kit adds a second limit switch
+  at the landing and plugs in after the shorting jumper comes out; test
+  with the door open (won't run) and closed (runs). A **mechanical
+  interlock for a non-Bruno gate** (ILS-01071) has its actuator wheel
+  **6–7 in above the landing**. Wiring by model and Bruno's ESI kit
+  terminals: [[ILS - VPL Electric Interlock Wiring Kits]]. Timers and
+  door operators: [[ILS - VPL Interlock Timers and Door Operators]].
 - **Harmar owner maintenance:** check all interlocks, strikes and
   obstruction sensors.
 - **Train the user** on gate and door use and the status lights at
@@ -159,5 +173,5 @@ These aren't gate or door interlocks:
 
 ## See also
 
-[[VPL-3100B]], [[VPL-3200B]], [[HighlanderII]], [[Top-Landing-Gate-Installation]],
+[[VPL-3100B]], [[VPL-3200B]], [[VPL-3300B]], [[VPL-Maintenance]], [[HighlanderII]], [[Top-Landing-Gate-Installation]],
 [[Porch-Lift-Evaluation]], [[Bruno]], [[Harmar]], [[VPL-Troubleshooting]] (Bruno closed/locked/enable switch wire colors and board test points, from TechMate)

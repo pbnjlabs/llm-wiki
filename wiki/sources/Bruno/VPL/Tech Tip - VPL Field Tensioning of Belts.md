@@ -19,4 +19,6 @@ tags: [bruno, vpl, tech-tip, belts]
 5. Torque the other three motor studs to **150 in-lb**.
 6. **Target: ⅛ in deflection mid-span with 2½–3½ lb of force** (use a belt tension gauge; Bruno suggests getting one). Without a gauge: tight, with resistance when pressed, never so loose that it slips with a load on the platform. Don't over-tighten.
 
+⚠️ **Conflict:** Bruno's maintenance control plan ILS-01444 (2022) says **about ½ in deflection** (tall VPLs: idler at 60 in-lb), with no force given. It's newer and ranks with the manuals, so use ½ in ([[ILS-01444 Maintenance Control Plan for VPLs]], [[VPL-Maintenance]]).
+
 Feeds: [[VPL-Drive-Service]]

@@ -411,6 +411,25 @@ call circuit** or a **relay stuck closed**.
 - The VPL-3200B tree uses the same method with its own connector numbers;
   follow the raw outline (`MANUALS/Bruno/TechMate/VPL/VPL Short (short comm-tall comm-res DC).md`).
 
+## Bruno ILS kit sheets (by symptom)
+
+| Symptom | Check | Source |
+|---|---|---|
+| Won't run; drive nut suspect | **Nut safety switch test tool VPL-32422**: if it won't fit, the drive nut has dropped, so replace both nuts. Never bypass the switch | [[ILS - VPL ACME Screw, Nut and Bearing Service]] |
+| Tall VPL: brass grit on the screw | **Lock it out**; nut kit SRV-3200-002; check the joint pins | same |
+| AC VPL drifts or coasts past the landing | Brake retrofit SRV-3100-032 / -039 | [[ILS - VPL Brake Retrofit Kits (AC VPL-3153-3175)]] |
+| Interlock or board damaged after an interlock install | AC VPL-3100 needs **24 VAC**, 3100B **24 VDC** | [[ILS - VPL Electric Interlock Wiring Kits]] |
+| Flush-mount door: 24 V fuse blew at install | Connectors were plugged in with the tower breaker on | same |
+| Strike unlocks then relocks too fast | Shut-off timer set to **about 6 s**; a call button re-energizes it | [[ILS - VPL Interlock Timers and Door Operators]] |
+| Platform gate operator won't open at the bottom | The lift is stopping on the **safety pan switches**, not the lower landing switch | same |
+| Mid-landing door opens while passing | Raise the mid-landing timer delay slightly | same; [[ILS - VPL 3-Stop and Redundant Limit Switch Kits]] |
+| DS-4H door operator: blink codes | 2 blinks = ready; blink-blink-pause = home switch; 3 blinks = encoder or motor; steady 7 s + 3 blinks = no motor power | [[ILS - VPL Interlock Timers and Door Operators]] |
+| Won't run, flood sensor fitted | Wet sensor (red LED every 10 s); about 24 VDC on red/black | [[ILS - VPL Flood Sensor Kits]] |
+| Commercial: controller dark | Aux contact disconnect (VPL-K-3368): fused red wire on the battery side | [[ILS - VPL Electrical Retrofit Kits]] |
+| AC VPL: UP and DOWN together does nothing | Normal with the PCB-00131/00132 daughter-boards | same |
+| Tall emergency lowering slow | It lowers at **half speed** by design (VPL-K-3212) | same |
+| Travelling cable replaced, now faults | Routing must match the original; chart of old numbers to colours | [[ILS - VPL Traveling Cable Kits]] |
+
 ## Harmar
 
 The Harmar [[HighlanderII]] reports faults itself: the **Guardian**
@@ -429,7 +448,7 @@ applies; the Highlander has its own interlock wiring
 
 ## See also
 
-[[VPL-Drive-Service]], [[VPL-3153-3175]], [[Tech Tip - VPL Traveling Cable Assignments]],
+[[VPL-Drive-Service]], [[VPL-Maintenance]], [[VPL-3153-3175]], [[VPL-3300B]], [[Tech Tip - VPL Traveling Cable Assignments]],
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
 [[Troubleshooting]], [[TechMate VPL Troubleshooter]], [[VPL-3100B]],
 [[VPL-3200B]], [[HighlanderII]], [[Gate-and-Door-Interlocks]],

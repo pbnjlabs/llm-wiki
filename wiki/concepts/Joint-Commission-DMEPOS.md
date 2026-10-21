@@ -77,6 +77,9 @@ manufacturer's instructions (PC.02.03.01 EP 15).
   no schedule, PMS sets one (EP 2).
 - Do safety, operation and function checks and repairs **per PMS policy
   and the manufacturer**, and document them (EP 3).
+  Bruno's maintenance control plans give the schedule and a log format:
+  stairlifts [[Stairlift-Maintenance]] (ILS-01446), VPLs
+  [[VPL-Maintenance]] (ILS-01444).
 - **Inspect equipment between patients** (rentals, loaners, returns)
   and document it (EP 5).
 - Medicare: provide **loaner equipment** equivalent to the original

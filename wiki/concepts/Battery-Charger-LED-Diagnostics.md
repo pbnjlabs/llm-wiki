@@ -31,6 +31,12 @@ manuals and both operator manuals, word-for-word.
 | FLASH | OFF | OFF | FLASH | Over-temp shutdown | Same as above |
 | ON | FLASH | FLASH | FLASH | Internal charger fuse blown (VPL-3100B only lists this row) | Replace charger |
 
+Bruno's VPL maintenance control plan (ILS-01444, 2022) gives the short
+form for the weekly check: **solid red = AC on, flashing red = no AC,
+yellow = charging, green = full** ([[VPL-Maintenance]]). After the 34 Ah
+upgrade the charge LED **flashes once a second** while charging (ILS-00864,
+[[ILS - VPL Cold Weather and Battery Kits]]).
+
 Bruno's older VPL troubleshooting guides (2010–2011) add: **all four
 lights flashing** → unplug the charger from the wall and from the
 batteries for about a minute, then reconnect; still flashing → replace

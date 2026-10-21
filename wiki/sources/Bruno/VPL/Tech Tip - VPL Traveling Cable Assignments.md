@@ -30,4 +30,6 @@ tags: [bruno, vpl, tech-tip, wiring, traveling-cable]
 
 12-conductor cable on residential units (an extra 4-wire cable is added where needed). Matches the JP3 colours on [[VPL-Troubleshooting]].
 
+The full chart, including the cut-off column (phone power BLK16/17 on commercial only; 12 vs 18 conductors), is in ILS-01220: [[ILS - VPL Traveling Cable Kits]].
+
 Feeds: [[VPL-Troubleshooting]]

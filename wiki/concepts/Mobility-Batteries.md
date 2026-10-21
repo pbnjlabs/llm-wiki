@@ -231,6 +231,9 @@ equipment and spares with their **battery charge requirements** in mind
 
 ## Related
 
+Bruno VPLs: AGM pairs, 17 Ah or 34 Ah; load test yearly, replace below
+70%, both at once ([[VPL-Maintenance]]).
+
 [[Golden-Battery-Charging]], [[Battery-Charger-LED-Diagnostics]],
 [[TruCharge-Diagnostics]], [[Pride-Power-Chair-Lineup]],
 [[Power-Chair-Troubleshooting]]

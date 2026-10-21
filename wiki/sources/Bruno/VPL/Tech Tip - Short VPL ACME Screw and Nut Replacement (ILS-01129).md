@@ -24,4 +24,6 @@ ILS-01129 Rev 2 (12-1-2016), 13 pages: replacing the **ACME screw and/or drive n
 9. Belts back to the original tension (two people helps), motor locking plate secured, **grease the screw with the Bruno grease in the kit**.
 10. Run up and down a few times and down to within 1 ft of the bottom bearing, then tighten its four bolts.
 
+**Superseded:** Rev 3 (06/11/23) is in the Drawings library ([[ILS - VPL ACME Screw, Nut and Bearing Service]]): same steps, plus factory torques (motor nuts 150 in-lb, pulley locking hub bolts 95 in-lb) and a pointer to the ILS-01444 checks. Use Rev 3.
+
 Feeds: [[VPL-Drive-Service]], [[VPL-3100B]]

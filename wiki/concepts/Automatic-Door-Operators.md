@@ -82,3 +82,10 @@ with the operator off: it should read 13–14 V DC. See
 ## Related
 
 [[Open Sesame]], [[AutoSlide]], [[AutoSwing]], [[PMS-Office-Procedures]]
+
+**On Bruno VPLs:** Bruno's platform gate operator kit VPL-K-3144LCP/RCP is
+an Open Sesame unit, and commercial landing doors use the DuraSwing
+DS-4H (hardwired, signal and AC in separate conduits). Bruno's wiring
+kits add a landing detection switch and a delay timer, and ILS-01444
+wants the door **held open at least 20 s**. Wiring, timer settings and
+the DS-4H LED codes are on [[ILS - VPL Interlock Timers and Door Operators]].

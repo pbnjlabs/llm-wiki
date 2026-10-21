@@ -22,4 +22,6 @@ tags: [bruno, vpl, vpl-3200b, tech-tip, three-stop, mid-landing]
 
 On 3-stop lifts the 59–61 yellow jumper comes out for the mid landing ([[Tech Tip - VPL Jumper Sheets (2017)]]).
 
+The same kit's ILS sheet (ILS-01072) and the commercial version VPL-K-3349 are on [[ILS - VPL 3-Stop and Redundant Limit Switch Kits]].
+
 Feeds: [[VPL-3200B]]

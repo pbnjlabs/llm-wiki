@@ -76,7 +76,11 @@ vertical platform lifts (VPL).
     joined on site
   - [[VPL-3153-3175]] — the **AC** low-rise VPL (no "B"), from tech
     tips only: PCB-00143 90 V board, LEDs E1–E18 and fault flash codes
-  - Drive work for all of them: [[VPL-Drive-Service]]
+  - [[VPL-3300B]]: the **commercial** line (VPL-3353B/3375B,
+    VPL-3310B/3312B/3314B). No manuals on file; spec sheet, drawings and
+    kit sheets only.
+  - Drive work for all of them: [[VPL-Drive-Service]]; schedules and
+    inspections: [[VPL-Maintenance]] (ILS-01444)
   - Both share [[Top-Landing-Gate-Installation]] and
     [[Battery-Charger-LED-Diagnostics]] — same gate hardware/procedure and
     charger diagnostics reused verbatim across both install manuals.
@@ -176,7 +180,20 @@ pages). Headlines: the **ILS-01446 maintenance control plan**, SRE-5000
 and CRE-3110 specs, brake kits for every carriage, the Feb 2025 Elite gear
 motor change, SRE-3050 Service Bulletin 81 seat fixes, folding rail
 install numbers, flood sensor and USB kits, and current spec sheets for
-every model. **VPL, vehicle lift, docking device and general sheets:
+every model.
+
+**VPL ingested 2026-10-21** (134 sheets, 15 source pages). Headlines:
+the **ILS-01444 maintenance control plan** ([[VPL-Maintenance]]: weekly,
+6-month/yearly, 5-year; **Mobil Aviation Grease SHC 100**; belts about
+½ in, which conflicts with the 2016 tip's ⅛ in, and the newer ILS
+wins), 2026 spec sheets for VPL-3100 and VPL-3210B plus the VPL-3353B
+commercial sheet ([[VPL-3300B]]), application drawings for every
+layout, gate and flush-door details, ACME screw/nut/pin service
+including the nut safety switch test tool, AC brake retrofits,
+interlock wiring (24 VAC vs 24 VDC), timers and door operators (DS-4H
+codes), 3-stop and redundant limit kits, cold-weather kits, electrical
+retrofits (PCB-00164, aux disconnect, 240 V), travelling cable, flood
+sensors, shipping. **Vehicle lift, docking device and general sheets:
 downloaded, not yet ingested.**
 
 Bruno also publishes Australian-market addenda for its G models
