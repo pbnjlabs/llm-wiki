@@ -22,6 +22,10 @@ treats SRE-3050 beeps the same way.)
 **For the step-by-step fix behind each code, see
 [[Stairlift-Troubleshooting]].**
 
+Bruno also has a plain-language tech tip on these codes,
+[[Tech Tip - Stairlift Code Translations]] (2020). It agrees with the
+table below, and adds a few beeps (listed under the display table).
+
 ## Code translations
 
 **Normal codes** (not a failure — many display during normal operation):
@@ -88,6 +92,17 @@ Elan (SRE-3000/3050) gives the same beeps with no display.
 table says **d4**. The manual wins. TechMate's d5 (over-temperature) and
 d7 (low voltage) match.
 
+**More beeps** (from the 2020 code-translations tech tip):
+- **1 short beep every 3 s** = seat safety switch open (seat not in the
+  riding position).
+- **1 beep each time the rocker or a remote is pressed** = the up or down
+  limit circuit is open.
+- **1 short, 2 long** = transmitter memory full (d2 in the table).
+
+The tip also lists **L7** (unit is or was recently running), which isn't
+in the manual's table, and calls **L8** "carriage at the end of the rail"
+where the manual says "soft stop". Same thing in practice.
+
 Bruno's newer **SRE-5000** has its own beep scheme (1S1L, 2S1L, 2S2L…);
 see [[Stairlift-Troubleshooting]].
 
@@ -103,4 +118,4 @@ faces the open side of the stairs — this is correct behavior, not a fault).
 
 [[SRE-2010]], [[SRE-3000]], [[CRE-2110]], [[Overspeed-Safety-Brake]],
 [[Stairlift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
-[[Troubleshooting]]
+[[Tech Tip - Stairlift Code Translations]], [[Troubleshooting]]

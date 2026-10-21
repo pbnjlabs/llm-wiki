@@ -35,7 +35,9 @@ camera-based measuring, see [[Staircase-Measuring-System]].
   lift that fails this check**. PMS applies the same rule. (Per the human,
   2026-09-30.)
 - Stair type: straight, curved/spiral, or straight with a flat or
-  sloped landing. Indoor or outdoor.
+  sloped landing. Indoor or outdoor. **Garages count as outdoor** for a
+  Bruno Elan (SRE-3000/3050, indoor only above 35 °F) unless fully climate
+  controlled ([[Tech Tip - SRE-3000 Temperature Range]]).
 
 ## 2. Measure the stairs
 

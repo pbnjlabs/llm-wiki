@@ -79,6 +79,19 @@ quarter turn past snug, then lever to drive and test
 ([[Scooter Brake Replacement (INFINFB1742)]]). Golden's procedures above
 don't apply to Pride units.
 
+## Bruno SRE-3000 Elan stairlift (kit SRV-3000-016)
+
+Not a mobility device, but the same idea: an electromagnetic brake on the
+motor. Bruno's ILS-01324 kit replaces the brake, its hex drive nut and
+roll pin. Remove the upper access cover, unplug the brake leads, three
+3 mm screws; fit the new nut **groove toward the motor end bell**; then
+**centre the brake disc** by releasing it electrically (one motor lead
+unplugged, hold the rocker) and turning it until the holes line up. Blue
+thread locker on the set screw and brake screws. See
+[[Tech Tip - SRE-3000 Elan Brake Replacement (ILS-01324)]] and, for
+diagnosing a dragging brake first, [[SRE-3050]] and
+[[Stairlift-Troubleshooting]].
+
 ## See also
 
 [[Golden]], [[GL110-140-LiteRider]], [[GB1xx-Buzzaround-XL]],

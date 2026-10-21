@@ -86,6 +86,15 @@ The full steps are summarized on [[Stairlift-Troubleshooting]].
   version reads beeps 1–2 rocker, 3 learn/erase, 4–5 remote. The manuals
   agree that long beeps mark the active switch.
 
+**Against Bruno's older tech tips** (2026-10-21 check; neither is a
+manual):
+- **Charge test:** TechMate wants the strips to rise **2 VDC** with the
+  charger on; the Elite and Elan tech tips say **1 VDC**.
+- **Gear rack grease:** TechMate says Magnalube; a tech tip says
+  Lubriplate 130-AA; the current manuals say PTFE (SRE-3050) or white
+  lithium (SRE-3000, CRE-2110). Follow the manual
+  ([[Stairlift-Maintenance]]).
+
 Everything else checked matches the manuals: the Elan and Elite charger
 LED tables, the beep list in the [[SRE-3050 Tech Support Guide]] and
 [[SRE-2010 Tech Support Guide]], and the L/C/P codes on [[Diagnostic-Codes]].

@@ -212,6 +212,11 @@ Owner's-manual charging and storage rules for lead-acid and lithium:
 - Open Sesame door operators: 12 V 1.2 Ah sealed lead-acid, **MK
   ES1.2-12** or equivalent, 3–5 year life ([[Automatic-Door-Operators]]).
 
+- Bruno stairlifts: 2 × 12 V sealed lead-acid. **SRE-3000** Elan:
+  BTR-12008 = **MK ES3-12** (3 Ah); SRE-3050 also 3 Ah; SRE-2010 and
+  CRE-2110 7 Ah. About 3–5 years, 10–15 trips per charge on an Elan. See
+  [[Stairlift-Maintenance]].
+
 ## Joint Commission (house standard)
 
 PMS adheres to the Joint Commission DMEPOS standards ([[Joint-Commission-DMEPOS]]). Store

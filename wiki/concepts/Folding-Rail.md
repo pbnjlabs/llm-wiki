@@ -93,6 +93,35 @@ damaging the folding rail assembly.
   (loosen primary bracket screws, reposition, re-tighten gear rack screw →
   jack bolt → latch screws → bracket screws in that order).
 
+## Fixes from Bruno's tech tips
+
+Older, model-specific notes (2014–2022), below the manuals:
+- **Carriage binds at the fold only with a heavy rider** (SRE-3000): the
+  **lower end cap wasn't resting on the floor** with the rail down, so
+  the rail twisted. Check the folding-rail support clamp (both back
+  screws in the tread), a standard clamp on the next tread up, the end
+  cap on the floor, and the rail lock.
+- **Bump at the joint** with the latch closed (SRE-3000): loosen the
+  latch's two bolts, push the rails together, retighten, then redo the
+  gear rack adjustment.
+- **Carriage jammed at the fold** (new Elan): drive it up by hand (¼ in
+  socket or SRV-3000-002 on the motor shaft extension, CW for LH, CCW for
+  RH), then reset the rack timing at the joint with FIX-00525 (loosen the
+  tension bolt and shear bolt, clamp, tighten shear bolt then tension
+  bolt).
+- **Mid-park contact strip loose** (SRE-3000): glue the bronze strip back
+  with contact cement or green Loctite; burr-free end.
+- **Old-style SRE-2010 power rail bounces back** instead of seating:
+  adjust the **lower actuator mounting plate** (two M6 bolts). **Don't
+  touch the linkage bar**: it only drives the limit switches.
+- **Gas shock** (folding rail, model not named): rail fully folded,
+  remove the retaining screw, slide the shock up off its lower shaft,
+  then down and out.
+
+Sources: [[Tech Tip - SRE-3000 Folding Rail Fixes]],
+[[Tech Tip - SRE-2010 Power Folding Rail Bounce-Back (Old Style)]],
+[[Tech Tip - Folding Rail Gas Shock Replacement]].
+
 ## Troubleshooting
 
 Power folding rail faults (won't stop at the mid-park, beeps but won't

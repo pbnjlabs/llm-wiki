@@ -74,6 +74,43 @@ vertical platform lifts (VPL).
     [[Battery-Charger-LED-Diagnostics]] — same gate hardware/procedure and
     charger diagnostics reused verbatim across both install manuals.
 
+## Tech Tips (dealer-portal library)
+
+Bruno's dealer portal (brunopartner.com → Service → **Tech Tips**) is a
+searchable library of short Bruno Technical Service documents. All 165
+entries were listed on 2026-10-21; 107 stairlift, VPL, vehicle lift and
+general files were downloaded to `MANUALS/Bruno/Tech Tips/`
+(manifest in `_manifest.md` there). Valet turning seats were skipped,
+and three VPL links were broken on Bruno's server.
+
+**Stairlifts: ingested 2026-10-21** (46 files, 33 source pages titled
+"Tech Tip - …"). Most date from 2013–2016 and were written for the
+SRE-3000 Elan, the SRE-2010 Elite and the CRE-2110; none name the
+SRE-3050. Highlights: the Elan brake kit SRV-3000-016, motor-lead
+voltages, the SRE-2010C drop test, gear rack and clamp part numbers,
+ride-out, folding-rail fixes, and serial number decoding
+([[Bruno-Serial-Numbers]]). Yearly service is summarized on
+[[Stairlift-Maintenance]].
+
+**VPL, vehicle lift and general tips: downloaded, not yet ingested.**
+
+They're manufacturer-authored, so they rank like TechMate: above
+clippings, **below the manuals**. Where they disagree, the pages say so.
+
+## Legacy stairlifts (tech tips only)
+
+Older Bruno models that appear only in tech tips. No manuals are on file.
+- [[CRE-2100]] **Electra-Ride III**: the curved rail before the CRE-2110
+  (2001 spec sheet).
+- **SRE-1540 / SRE-1550**: older straight lifts with belt-and-pulley
+  drives (seat comparison, duct-tape overspeed test).
+- **SRE-2000**: overspeed test fixture and cam reset shared with the
+  CRE-2100/2110.
+- **SRE-2750**: mentioned only as the Elan's predecessor for battery
+  range (10–15 trips).
+
+See [[Tech Tip - Legacy SRE-1540, SRE-1550 and SRE-2000]].
+
 ## TechMate (dealer troubleshooting tool)
 
 Bruno's dealer portal (brunopartner.com → **TECHMATE**) has an
@@ -105,16 +142,21 @@ Bruno **vehicle lifts only** (65 II F); it doesn't handle 65 II A. See
 
 ## Not yet ingested
 
-Nothing — all Bruno-authored manuals on disk have been ingested, including
+All Bruno-authored manuals on disk have been ingested, including
 a third ingest pass that added [[ASL-250]] (found via a check of an
-out-of-repo `MANUALS/Bruno/` drop).
+out-of-repo `MANUALS/Bruno/` drop). **Pending:** 61 dealer-portal tech
+tips in `MANUALS/Bruno/Tech Tips/` (VPL 49, Vehicle Lifts 9, General 3);
+the 46 stairlift tips were ingested 2026-10-21.
 
 **Missing manuals:** the **SRE-5000** (added 2026-10-15, see TechMate
-above). The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
+above), and Bruno's **ILS-01446** Maintenance Control Plan for CRE/SRE
+chair lifts (ASME A18.1-2017 units; added 2026-10-21, see
+[[Stairlift-Maintenance]]). The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
 (ticked off at [[index#Missing manuals]]).
 
 ## See also
 
 [[Warranty]], [[Staircase-Measuring-System]], [[Diagnostic-Codes]],
 [[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]], [[Hitch-Adapters]],
-[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Troubleshooting]]
+[[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Troubleshooting]],
+[[Stairlift-Maintenance]], [[Bruno-Serial-Numbers]], [[CRE-2100]]

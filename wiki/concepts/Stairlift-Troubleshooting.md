@@ -9,7 +9,9 @@ A symptom-first guide for stairlifts. Start with what the lift does,
 not with which manual to open. The Bruno steps are condensed from Bruno's
 dealer troubleshooter, [[TechMate Stairlift Troubleshooter]] (SRE-3050,
 SRE-3000, SRE-2010, CRE-2110, SRE-5000), checked against the Bruno tech
-support guides. Where Harmar's manuals cover the same symptom, it's noted.
+support guides. Bruno's older dealer-portal **tech tips** (2013–2020) fill
+in some steps; they're marked "tech tip" below and rank with TechMate,
+below the manuals. Where Harmar's manuals cover the same symptom, it's noted.
 For the general method behind this page, and for other equipment, see
 [[Troubleshooting]].
 
@@ -132,6 +134,14 @@ once**.
      bad sensor can stop power-up), then all harnesses except B+/B−.
      Powers up bare → plug back one at a time. Still dead → board.
 
+- **CRE dead at the top** (no lights, no B+/B−): the **final limit** is
+  sitting on its ramp. Move the end bracket / charge contacts back so the
+  end limit trips first (tech tip,
+  [[Tech Tip - CRE-2110 Final Limit and End Limit Adjustment]]).
+- The board needs **18 VDC or more** at B+/B− to run (Elite and Elan tech
+  tips). Elan: at least **23 V to go up and 21 V to go down**; it cuts
+  out under load at about 16 V.
+
 Harmar equivalent: 2 beeps = no 12V power on board, 9 = final limit
 ([[Harmar-Stairlift-Beep-Codes]]).
 
@@ -235,7 +245,16 @@ replace the rocker switch assembly. On the SRE-3050 that's
    failures → newer remote CRE-01065 (replaces SRE-00947); outdoor units
    have no new remote, so board SRV-2010-007. Antenna parts SRE-20778 +
    ANT-00109.
-6. **Stops intermittently on the remote with no beep** = interference.
+6. **One IR call station flaky** (SRE-3000 tech tip): **unplug the IR
+   sensor at the opposite end** of the carriage. Now works → a reflected
+   signal was interfering, not a bad part
+   ([[Tech Tip - SRE-3000 IR Call-Send Interference]]).
+7. **RF remotes eating batteries** (tech tip): high-power X-Bee Pro
+   remotes make it worse, not better. The 9 V works down to 4 V; use good
+   alkalines; replace yearly. Good battery but only a re-seat brings it
+   back → the battery contacts. Remotes time out after **3 minutes** of a
+   held button ([[Tech Tip - Stairlift RF Remote Battery Issues]]).
+8. **Stops intermittently on the remote with no beep** = interference.
    Does the remote's green light go out when it stops? Yes → remote.
    Otherwise look for sources: IR (IR smoke or motion detectors, alarm
    sensors, robot vacuums, CFL bulbs, sunlight, TV boxes, garage door
@@ -268,6 +287,13 @@ unplug the motor leads at the board and read them on a command (about
 24VDC, or 17VDC). Nothing → board. Voltage → motor: **Elan, replace the
 motor**; **Elite/CRE, replace the brushes**.
 
+The tech tips give the motor-lead numbers by direction, with the
+batteries resting at 25 V or more: **Elan (blue/brown) 23–24 V up,
+12–13 V down**; **Elite (blue/orange) about 21 V up, 12 V or more down**.
+Lower than that → board. Direct power to an Elan motor only very briefly
+(the brake overheats). TechMate's "about 24 or 17 VDC" is the same idea
+in round numbers.
+
 **3 short (d5), over-temperature.** If it has ever given 4 short too,
 treat it as over-current (below). Only ever 3 short → board.
 
@@ -289,6 +315,8 @@ usual cause is a **brake that isn't releasing**.
      again → overspeed (carriage).
 2. **Elite/CRE brake:** TechMate disagrees with itself on whether the
    brake can be replaced alone. Confirm with Bruno before ordering.
+   (The **SRE-3000 Elan** brake has its own kit, **SRV-3000-016**:
+   [[Tech Tip - SRE-3000 Elan Brake Replacement (ILS-01324)]].)
 
 See also the SRE-3050/SRE-3000 brake procedure on [[SRE-3050]].
 
@@ -325,6 +353,9 @@ voltage drop over 4V under load (batteries), or a dragging brake.
 | Rhythmic thump, about every 6 in | Flat spot on a roller: replace rollers |
 | Clunk only at a joint | Adjust the rail joint |
 | Clunk all the way | Drive adjustment |
+| Vibration, loose carriage (SRE-3000) | Tech tip: loosen the three motor bolts, set screw ¼ turn left, run 6 in each way, torque **20 ft-lb (27 Nm)** ([[Tech Tip - SRE-3000 Drive Adjustment]]) |
+| CRE kicks out / climbs the rack on inside turns (**ride-out**) | Press on the footrest while it runs: goes away → fine. Check paint in the rack, the downside nylon guide, the business-card gap. Fix: gear-motor tension screw out ½ turn, then ¼ ([[Tech Tip - CRE Ride-Out]]) |
+| Elan binds at the fold only with a heavy rider | Lower end cap not on the floor, so the rail twists ([[Tech Tip - SRE-3000 Folding Rail Fixes]]) |
 | Rumble / just noisy | Needs grease. Clean old grease and dust off the rack, then Magnalube. New installs: grease before running |
 
 **Seat:**
@@ -370,7 +401,10 @@ Then:
    Charger on/off switch on? Charger input/output fuses? Then the charger.
 3. **Is it actually charging?** Unplug the charger, read the charge strips
    (about 24V), plug it back in. With yellow/green showing the strips
-   should rise **at least 2VDC**.
+   should rise **at least 2VDC**. (Bruno's older Elite and Elan tech tips
+   say **at least 1 VDC**, and that the carriage must sit on the contacts,
+   or be switched on, **3 s** before the board starts charging. Neither
+   number is from a manual; under 1 V is a fail by both.)
 4. **Lit but not charging:** walk the voltage from the batteries out:
    strips → charge **block** (end of rail) → carriage **fingers**. No
    voltage at the block → pull it and bend its fingers down. Still none
@@ -451,6 +485,12 @@ with every harness off → board.
   fold motor leads (yes → motor, no → board). Folds slowly at 12V → check
   the board's input under load (drops → harness; doesn't → board).
 - Rail slams or bounces at the top → bend the upper limit flag out.
+- **Old-style SRE-2010 rail bounces back off the floor** (tech tip):
+  bumper, short end hitting the U-channel, contacts, bent pivot bar or
+  rack, then the **lower actuator mounting plate** (two M6 bolts; lower
+  it with gentle hand pressure, it's seated when the carriage will jog).
+  Don't adjust the linkage bar
+  ([[Tech Tip - SRE-2010 Power Folding Rail Bounce-Back (Old Style)]]).
   Binds at the bottom → adjust the down limit; still binds → remove the
   lower latch; then joint alignment.
 - Runs up with the rail down → disable switch on (normal), or wired
@@ -480,6 +520,9 @@ None yet for stairlifts. Add them here as they come in.
 
 ## See also
 
+[[Stairlift-Maintenance]] (yearly checklist, grease, batteries, overspeed tests),
+[[Tech Tip - SRE-3000 Elan Troubleshooting Guide]],
+[[Tech Tip - SRE-2010 Troubleshooting Guide (No Power Options)]],
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
 [[Troubleshooting]], [[TechMate Stairlift Troubleshooter]],
 [[Diagnostic-Codes]], [[Harmar-Stairlift-Beep-Codes]],

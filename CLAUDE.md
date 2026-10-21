@@ -78,7 +78,7 @@ forcing them into a product-line folder they don't belong in.
   type: manufacturer | model | concept | source
   manufacturer: Bruno
   model: SRE-3050          # models only
-  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide | Web Article | Troubleshooting Tool
+  doc_type: Install Manual | Operator Manual | Tech Support Guide | IPB | Service Guide | Web Article | Troubleshooting Tool | Tech Tip
   source: "MANUALS/Bruno/Bruno Straight SL/3050-I SRE-3050 Install Manual 06-22-2026.pdf"
   date: 2026-06-22          # manual's revision date, not today's date
   tags: [stairlift, bruno]
@@ -136,6 +136,21 @@ or submit the tools' contact, parts-order, "resolved" or survey buttons:
 they send the session to the manufacturer. Leave manufacturer staff
 names and customer-incident form fields out of the wiki. Refresh TechMate
 with `python3 scripts/techmate_pull.py`.
+
+### Dealer-portal tech tips
+
+Bruno's dealer portal also has a **Tech Tips** library (Service → Tech
+Tips): short Bruno Technical Service PDFs, mostly 2008–2020. They're
+pulled into `MANUALS/Bruno/Tech Tips/<Category>/` with a `_manifest.md`
+(portal tech-tip id, title, file). Source pages are titled
+`Tech Tip - <subject>`, with `doc_type: Tech Tip`, `url:` set to the
+Tech Tips page, and `date:` set to the document's own date (revision or
+"Modified" date), or the portal posting date when it has none. Several
+portal entries point to the same file, or to identical copies: give
+them one source page with a `;`-joined `source:`. Small related tips may
+share a page too. They rank like TechMate: manufacturer-authored, above
+clippings, but **a manual wins any conflict**, and they're often older
+than the manuals on file, so check and flag disagreements.
 
 ### Manufacturer prices and pay scales
 

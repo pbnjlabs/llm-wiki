@@ -86,14 +86,43 @@ summarized above only as fully as their respective manuals document them.
    cam ring; inspect/repair the drive system and carriage, or return for
    factory service.
 
+**SRE-3000 on the rail** (tech tip): take the safety flap cover off (two
+screws, key side), push the overspeed fully right then fully left, then
+with the power on bring it back so the switch roller sits in the centre
+of the valley. A click and the power-up beep mean it's reset
+([[Tech Tip - SRE-3000 Overspeed Reset on the Rail]]).
+
+**Older Bruno models** (test-fixture tip): CRE-2100, CRE-2110 and SRE-2000
+reset by rotating the cam and repositioning the activating pin;
+SRE-1540/1550 by moving the carriage up with the large gearbox pulley and
+resetting the cam under the carriage.
+
 ## Regulatory testing
 
 Separate from a field reset — used for compliance inspection. Requires an
 "overspeed trip key" (Bruno kit, e.g. SRV-3000-002) inserted into the
 flange cover slot to intentionally trip the switch under a loaded carriage
-run, confirming the governor actually engages under load.
+run, confirming the governor actually engages under load. (Kit
+SRV-3000-002 holds both the overspeed key and the manual back-up tool,
+per the SRE-3000 manual.)
+
+Bruno's tech tips add three other test methods, for other models. All
+of them: lift **unoccupied**, stairs blocked, nobody on the down side,
+state/local load and witness rules followed, test weights strapped down
+(not with the seat belt) about **20% on the footrest, 80% on the seat**.
+
+| Model | Method | Pass |
+|---|---|---|
+| **SRE-2010C** | Kit **SRV-2010-018** drop test: spur gear pulled, carriage hung on a quick-release belt from a test end cap, released to free-fall. Spur gear refitted hot (360 °F induction heater) | Stops within **1.5 in (38 mm)**; date written on the spur gear |
+| **SRE-1550** | **Duct tape**: tape on the overspeed up to its mark, run down ¾–1½ in, yank the tape tail | Trips and cuts all power |
+| **SRE-1550 / SRE-2000** | **Test fixture** FIX-00381–385 drives the motor at over 96 VDC downhill | Trips and stops abruptly |
+
+Sources: [[Tech Tip - SRE-2010C Overspeed Test (SRV-2010-018)]],
+[[Tech Tip - Legacy SRE-1540, SRE-1550 and SRE-2000]]. Trip range for the
+old CRE-2100 (hand-written on its spec sheet): carriage **46–72 ft/min**
+([[CRE-2100]]).
 
 ## See also
 
-[[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[Bruno]], [[C-450-C-625]],
+[[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[CRE-2100]], [[Stairlift-Maintenance]], [[Bruno]], [[C-450-C-625]],
 [[Prism]], [[HighlanderII]], [[Helix]], [[Harmar]]

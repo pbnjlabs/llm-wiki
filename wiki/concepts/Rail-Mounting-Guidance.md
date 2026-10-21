@@ -36,6 +36,25 @@ Bruno straight-rail model, not just the SRE-2010.
 - Clamp (tensile pull-out) load: ≥750 lbf/anchor
 - These were derived via worst-case testing with a 5x safety factor
 
+## Clamps and rail position (Bruno tech tips)
+
+Older dealer-portal notes; the model's install manual wins:
+- **Standfoot orientation is safety-critical** (SRE-2010, SRE-3000): long
+  nose toward the centre of the stairs, no gap at the front
+  ([[Tech Tip - SRE-2010 Standfoot Orientation]]).
+- **Clamp heights:** standard **SRE-30001** is 5.22 in; the adjustable
+  **SRE-30150** goes from 6.19 to 9.19 in
+  ([[Tech Tip - SRE-3000 Clamp Comparison (Adjustable Stand Foot)]]).
+- **Old die-cast clamps corrode** (older SRE-2010E outdoor units, acid
+  step-washes or galvanic action): replace them right away
+  ([[Tech Tip - SRE-2010E Clamp Deterioration]]).
+- **Old-style SRE-2010 rail:** clamps two at the top, two at the bottom,
+  one each side of the joint, no more than **two blank treads** between
+  clamps; rail **4.5 in from the wall** and at least **2.5 in from the
+  step noses** ([[Tech Tip - SRE-2010 Quick Install Guide (Old Style Rail)]]).
+- **CRE curved rail:** at least **2½ in from the step nose** too, or the
+  carriage/footrest can hit it ([[Tech Tip - CRE Fit Issues Service Presentation]]).
+
 ## When in doubt
 
 Bruno recommends bringing in a structural/construction engineer to inspect
@@ -45,4 +64,4 @@ environments, or areas with frequent vibration (nearby roads/rail).
 
 ## See also
 
-[[SRE-2010]], [[SRE-3050]], [[Bruno]]
+[[SRE-2010]], [[SRE-3050]], [[SRE-3000]], [[CRE-2110]], [[Stairlift-Maintenance]], [[Bruno]]
