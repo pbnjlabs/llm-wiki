@@ -39,8 +39,8 @@ vertical platform lifts (VPL).
   - [[SRE-3050]] ("Elan") — current generation, successor to SRE-3000
   - [[SRE-3000]] ("Elan", legacy) — same platform as SRE-3050, only a 2015
     manual on file
-  - [[SRE-5000]] ("Elan", 2026) — newest straight rail; no manuals yet,
-    specs and service from Bruno's 2026 ILS sheets
+  - [[SRE-5000]] ("Elan", 2026) — newest straight rail; full manual set
+    (install, owner's, TSG, power options, folding rail) pulled 2026-10-22
   - **2026 power folding rail update** (Bruno dealer email, clipped
     2026-10-13): board PCB-00193 replaces PCB-00157 on future SRE-3050 and
     SRE-2010 power folding rails. See [[SRE-3050 and SRE-2010 Power Folding Rail Logic Board Update]].
@@ -160,10 +160,9 @@ on purpose.
 
 TechMate also covers the **SRE-5000**, a newer Bruno straight stairlift
 with three carriage terminal switches, its own beep codes and its own
-folding rail. **No SRE-5000 manual is on file.** PMS sells and services
-it (per the human, 2026-10-15), so it's on the index's
-[[index#Missing manuals]] checklist. Bruno's 2026 ILS sheets now give its
-specs and most service tasks ([[SRE-5000]]).
+folding rail. PMS sells and services it (per the human, 2026-10-15). Its
+manuals and tech support guide were pulled from Brunopartner on
+2026-10-22 ([[SRE-5000]]).
 
 ## Drawings (ILS instruction sheet library)
 

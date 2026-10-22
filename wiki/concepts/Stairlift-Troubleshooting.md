@@ -87,10 +87,15 @@ override on high temperature". Use the manual. See [[Diagnostic-Codes]].
 | C-C-C-L (3S1L) | Final limit: over-travelled at the top. Crank it downhill off the end plate, then call Bruno |
 | B-B-L-L (2S2L) | Battery below 19.2V sitting |
 | B-B-B-L-L (3S2L) | Charger not detected |
-| C-C (2S) | Safety relay failed: call Bruno |
-| C-C-C (3S) | CPU over-temperature |
-| C-C-C-C (4S) | Over-current |
+| C-C (2S) | Controller (drive circuit) failure: call Bruno. TechMate says "safety relay" |
+| C-C-C (3S) | CPU over-temperature (55 °C or more) |
+| C-C-C-C (4S) | Over-current (drive above 16 A up / 4.25 A down) |
 | C-C-C-C-C (5S) | Voltage dropped below 19.2V while running |
+
+The [[SRE-5000 Tech Support Guide]] (Rev 7, Sept 2026) has the full table,
+with LED blink counts and the multiple-buttons codes. It agrees with
+TechMate. The 2026 install manual's "battery critical, 2 short + 3 long"
+is superseded by B-B-L-L.
 
 **Harmar** uses a different scheme (beeps counted after the power-up
 beep: 1 runaway, 2 no power, 3–6 conflicting footrest/obstruction, 7–8
@@ -408,7 +413,8 @@ Then:
 1. **Where can it charge?** Elan and indoor SRE-2010 are continuous
    charge (anywhere on the rail). CRE, outdoor SRE-2010 and older units
    charge only **at the ends or mid-park** (C3 / 4 short + 1 long when
-   stopped elsewhere). TechMate doesn't say which the SRE-5000 is.
+   stopped elsewhere). The **SRE-5000 is continuous charge**: its owner's
+   manual says it charges anywhere it's parked on the rail.
 2. **No lights** → plugged into the wall and the rail? Outlet 120VAC?
    Charger on/off switch on? Charger input/output fuses? Then the charger.
 3. **Is it actually charging?** Unplug the charger, read the charge strips
@@ -538,6 +544,14 @@ mode is optional ([[SRE-5000]]):
   **hand** is wrong: fold board switch 2, ON = right hand.
 - Won't fold, flashing red light on the main board → no power to the
   actuator; check the motor leads on the fold board.
+- Per the [[SRE-5000 Tech Support Guide]]: if it won't fold or stops at
+  mid-park, check the DIP switch, **clean the contact fingers and
+  strips**, and check the **lower switches at the pivot arm base**. If it
+  won't charge at the bottom of the fold, check finger contact and the
+  connectors. A dead actuator can be unpinned so the rail lowers by hand
+  (zip-tie it down) for temporary use.
+- **SRE-5000 remotes dead but the paddle works:** the motor leads are
+  routed too close to the IR sensor.
 
 ## Field notes
 

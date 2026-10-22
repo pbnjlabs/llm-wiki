@@ -100,7 +100,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | SRE-2010 (Elite) | Bruno | [[SRE-2010]] |
 | SRE-3000 (Elan, legacy) | Bruno | [[SRE-3000]] |
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
-| SRE-5000 (Elan, 2026; no manuals yet, specs and service from 2026 ILS sheets; product code 036, PCB kit split at SN 26080361090) | Bruno | [[SRE-5000]] |
+| SRE-5000 (Elan, 2026; install, owner's, TSG, power options and folding rail manuals plus 2026 ILS sheets; product code 036, PCB must match serial (gearbox change ECN8485, split at SN 26080361090)) | Bruno | [[SRE-5000]] |
 | VPL-3100B | Bruno | [[VPL-3100B]] |
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
 | VPL-3153 / VPL-3175 (AC low-rise, no "B"; tech tips, TechMate and ILS sheets: 2026 spec sheet, PCB-00143 90 V board, E1–E18 LEDs, fault flash codes, brake retrofit for drift) | Bruno | [[VPL-3153-3175]] |
@@ -359,6 +359,14 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 [[ASL-700 Operator Manual (2023)]], [[VSL-4400 Installation Manual (2026)]],
 [[VSL-4400G Operator Manual (2022)]], [[VSL-6000-6900 Installation Manual (2023)]],
 [[VSL-6000-6900 Operator Manual (2022)]].
+
+Bruno dealer-portal **Service Docs** manuals (pulled 2026-10-22 from the
+Manual Search page into the product-line folders under `MANUALS/Bruno/`,
+54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). Ingested
+so far: **SRE-5000** [[SRE-5000 Install Manual]],
+[[SRE-5000 Owner's Manual]], [[SRE-5000 Tech Support Guide]],
+[[SRE-5000 Power Options Install Guide]],
+[[SRE-5000 Folding Rail Install Guide]].
 
 Bruno dealer-portal **Drawings** (ILS instruction sheets, pulled
 2026-10-21 into `MANUALS/Bruno/Drawings/`, 636 files; manifest
@@ -863,12 +871,9 @@ on file):
 - [x] **VSL-6000 / VSL-6900 Curb-Sider**: install (2023) and operator (2022) manuals, ingested 2026-10-08 ([[VSL-6000-6900]]).
 
 **Bruno stairlifts (PMS sells and services, per the human 2026-10-15):**
-- [ ] **SRE-5000**: no install, operator or tech support manual on file.
-  TechMate covers troubleshooting and Bruno's 2026 ILS sheets cover specs
-  and service ([[SRE-5000]]); the sheets refer to an "SRE-5000 Technical
-  Support Guide" (also needed for the folding rail's mid-park stop mode).
-  Get the manuals from Brunopartner (Manuals menu) or Bruno Technical
-  Service (1-800-656-0552).
+- [x] **SRE-5000**: install (08-10-2026), owner's (08-06-2026), tech
+  support guide (09-17-2026), power options and folding rail guides pulled
+  from Brunopartner Service Docs and ingested 2026-10-22 ([[SRE-5000]]).
 - [x] **ILS-01446, Maintenance Control Plan for CRE/SRE Chair Lifts**:
   found in the Brunopartner Drawings library and ingested 2026-10-21
   ([[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]]).

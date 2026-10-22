@@ -63,6 +63,10 @@ serial **20060350524**: 2020, June, group 03 (VPL), model 5 (VPL), unit
 
 - **SRE-5000** product code **036**; motor controller kit SRV-5000-018 up
   to **26080361089**, SRV-5000-001 from **26080361090** ([[SRE-5000]]).
+  The cause is the **19 Aug 2026 gearbox ratio change (ECN8485)**. Old
+  carriages take PCB-00180 rev P3 or PCB-00194 rev 0, new ones PCB-00180
+  rev 1. A mismatch upsets down speed and charging
+  ([[SRE-5000 Tech Support Guide]]).
 - **SRE-3000:** soft-stop retrofit fits units after **12070330924**
   (7/31/2012), older ones need a new PCB; brake wiring changes at
   **14010330855** (one brake wire to the breaker harness).

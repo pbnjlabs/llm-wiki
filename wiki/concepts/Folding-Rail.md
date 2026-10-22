@@ -112,9 +112,16 @@ From [[ILS - Folding Rail Install and Service Sheets]] (2018–2022):
 - Retaining plate kit stops the primary bracket's gear shafts pushing out
   (standard since 2018). Pivoting end plate kit SRE-K-3111.
 - Carriage safety bracket kit **SRE-K-3089L/R**.
-- **SRE-5000:** its own rail and fold design; **continuous mode** by
-  default; actuator and switch replacement on
-  [[ILS - SRE-5000 Service Sheets]].
+- **SRE-5000:** its own rail and fold design.
+  - **Continuous mode** by default. Mid-park stop mode is the DIP switch
+    on the fold board, and the remote always stops at mid-park.
+  - Fold section at least 75 in. Rail 3 in above the first nose and 6 in
+    from the wall. 1/8 in gap under the end plate.
+  - Obstruction sensitivity set screw: clockwise = more sensitive. A dead
+    actuator can be unpinned and the rail lowered by hand.
+  - Sources: [[SRE-5000 Folding Rail Install Guide]],
+    [[SRE-5000 Tech Support Guide]]. Actuator and switch replacement:
+    [[ILS - SRE-5000 Service Sheets]].
 - Never fold a power rail by hand ([[ILS-01446 Maintenance Control Plan for CRE-SRE Chair Lifts]]).
 
 ## Fixes from Bruno's tech tips

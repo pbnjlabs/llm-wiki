@@ -108,8 +108,10 @@ The tip also lists **L7** (unit is or was recently running), which isn't
 in the manual's table, and calls **L8** "carriage at the end of the rail"
 where the manual says "soft stop". Same thing in practice.
 
-Bruno's newer **SRE-5000** has its own beep scheme (1S1L, 2S1L, 2S2L…);
-see [[Stairlift-Troubleshooting]].
+Bruno's newer **SRE-5000** has its own scheme: a green and a red LED plus
+chirp/beep/long tones (C-L, C-C-L, B-B-L-L…). The full Rev 7 table (25
+codes) is on [[SRE-5000 Tech Support Guide]]. Symptom flow is on
+[[Stairlift-Troubleshooting]].
 
 ## General "unit does not operate" checklist
 
