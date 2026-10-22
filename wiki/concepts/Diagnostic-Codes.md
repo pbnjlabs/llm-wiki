@@ -30,6 +30,8 @@ table below, and adds a few beeps (listed under the display table).
 
 **Normal codes** (not a failure — many display during normal operation):
 - A1 — Power swivel switch enabled (CRE-2110 only)
+- A2 — Seat in the up position (seat fold switch closed); listed in the
+  2026 SRE-2010 owner's manual
 - A3 — Seat fully rotated switch engaged (CRE-2110 only)
 - A8 — Power swivel or power footrest actuator operating
 - C1 — Unit is/was recently parked and charging
@@ -48,7 +50,8 @@ table below, and adds a few beeps (listed under the display table).
 - P8 — Rail actuator/motor running
 
 **Problem codes:**
-- A6/A7 — Obstruction sensed and reversed to clear obstruction
+- A6/A7 — Obstruction sensed and reversed to clear obstruction (the 2026
+  SRE-2010 owner's manual: A7 = seat or footrest jammed, actuator stalled)
 - C4 — Unit not charging when parked (all CRE-2110, SRE-2010E/EOS)
 - C5/C6 — Batteries bad or not being charged
 - D1 — Speed pot jumper not plugged in, or bad speed pot (old CRE-2110E only)
@@ -96,6 +99,11 @@ d7 (low voltage) match.
 diagnostic sound may be in **Mode 3** (DIP 1 on, DIP 2 off). Single-user
 mode on the Elite is DIP 1 and 2; on the Elan it's a jumper on the two
 right-hand pins ([[ILS - Stairlift Diagnostic Mode and Charger LED Sheets]]).
+The **2026 Elite install manuals** give the full 4-gang table: multi-user
+= 1 OFF/2 OFF, **single-user = 2 ON only**, quiet = 1 ON only, **battery
+warnings only = both ON**, and #3 ON = right-hand ([[SRE-2010 Install Manual]]).
+That table wins over the ambiguous ILS wording. The **SRE-5000** uses DIP
+1 = single-user and DIP 2 = right-hand.
 
 **More beeps** (from the 2020 code-translations tech tip):
 - **1 short beep every 3 s** = seat safety switch open (seat not in the

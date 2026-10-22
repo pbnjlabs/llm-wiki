@@ -97,7 +97,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 
 | Model | Manufacturer | Page |
 |---|---|---|
-| SRE-2010 (Elite) | Bruno | [[SRE-2010]] |
+| SRE-2010 (Elite; indoor and outdoor 2026 install and owner's manuals, power options) | Bruno | [[SRE-2010]] |
 | SRE-3000 (Elan, legacy) | Bruno | [[SRE-3000]] |
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
 | SRE-5000 (Elan, 2026; install, owner's, TSG, power options and folding rail manuals plus 2026 ILS sheets; product code 036, PCB must match serial (gearbox change ECN8485, split at SN 26080361090)) | Bruno | [[SRE-5000]] |
@@ -363,7 +363,11 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 Bruno dealer-portal **Service Docs** manuals (pulled 2026-10-22 from the
 Manual Search page into the product-line folders under `MANUALS/Bruno/`,
 54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). Ingested
-so far: **SRE-5000** [[SRE-5000 Install Manual]],
+so far: **SRE-2010 / 2010E** [[SRE-2010 Install Manual]],
+[[SRE-2010 Owner's Manual]], [[SRE-2010E Install Manual]],
+[[SRE-2010E Operator Manual]],
+[[SRE-2010 Power Seat and Footrest Install (2022)]]; **SRE-3050**
+[[SRE-3050 Power Options Install Guide]]; **SRE-5000** [[SRE-5000 Install Manual]],
 [[SRE-5000 Owner's Manual]], [[SRE-5000 Tech Support Guide]],
 [[SRE-5000 Power Options Install Guide]],
 [[SRE-5000 Folding Rail Install Guide]].

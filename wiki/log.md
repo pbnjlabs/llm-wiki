@@ -1364,3 +1364,18 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Findings:** gearbox ratio changed 19 Aug 2026 (ECN8485). PCB-00180 rev 1 is for SN 26080361090 and later; P3 or PCB-00194 for older. A mismatch causes sudden stops going down, or slow down travel with relay clicking. Mid-park stop mode is the fold-board DIP switch, and the remote always stops at mid-park. DIP 1 = single-user, DIP 2 = right-hand. It charges anywhere on the rail.
 - **Flagged:** "battery critical" is 2 short + 3 long in the install manual but B-B-L-L in the newer TSG table (TSG wins). The install checklist still says "move jumper" for RH (it's DIP 2). TechMate calls C-C a "safety relay" failure; the TSG says controller (drive circuit) failure.
 - **Missing manuals:** SRE-5000 ticked off.
+
+## [2026-10-22] ingest | Bruno SRE-2010 / SRE-2010E / SRE-3050 — install, owner's and power option manuals (Service Docs)
+- **Docs (6):** [[SRE-2010 Install Manual]] (02-25-2026), [[SRE-2010 Owner's Manual]] (02-27-2026), [[SRE-2010E Install Manual]] (02-25-2026), [[SRE-2010E Operator Manual]] (03-05-2026), [[SRE-2010 Power Seat and Footrest Install (2022)]], [[SRE-3050 Power Options Install Guide]] (04-16-2024). These are the first Elite install and owner's manuals on file.
+- **Updated:** [[SRE-2010]] (documents, install essentials, DIP table, outdoor differences, owner codes, power rail disable switch), [[SRE-3050]], [[Diagnostic-Codes]] (A2, A7, the full Elite DIP table), index.
+- **Findings:**
+  - Elite rail = stair length + 9 in, plus 4 in with an overspeed brake.
+  - No mount on the top landing; no more than 3 steps without a mount.
+  - Wall clearance is 4.25 in (5.25 with a canopy, 7.25 with the wide seat), measured from the back of the top of the rail.
+  - RH needs the 12-pin jumper too.
+  - Outdoor units charge only at the end contacts; dielectric grease on all rail connections; keyed 2.4 GHz RF remotes (9 V) at 35–48 in; 5-year major-component warranty.
+  - Elite power swivel needs a second press at the top; the Elite power rail has a disable switch, and the emergency hand-fold must be slow.
+- **Flagged:**
+  - The ILS "single-user = DIP 1 and 2" wording vs the manual's table (single-user = #2 only, both ON = battery warnings only); the manual wins.
+  - The 2010E owner's manual calls the seat "Elite Curve" and says it swivels 135° (copy error).
+  - The SRE-3050 power-options footrest torque is given as both 40 and 50 ft-lb.
