@@ -203,8 +203,13 @@ service sheets per lift: Curb-Sider (lift belt, head assembly, controller
 retrofit, capacity decal), Joey (belt, motors, wheels, VSL-4000HW
 override), Out-Sider (hitch adapters, platform setup, fold cam, trailer
 wiring and resistor kits, camera), Chariot (linkage, actuator, latch,
-wheels, camera), Out-Rider and the **PUL-1850 Stow-Away**. **Docking
-device and general sheets: downloaded, not yet ingested.**
+wheels, camera), Out-Rider and the **PUL-1850 Stow-Away**.
+
+**Docking devices and general notices ingested 2026-10-22** (63 sheets):
+[[ILS - Docking Device Fitment by Mobility Device]] (60 sheets, mostly
+1999–2015 scooters and chairs) and
+[[ILS - General Install Notices (Hybrid Vehicles, ESD, Dielectric Grease)]].
+**All 636 downloaded Drawings sheets are now ingested.**
 
 Bruno also publishes Australian-market addenda for its G models
 ([[ILS - Stairlift Australian Addenda]]); they're not US requirements.

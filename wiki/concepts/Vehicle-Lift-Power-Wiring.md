@@ -105,5 +105,11 @@ trailer fuse, bypass a trailer tow relay (Ford), connect the loose
 red/black wire (GM). See [[ILS - Out-Sider (ASL-250-275) Install and Service Sheets]]
 and [[ILS - Chariot (ASL-700) Service Sheets]].
 
+**Hybrids and EVs:** up to 650 V DC in orange/yellow-marked cabling; never
+touch it or route lift wiring near it, and don't power a lift from a
+hybrid's small 12 V auxiliary battery. Boards are static-sensitive: wear
+the ESD strap and handle them by the edges
+([[ILS - General Install Notices (Hybrid Vehicles, ESD, Dielectric Grease)]]).
+
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
 [[PUL-1100]], [[ASL-275]], [[ASL-250]], [[ASL-700]], [[VSL-4400]], [[VSL-6000-6900]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]

@@ -25,8 +25,11 @@ and it's chosen for the specific chair or scooter.
 **Harmar ships the DD separately** ("docking device not included" on
 every model in the [[Harmar Mobility Solutions Chart (2026, Rev F)]]).
 **Bruno ships one in the box**: the Curb-Sider comes in 3 cartons and
-the Out-Rider in 4, and one carton is the docking device. Bruno's DD part
-numbers aren't on file.
+the Out-Rider in 4, and one carton is the docking device. Bruno's DD
+part numbers (**SLD-** scooter, **WLD-** wheelchair) and install sheets
+for about 60 scooters and chairs, mostly 1999–2015 models, are on
+[[ILS - Docking Device Fitment by Mobility Device]]. For a current
+device, ask Bruno which DD fits.
 
 ## Harmar DD types
 
@@ -121,8 +124,9 @@ Bruno's 2005 sheet for the **Invacare Arrow Storm FWD** (WLD-00967):
 the chair is over 300 lb with its tail weight, so **remove the tail
 weight unless the lift is rated 400 lb** (a claw lets the lift pick the
 42 lb weight up separately) ([[ILS - Curb-Sider (VSL-6000-6900) Service Sheets]]).
-Bruno's other docking-device sheets are in `MANUALS/Bruno/Drawings/Docking Devices/`
-(not yet ingested).
+Bruno's other docking-device sheets (balance point first, shroud
+notching, universal belt and clamp mounts, the Hook 'N Go belt DD) are
+tabled on [[ILS - Docking Device Fitment by Mobility Device]].
 
 [[Transport-and-Tie-Downs]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[VSL-6000-6900]], [[PUL-1100]],
 [[Hybrid-Vehicle-Lifts]], [[Mobility-Device-Weights]], [[Hitch-Adapters]], [[Harmar]], [[Bruno]]
