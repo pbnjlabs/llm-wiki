@@ -13,7 +13,10 @@ Pride's mobility chargers. Golden's chargers are on
 
 A 4-LED (Power/red, Charge/yellow, Float/green, Fault/red) diagnostic
 table for the VPL battery charger. Confirmed identical across
-[[VPL-3100B]] and [[VPL-3200B]] — same table appears in both install
+[[VPL-3100B]] and [[VPL-3200B]], and the 2022–2024 commercial and flood-zone
+manuals ([[VPL-3300B Installation Manual (2022)]]). Their reset for a
+fault or over-temperature: unplug AC and the battery for 1–2 min, then
+reconnect, and replace the charger if it still won't charge — same table appears in both install
 manuals and both operator manuals, word-for-word.
 
 | Power (Red) | Charge (Yellow) | Float (Green) | Fault (Red) | Status | Solution |

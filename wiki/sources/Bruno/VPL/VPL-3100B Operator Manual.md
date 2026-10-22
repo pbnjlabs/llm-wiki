@@ -10,6 +10,8 @@ tags: [vpl, bruno, operator]
 
 # VPL-3100B Operator Manual
 
+> **Superseded** by [[VPL-3100B Operator Manual (2024)]] (09-16-2024).
+
 32-page end-user operator manual, trilingual (English pp.1-10, Spanish
 pp.11-19, French pp.21-29 — content identical across languages, only read
 the English section in full).

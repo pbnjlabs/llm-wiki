@@ -1409,3 +1409,27 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - SRE-1550 is belt driven (belt tension per SRE-00648, rail groove check), and a real overspeed trip means returning the drive.
   - SRE-3000 2019: rail = stair length + 12 in; 3 in wall clearance; single-user is set by a jumper; adds a drive vibration adjustment and a folding joint reset.
 - **Flagged:** the legacy manuals specify white lithium grease, but Bruno's current PTFE guidance (ILS-01446) applies.
+
+## [2026-10-22] ingest | Bruno VPL — AC VPL-3100, VPL-3100B operator, VPL-3200B flood zone, commercial VPL-3300B/3310B/3353B and enclosure manuals (Service Docs)
+- **Docs (15 → 11 source pages):**
+  - [[VPL-3100 (AC) Installation Manual (2025)]] and [[VPL-3100 (AC) Operator Manual (2024)]] (first AC VPL manuals).
+  - [[VPL-3100B Operator Manual (2024)]] (supersedes 2019).
+  - [[VPL-3200B Flood Zone Tower Installation Manual (2025)]] and [[VPL-3200B Flood Zone Operator Manual (2024)]].
+  - [[VPL-3300B Installation Manual (2022)]] and [[VPL-3300B Operator Manual (2023)]].
+  - [[VPL-3310B Tall Commercial Installation Manual (2020)]] and [[VPL-3310B Tall Commercial Operator Manual (2019)]].
+  - [[VPL-3353B 3-Gate Installation Manual (2019)]].
+  - [[VPL Commercial Enclosure Installation Manuals (2019)]] (5 enclosure supplements on one page).
+- **Updated:** [[VPL-3153-3175]], [[VPL-3100B]], [[VPL-3200B]], [[VPL-3300B]] (new "From the manuals" section), [[Battery-Charger-LED-Diagnostics]], [[Bruno]], index.
+- **Findings:**
+  - AC VPL: dedicated GFI 15 A circuit, no battery backup (hand wheel only); E-stop 5 s clears controller faults.
+  - Commercial: AC hard-wired to a disconnect, junction boxes on both sides, PCB-00164 1–10 s strike/door timer, top and bottom final limits.
+  - The tall commercial emergency lowering key switch is mounted outside the hoistway and bypasses the safeties; lock out three power sources.
+  - A non-flush hoistway door needs a 60° deflector.
+  - 3-gate "runs with gates open" = the yellow jumper is still in.
+  - Enclosure door harness: pull the breaker first or the 24 V fuse blows.
+  - Flood zone tower: NEMA 3R 60 A disconnect, FZ enclosure; won't run in more than 3 in of water.
+- **Flagged:**
+  - The 3310B and OFZ manuals print 1210 lb as "379 kg" (should be about 549 kg).
+  - The AC VPL maintenance list includes "battery condition" (DC carry-over).
+  - Several VPL manuals carry a stray "SRE-2010G INSTALLATION 06-07-2021" footer on the cover page.
+- **Missing manuals:** commercial VPL and AC VPL-3153/3175 ticked off.

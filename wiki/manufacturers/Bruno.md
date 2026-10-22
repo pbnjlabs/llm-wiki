@@ -75,11 +75,14 @@ vertical platform lifts (VPL).
   - [[VPL-3200B]] — larger hoistway lift, up to 123" (3.1m) floor-to-floor,
     electrical emergency lowering kit + hand wheel, two-section tower
     joined on site
-  - [[VPL-3153-3175]] — the **AC** low-rise VPL (no "B"), from tech
-    tips only: PCB-00143 90 V board, LEDs E1–E18 and fault flash codes
+  - [[VPL-3153-3175]] — the **AC** low-rise VPL (no "B"): 2025 install
+    and 2024 operator manuals (pulled 2026-10-22), plus tech tips. PCB-00143
+    90 V board, LEDs E1–E18 and fault flash codes
   - [[VPL-3300B]]: the **commercial** line (VPL-3353B/3375B,
-    VPL-3310B/3312B/3314B). No manuals on file; spec sheet, drawings and
-    kit sheets only.
+    VPL-3310B/3312B/3314B): install and operator manuals, 3-gate and
+    enclosure supplements (pulled 2026-10-22), plus ILS sheets
+  - [[VPL-3200B]] also has a **flood zone tower** (VPL-3210B-OFZ; it won't run in
+    more than 3 in of standing water)
   - Drive work for all of them: [[VPL-Drive-Service]]; schedules and
     inspections: [[VPL-Maintenance]] (ILS-01444)
   - Both share [[Top-Landing-Gate-Installation]] and
@@ -158,8 +161,8 @@ videos. The stairlift half is ingested as
 [[TechMate Stairlift Troubleshooter]] and condensed into
 [[Stairlift-Troubleshooting]]. The VPL half is ingested as
 [[TechMate VPL Troubleshooter]] and condensed into [[VPL-Troubleshooting]];
-it also covers AC and commercial VPL models the wiki has no manuals for
-(VPL-3153/3175, VPL-3353B/3375B, VPL-3310B/3312B/3314B). Its "Contact Bruno"
+it also covers the AC and commercial VPL models (VPL-3153/3175,
+VPL-3353B/3375B, VPL-3310B/3312B/3314B), whose manuals arrived 2026-10-22. Its "Contact Bruno"
 and "order a part" buttons send the session to Bruno, so only click them
 on purpose.
 
