@@ -221,6 +221,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | **VPL maintenance (Bruno)**: ILS-01444 maintenance control plan (weekly checklist required on commercial lifts, 6-month/yearly routine, yearly periodic, 5-year 125% load test, coastal every 4 months, 5-year logs), the manuals' 12-month and 2-month lists, grease, nuts, belts, switches, batteries (replace below 70%), site checks, touch-up paint, Joint Commission records | [[VPL-Maintenance]] |
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
 | **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
+| **Bruno parts lookup and parts drawings**: serial lookup (exact serial only; don't submit the inquiry boxes), 252 assembly drawings by family, common part numbers (BCR-24020 VPL charger, BTR-12001/12002/12008/12010 batteries, TMR-00004 remote) | [[Bruno-Parts-Lookup]] |
 | Overspeed safety governor (Bruno field-resettable + Prism motor-replacement variant; Bruno test methods: trip key, SRE-2010C drop test SRV-2010-018, legacy duct-tape and 96 V fixture) | [[Overspeed-Safety-Brake]] |
 | **Stairlift maintenance (Bruno)**: yearly checklist from the manuals, **grease: PTFE on every CRE/SRE gear rack (ILS-01446, 2026; settles the older white lithium/Magnalube/Lubriplate notes)**, ILS-01446 weekly checklist, 6-month/yearly/5-year inspection intervals and 5-year logs, batteries (SRE-3000 = MK ES3-12 3 Ah; Elite/CRE 7 Ah; 3–5 yr, 10–15 trips), remote batteries yearly, overspeed tests, Joint Commission records | [[Stairlift-Maintenance]] |
 | Bruno serial numbers: YY MM PP M SSSS layout, product and model groups, stairlift component date codes (S1/S2, F1/F2, R1/R2), where the SRE-3000 serial is | [[Bruno-Serial-Numbers]] |
@@ -402,6 +403,16 @@ the 2018 manual), [[CRE-2110 Owner's Manual]],
 [[SRE-5000 Owner's Manual]], [[SRE-5000 Tech Support Guide]],
 [[SRE-5000 Power Options Install Guide]],
 [[SRE-5000 Folding Rail Install Guide]].
+
+Bruno dealer-portal **parts drawings** (assembly BOMs, pulled 2026-10-22
+from the parts lookup into `MANUALS/Bruno/Parts/`, 252 drawings, manifest
+`_manifest.md`; overview [[Bruno-Parts-Lookup]]):
+[[Parts Drawings - SRE-5000 Elan]], [[Parts Drawings - SRE-3050 Elan]],
+[[Parts Drawings - SRE-2010 Elite]], [[Parts Drawings - CRE-2110 Elite Curve]],
+[[Parts Drawings - VPL Residential Short (3153-3175)]],
+[[Parts Drawings - VPL Residential Tall (3210B-3214B)]],
+[[Parts Drawings - VPL Commercial (3353B-3375B, 3310B-3314B)]],
+[[Parts Drawings - Vehicle Lifts]].
 
 Bruno dealer-portal **Drawings** (ILS instruction sheets, pulled
 2026-10-21 into `MANUALS/Bruno/Drawings/`, 636 files; manifest
@@ -975,6 +986,7 @@ list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Bruno — Drawings library (ILS sheets) pulled 2026-10-21: **all 636 sheets ingested** 2026-10-21/22 (stairlift 161, VPL 134, vehicle lifts 277, docking devices 60, general 3 in `MANUALS/Bruno/Drawings/`); no backlog.
+### Bruno — parts drawings pulled and ingested 2026-10-22: 252 assembly drawings (`MANUALS/Bruno/Parts/`), 8 family pages, see [[Bruno-Parts-Lookup]].
 ### Bruno — dealer-portal Service Docs pulled 2026-10-22: the newest relevant edition of 54 manuals (SRE-5000 set, Elite and Elite Curve 2026 manuals, legacy Electra-Ride lifts, AC and commercial VPLs, flood zone tower, vehicle-lift operator manuals, Big-Lifter, Lifter, Back-Saver, Stow-Away), **all ingested**; skipped Valet/TAS/VSS seats, Carony, scooters and chairs, discontinued vehicle lifts, CAN/G variants and the ELV-3600 elevator (manifest `MANUALS/Bruno/_service_docs_manifest.md`).
 ### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals (now on file) and ILS-01446 were on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 

@@ -267,3 +267,11 @@ was found in the Drawings library and ingested 2026-10-21. The Chariot, Joey and
 [[Vehicle-Lift-Power-Wiring]], [[Docking-Devices]], [[Gate-and-Door-Interlocks]], [[Hitch-Adapters]],
 [[Stairlift-Troubleshooting]], [[VPL-Troubleshooting]], [[Troubleshooting]],
 [[Stairlift-Maintenance]], [[Bruno-Serial-Numbers]], [[CRE-2100]]
+
+## Parts drawings (assembly BOMs)
+
+Pulled 2026-10-22 from the Brunopartner parts lookup: **252 assembly
+drawings** in `MANUALS/Bruno/Parts/`, covering every stairlift, VPL and
+vehicle-lift family PMS services, with a key-service-parts table on
+each family page. Start at [[Bruno-Parts-Lookup]].
+

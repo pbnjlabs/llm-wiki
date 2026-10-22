@@ -167,6 +167,22 @@ the manuals**: where they disagree, the **newer revision wins**, and the
 page says so. Skip Valet seats, kits for discontinued vehicle lifts only,
 and plain part drawings unless asked.
 
+### Dealer-portal parts drawings (assembly BOMs)
+
+Brunopartner's **Parts Lookup by Serial #** only takes an exact serial,
+so Bruno's assembly drawings (exploded views with item/qty/part tables,
+public at `/Uploads/Public/Documents/Drawings/<part>.pdf`) are pulled
+by crawling from each model's top-level drawing into
+`MANUALS/Bruno/Parts/` with a `_manifest.md`. They get one source page
+per product family, titled `Parts Drawings - <family>`, with
+`doc_type: IPB`, `url:` the parts lookup page, and `date:` the newest
+drawing revision. Each page has a drawing table and a generated **key
+service parts** table (hardware omitted). Overview and caveats:
+`concepts/Bruno-Parts-Lookup.md`. They are Bruno's **current revision**,
+so for an older unit the portal serial lookup or the manual's exploded
+view wins. Don't record portal prices, and never tick or submit the
+lookup's inquiry checkboxes (they email Bruno).
+
 ### Manufacturer prices and pay scales
 
 PMS doesn't take work from manufacturers (EZ-ACCESS is only a

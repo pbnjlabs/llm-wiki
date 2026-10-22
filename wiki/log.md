@@ -1453,3 +1453,14 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - PUL-1850: runs only with the door open (no FMVSS impact); door switch gap ¼ in max.
   - VSL-4000HW: emergency board buttons bypass all limits; J8 XTRA jumper sets button C's direction.
 - **Flagged:** several 2022 vehicle-lift operator manuals carry a stray "SRE-2010G OPERATOR" footer. **Service Docs pull complete: all 54 manuals ingested.**
+
+## [2026-10-22] ingest | Bruno parts drawings — 252 assembly drawings from the Brunopartner parts lookup
+- **Pull:** per the human ("here is the parts catalogue, download the relevant items"). The portal's Parts Lookup only accepts exact serials and returns a per-unit parts list linking to public assembly drawings. The catalogue was rebuilt by crawling from 45 top-level model/carriage drawings, three assembly levels deep: **252 drawings** into `MANUALS/Bruno/Parts/` (manifest `_manifest.md`). 540 referenced part numbers have no drawing (404-checked). Valet seat parts skipped; no prices recorded.
+- **Pages (8):** [[Parts Drawings - SRE-5000 Elan]], [[Parts Drawings - SRE-3050 Elan]], [[Parts Drawings - SRE-2010 Elite]], [[Parts Drawings - CRE-2110 Elite Curve]], [[Parts Drawings - VPL Residential Short (3153-3175)]], [[Parts Drawings - VPL Residential Tall (3210B-3214B)]], [[Parts Drawings - VPL Commercial (3353B-3375B, 3310B-3314B)]], [[Parts Drawings - Vehicle Lifts]]. Each has a drawing table (level, parent, revision) and a key-service-parts table generated from 3,890 parsed BOM lines.
+- **New concept:** [[Bruno-Parts-Lookup]] (serial lookup, the inquiry checkboxes email Bruno, current-revision caveat, common cross-model parts). Every Bruno model page now links its parts page. CLAUDE.md: new "Dealer-portal parts drawings" convention. Updated [[Bruno]], index.
+- **Findings:**
+  - All battery VPLs use charger BCR-24020; tall residential and commercial VPLs use BTR-12001 33 Ah U1 batteries.
+  - Stairlift batteries: BTR-12002 (Elite and Curve), BTR-12008 (SRE-3050), BTR-12010 (SRE-5000).
+  - SRE-5000 carriage PCB-00180, gear motor MDC-24035. Elite motors MDC-24031/24032 (pre-2025). CRE motor MDC-24033.
+  - Joey controller PCB-00155 and up/down motor MDC-12025. Out-Rider heavy-duty motor MDC-12019 (shared with the VSL-570).
+- **Flagged:** the AC VPL tower drawings list motor VPL-31953 "Elektrim 1 hp AC motor", while the 2025 AC manual and spec sheet say ½ hp 90 VDC. Check the motor tag before ordering.
