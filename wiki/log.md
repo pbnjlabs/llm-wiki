@@ -1486,3 +1486,8 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **New:** [[Vehicle-Lift-Emergency-Operation]] gives crank, drill and board-button backups for the Out-Sider, Chariot, Out-Rider, Joey (VSL-4400 and the older VSL-4000HW, whose board buttons differ), Curb-Sider and Stow-Away, with directions and the fuse/key-first rule.
 - **Linked from:** 14 model pages, [[Stairlift-Troubleshooting]] §13, index.
 - **Gap noted:** no documented emergency method for the VSL-570 Big-Lifter or the AWL-150 Lifter.
+
+## [2026-10-22] field-note | Golden GC440 — 8 beeps, won't move, burnt motor connector (open)
+- Started [[2026-10-22 GC440 8 beeps burnt motor connector]]: sn QCA15N0466, intermittent. Key on gives power, then 8 beeps (Dynamics code 8 = motor voltage fault, open circuit) and no drive. The first connector off the motor is burnt and melting. The serial label under the floor mat was rubbed off, so the tech read the serial from the bottom of the frame.
+- Added Golden's code 8 test tree and harness part numbers (SE06E604 rear / SE06E606 front intermediate motor harness).
+- Linked from [[GC240-340-440-540-Companion]], [[Flash-Beep-Diagnostics]], [[Companion Service Guide (GC240, GC340, GC440)]] (its step 14 is printed inverted) and the index. Takeaways pending.

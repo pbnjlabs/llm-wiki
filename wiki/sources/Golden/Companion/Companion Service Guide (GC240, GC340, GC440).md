@@ -34,3 +34,5 @@ Contents:
 - Appendices: how to use a voltmeter/ohmmeter, full wiring diagram
 
 Feeds: [[GC240-340-440-540-Companion]], [[Flash-Beep-Diagnostics]]
+
+Used in field note [[2026-10-22 GC440 8 beeps burnt motor connector]] (flash code #8 tree, motor harness parts). Note: step 14 of the code 8 tree is printed inverted ("discolored or corroded? No → replace"); replace connectors that **are** discolored or corroded.
