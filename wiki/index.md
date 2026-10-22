@@ -98,7 +98,10 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Model | Manufacturer | Page |
 |---|---|---|
 | SRE-2010 (Elite; indoor and outdoor 2026 install and owner's manuals, power options) | Bruno | [[SRE-2010]] |
-| SRE-3000 (Elan, legacy) | Bruno | [[SRE-3000]] |
+| SRE-3000 (Elan, legacy; 2019 install and operator manuals) | Bruno | [[SRE-3000]] |
+| SRE-2000 (Electra-Ride Elite, legacy; 2007 install and operator manuals) | Bruno | [[SRE-2000]] |
+| SRE-2750 (Electra-Ride LT, legacy; 2011 install, 2009 operator) | Bruno | [[SRE-2750]] |
+| SRE-1550 (Electra-Ride II, legacy belt drive; 2009 install and operator) | Bruno | [[SRE-1550]] |
 | SRE-3050 (Elan) | Bruno | [[SRE-3050]] |
 | SRE-5000 (Elan, 2026; install, owner's, TSG, power options and folding rail manuals plus 2026 ILS sheets; product code 036, PCB must match serial (gearbox change ECN8485, split at SN 26080361090)) | Bruno | [[SRE-5000]] |
 | VPL-3100B | Bruno | [[VPL-3100B]] |
@@ -107,7 +110,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VPL-3300B commercial (VPL-3353B/3375B, VPL-3310B/3312B/3314B; no manuals, ILS spec sheet, drawings and kit sheets only) | Bruno | [[VPL-3300B]] |
 | CRE-2110 (Elite Curve; indoor and outdoor 2026 install and owner's manuals, power options) | Bruno | [[CRE-2110]] |
 | CRE-3110 (newer curved rail, 2026 spec sheet: 300 lb, 0–65°, Smart Swivel) | Bruno | [[CRE-3110]] |
-| CRE-2100 (Electra-Ride III, legacy curved rail; 2001 spec sheet only) | Bruno | [[CRE-2100]] |
+| CRE-2100 (Electra-Ride III, legacy curved rail; 2009 install and operator manuals, 2001 spec sheet) | Bruno | [[CRE-2100]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
 | ASL-250 (Out-Sider, legacy) | Bruno | [[ASL-250]] |
@@ -363,7 +366,13 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 Bruno dealer-portal **Service Docs** manuals (pulled 2026-10-22 from the
 Manual Search page into the product-line folders under `MANUALS/Bruno/`,
 54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). Ingested
-so far: **CRE-2110 / 2110E** [[CRE-2110 Install Manual (2026)]] (supersedes
+so far: **legacy stairlifts** [[SRE-3000 Installation Manual (2019)]]
+(supersedes 2015), [[SRE-3000 Operator Manual (2019)]],
+[[SRE-2000 Installation Manual (2007)]], [[SRE-2000 Operator Manual (2007)]],
+[[SRE-2750 Installation Manual (2011)]], [[SRE-2750 Operator Manual (2009)]],
+[[SRE-1550 Installation Manual (2009)]], [[SRE-1550 Operator Manual (2009)]],
+[[CRE-2100 Installation Manual (2009)]], [[CRE-2100 Operator Manual (2009)]];
+**CRE-2110 / 2110E** [[CRE-2110 Install Manual (2026)]] (supersedes
 the 2018 manual), [[CRE-2110 Owner's Manual]],
 [[CRE-2110 Power Options Install Guide]], [[CRE-2110E Install Manual]],
 [[CRE-2110E Owner's Manual]]; **SRE-2010 / 2010E** [[SRE-2010 Install Manual]],

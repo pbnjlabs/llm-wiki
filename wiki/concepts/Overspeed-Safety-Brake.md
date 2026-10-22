@@ -92,6 +92,18 @@ with the power on bring it back so the switch roller sits in the centre
 of the valley. A click and the power-up beep mean it's reset
 ([[Tech Tip - SRE-3000 Overspeed Reset on the Rail]]).
 
+**Legacy manuals (2007–2009):** the [[SRE-2000]] and [[CRE-2100]] use a
+**two-lever reset**:
+1. Rotate the overspeed switch lever while pushing the wires in (too far
+   and it won't reset).
+2. Turn the cam lever just until it engages.
+
+On the commercial [[SRE-1550]], align the white marks on the cam and
+housing before fitting the carriage. Rotate the cam back to its detent
+after a service trip; **a real trip means pulling the drive and returning
+it**. The 2019 [[SRE-3000]] manual uses the ¼ in socket reset (CW for LH,
+CCW for RH).
+
 **Older Bruno models** (test-fixture tip): CRE-2100, CRE-2110 and SRE-2000
 reset by rotating the cam and repositioning the activating pin;
 SRE-1540/1550 by moving the carriage up with the large gearbox pulley and

@@ -1391,3 +1391,21 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - Power swivel stop adjustable 30–90° (small cam).
   - The curve beeps when stopped short of a charge position; a yellow LED on the bracket shows correct parking.
 - **Flagged:** the remote height is printed as "15 in (220 mm)", a typo; the owner's manual's last pages still carry a 2023 footer.
+
+## [2026-10-22] ingest | Bruno legacy stairlifts — SRE-3000 (2019), SRE-2000, SRE-2750, SRE-1550, CRE-2100 manuals (Service Docs)
+- **Docs (10):**
+  - [[SRE-3000 Installation Manual (2019)]] (trilingual; supersedes the 2015 manual, now marked superseded) and [[SRE-3000 Operator Manual (2019)]].
+  - [[SRE-2000 Installation Manual (2007)]] and [[SRE-2000 Operator Manual (2007)]].
+  - [[SRE-2750 Installation Manual (2011)]] and [[SRE-2750 Operator Manual (2009)]].
+  - [[SRE-1550 Installation Manual (2009)]] and [[SRE-1550 Operator Manual (2009)]].
+  - [[CRE-2100 Installation Manual (2009)]] and [[CRE-2100 Operator Manual (2009)]].
+- **New model pages:** [[SRE-2000]] (Electra-Ride Elite, 400 lb), [[SRE-2750]] (Electra-Ride LT, 275 lb), [[SRE-1550]] (Electra-Ride II, 350 lb, belt drive).
+- **Updated:** [[SRE-3000]], [[CRE-2100]] (first manuals on file), [[Overspeed-Safety-Brake]] (legacy resets), [[Diagnostic-Codes]] (new legacy beep code section), [[Bruno]] (legacy section rewritten), index.
+- **Findings:**
+  - Legacy units charge only at the ends.
+  - DIP #4 is a coast delay (900 ms for remote dropouts).
+  - SRE-2000 rail sits 1¼ in above the noses and 2⅝ in from the obstruction, and must never lean forward.
+  - SRE-2750 clamp bolts are only 10 ft-lb (more deforms the rail); wedge locks are used when the rail is off the floor.
+  - SRE-1550 is belt driven (belt tension per SRE-00648, rail groove check), and a real overspeed trip means returning the drive.
+  - SRE-3000 2019: rail = stair length + 12 in; 3 in wall clearance; single-user is set by a jumper; adds a drive vibration adjustment and a folding joint reset.
+- **Flagged:** the legacy manuals specify white lithium grease, but Bruno's current PTFE guidance (ILS-01446) applies.

@@ -123,6 +123,26 @@ chirp/beep/long tones (C-L, C-C-L, B-B-L-L…). The full Rev 7 table (25
 codes) is on [[SRE-5000 Tech Support Guide]]. Symptom flow is on
 [[Stairlift-Troubleshooting]].
 
+## Legacy Electra-Ride beep codes (SRE-1550, SRE-2000, SRE-2750, CRE-2100)
+
+The 2007–2011 manuals use a 4-gang DIP switch: #1/#2 set the mode
+(multi-user, single-user, quiet, battery warnings only), #3 sets the
+hand, and **#4 sets the coast delay** (600 ms, or 900 ms ON for remote
+dropouts). Codes:
+
+| Beeps | Meaning |
+|---|---|
+| Chirp | Power-up, or a safety device activated |
+| Chirp every 3 s | Seat safety open (multi-user) |
+| **4 short + 1 long**, every 3 min | Stopped off the charge bumper |
+| **3 short + 2 long**, every 4 min | Battery voltage drop |
+| **2 short + 3 long**, every minute | Battery critical (under 16 V) |
+| 3 beeps / pause (SRE-2000); 2 beeps / pause / 5 (SRE-2750, SRE-1550) | Switch held at power-up |
+| 1 short + 2 long | Transmitter memory full |
+
+Sources: [[SRE-2000 Installation Manual (2007)]], [[SRE-2750 Installation Manual (2011)]],
+[[SRE-1550 Installation Manual (2009)]], [[CRE-2100 Installation Manual (2009)]].
+
 ## General "unit does not operate" checklist
 
 Before diving into codes: check circuit breaker (foreign-object jam or

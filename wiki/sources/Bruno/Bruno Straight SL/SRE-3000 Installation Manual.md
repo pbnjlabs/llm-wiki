@@ -10,6 +10,8 @@ tags: [stairlift, bruno, sre-3000, install, legacy]
 
 # SRE-3000 Installation Manual (Elan)
 
+> **Superseded** by [[SRE-3000 Installation Manual (2019)]] (04-30-2019), which adds the rail cross pin and changes the rail length to stair length + 12 in.
+
 78-page dealer installation manual, P/N 3000-I, dated 2015 — the oldest and
 least-current document in this cluster. Title page reads "SRE-3000 ELAN
 STRAIGHT RAIL STAIRLIFT INCLUDING FOLDING RAIL," confirming [[SRE-3000]]

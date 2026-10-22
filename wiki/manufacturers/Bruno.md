@@ -130,17 +130,21 @@ trunk lifts (hoist motor MDC-12009; see
 They're manufacturer-authored, so they rank like TechMate: above
 clippings, **below the manuals**. Where they disagree, the pages say so.
 
-## Legacy stairlifts (tech tips only)
+## Legacy stairlifts
 
-Older Bruno models that appear only in tech tips. No manuals are on file.
+Older Bruno models still in the field. Their 2007–2011 manuals were
+pulled from Brunopartner Service Docs on 2026-10-22.
 - [[CRE-2100]] **Electra-Ride III**: the curved rail before the CRE-2110
-  (2001 spec sheet).
-- **SRE-1540 / SRE-1550**: older straight lifts with belt-and-pulley
-  drives (seat comparison, duct-tape overspeed test).
-- **SRE-2000**: overspeed test fixture and cam reset shared with the
-  CRE-2100/2110.
-- **SRE-2750**: mentioned only as the Elan's predecessor for battery
-  range (10–15 trips).
+  (2009 install and operator manuals, 2001 spec sheet).
+- [[SRE-2000]] **Electra-Ride Elite**: 400 lb straight rail before the
+  SRE-2010. It has a two-lever overspeed reset and a DIP #4 coast delay.
+- [[SRE-2750]] **Electra-Ride LT**: 275 lb, ½ hp, aluminum channel rail
+  (clamp bolts only 10 ft-lb). It came before the Elan.
+- [[SRE-1550]] **Electra-Ride II** (and SRE-1540): 350 lb, steel channel
+  rail, belt-and-pulley drive (seat comparison, duct-tape overspeed
+  test).
+- [[SRE-3000]] Elan: the 2019 trilingual install and operator manuals
+  supersede the 2015 install manual.
 
 See [[Tech Tip - Legacy SRE-1540, SRE-1550 and SRE-2000]] and
 [[ILS - Legacy Stairlift Sheets (SRE-2000, Decals, Molding Standard)]].
