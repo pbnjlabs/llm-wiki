@@ -17,7 +17,7 @@ For the general method behind this page, and for other equipment, see
 
 **Names used below:** *Elan* = [[SRE-3050]] / [[SRE-3000]]. *Elite* =
 [[SRE-2010]] family. *CRE* = [[CRE-2110]] family. *SRE-5000* = Bruno's
-newest straight stairlift (no manual on file). Elite and CRE have a code
+newest straight stairlift ([[SRE-5000 Tech Support Guide]] has its full code table). Elite and CRE have a code
 display under the seat; Elan and SRE-5000 talk in beeps only.
 
 Bruno Technical Service: **1-800-656-0552**.

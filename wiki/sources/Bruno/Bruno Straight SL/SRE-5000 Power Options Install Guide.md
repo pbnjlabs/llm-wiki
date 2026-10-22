@@ -3,7 +3,7 @@ type: source
 manufacturer: Bruno
 model: SRE-5000
 doc_type: Install Manual
-source: "MANUALS/Bruno/Bruno Straight SL/SRE-5000 Power Options Install Guide 04-16-2026.pdf"
+source: "MANUALS/Bruno/Bruno Straight SL/SRE-5000 Power Options 04-16-2026.pdf"
 date: 2026-04-16
 tags: [stairlift, bruno, sre-5000, elan, install, power-swivel, power-footrest]
 ---

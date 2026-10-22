@@ -1464,3 +1464,19 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - SRE-5000 carriage PCB-00180, gear motor MDC-24035. Elite motors MDC-24031/24032 (pre-2025). CRE motor MDC-24033.
   - Joey controller PCB-00155 and up/down motor MDC-12025. Out-Rider heavy-duty motor MDC-12019 (shared with the VSL-570).
 - **Flagged:** the AC VPL tower drawings list motor VPL-31953 "Elektrim 1 hp AC motor", while the 2025 AC manual and spec sheet say ½ hp 90 VDC. Check the motor tag before ordering.
+
+## [2026-10-22] lint | links, orphans, citations, index coverage, stale notes
+- **Clean:** no broken wikilinks, no orphan pages. Every model, concept, manufacturer and field-note page is in the index with the right `type:`. Every `source:` path resolves on disk.
+- **Fixed:**
+  - [[SRE-5000 Power Options Install Guide]] cited a filename that doesn't exist; now points to the real PDF.
+  - [[SRE-3050]] still said ILS-01446 was "not on file"; now linked.
+  - [[Stairlift-Troubleshooting]] still said the SRE-5000 had "no manual on file"; now links the TSG.
+- **Uncited raw files (39), all known or intentional:**
+  - 13 Golden Spanish-language scooter manuals (already listed as pending).
+  - Harmar product photos and CSV metadata, plus 2 Clippings images (assets, not documents).
+  - 8 files already summarized under another page's path (AL300/AL301 Harmar manuals, Helix guides, EZ-ACCESS pay scales, PMS eval forms, a GP162 service guide).
+- **Gaps:**
+  - [[CRE-3110]] still has no manuals; none are on the Brunopartner Service Docs index either.
+  - The ELV-3600 home elevator manuals were skipped by choice.
+  - 30 source pages have no `date:`; they are undated forms, sell sheets and brochures.
+- **Suggestions:** a stairlift **power options** concept page (power swivel and power footrest across SRE-2010, 3050, 5000 and CRE-2110; mentioned on 7 model pages) and a vehicle-lift **emergency operation** page (cranks, hand wheels and board-button backups across ASL, PUL, VSL and AWL).
