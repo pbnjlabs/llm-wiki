@@ -12,7 +12,13 @@ tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector
 **Status: open.** PMS field experience on a Golden
 [[GC240-340-440-540-Companion]] (GC440).
 
-> **Key takeaways (per the human):** *(to be added)*
+> **Key takeaways (per the human):**
+> 1. **Look for the serial number on the bottom of the scooter** (on the
+>    frame) when the label under the mat is worn off.
+> 2. **Start with the easiest troubleshooting step.** The motor connector
+>    is the first and easiest thing to check. Golden's code 8 tree starts
+>    at the controller in the dash, which means taking the whole tiller
+>    assembly apart.
 
 ## Unit
 
@@ -65,7 +71,19 @@ Confirm against the scooter's year, since there is a pre-2024 and a
 
 ## Takeaways
 
-*(Key takeaways per the human go first.)*
+**Per the human:**
+1. **Serial number on the bottom of scooters.** If the label under the
+   floor mat is rubbed off, flip the scooter and read the serial off the
+   frame.
+2. **Easiest check first.** On a code 8, **look at the motor connector
+   before going into the controller**. The burnt connector was the
+   first and easiest thing to check. The controller is in the dash and
+   getting to it means **taking the whole tiller assembly apart**, so
+   only go there once the motor-side connectors and harnesses are ruled
+   out. This reverses the order of Golden's tree below, which starts at
+   the controller.
+
+**From the manual:**
 
 Golden's **Flash Code #8 tree** ([[Companion Service Guide (GC240, GC340, GC440)]], p. 18):
 1. **Seat and rear shroud off**, tiller down, scooter on its side,

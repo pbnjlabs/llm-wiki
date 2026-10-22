@@ -69,7 +69,7 @@ of flashes/beeps is the code.
 | 5 | Brake fault | Check freewheel lever is engaged; check brake/wiring |
 | 6 | Paddle fault — throttle not in neutral at power-on, or out of adjustment | Power cycle with throttle at rest; readjust if needed |
 | 7 | Paddle/speed control fault (throttle pot or speed pot voltage error) | Check connectors firmly joined; else contact provider |
-| 8 | Motor voltage fault (open circuit) | Contact provider. Field note: a **burnt, melting motor connector** caused it on a GC440 ([[2026-10-22 GC440 8 beeps burnt motor connector]]) |
+| 8 | Motor voltage fault (open circuit) | Contact provider. Field note: a **burnt, melting motor connector** caused it on a GC440. **Check the motor connector first**, before the controller ([[2026-10-22 GC440 8 beeps burnt motor connector]]) |
 | 9 | Controller fault (other internal error) | Contact provider |
 
 The Service Guide provides a full voltmeter-based diagnostic tree behind
