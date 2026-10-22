@@ -170,3 +170,14 @@ linkage torques: [[ILS - Out-Sider (ASL-250-275) Install and Service Sheets]],
 [[AL-Series-Outside-Vehicle-Lifts]], [[ASL-275]], [[ASL-250]], [[ASL-700]],
 [[Mobility-Device-Weights]], [[Docking-Devices]], [[Vehicle-Lift-Power-Wiring]],
 [[Harmar]], [[Bruno]]
+
+## Bruno AWL-1600 Back-Saver adapter table
+
+Bruno's hitch lift for a folded manual chair uses the same Out-Sider
+adapters, chosen by receiver height (round up): **6–11 in: 3 in
+drop-raise, up; 12–15 in: standard, up; 16–18 in: standard, down; 19–24
+in: 3 in drop-raise, down**. Parts ASL-16608 / ASL-16605 (3 in) and
+ASL-16607 / ASL-16604 (standard), Class II / Class III. The receiver
+must be 7–25 in off the ground. Magnalube goes on the adapter. See
+[[AWL-1600 Back-Saver Installation Manual (2020)]].
+

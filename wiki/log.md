@@ -1433,3 +1433,23 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - The AC VPL maintenance list includes "battery condition" (DC carry-over).
   - Several VPL manuals carry a stray "SRE-2010G INSTALLATION 06-07-2021" footer on the cover page.
 - **Missing manuals:** commercial VPL and AC VPL-3153/3175 ticked off.
+
+## [2026-10-22] ingest | Bruno vehicle lifts — operator manuals, VSL-4000HW Joey, PUL-1850 Stow-Away, AWL-150 Lifter, VSL-570 Big-Lifter, AWL-1600 Back-Saver (Service Docs)
+- **Docs (13):**
+  - Operator manuals: [[ASL-275 Operator Manual (2022)]], [[ASL-250 Operator Manual (2017)]], [[PUL-1100 Operator Manual (2022)]], [[VSL-4400 Operator Manual (2022)]].
+  - Joey: [[VSL-4000HW Joey Installation Manual (2017)]] and [[VSL-4000HW Joey Operator Manual (2013)]].
+  - Stow-Away: [[PUL-1850 Stow-Away Installation Manual (2018)]] and [[PUL-1850 Stow-Away Operator Manual (2013)]].
+  - Lifter: [[AWL-150 Lifter Installation Manual (2023)]] and [[AWL-150 Lifter Operator Manual (2022)]].
+  - Big-Lifter: [[VSL-570 Big-Lifter Installation Manual (2023)]] and [[VSL-570 Big-Lifter Operator Manual (2022)]].
+  - Back-Saver: [[AWL-1600 Back-Saver Installation Manual (2020)]].
+- **New model pages:** [[VSL-570]] (400 lb in-vehicle boom hoist), [[AWL-150]] (200 lb manual-chair hoist), [[AWL-1600]] (hitch lift for a folded manual chair), [[PUL-1850]] (under-vehicle transfer seat, 300 lb user).
+- **Updated:** [[ASL-275]], [[ASL-250]], [[PUL-1100]], [[VSL-4400]] (VSL-4000HW manuals), [[Hitch-Adapters]] (AWL-1600 table), [[Docking-Devices]] (VSL-570 C-arms), [[Bruno]], index (model rows; Service Docs paragraph and Bruno status line).
+- **Findings:**
+  - PUL-1100 capacity depends on the drive (100 / 200 / 350 lb).
+  - ASL-275/250 emergency crank: clockwise raises, a ⅜ in drill works; the ASL-250 needs the control arm held up.
+  - AWL-150: never use a belt frayed more than ⅛ in; "switch reversed" = the belt wound backwards on the spool.
+  - VSL-570: base bolts 12 ft-lb max criss-cross; a fender washer lowers the rating; chain tension by rotating the motor CCW, pivot nut first.
+  - AWL-1600: receiver 7–25 in; Hold-Tite foam must deform around the armrests.
+  - PUL-1850: runs only with the door open (no FMVSS impact); door switch gap ¼ in max.
+  - VSL-4000HW: emergency board buttons bypass all limits; J8 XTRA jumper sets button C's direction.
+- **Flagged:** several 2022 vehicle-lift operator manuals carry a stray "SRE-2010G OPERATOR" footer. **Service Docs pull complete: all 54 manuals ingested.**

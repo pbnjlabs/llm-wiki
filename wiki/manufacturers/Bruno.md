@@ -65,6 +65,17 @@ vertical platform lifts (VPL).
     SUVs; mandatory door safety switch; 350 lb
   - [[VSL-6000-6900]] ("Curb-Sider") — boom/hoist lift for minivans,
     SUVs and pickups; 6900 adds a power-telescoping head; 250–450 lb
+  - Added 2026-10-22 from Brunopartner Service Docs:
+    - [[VSL-570]] ("Big-Lifter"): 400 lb in-vehicle boom hoist, the
+      Curb-Sider's predecessor generation.
+    - [[AWL-150]] ("Lifter"): 200 lb in-vehicle hoist for a manual chair
+      stored upright.
+    - [[AWL-1600]] ("Back-Saver"): hitch lift for a folded manual chair,
+      with the Hold-Tite clamp.
+    - [[PUL-1850]] ("Stow-Away"): under-vehicle **transfer seat** for
+      pickups, 300 lb user, runs only with the door open.
+    - Operator manuals for the ASL-275, ASL-250, PUL-1100 and VSL-4400,
+      plus the legacy VSL-4000HW Joey manuals.
   - All three original lifts share [[Vehicle-Lift-Power-Wiring]] (battery routing/wiring
     pattern — ASL-250 confirms the inline fuse is specifically ATO 30A)
     and a 3-year vehicle-lift variant of [[Warranty]] — distinct terms
@@ -125,10 +136,12 @@ the Auto Meter RC-300 battery tester; Bruno's return goods policy; and
 the 2018 serial number list ([[Bruno-Serial-Numbers]]). **All 107
 downloaded tech tips are now ingested.**
 
-**Legacy vehicle lifts** (tech tips only, no manuals): **VSL-4000HW**
-Joey (before the VSL-4400), and the **AWL-100/125/150/160 and VSL-175**
-trunk lifts (hoist motor MDC-12009; see
-[[Tech Tip - Trunk Lift Motor MDC-12009 Replacement]]).
+**Legacy vehicle lifts:** the **VSL-4000HW** Joey (before the VSL-4400;
+its 2017 install and 2013 operator manuals arrived 2026-10-22, see
+[[VSL-4400]]), and the older **AWL-100/125/160 and VSL-175** trunk lifts
+(hoist motor MDC-12009; see
+[[Tech Tip - Trunk Lift Motor MDC-12009 Replacement]]). The current
+**AWL-150** has its own page ([[AWL-150]]).
 
 They're manufacturer-authored, so they rank like TechMate: above
 clippings, **below the manuals**. Where they disagree, the pages say so.

@@ -130,3 +130,13 @@ tabled on [[ILS - Docking Device Fitment by Mobility Device]].
 
 [[Transport-and-Tie-Downs]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[VSL-6000-6900]], [[PUL-1100]],
 [[Hybrid-Vehicle-Lifts]], [[Mobility-Device-Weights]], [[Hitch-Adapters]], [[Harmar]], [[Bruno]]
+
+## Bruno VSL-570 Big-Lifter docking device
+
+The VSL-570 ships with a docking device. U-bolt it **as low as possible
+on the fixed seat post**, clear of the swivel handle, and set it at the
+balance point so the device hangs level. **Adjustable C-arms** (inline
+or offset) span **10–14 in** in 5 holes; at 10 in the outer tube needs
+trimming. Stop the lift before the **white sight-line stitching** reaches
+the belt guide ([[VSL-570 Big-Lifter Installation Manual (2023)]]).
+

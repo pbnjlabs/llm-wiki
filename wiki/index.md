@@ -115,8 +115,12 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | ASL-275 (Out-Sider) | Bruno | [[ASL-275]] |
 | ASL-250 (Out-Sider, legacy) | Bruno | [[ASL-250]] |
 | ASL-700 (Chariot; wheeled hitch carrier, VIN/title, class I/II) | Bruno | [[ASL-700]] |
-| VSL-4400 (Joey; inside platform lift, door safety switch; **mounting kit by vehicle**: [[ILS - Joey Mounting Kit Fitment by Vehicle]]) | Bruno | [[VSL-4400]] |
+| VSL-4400 (Joey; inside platform lift, door safety switch; **mounting kit by vehicle**: [[ILS - Joey Mounting Kit Fitment by Vehicle]]; also the legacy VSL-4000HW manuals) | Bruno | [[VSL-4400]] |
 | VSL-6000 / VSL-6900 (Curb-Sider; boom lift, 6900 telescoping; **sub-base by vehicle**: [[ILS - Curb-Sider Sub-Base Fitment by Vehicle]]) | Bruno | [[VSL-6000-6900]] |
+| VSL-570 (Big-Lifter; 400 lb in-vehicle boom hoist, 2023 install and 2022 operator manuals) | Bruno | [[VSL-570]] |
+| AWL-150 (Lifter; 200 lb in-vehicle hoist for a manual chair stored upright) | Bruno | [[AWL-150]] |
+| AWL-1600 (Back-Saver; hitch lift for a folded manual chair, Hold-Tite) | Bruno | [[AWL-1600]] |
+| PUL-1850 (Stow-Away; under-vehicle transfer seat for pickups, 300 lb user) | Bruno | [[PUL-1850]] |
 | GA541 Avenger | Golden | [[GA541-Avenger]] |
 | Buzzaround XL / Lite / LT (GB106/116/146, current GB117/147 incl. **GB147H = HD**; GB107/108 LT, GB121 Lite, 2022 GB121B/124A XL and XLS HD) | Golden | [[GB1xx-Buzzaround-XL]] |
 | Buzzaround Extreme/EX (GB118/148; SG + OM) | Golden | [[GB118-148-Buzzaround-EX]] |
@@ -365,8 +369,14 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 
 Bruno dealer-portal **Service Docs** manuals (pulled 2026-10-22 from the
 Manual Search page into the product-line folders under `MANUALS/Bruno/`,
-54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). Ingested
-so far: **VPL** [[VPL-3100 (AC) Installation Manual (2025)]],
+54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). **All 54 ingested** (2026-10-22): **vehicle lifts** [[ASL-275 Operator Manual (2022)]],
+[[ASL-250 Operator Manual (2017)]], [[PUL-1100 Operator Manual (2022)]],
+[[VSL-4400 Operator Manual (2022)]], [[VSL-4000HW Joey Installation Manual (2017)]],
+[[VSL-4000HW Joey Operator Manual (2013)]], [[PUL-1850 Stow-Away Installation Manual (2018)]],
+[[PUL-1850 Stow-Away Operator Manual (2013)]], [[AWL-150 Lifter Installation Manual (2023)]],
+[[AWL-150 Lifter Operator Manual (2022)]], [[VSL-570 Big-Lifter Installation Manual (2023)]],
+[[VSL-570 Big-Lifter Operator Manual (2022)]], [[AWL-1600 Back-Saver Installation Manual (2020)]];
+**VPL** [[VPL-3100 (AC) Installation Manual (2025)]],
 [[VPL-3100 (AC) Operator Manual (2024)]], [[VPL-3100B Operator Manual (2024)]]
 (supersedes 2019), [[VPL-3200B Flood Zone Tower Installation Manual (2025)]],
 [[VPL-3200B Flood Zone Operator Manual (2024)]],
@@ -965,7 +975,8 @@ list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and
 ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Bruno — Drawings library (ILS sheets) pulled 2026-10-21: **all 636 sheets ingested** 2026-10-21/22 (stairlift 161, VPL 134, vehicle lifts 277, docking devices 60, general 3 in `MANUALS/Bruno/Drawings/`); no backlog.
-### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals and ILS-01446 are on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
+### Bruno — dealer-portal Service Docs pulled 2026-10-22: the newest relevant edition of 54 manuals (SRE-5000 set, Elite and Elite Curve 2026 manuals, legacy Electra-Ride lifts, AC and commercial VPLs, flood zone tower, vehicle-lift operator manuals, Big-Lifter, Lifter, Back-Saver, Stow-Away), **all ingested**; skipped Valet/TAS/VSS seats, Carony, scooters and chairs, discontinued vehicle lifts, CAN/G variants and the ELV-3600 elevator (manifest `MANUALS/Bruno/_service_docs_manifest.md`).
+### Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals (now on file) and ILS-01446 were on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
 ### Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.
 
