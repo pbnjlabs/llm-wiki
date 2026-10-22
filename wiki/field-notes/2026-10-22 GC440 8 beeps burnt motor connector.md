@@ -44,10 +44,31 @@ tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector
    is most likely the motor/brake plug **12a** where it meets the **rear
    intermediate motor harness (10b)**, on the right side of the rear
    frame.
+2. **Both halves of the connector are damaged**: the motor-side plug
+   and the harness side.
+3. **Quote obtained for a new motor and wiring harness** (pending
+   approval).
 
 ## Root cause
 
-*(Pending.)* A burnt, melting connector on the motor circuit matches a
+*(Pending.)* Two ways a connector burns, and what to check to tell them
+apart:
+- **High resistance at the contact** (corrosion, loose or worn pins). The
+  heat at the joint is **I² × R of the contact**, so even normal motor
+  current cooks a bad contact. Corrosion does **not** make the motor
+  draw more amps; added series resistance actually lowers the current
+  slightly. It concentrates the heat in one tiny spot, which oxidizes
+  the contact further and runs away until it melts.
+- **High motor current** (dragging brake, binding transaxle, shorted
+  windings, worn brushes or bearings, heavy loads, hills, low tires).
+  Heat goes up with the **square** of current, so a healthy connector can
+  overheat too. The 90 A controller (DR90-A01) limits current, and a
+  sustained overload shows as **code 4** (current limit timeout).
+
+To tell which: test the old motor per Golden's tree (resistance
+pin 1–2, brushes), check the brake releases and the scooter pushes
+freely in freewheel, and after the repair clamp-meter the motor current
+under a normal load and a hill. A burnt, melting connector on the motor circuit matches a
 **high-resistance (loose, corroded or poorly seated) contact** that
 heated under drive current and now opens intermittently: code 8.
 
@@ -57,7 +78,7 @@ heated under drive current and now opens intermittently: code 8.
 
 ## Parts used
 
-*(Pending.)* Likely candidates, from the Companion parts breakdown
+*(Pending.)* Quote for **new motor and wiring harness**. Both halves of the plug are burnt, and the motor-side half is the motor's own pigtail. Likely candidates, from the Companion parts breakdown
 ([[Companion Illustrated Parts Breakdown 2021 (GC240, GC340, GC440)]]):
 
 | Part | What |
