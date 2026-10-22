@@ -1480,3 +1480,9 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - The ELV-3600 home elevator manuals were skipped by choice.
   - 30 source pages have no `date:`; they are undated forms, sell sheets and brochures.
 - **Suggestions:** a stairlift **power options** concept page (power swivel and power footrest across SRE-2010, 3050, 5000 and CRE-2110; mentioned on 7 model pages) and a vehicle-lift **emergency operation** page (cranks, hand wheels and board-button backups across ASL, PUL, VSL and AWL).
+
+## [2026-10-22] concept | Stairlift-Power-Options and Vehicle-Lift-Emergency-Operation (from the lint suggestions)
+- **New:** [[Stairlift-Power-Options]] compares the power swivel and power footrest across the Elite (SRE-2010), Elite Curve (CRE-2110), Elan (SRE-3050/3000) and SRE-5000: rider use (press again vs keep holding; CRE swivel stop 30–90° by cam), jam behavior and codes A6/A7, install kits, harness plugs, footrest torques (40 vs 50 ft-lb), seat-to-swivel torques, aux PCB and actuator part numbers.
+- **New:** [[Vehicle-Lift-Emergency-Operation]] gives crank, drill and board-button backups for the Out-Sider, Chariot, Out-Rider, Joey (VSL-4400 and the older VSL-4000HW, whose board buttons differ), Curb-Sider and Stow-Away, with directions and the fuse/key-first rule.
+- **Linked from:** 14 model pages, [[Stairlift-Troubleshooting]] §13, index.
+- **Gap noted:** no documented emergency method for the VSL-570 Big-Lifter or the AWL-150 Lifter.

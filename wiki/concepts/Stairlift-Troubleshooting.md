@@ -472,6 +472,8 @@ with every harness off → board.
 
 ## 13. Power options
 
+How each model's options work and install: [[Stairlift-Power-Options]].
+
 **Power swivel** (at the top of the rail):
 - Beeps once and never swivels → is the slowdown working at the top?
   No → communication (§11). Yes → board or actuator (Bruno).
