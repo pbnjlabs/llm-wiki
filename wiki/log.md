@@ -1493,3 +1493,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - Linked from [[GC240-340-440-540-Companion]], [[Flash-Beep-Diagnostics]], [[Companion Service Guide (GC240, GC340, GC440)]] (its step 14 is printed inverted) and the index. Takeaways pending.
 - Takeaways added (per the human): read the serial off the frame on the bottom of the scooter when the label is gone; start with the easiest check (the motor connector) before the controller, which needs the tiller taken apart. Updated the note, index row, [[GC240-340-440-540-Companion]] and [[Flash-Beep-Diagnostics]].
 - Update: both halves of the connector are damaged; quote obtained for a new motor and wiring harness. Added a root-cause note (contact resistance I²R heating vs high motor current; corrosion doesn't raise amps) and how to tell the two apart.
+
+## [2026-10-22] field-note | Golden GC440 — 8 beeps, won't move, burnt motor connector (resolved)
+- Closed per the human. Root cause: burnt, melting motor connector (both halves) opening the motor circuit. Fix: quoted a new motor and wiring harness; the installed part numbers and post-repair test weren't recorded.

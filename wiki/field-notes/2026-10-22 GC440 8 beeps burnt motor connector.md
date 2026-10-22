@@ -3,13 +3,13 @@ type: field-note
 manufacturer: Golden
 model: GC440
 date: 2026-10-22
-status: open
+status: resolved
 tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector, burnt, field-note]
 ---
 
 # 2026-10-22 — GC440: powers up, 8 beeps, won't move (burnt motor connector)
 
-**Status: open.** PMS field experience on a Golden
+**Status: resolved (closed 2026-10-22).** PMS field experience on a Golden
 [[GC240-340-440-540-Companion]] (GC440).
 
 > **Key takeaways (per the human):**
@@ -51,7 +51,7 @@ tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector
 
 ## Root cause
 
-*(Pending.)* Two ways a connector burns, and what to check to tell them
+**Burnt, melting motor connector (both halves)** opening the motor circuit (code 8). Whether bad contact resistance or high motor current started it wasn't determined. Two ways a connector burns, and what to check to tell them
 apart:
 - **High resistance at the contact** (corrosion, loose or worn pins). The
   heat at the joint is **I² × R of the contact**, so even normal motor
@@ -74,11 +74,11 @@ heated under drive current and now opens intermittently: code 8.
 
 ## Fix
 
-*(Pending.)*
+**Quoted a new motor and wiring harness.** The note was closed at the quote; the installed parts and the post-repair test weren't recorded.
 
 ## Parts used
 
-*(Pending.)* Quote for **new motor and wiring harness**. Both halves of the plug are burnt, and the motor-side half is the motor's own pigtail. Likely candidates, from the Companion parts breakdown
+Quoted: **new motor and wiring harness** (part numbers not recorded). Both halves of the plug are burnt, and the motor-side half is the motor's own pigtail. Likely candidates, from the Companion parts breakdown
 ([[Companion Illustrated Parts Breakdown 2021 (GC240, GC340, GC440)]]):
 
 | Part | What |
