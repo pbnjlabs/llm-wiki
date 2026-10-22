@@ -80,9 +80,11 @@ The full steps are summarized on [[Stairlift-Troubleshooting]].
   2026-10-21:** Bruno's ILS sheets list brake kits for Elite/CRE carriages
   (SRV-2010-045, and SRV-2110-032 for 2025-and-later carriages), so the
   brake can be replaced ([[ILS - Stairlift Motor Brake Kits]]).
-- **CRE overspeed reset.** TechMate resets a tripped CRE overspeed by
-  cranking counter-clockwise until the hole centers in the notch. The
-  [[CRE-2110 Install Manual]] uses a two-lever reset. Follow the manual.
+- **CRE overspeed reset (resolved 2026-10-22).** TechMate resets a
+  tripped CRE overspeed by cranking counter-clockwise until the hole
+  centers in the notch. The 2018 [[CRE-2110 Install Manual]] used a
+  two-lever reset, but the [[CRE-2110 Install Manual (2026)]] matches
+  TechMate (8 mm CCW, then the trip plate to neutral).
 - **Startup beep order.** One node says the 2-short-pause-3 code's beeps
   are left rocker, right rocker, learn/erase; the power tree's 5-beep
   version reads beeps 1–2 rocker, 3 learn/erase, 4–5 remote. The manuals

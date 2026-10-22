@@ -51,7 +51,9 @@ table below, and adds a few beeps (listed under the display table).
 
 **Problem codes:**
 - A6/A7 — Obstruction sensed and reversed to clear obstruction (the 2026
-  SRE-2010 owner's manual: A7 = seat or footrest jammed, actuator stalled)
+  SRE-2010 owner's manual: A7 = seat or footrest jammed, actuator stalled;
+  the 2026 CRE-2110 owner's manual splits them: **A6 seat jammed, A7
+  footrest jammed**)
 - C4 — Unit not charging when parked (all CRE-2110, SRE-2010E/EOS)
 - C5/C6 — Batteries bad or not being charged
 - D1 — Speed pot jumper not plugged in, or bad speed pot (old CRE-2110E only)

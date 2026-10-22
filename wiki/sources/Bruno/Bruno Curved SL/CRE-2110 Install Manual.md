@@ -10,6 +10,8 @@ tags: [stairlift, bruno, cre-2110, installation]
 
 # CRE-2110 Install Manual
 
+> **Superseded** by [[CRE-2110 Install Manual (2026)]] (04-15-2026). Where they differ (notably the overspeed reset), the 2026 manual wins.
+
 60-page installation manual for CRE-2110/CRE-2110C custom curved-rail
 stairlift.
 

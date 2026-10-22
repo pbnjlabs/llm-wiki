@@ -118,8 +118,10 @@ once**.
      TechMate says it's tripped when the hole isn't centered in the
      notch, and resets it by removing the black cap and cranking
      counter-clockwise (5/16" or 8 mm socket) until the hole centers.
-     The CRE install manual uses a two-lever reset instead (see
-     [[CRE-2110]]). Follow the manual if they disagree.
+     The 2026 CRE install manual agrees: 8 mm ratchet CCW on the motor
+     hex shaft, then turn the trip plate until its groove lines up with
+     the hole. The 2018 manual's two-lever reset is superseded
+     ([[CRE-2110 Install Manual (2026)]]).
   3. **Fuse on the main board**: continuity across it. Blows again →
      §12.
   4. **In-line fuse** on the B− (black) battery wire. Before replacing a

@@ -17,8 +17,9 @@ vertical platform lifts (VPL).
   - [[CRE-2110]] ("Elite Curve") — custom curved rail; shares
     [[Rail-Mounting-Guidance]] and [[Diagnostic-Codes]] with the straight
     Elite/Elan line; overspeed brake is optional (not standard like the
-    straight-rail line) and uses a different two-lever reset — see
-    [[Overspeed-Safety-Brake]].
+    straight-rail line); reset by cranking the motor shaft CCW (8 mm) and
+    turning the trip plate back to neutral (2026 manuals; the 2018
+    two-lever reset is superseded) — see [[Overspeed-Safety-Brake]].
   - Ordering the custom rail uses Bruno's [[Staircase-Measuring-System]]
     (Picture Perfect / StairsChecker 3.0 camera kit) — a dealer tool, not
     part of the stairlift.

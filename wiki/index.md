@@ -105,7 +105,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VPL-3200B (VPL-3210B) | Bruno | [[VPL-3200B]] |
 | VPL-3153 / VPL-3175 (AC low-rise, no "B"; tech tips, TechMate and ILS sheets: 2026 spec sheet, PCB-00143 90 V board, E1–E18 LEDs, fault flash codes, brake retrofit for drift) | Bruno | [[VPL-3153-3175]] |
 | VPL-3300B commercial (VPL-3353B/3375B, VPL-3310B/3312B/3314B; no manuals, ILS spec sheet, drawings and kit sheets only) | Bruno | [[VPL-3300B]] |
-| CRE-2110 (Elite Curve) | Bruno | [[CRE-2110]] |
+| CRE-2110 (Elite Curve; indoor and outdoor 2026 install and owner's manuals, power options) | Bruno | [[CRE-2110]] |
 | CRE-3110 (newer curved rail, 2026 spec sheet: 300 lb, 0–65°, Smart Swivel) | Bruno | [[CRE-3110]] |
 | CRE-2100 (Electra-Ride III, legacy curved rail; 2001 spec sheet only) | Bruno | [[CRE-2100]] |
 | PUL-1100 (Out-Rider) | Bruno | [[PUL-1100]] |
@@ -363,7 +363,10 @@ loose in `MANUALS/Bruno/`): [[ASL-700 Installation Manual (2025)]],
 Bruno dealer-portal **Service Docs** manuals (pulled 2026-10-22 from the
 Manual Search page into the product-line folders under `MANUALS/Bruno/`,
 54 files; manifest `MANUALS/Bruno/_service_docs_manifest.md`). Ingested
-so far: **SRE-2010 / 2010E** [[SRE-2010 Install Manual]],
+so far: **CRE-2110 / 2110E** [[CRE-2110 Install Manual (2026)]] (supersedes
+the 2018 manual), [[CRE-2110 Owner's Manual]],
+[[CRE-2110 Power Options Install Guide]], [[CRE-2110E Install Manual]],
+[[CRE-2110E Owner's Manual]]; **SRE-2010 / 2010E** [[SRE-2010 Install Manual]],
 [[SRE-2010 Owner's Manual]], [[SRE-2010E Install Manual]],
 [[SRE-2010E Operator Manual]],
 [[SRE-2010 Power Seat and Footrest Install (2022)]]; **SRE-3050**

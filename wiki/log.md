@@ -1379,3 +1379,15 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
   - The ILS "single-user = DIP 1 and 2" wording vs the manual's table (single-user = #2 only, both ON = battery warnings only); the manual wins.
   - The 2010E owner's manual calls the seat "Elite Curve" and says it swivels 135° (copy error).
   - The SRE-3050 power-options footrest torque is given as both 40 and 50 ft-lb.
+
+## [2026-10-22] ingest | Bruno CRE-2110 / CRE-2110E — 2026 install and owner's manuals, power options (Service Docs)
+- **Docs (5):** [[CRE-2110 Install Manual (2026)]] (04-15-2026; supersedes the 2018 [[CRE-2110 Install Manual]], now marked superseded), [[CRE-2110 Owner's Manual]] (06-01-2026), [[CRE-2110 Power Options Install Guide]] (08-24-2022), [[CRE-2110E Install Manual]] (05-06-2026), [[CRE-2110E Owner's Manual]] (06-22-2026).
+- **Updated:** [[CRE-2110]] (documents, new overspeed reset, 2026 install numbers, owner codes, outdoor notes), [[Overspeed-Safety-Brake]] (CRE, SRE-2010E and SRE-5000 resets), [[Diagnostic-Codes]] (A6/A7 split), [[Stairlift-Troubleshooting]], [[TechMate Stairlift Troubleshooter]], [[Bruno]], index.
+- **Resolved:** the TechMate vs manual conflict on the CRE overspeed reset. The 2026 manual uses TechMate's method (8 mm CCW on the motor hex shaft, then the trip plate to neutral); the 2018 two-lever reset is superseded.
+- **Findings:**
+  - Rail joints M10 × 70 at 50 ft-lb with SRV-2110-012 clamps; slope ½° every 2 ft.
+  - Flat-landing mounts at 3 in and 12 in from the end, then no more than 24 in; M12 at 67 ft-lb. Rail mount screws 225 in-lb.
+  - RF XBee remotes (CRE-01065, 2 AA) now standard; keyed remotes at 15–48 in.
+  - Power swivel stop adjustable 30–90° (small cam).
+  - The curve beeps when stopped short of a charge position; a yellow LED on the bracket shows correct parking.
+- **Flagged:** the remote height is printed as "15 in (220 mm)", a typo; the owner's manual's last pages still carry a 2023 footer.

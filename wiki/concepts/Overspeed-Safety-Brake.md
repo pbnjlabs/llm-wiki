@@ -118,6 +118,16 @@ per the SRE-3000 manual.)
   manual trip pocket while running down; trips within inches. Reset:
   breaker off, 8 mm ratchet counter-clockwise on the motor hex shaft,
   rotate the OS trip plate to neutral (groove in line with the hole).
+  The 2026 CRE-2110 and CRE-2110E install manuals give the same reset
+  and drop the 2018 manual's two-lever procedure
+  ([[CRE-2110 Install Manual (2026)]]).
+- **SRE-2010EC/EOS (2026 outdoor manual):** turn the gear motor
+  **clockwise with a 5/16 in socket** to move up, and the switch
+  self-resets. If it doesn't, slide off the overspeed cover and center
+  the roller in the cam valley ([[SRE-2010E Install Manual]]).
+- **SRE-5000:** right-hand safety panel and motor-side cap off; rotate
+  the cover until the wheel sits in the notch; if it's stuck, ¼ in socket
+  or SRV-3000-002, CW for LH and CCW for RH ([[SRE-5000 Tech Support Guide]]).
 - Intervals: yearly test (A18.1 10.3.1), and every **5 years** with a
   **dated metal tag** on the safety carrier plus a **125% rated load brake
   test** (10.3.3).
