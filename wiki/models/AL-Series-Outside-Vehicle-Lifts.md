@@ -159,6 +159,25 @@ From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
 - Manual override: hex-shaft crank under a coin/key-removable motor-cover
   cap, after unplugging the lift/vehicle harness connectors
 
+## Actuator replacement
+From [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (one-page drawing sheet, undated). Written for the
+older **ALA10010** actuator; the AL100 and AL301XL drawings replaced it
+with **310-00005** in Aug 2019 ([[Harmar Parts Diagrams]]), so confirm
+with Harmar before using it on a newer lift.
+1. Lift off the vehicle and on the ground (preferred), or on the vehicle
+   in the UP position, braced firmly from underneath.
+2. Motor cover off (4 screws). Collapse the tubes (toggle UP, or 3/8"
+   on the manual override). Remove 3 bolts at the top of the outer tube;
+   the 4th is slotted and stays.
+3. Hold the motor and run it up off the outer tube about 8–12 in (toggle
+   DOWN or override), with the platform firmly on the ground.
+4. Retaining bolt (7/16") and locking tab out; unscrew the ball nut with
+   **ALA10010-TOOL** (open side lined up with the ball return tube); pull
+   the actuator straight up and out.
+
+Removal only; installation isn't shown. Rule out the J-cam first (see
+Field notes): a bad actuator is slow the whole way up.
+
 ## Documents on file
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — current (May 2026) specs for every hitch-mounted model: capacity, hitch class, securement, included adapters, warranty
 - [[Harmar Product Insights (2021-2023)]] — lift selection, hitch adapters, AL015 (dealer sheets)
@@ -172,6 +191,7 @@ From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
 - [[Bulletin - AL1235U Universal Drop Hitch Adapter]] (630-00072 Rev C,
   2019; drop setting by hitch-to-ground height)
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
+- [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (actuator removal, ALA10010 actuator, tool ALA10010-TOOL)
 - [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
   drawing also referenced there actually belongs to
   [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)

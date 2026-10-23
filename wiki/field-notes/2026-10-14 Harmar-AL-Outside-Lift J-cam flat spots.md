@@ -100,5 +100,5 @@ From the manuals (not field experience):
 - [[AL-Series-Outside-Vehicle-Lifts]]
 - [[Outside Vehicle Lifts Owner's Manual]],
   [[Outside Vehicle Lifts Install Manual (2025, Rev D)]],
-  [[Harmar Parts Diagrams]]
+  [[Harmar Parts Diagrams]], [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (if it really is the actuator)
 - [[Harmar]]
