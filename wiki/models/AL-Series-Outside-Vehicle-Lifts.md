@@ -160,23 +160,46 @@ From [[Harmar Product Insights (2021-2023)]] (dealer sheets):
   cap, after unplugging the lift/vehicle harness connectors
 
 ## Actuator replacement
-From [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (one-page drawing sheet, undated). Written for the
-older **ALA10010** actuator; the AL100 and AL301XL drawings replaced it
-with **310-00005** in Aug 2019 ([[Harmar Parts Diagrams]]), so confirm
-with Harmar before using it on a newer lift.
-1. Lift off the vehicle and on the ground (preferred), or on the vehicle
-   in the UP position, braced firmly from underneath.
-2. Motor cover off (4 screws). Collapse the tubes (toggle UP, or 3/8"
-   on the manual override). Remove 3 bolts at the top of the outer tube;
-   the 4th is slotted and stays.
-3. Hold the motor and run it up off the outer tube about 8–12 in (toggle
-   DOWN or override), with the platform firmly on the ground.
-4. Retaining bolt (7/16") and locking tab out; unscrew the ball nut with
-   **ALA10010-TOOL** (open side lined up with the ball return tube); pull
-   the actuator straight up and out.
+From Harmar's training video [[Video - How to Replace the Actuator (AL-100)]] (full remove and install,
+on the vehicle, AL-100-12) and the drawing sheet [[Actuator Removal Instructions (ALA10010-INS rev 2)]]
+(removal only). Both show the older **ALA10010** actuator; the AL100 and
+AL301XL drawings replaced it with **310-00005** in Aug 2019
+([[Harmar Parts Diagrams]]), so confirm with Harmar for a newer lift.
+**Rule out the J-cam first** (see Field notes): a bad actuator is slow
+the whole way up.
 
-Removal only; installation isn't shown. Rule out the J-cam first (see
-Field notes): a bad actuator is slow the whole way up.
+Tools: 5/16" bit driver on an extension, 7/16" socket and extension
+(magnetic, or grease in it), flat-blade screwdriver, jack stand, and the
+**ball nut tool that comes with the replacement actuator**
+(ALA10010-TOOL).
+
+**Remove**
+1. Support the lift before anything comes apart: on the vehicle, inner
+   arm up with a **jack stand under the lower arm** (the video); or off
+   the vehicle on the ground (the sheet's preferred way). **The lower
+   tube drops when the actuator comes out.**
+2. Motor cover off (4 screws), unplug the motor.
+3. Remove **3 of the 4 screws** (5/16", about 2 in, not fully threaded)
+   under the actuator; the 4th is slotted and stays. Do the tightest one
+   last.
+4. Back the actuator off with the manual override for tool room (the
+   sheet says 8–12 in).
+5. Down inside the tube: **7/16" bolt** and **locking tab** out.
+6. **Unscrew the ball nut** with the tool, by hand (channel locks if
+   stiff), support the actuator and pull it straight out.
+
+**Install**
+1. Drop the new screw through the threaded hole in the inner tube and
+   **thread the ball nut in by hand**. Hard to turn = cross-threaded;
+   back out and restart. Run it down hand tight and check it's seated.
+2. **Back it up until the ball nut's flats are parallel to the tube
+   walls**, fit the **locking tab** between the ball nut and outer tube,
+   centered, and refit the 7/16" bolt **flush and tight**. The tab is
+   what keeps the ball nut from loosening and dropping the lift.
+3. Drive the actuator back down, refit the **3 screws** and **check for
+   no gap around the actuator's perimeter** (a gap misaligns it and makes
+   it clutch). No torque value is given anywhere on file.
+4. Motor cover on (4 screws), plug in, zip-tie the motor wire.
 
 ## Documents on file
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — current (May 2026) specs for every hitch-mounted model: capacity, hitch class, securement, included adapters, warranty
@@ -192,6 +215,7 @@ Field notes): a bad actuator is slow the whole way up.
   2019; drop setting by hitch-to-ground height)
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
 - [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (actuator removal, ALA10010 actuator, tool ALA10010-TOOL)
+- [[Video - How to Replace the Actuator (AL-100)]] (training video, full actuator remove and install, timestamped)
 - [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
   drawing also referenced there actually belongs to
   [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)

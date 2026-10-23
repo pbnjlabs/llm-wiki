@@ -48,9 +48,10 @@ wrench** (retaining bolt), and Harmar's ball-nut tool **ALA10010-TOOL**.
    of the tool with the **ball return tube**. **Pull the actuator
    straight up and out.**
 
-The sheet covers removal only. Installation isn't shown; presumably the
-reverse, so check the ball return tube lines up with the tool slot again
-going back in.
+The sheet covers removal only. Harmar's training video
+[[Video - How to Replace the Actuator (AL-100)]] shows the installation too (thread
+the ball nut by hand, square it to the tube walls, locking tab and bolt,
+no gap around the actuator).
 
 ## Before replacing an actuator
 
@@ -64,4 +65,4 @@ normally ([[AL-Series-Outside-Vehicle-Lifts]] operation notes).
 
 [[AL-Series-Outside-Vehicle-Lifts]],
 [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]],
-[[Harmar Parts Diagrams]]
+[[Harmar Parts Diagrams]], [[Video - How to Replace the Actuator (AL-100)]]

@@ -183,6 +183,32 @@ so for an older unit the portal serial lookup or the manual's exploded
 view wins. Don't record portal prices, and never tick or submit the
 lookup's inquiry checkboxes (they email Bruno).
 
+### Training videos
+
+Manufacturer training videos (e.g. Harmar's mp4s) go in
+`MANUALS/<Manufacturer>/Videos/` under their own file names, with a
+working folder `Videos/_work/<slug>/` holding the extracted audio,
+`transcript.txt` / `transcript.srt` and the frames. To ingest one:
+
+1. `ffmpeg -i <video> -ac 1 -ar 16000 audio.wav`, then transcribe with
+   `~/.local/share/whisper-venv/bin/python scripts/transcribe.py
+   audio.wav <work dir> medium.en` (faster-whisper in its own venv; about
+   1× real time on the laptop).
+2. Pull a frame every 10 s (`ffmpeg -vf fps=1/10`), make labelled
+   contact sheets, and look at them; grab full-size frames to read
+   labels, part numbers and tool sizes.
+3. Match the narration to the frames. Check every part number, size and
+   step against the manuals on file, and flag what can't be confirmed
+   (speech recognition mishears numbers). Steps that are shown but not
+   said are written as "shown, not stated".
+
+Source pages are titled `Video - <title>`, with `doc_type: Training
+Video` and a timestamp on every step so a tech can jump to it. No date
+unless the video shows one. They're manufacturer-authored, so they rank
+above clippings, but **a manual wins any conflict**. Leave presenters'
+names out (give their role). Copy the transcript to the other
+`MANUALS/` folder along with the video.
+
 ### Manufacturer prices and pay scales
 
 PMS doesn't take work from manufacturers (EZ-ACCESS is only a

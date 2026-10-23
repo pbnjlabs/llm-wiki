@@ -16,7 +16,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) | 48 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
+| Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) + 1 training video in `Videos/` | 49 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -193,7 +193,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs) | Harmar | [[HighlanderII]] |
 | Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
-| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator removal sheet ALA10010-INS) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
+| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator replacement: ALA10010-INS sheet and training video) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 | Hoist-Series Inside Vehicle Lifts (12 models incl. AL8xx truck lifts, cargo-area mounted; install manuals on file) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 | Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower; legacy AL625/AL625HD "Tracker") | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
@@ -913,10 +913,12 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   [[TRANSITIONS-Threshold-Ramps]].
 
 - [ ] **Harmar outside lift actuator, current part 310-00005** (added
-  2026-10-23): only the older ALA10010 removal sheet is on file
-  ([[Actuator Removal Instructions (ALA10010-INS rev 2)]]), removal only,
-  undated. Ask Harmar (800-833-0478) whether it applies to the 310-00005
-  and for install steps.
+  2026-10-23): removal and install are now covered for the older
+  ALA10010 ([[Actuator Removal Instructions (ALA10010-INS rev 2)]], and
+  the training video [[Video - How to Replace the Actuator (AL-100)]] on
+  a 2016 AL-100). Still open: whether the 310-00005 is the same
+  procedure, and torque values for the actuator screws and locking-tab
+  bolt. Ask Harmar (800-833-0478).
 
 **Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
 against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't
