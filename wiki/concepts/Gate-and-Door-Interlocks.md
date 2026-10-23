@@ -143,6 +143,13 @@ Honeywell ([[Bulletin - New Harmar Interlock Introduction]]):
   handover. Joint Commission requires written and verbal instructions
   ([[Joint-Commission-DMEPOS]]).
 
+**Harmar CPL top landing gate** (older lift, no manual on file): Harmar's
+video wires the gate's call/send and EMI interlock with wire nuts, colours
+not matching one-to-one, one red left unused, then swaps the jumper in the
+controller's top-landing interlock plug for the harness
+([[Video - How to Wire the Top Landing Gate on a CPL]]). CPL gate door
+operator: [[Video - How to Wire an Automatic Door Operator on a Highlander CPL]].
+
 ## Troubleshooting
 
 | Symptom | Check |

@@ -92,6 +92,15 @@ Bruno vs Harmar: Bruno uses an inline **30 A ATO fuse**; Harmar uses a
 **20 A self-resetting breaker**. Bruno has you cut the cable to length;
 Harmar says never cut the harness.
 
+**Harmar 7-pin option (outside lifts):** the **AL701** harness plugs into
+the vehicle's **OEM** 7-pin socket instead of running the harness to the
+battery (Harmar says it saves 30–60 min). Check the vehicle in Harmar's
+compatibility calculator first; never on an aftermarket socket. Some
+vehicles (an F-150 in Harmar's video) need the engine running and the
+dash "trailer connected" prompt accepted before the lift gets power
+([[Video - 7-Pin Connector Release (AL701 harness)]],
+[[Outside Vehicle Lifts Install Manual (2025, Rev D)]]).
+
 ## See also
 
 **Trailer-light problems on hitch lifts (Bruno ILS sheets):** lift LEDs

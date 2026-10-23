@@ -137,6 +137,8 @@ Bruno's closest equivalent: [[VSL-4400]] (Joey).
   manuals)
 - [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices for AL-600-12 and AL-625HD-12 and hybrid accessories, installation included
 
+**Harmar training video:** [[Video - Installing and Programming the Remotes on a Hybrid Lift]] — RF receiver install and key-fob pairing on an AL600 (no written procedure on file)
+
 ## Warranty
 3-year limited parts warranty — see [[Harmar-Warranty]].
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,

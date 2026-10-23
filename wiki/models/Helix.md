@@ -45,6 +45,15 @@ interchangeable**. Helix team: helix@harmar.com, 800-833-0478.
 - [[Harmar Wiring Schematics]] — Helix III (2014) and OSG (2021)
   electronics schematics
 
+**Harmar training videos** (timestamped; the manuals win any conflict):
+- [[Video - How to Measure for a Helix Stair Lift]] — PhotoMap camera kit: markers, shooting order, common mistakes
+- [[Video - How to Install a Helix Stair Lift]] — full install, rail to final checks
+- [[Video - Correct Position of the Lower Roller Assembly (Helix)]] — **false final limit at the bottom = flipped lower roller**; plunger above the bottom track
+- [[Video - Helix Curved Stairlift Diagnostic]] — laptop diagnostic software on the chassis port; switch-by-switch screen
+- [[Video - How to Change the Helix Batteries]] — series jumper, black/red leads
+- [[Video - How to Change the Helix Board]] — board terminals (C±, M1 red / M2 black, B±, BK1/BK2, 30-pin), anti-static strap
+- [[Video - How to Use the Helix Sales Demo Kit]] — sales points: ~7 in from the wall, 8 lb/ft rail, bottom-mounted (lubricated) gear rack
+
 ## Overspeed mechanism
 Confirmed **standard equipment** (not optional) on both commercial and
 residential Helix installs per its order form, ASME 18.1-2017 compliant.

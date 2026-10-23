@@ -216,6 +216,10 @@ Tools: 5/16" bit driver on an extension, 7/16" socket and extension
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
 - [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (actuator removal, ALA10010 actuator, tool ALA10010-TOOL)
 - [[Video - How to Replace the Actuator (AL-100)]] (training video, full actuator remove and install, timestamped)
+- [[Video - How to Replace the AL100 Hold-Down Foot]] (training video; re-set the foot per the manual afterwards)
+- [[Video - How to Adjust the AL560 Platform and Hold-Down Arm]] (training video; manual says lower 2–3 in and 8 ft-lb)
+- [[Video - Understanding Various Hitch Adapter Heights]] (training video; use the HV chart, not the video's by-eye picks)
+- [[Video - 7-Pin Connector Release (AL701 harness)]] (training video; OEM 7-pin sockets only)
 - [[Harmar Parts Diagrams]] (AL100/AL301XL assembly drawings — the AL600
   drawing also referenced there actually belongs to
   [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)

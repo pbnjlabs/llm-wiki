@@ -202,8 +202,19 @@ working folder `Videos/_work/<slug>/` holding the extracted audio,
    (speech recognition mishears numbers). Steps that are shown but not
    said are written as "shown, not stated".
 
+Newer Harmar videos put the instructions in on-screen caption boxes
+(often also read by a voiceover). For those, also pull a frame a second
+and OCR the caption boxes into `captions.txt` in the work folder; the
+OCR is noisy, so treat it as a cross-check on the transcript, not a
+source on its own. Batch runs go shortest video first so pages can be
+written while the long ones transcribe.
+
 Source pages are titled `Video - <title>`, with `doc_type: Training
-Video` and a timestamp on every step so a tech can jump to it. No date
+Video` and a timestamp on every step so a tech can jump to it. A
+multi-part series of short clips (e.g. the 13 Pinnacle install clips)
+gets one page, with a `sources:` list of every file and times given per
+clip. Sales or marketing videos are ingested the same way but marked as
+manufacturer claims. No date
 unless the video shows one. They're manufacturer-authored, so they rank
 above clippings, but **a manual wins any conflict**. Leave presenters'
 names out (give their role). Copy the transcript to the other

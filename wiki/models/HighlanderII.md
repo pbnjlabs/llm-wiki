@@ -121,6 +121,15 @@ must perform this from outside the platform, at the top of the tower.
 - [[Harmar Wiring Schematics]] (VPL400-X full wiring set — block diagram,
   cab control, landings, limit switches, trailing cable)
 
+**Harmar training videos for older Harmar VPLs** (RPL residential and
+CPL commercial, no manuals on file; useful background, but use the
+Highlander II manuals for a Highlander):
+[[Video - Electronic Components of the Residential VPL (RPL)]],
+[[Video - How to Wire a Safety Pan on a VPL]],
+[[Video - How to Wire a Flush or Surface Mount Call Station for a VPL]],
+[[Video - How to Wire the Top Landing Gate on a CPL]],
+[[Video - How to Wire an Automatic Door Operator on a Highlander CPL]].
+
 ## Warranty
 3-year parts warranty (labor excluded) for VPL400-1400 in either
 configuration; **VPL400-X carries a shorter 2-year parts warranty** — see

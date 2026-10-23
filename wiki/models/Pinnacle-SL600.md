@@ -77,6 +77,16 @@ HD** — the "SL600HD" named in the rail-length bulletin is a real variant,
 not a typo, though none of these four are otherwise documented
 individually.
 
+**Harmar training videos** (shared with the SL300; the manuals win):
+[[Video - Changing the Batteries in the Pinnacle]],
+[[Video - Changing the Pinnacle Board]],
+[[Video - How to Replace a Pinnacle Seat Wire Harness]],
+[[Video - How to Re-Program the Pinnacle Wireless Remote]],
+[[Video - Stair Lift Beep Tones]],
+[[Video - How to Use the Pinnacle Sales Demo Kit]] (350 lb, 40–60 trips on battery). The
+folding-rail install videos are SL300; their 25 ft-lb footplate torque
+matches this model's manual ([[Video - Pinnacle Install Series (Parts 01-13, folding rail)]]).
+
 ## Warranty
 **Limited lifetime** warranty on motor/gearbox/worm gear/gear rack, 3yr
 other parts/electrical, 1yr batteries — stronger coverage than SL300's

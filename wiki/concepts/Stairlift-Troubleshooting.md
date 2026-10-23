@@ -100,6 +100,13 @@ is superseded by B-B-L-L.
 **Harmar** uses a different scheme (beeps counted after the power-up
 beep: 1 runaway, 2 no power, 3–6 conflicting footrest/obstruction, 7–8
 stop up/down, 9 final limit). See [[Harmar-Stairlift-Beep-Codes]].
+Harmar's training videos add: a **Helix laptop diagnostic program** on
+the chassis diagnostic port shows every switch live and names the two
+switches behind a conflict ([[Video - Helix Curved Stairlift Diagnostic]]);
+a Pinnacle **low battery** gives one chirp a second while still moving;
+and to find a stuck downstairs-side switch, **trip a top-side switch on
+purpose** so the conflict code shows which side is at fault
+([[Video - Stair Lift Beep Tones]]).
 
 ## 3. No response at all / no startup beep
 
@@ -151,6 +158,9 @@ once**.
 
 Harmar equivalent: 2 beeps = no 12V power on board, 9 = final limit
 ([[Harmar-Stairlift-Beep-Codes]]).
+A **new Helix that reads final limit (red LED) at the bottom** usually
+has its **lower roller assembly flipped**: the plunger switch must sit
+above the bottom track ([[Video - Correct Position of the Lower Roller Assembly (Helix)]]).
 
 ## 4. Won't go one way: single beep (or L2/L3)
 
@@ -290,6 +300,11 @@ remote button is held.
 - Check nothing blocks the eye of the emitter extension harness.
 - Bruno's install training: Brainshark, "Installation of IR Receivers
   for CRE".
+- **Any make: is the IR remote sending?** Point it at a **phone camera**
+  (usually the selfie camera) and press a button; the LED flashes on
+  screen. Harmar Pinnacle pairing (install switch held through the
+  start-up beep, both remotes in one cycle):
+  [[Video - How to Re-Program the Pinnacle Wireless Remote]].
 
 ## 8. Click only, or stops with 3, 4 or 5 short beeps
 

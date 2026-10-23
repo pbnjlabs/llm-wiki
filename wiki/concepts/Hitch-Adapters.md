@@ -109,6 +109,10 @@ Part numbers: class III **ASL-16604** (standard), **ASL-16605** (3 in),
   2 in drops can be **inverted**. Secure it by hitch class; on class 3 a
   pinch-bolt tube presses the adapter against the receiver wall to
   **stop rattle**. Don't overtighten the post.
+  Harmar's video suggests **flipping a standard adapter** that sits too
+  low for about 1½–2 in more ground clearance, and tours the range
+  ([[Video - Understanding Various Hitch Adapter Heights]]). It picks
+  drops by eye; use the HV chart.
 - **Bruno ASL-250/275:** put **Magnalube** on all sides of the adapter,
   tighten the **pinch bolt on class III**, and **level the mast to 90°**
   before final tightening. The hardware is stainless: use anti-seize on

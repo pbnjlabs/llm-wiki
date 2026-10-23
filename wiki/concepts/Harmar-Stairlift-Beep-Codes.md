@@ -57,6 +57,19 @@ the lift is stopped somewhere other than a charge strip; it repeats every
 5 minutes until the lift is returned to a charging position at either end
 of the rail.
 
+## From Harmar's training videos (the tables above win)
+- [[Video - Stair Lift Beep Tones]]: the board is the **Universal
+  Accessibility Board** (Pinnacle, Pinnacle HD, Vantage, Sierra incline
+  lift). Minor tones come with an **amber armrest light** on the
+  Pinnacle (tone only on the Vantage). The demo calls top-and-bottom
+  obstruction "five tones"; the tables say **4**. It calls the
+  off-charge warning a 30-second tone; the manuals say an intermittent
+  beep every 5 minutes. Low battery: **one chirp a second** while it
+  keeps travelling.
+- [[Video - Helix Curved Stairlift Diagnostic]]: the Helix diagnostic
+  software names a conflict directly ("MAJOR FAULT, Conf Switches: FR
+  RIGHT & OBSTR LEFT, UAB must be reset or power cycled").
+
 ## See also
 [[Helix]], [[Pinnacle-SL300]], [[Pinnacle-SL600]], [[Harmar]],
 [[Diagnostic-Codes]] (Bruno's equivalent scheme — unrelated, not

@@ -156,6 +156,10 @@ All ten hoist and truck lifts on Harmar's FSS list now have a manual
 (ticked off at [[index#Missing manuals]], 2026-10-06). Only the AL055 and
 AL065 have none; they aren't on the FSS list.
 
+**Harmar training videos:**
+- [[Video - How to Install the AL425HD Hoist Lift (Permobil)]] — truck-bed install, limit rings, strap kept straight under the pulley (manual torque 28–30 ft-lb)
+- [[Video - How to Set the Limit Switch on AL800 Series Truck Lifts]] — rotation set rings
+
 ## See also
 Bruno equivalent: [[VSL-6000-6900]] (Curb-Sider).
 [[Transport-and-Tie-Downs]], [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]], [[Docking-Devices]]

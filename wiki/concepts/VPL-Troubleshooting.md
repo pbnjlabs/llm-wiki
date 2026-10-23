@@ -439,6 +439,16 @@ diagnostic array on the board. The safety-chain method above still
 applies; the Highlander has its own interlock wiring
 ([[Gate-and-Door-Interlocks]]).
 
+**Older Harmar RPL and CPL lifts** (no manuals on file) use a relay
+controller: up, down and safety relays, a bridge rectifier for the 90 V
+DC motor, a 110→24 V AC transformer for the limits and interlock, and
+**two resettable breakers, 15 A (motor) and 3 A (24 V control)**
+([[Video - Electronic Components of the Residential VPL (RPL)]]). The
+controller's **SAFETY PAN** plug ships with a jumper that comes out when
+the pan harness is plugged in ([[Video - How to Wire a Safety Pan on a VPL]]);
+the top-landing interlock plug works the same way
+([[Video - How to Wire the Top Landing Gate on a CPL]]).
+
 ## Field notes
 
 - [[2026-10-01 Bruno-VPL door interlock spring]]: door stuck locked;

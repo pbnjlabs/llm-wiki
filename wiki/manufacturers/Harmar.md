@@ -70,6 +70,16 @@ selection, docking devices, hitch adapters, the AL015, Highlander II
 (Guardian System, install prep, 2022 changes), the Pinnacle drive and
 zero-overrun install, Helix remotes and threshold ramps: [[Harmar Product Insights (2021-2023)]].
 
+**Training videos (2026-10-23):** 47 Harmar training videos, one
+`Video - …` source page each (the 13-part Pinnacle install and the
+4-part dumbwaiter clips share a page), listed on each model page:
+[[Helix]], [[Pinnacle-SL300]], [[Pinnacle-SL600]], [[HighlanderII]]
+(older RPL/CPL videos), [[AL-Series-Outside-Vehicle-Lifts]],
+[[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], plus
+[[Video - Harmar Dumbwaiter Repair (110 V to 220 V conversion)]].
+Harmar training questions: training@harmar.com; tech services
+866-378-6648, TechServices@harmar.com (from the videos' end cards).
+
 **Threshold ramps:** Harmar's rubber threshold ramps ([[Harmar Rubber Threshold Ramps Spec Sheet (2020)]]) are its own
 modular design; its aluminum threshold ramps are EZ-ACCESS TRANSITIONS
 products, co-branded ([[TRANSITIONS Aluminum Threshold Ramps Sell Sheet (Harmar, 2025)]]). Compared on [[TRANSITIONS-Threshold-Ramps]].

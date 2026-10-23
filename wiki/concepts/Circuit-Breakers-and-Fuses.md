@@ -145,6 +145,10 @@ AL625's **RF remote has its own fuse**.
 - **Prism P440** ([[P440]]): internal **15 A fuse**.
 - **Harmar Highlander II** platform lift ([[HighlanderII]]): **60 A fuse**
   on the 24 V battery bank.
+- **Harmar RPL** (older residential platform lift, no manual on file):
+  **15 A resettable breaker** on the motor side and **3 A resettable**
+  on the 24 V control side, next to the controller
+  ([[Video - Electronic Components of the Residential VPL (RPL)]]).
 - **Open Sesame** door operators (pre-2021): tube fuse holder on the
   **orange battery wire**; no red light → check it
   ([[Open-Sesame-Model-133]], [[Open-Sesame-Model-233]]).

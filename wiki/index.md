@@ -16,7 +16,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) + 1 training video in `Videos/` | 49 source pages (see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
+| Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) + 47 training videos in `Videos/` | 83 source pages (34 of them training-video pages covering all 47 videos; see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -189,11 +189,11 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
 | P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
 | Castor 2 Post Lift Stand (accessory) | Prism | [[Prism-Castor-2-Post-Lift-Stand]] |
-| Helix (CSL Series) | Harmar | [[Helix]] |
-| Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs) | Harmar | [[HighlanderII]] |
-| Pinnacle SL300 | Harmar | [[Pinnacle-SL300]] |
+| Helix (CSL Series; 7 training videos incl. install, measuring, diagnostic software, board and batteries) | Harmar | [[Helix]] |
+| Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs; training videos for the older RPL/CPL linked here) | Harmar | [[HighlanderII]] |
+| Pinnacle SL300 (folding-rail install videos: **footplate bolts 46 ft-lb per Rev L, not the videos' 25**; rail ≥3 in above the nose) | Harmar | [[Pinnacle-SL300]] |
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
-| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator replacement: ALA10010-INS sheet and training video) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
+| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator replacement: ALA10010-INS sheet and training video; videos for the hold-down foot, AL560 arm, hitch adapters, AL701 7-pin harness) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 | Hoist-Series Inside Vehicle Lifts (12 models incl. AL8xx truck lifts, cargo-area mounted; install manuals on file) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 | Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower; legacy AL625/AL625HD "Tracker") | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |
@@ -555,6 +555,27 @@ Highlander II Service Mode timer).
 "Tracker") and [[Harmar Mobility Solutions Chart (2026, Rev F)]]. Closes three Missing manuals items (hoist lifts,
 truck lifts, AL-625HD). Flagged: AL815CC/AL825 capacity, 2022 FSS list
 150/225 lb vs manual and 2026 chart 135/210 lb.
+
+*Sixth pass* (2026-10-23, training videos): all **47 Harmar training
+videos** from `~/Downloads/Col_ID8949-original` (one, the AL-100
+actuator video, was already in), in `MANUALS/Harmar/Videos/` with
+transcripts, frames and caption OCR in `Videos/_work/<slug>/`. 34
+`Video - …` source pages (the 13 Pinnacle install clips and the 4
+dumbwaiter clips are one page each). Stairlifts: Pinnacle install
+series and full-length version (SL300), folding-rail hand change, rail
+jig, hand-control side swap, remote pairing, batteries, board, seat
+harness, beep tones, sales demo kit; Helix install, measuring, lower
+roller, diagnostic software, batteries, board, sales demo kit. Platform
+lifts (older RPL/CPL): electrical components, safety pan, call
+station, top landing gate, door operator. Vehicle lifts: actuator,
+AL100 hold-down foot, AL560 arm, hitch adapters, AL701 7-pin harness,
+Hybrid RF remote, AL800 limit switch, AL425HD truck install.
+Dumbwaiter: 110→220 V conversion. **Conflicts flagged (manual wins):**
+SL300 footplate torque 25 vs **46 ft-lb**; Pinnacle rail clearance 2–3
+vs **3 in minimum**; folding-rail foot wrench 9/16 vs ½ in; AL560 arm
+lowered 1–2 vs **2–3 in**; beep-tone count 5 vs **4** for top+bottom
+obstruction; Pinnacle demo kit's 350 lb vs SL300 **300 lb**; hitch
+video's 6 in drop at 21 in vs **3 in** on the AL1235U chart.
 
 Golden (218 of 231 ingested; 13 Spanish mobility files pending) — see `wiki/sources/Golden/`: **tech library, added 2026-10-20:** IPBs
 [[Ally Illustrated Parts Breakdown (GP303)]], [[Ally Pro Illustrated Parts Breakdown (GP304)]],
@@ -919,6 +940,15 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   a 2016 AL-100). Still open: whether the 310-00005 is the same
   procedure, and torque values for the actuator screws and locking-tab
   bolt. Ask Harmar (800-833-0478).
+- [ ] **Harmar items surfaced by the training videos** (added
+  2026-10-23). Only if PMS services them: manuals for the older
+  **RPL** residential and **CPL** commercial platform lifts and the
+  CPL's DMT door operator; a **Harmar dumbwaiter** manual; the
+  **Vantage**, **Summit** and **Sierra** stairlifts. For work PMS does
+  now: the **Helix diagnostic software and cable**, the **AL701** 7-pin
+  harness instructions, the Hybrid **RF remote kit** sheet, and the
+  Pinnacle **rail jig** part number. Ask Harmar (800-833-0478,
+  training@harmar.com).
 
 **Solutions, 65 II F, Bruno vehicle lifts (36F79719D0128)**, checked
 against [[Bruno Lifts Price List (PMS SC-0307)]] (Bruno's FSS list isn't
@@ -1009,7 +1039,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ### Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
-### Harmar — fully ingested; hoist, truck and AL625HD manuals added 2026-10-06; every FSS-listed Harmar product is now covered (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD; rubber threshold ramp spec sheet in `MANUALS/Ramps/`), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
+### Harmar — fully ingested, including all 47 training videos (2026-10-23); hoist, truck and AL625HD manuals added 2026-10-06; every FSS-listed Harmar product is now covered (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD; rubber threshold ramp spec sheet in `MANUALS/Ramps/`), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
 ### AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
 

@@ -92,6 +92,16 @@ parts diagram — see [[Harmar Parts Diagrams]]. SL300 and SL600 share the
 same chassis-and-wheels subassembly and control software
 (`800-00004 SOFTWARE, SL300/SL600`).
 
+**Harmar training videos** (timestamped; the manuals win any conflict):
+- [[Video - Pinnacle Install Series (Parts 01-13, folding rail)]] and the full-length [[Video - Pinnacle Parts (SL300 folding rail install, full length)]] — folding-rail install. **Conflicts:** they say footplate bolts 25 ft-lb (Rev L: **46 ft-lb**) and 2–3 in rail clearance (manuals: **3 in minimum**)
+- [[Video - Pinnacle Folding Rail Hand Change]] — reversing the folding rail; manual adds 15 / 10 ft-lb torques and the ¼ in slot gap
+- [[Video - Pinnacle Rail Jig Kit (SL300)]] — drilling and pinning a cut rail end
+- [[Video - Changing the Hand Control Side and Wire Harness (Pinnacle SL300)]] — moving the armrest control to the other side
+- [[Video - How to Re-Program the Pinnacle Wireless Remote]] — pairing, and the phone-camera IR test
+- [[Video - Changing the Batteries in the Pinnacle]], [[Video - Changing the Pinnacle Board]], [[Video - How to Replace a Pinnacle Seat Wire Harness]]
+- [[Video - Stair Lift Beep Tones]] — UAB beep tones (go by the manual's table)
+- [[Video - How to Use the Pinnacle Sales Demo Kit]] — sales points (it quotes **350 lb**; the SL300 is **300 lb**)
+
 ## Warranty
 2-year limited warranty (material/mechanical/electrical parts), a separate
 **10-year warranty on the gear rack specifically**, 1yr batteries — see
