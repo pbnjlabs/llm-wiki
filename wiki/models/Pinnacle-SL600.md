@@ -20,7 +20,9 @@ Outdoor installation is still excluded from warranty, same as SL300.
   triggers a red→amber→green self-test sequence on power-cycle
 - Folding Rail is presented as a standard feature (no "optional"
   qualifier in this manual, unlike SL300's explicit SL300FR option) — not
-  confirmed against an install manual, since none is on file for SL600
+  confirmed against an install manual, since none is on file for SL600.
+  The folding rail kit drawing (DWG 130-00551) is labelled "Pinnacle"
+  only; its parts are in [[Harmar Parts Diagrams]]
 - **Power Swivel and Power Footrest do exist for SL600** (SKUs SL600-PS/
   SL600-PF/SL600-PSPF) — confirmed by
   [[Pinnacle Power Swivel and Power Footrest Install Supplement]], simply

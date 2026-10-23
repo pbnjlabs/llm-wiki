@@ -3,12 +3,12 @@ type: source
 manufacturer: Harmar
 doc_type: Engineering Parts Diagrams
 tags: [harmar, parts-diagram, bom, pinnacle, hoist-lift, outside-lift]
-source: "MANUALS/Harmar/Harmar-SL300 Chassis.pdf; MANUALS/Harmar/Harmar-SL600 Chassis.pdf; MANUALS/Harmar/Harmar-Chassis with obstruction sensors.pdf; MANUALS/Harmar/Harmar-Lower Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-Upper Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-al-100-12_L.pdf; MANUALS/Harmar/Harmar-al-100-12_L_dupe1.pdf; MANUALS/Harmar/Harmar-al-301xl-12_M.pdf; MANUALS/Harmar/Harmar-al-600-12_R.pdf; MANUALS/Harmar/Harmar-al425_N.pdf; MANUALS/Harmar/Harmar-al435_L.pdf; MANUALS/Harmar/Harmar-al825_J.pdf"
+source: "MANUALS/Harmar/Harmar-SL300 Chassis.pdf; MANUALS/Harmar/Harmar-SL600 Chassis.pdf; MANUALS/Harmar/Harmar-Chassis with obstruction sensors.pdf; MANUALS/Harmar/Harmar-Lower Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-Upper Folding Rail assembly.pdf; MANUALS/Harmar/Harmar-Folding Rail Assembly.pdf; MANUALS/Harmar/Harmar-al-100-12_L.pdf; MANUALS/Harmar/Harmar-al-100-12_L_dupe1.pdf; MANUALS/Harmar/Harmar-al-301xl-12_M.pdf; MANUALS/Harmar/Harmar-al-600-12_R.pdf; MANUALS/Harmar/Harmar-al425_N.pdf; MANUALS/Harmar/Harmar-al435_L.pdf; MANUALS/Harmar/Harmar-al825_J.pdf"
 ---
 
 # Harmar Parts Diagrams (Manufacturing BOMs)
 
-Nine engineering exploded-view/BOM drawings (revision histories, torque
+Ten engineering exploded-view/BOM drawings (revision histories, torque
 specs, ASME Y14.5 drafting notes) — manufacturing references, not
 dealer/tech documentation. Grouped into one source page; individual part
 numbers aren't transcribed here (see the raw PDFs for those), only the
@@ -37,6 +37,30 @@ facts they reveal that aren't documented anywhere else in the wiki.
   folding-rail hardware, available in 3 powder-coat color codes
   (base/RAL9016/RAL9006), consistent with the folding-rail reversal
   procedure in [[Pinnacle SL300 Install Manual (2026, Rev L)]].
+- `Harmar-Folding Rail Assembly.pdf` (DWG **130-00551**, Rev H,
+  01APR2024; added 2026-10-23) — the **top-level LH folding rail kit**,
+  one level above the two drawings above. Four versions by color:
+  `130-00551-` (standard), `-RAL9016`, `-OYSV` (oyster white) and
+  `-TWSV` (traffic white). The drawing calls the rail "Pinnacle" without
+  naming the SL300 or SL600. Contents:
+
+  | Item | Part number | Description |
+  |---|---|---|
+  | 1 | 130-00548 (-RAL9016) | Folding rail parts kit |
+  | 2 | 130-00549 (-RAL9016, -RAL9006) | LH lower folding rail assembly |
+  | 3 | 130-00550 (-RAL9016, -RAL9006) | LH upper folding rail assembly |
+  | 4 | 79127 (-RAL9016); SSL-TB1 (silver, on the white kits) | Tall track bracket, 2 per kit |
+  | 11 | 79201 | Cable slider assembly |
+  | 12–15 | 75207 / 75208 / 75209 / 75210 | Track hinges: upper right, upper left, lower left, lower right |
+  | 10 | 390-00142 | Straight strain-relief bushing |
+  | 5–9 | 10020, 10044, 10059, 420-00478, 10773 | Hardware: 10-32 × ½ FH socket screws (4), shoulder bolt, 5/16-18 nut, 10-32 × ½ FH Phillips screw, ¼ × ½ dowel pins (2) |
+
+  Plus labels (LH folding rail, this side up, fragile, color) and packing
+  (outer and inner boxes, foam saddles, tabs, pivot and end pieces).
+  Revisions: **G** (29NOV23, ECO-008801) added the two tall track
+  brackets, labels and packing; **H** (01APR2024, ECO-009376) changed
+  item 8 from **10309 to 420-00478**. The kit is LH as built; handing is
+  reversed in the field per the install manual.
 
 ## Outside Vehicle Lift assemblies
 - `Harmar-al-100-12_L.pdf` / `Harmar-al-100-12_L_dupe1.pdf` (byte-identical,

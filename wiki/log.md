@@ -1496,3 +1496,8 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-22] field-note | Golden GC440 — 8 beeps, won't move, burnt motor connector (resolved)
 - Closed per the human. Root cause: burnt, melting motor connector (both halves) opening the motor circuit. Fix: quoted a new motor and wiring harness; the installed part numbers and post-repair test weren't recorded.
+
+## [2026-10-23] ingest | Harmar Pinnacle — folding rail kit assembly drawing (DWG 130-00551 Rev H)
+- Per the human, checked `~/Downloads/Col_ID8949-original` (13 Harmar files): 12 were byte-identical (md5) to files already in `MANUALS/Harmar/` and cited by [[Harmar Parts Diagrams]], and were deleted from Downloads at the human's request. The new one, `Harmar-Folding Rail Assembly.pdf`, was copied into both `MANUALS/Harmar/` folders.
+- **Added to** [[Harmar Parts Diagrams]]: the top-level LH folding rail kit (130-00551 in standard, RAL9016, oyster white and traffic white): parts kit 130-00548, lower 130-00549, upper 130-00550, tall track brackets 79127 / SSL-TB1, track hinges 75207–75210, cable slider 79201, hardware and packing. Rev G (Nov 2023) added the tall brackets; Rev H (Apr 2024) changed screw 10309 to 420-00478.
+- **Updated:** [[Pinnacle-SL300]], [[Pinnacle-SL600]], index (file count). The drawing says "Pinnacle" only, without naming the SL300 or SL600.

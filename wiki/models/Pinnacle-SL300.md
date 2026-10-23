@@ -18,7 +18,10 @@ which is commercial-rated).
   near the hinge point during travel, returns to vertical/charging
   position when parked. Rail handing (left/right) is field-reversible —
   see [[Pinnacle SL300 Install Manual (2026, Rev L)]] for the full
-  gas-strut/link-arm reversal procedure.
+  gas-strut/link-arm reversal procedure. Kit parts (DWG 130-00551 Rev H:
+  rail kit 130-00548, lower 130-00549, upper 130-00550, track hinges
+  75207–75210, tall track brackets 79127) are in
+  [[Harmar Parts Diagrams]].
 - **Power Swivel** (SKU SL300-PS) — swivel integrated into the primary
   armrest control instead of manual levers; ~5s full swivel time, a
   resettable fuse trips after 5s of continued input at a stop (2-min

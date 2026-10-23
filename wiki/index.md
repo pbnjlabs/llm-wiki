@@ -520,7 +520,7 @@ workflow: lift by device, swing-away, hitch adapter on every estimate;
 phone number and login omitted); Hoist Vehicle Lift Brochure (revealed the entire
 [[Hoist-Series-Inside-Vehicle-Lifts]] product category); and four
 consolidated reference pages — Harmar Evaluation and Order Forms (6
-files), Harmar Product Spec Sheets (4 files), Harmar Parts Diagrams (9
+files), Harmar Product Spec Sheets (4 files), Harmar Parts Diagrams (10
 files), Harmar Wiring Schematics (6 files) — each covering multiple
 low-narrative-value engineering/marketing documents in one page rather
 than one page per file. Product-photo/DAM-metadata files were
