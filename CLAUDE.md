@@ -345,7 +345,7 @@ the whole `MANUALS/` tree unless explicitly asked to.
    before offering a link, check the file actually exists on disk here
    (e.g. `ls` the resolved path). If it exists, include a `file://` link
    using this device's absolute path (e.g.
-   `file:///home/lu/Work/llm-wiki/MANUALS/Bruno/...pdf`) alongside the
+   `file:///home/lu/Work/PMS/llm-wiki/MANUALS/Bruno/...pdf`) alongside the
    relative path for reference. If it does **not** exist locally, say so
    plainly instead of printing a link — e.g. "source PDF not cached on
    this device; relative path: `MANUALS/Bruno/...pdf`" — never emit a

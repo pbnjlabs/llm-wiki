@@ -66,7 +66,7 @@ Raw files: the original 10 sit loose in `MANUALS/Pride/`; the later
 batches are sorted into `Quantum Power Chairs/`, `Jazzy Power Chairs/`,
 `Scooters/`, `Controllers/` (`Q-Logic`, `Q-Logic 3`, `Q-Logic NES`,
 `PG and Dynamic`), `Seating/`, `Lift Chairs/`, `TechnoBulletins/` and
-`General/` (the same in the human's `/home/lu/Work/MANUALS/Pride/`).
+`General/` (the same in the human's `/home/lu/Work/PMS/MANUALS/Pride/`).
 
 ### Quantum power chairs
 
