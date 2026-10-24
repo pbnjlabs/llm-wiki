@@ -895,9 +895,9 @@ human).
 
 Equipment PMS is contracted to sell or repair that has **no install or
 owner's manual on disk**. Checked 2026-10-12 against every file in the
-repo's `MANUALS/` (the only copy since 2026-10-24; the web clippings come from
-the vault's `Clippings/` folder (Pride and `Bruno/TechMate/` synced
-2026-10-16; the 2026-10-19 Pride batch was filed into both). Tick an item off when its manual is ingested. Source for most
+repo's `MANUALS/` (the only copy since 2026-10-24). The web clippings come
+from the vault's `Clippings/` folder (Pride and `Bruno/TechMate/` synced
+2026-10-16). Tick an item off when its manual is ingested. Source for most
 missing manuals: the manufacturer's dealer portal or tech support
 (Harmar 800-833-0478). Background: [[VA-FSS-Contracts]].
 **Golden:** every manual on Golden's public website was ingested
