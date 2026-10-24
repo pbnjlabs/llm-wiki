@@ -217,8 +217,7 @@ clip. Sales or marketing videos are ingested the same way but marked as
 manufacturer claims. No date
 unless the video shows one. They're manufacturer-authored, so they rank
 above clippings, but **a manual wins any conflict**. Leave presenters'
-names out (give their role). Copy the transcript to the other
-`MANUALS/` folder along with the video.
+names out (give their role).
 
 ### Manufacturer prices and pay scales
 
