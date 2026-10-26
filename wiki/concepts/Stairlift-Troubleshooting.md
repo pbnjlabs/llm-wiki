@@ -572,6 +572,17 @@ mode is optional ([[SRE-5000]]):
 - **SRE-5000 remotes dead but the paddle works:** the motor leads are
   routed too close to the IR sensor.
 
+## 14. Savaria K2 and K2 Plus
+
+Different system from Bruno and Harmar: three **carriage LEDs** instead of
+beeps. All on = ready; middle + right = LH obstruction; middle + left = RH
+obstruction; middle only = both; **all off = safety circuit fault**
+(overspeed tripped, final limits, swivel switch). No board LEDs = main switch
+on the carriage top, batteries (2 × 12 V in series). Rail should read **+33 V
+DC** at the charging strips. Remotes reversed = DIP 1; slow on bus line or
+no slowdown at landings = DIP 4. Full table on [[K2]]; guide:
+[[K2 Stairlift Troubleshooting Guide (001061)]].
+
 ## Field notes
 
 None yet for stairlifts. Add them here as they come in.

@@ -93,6 +93,13 @@ on file):
   instructions, VPL Fuse & Circuit Breaker Listing. Ask Bruno Technical
   Service for copies.
 
+**Savaria** (added 2026-10-26):
+- [ ] **K2 / K2 Plus owner's manual**: the install guides, troubleshooting
+  guide, MCP, parts catalogues and bulletins are on file, but not the owner's
+  manual the install guide says to hand the customer. Also referenced, not on
+  file: Savaria Link Installation and Setup Guide (P/N 001180). Ask Savaria
+  (800-791-7999) or the Savaria Dealers website ([[K2]]).
+
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [x] **Manual wheelchairs**: closed 2026-10-26. **Ki Mobility and Sunrise Quickie are the only manual wheelchairs the human has worked on**, and both are now on file. Scootaround jobs include
   VA-issued manual chairs. **Sunrise Quickie 2, 2HD, 2 Lite, 2HP and

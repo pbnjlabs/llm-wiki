@@ -132,6 +132,17 @@ see [[ILS - Final Limit Compression System]]. The tech tips add two older method
 1.5 in) and, for SRE-1540/1550/2000, the **duct-tape** and **96 V test
 fixture** methods. Follow state and local load and witness rules.
 
+## Savaria K2 / K2 Plus
+
+The K2 install guide and K2 Plus Maintenance Control Program set **6-month**
+checks (limits, sensors, seat, remotes; everything on the K2 Plus MCP) and
+yearly technician items on the K2 (overspeed, rollers, rack, brackets).
+**Rollers: Super Lube synthetic or wet graphite grease; swivel: wheel bearing
+grease; replace angle rollers every 3 years.** Seat post bolts 40 ft-lb.
+Outdoor units every 6 months (3 in extreme environments): Nu Finish wax,
+Fluid Film, dielectric grease on the charging strips. See [[K2]] and
+[[K2-Plus]].
+
 ## Joint Commission
 
 Record each visit (date, checks done, parts, batteries). At delivery,

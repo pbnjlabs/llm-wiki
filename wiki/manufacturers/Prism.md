@@ -57,6 +57,12 @@ branding relationship postdates those documents, or they simply omit
 it. Not confirmed whether C-450/C-625 itself is Handicare-manufactured;
 only P440 and the Castor stand are confirmed so far.
 
+
+**Handicare is now part of Savaria Patient Care** (with Span and Silvalea),
+per Savaria's 2026 catalogues
+([[Savaria Patient Care Slings Catalogue (V18D)]]); see [[Savaria]].
+Savaria slings are made for Savaria ceiling and floor lifts.
+
 ## Cross-manufacturer note: Vancare
 
 A 213-page ceiling-lift track installation guide found under

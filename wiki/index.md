@@ -22,6 +22,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
+| Savaria | [[Savaria]] | 20 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 2; 2026-10-26) | 10 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
@@ -219,6 +220,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Little Wave Flip pediatric tilt, incl. Flip for x:panda (165 lb) | Ki Mobility | [[Flip]] |
 | Tyke pediatric mobility base for an R82 x:panda seat (74 lb) | Ki Mobility | [[Tyke]] |
 | Axiom seating: backs and cushions (300–400 lb) | Ki Mobility | [[Axiom-Seating]] |
+| K2 straight-rail battery stairlift (300 lb; LED diagnostics, LUT125 DIP switches, bus line or charging strips) | Savaria | [[K2]] |
+| K2 Plus stairlift (public/Canadian codes; flip-up rail 350 lb; MCP) | Savaria | [[K2-Plus]] |
 | TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, manufacturer instructions and spec sheets for all; aluminum 700 lb, rubber mats 850 lb; ¼ in fit) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb, 500 lb with a Top Lip Extension; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (3–10 ft, 1,000 lb; PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
@@ -235,7 +238,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | **VPL drive service (Bruno)**: how the screw hangs, **½ in drive-nut gap and loose-by-design bolts**, screw/nut kits (ILS-01129), tall nut change, lower bearing (¼ in gap), belts (**about ½ in per ILS-01444**; the 2016 tip's ⅛ in at 2½–3½ lb flagged as older), 150 in-lb studs), **nut safety switch test tool VPL-32422**, tall screw/nut and joint pins (ILS-01538/01185), guide pads and ball plungers (TSG-VPL-007), squeal and won't-lift shimming, old motor swap, brake (none on commercial and newer residential; AC retrofit kits), **grease: Mobil Aviation SHC 100 (LUB-00114)**, cold weather | [[VPL-Drive-Service]] |
 | **VPL maintenance (Bruno)**: ILS-01444 maintenance control plan (weekly checklist required on commercial lifts, 6-month/yearly routine, yearly periodic, 5-year 125% load test, coastal every 4 months, 5-year logs), the manuals' 12-month and 2-month lists, grease, nuts, belts, switches, batteries (replace below 70%), site checks, touch-up paint, Joint Commission records | [[VPL-Maintenance]] |
 | **VPL troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, quick checks, the safety-chain voltage walk with board test points (VPL-3100B terminals 33/29/25, ground 20; VPL-3200B 52/58/59/61/63, ground 67; AC board E1–E18), each circuit, gate/door closed/locked/enable switches, calls, click/hum/squeal, drive nuts (½ in gap), noise and pad deflection, charging, runs on its own, blown fuse | [[VPL-Troubleshooting]] |
-| **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
+| **Stairlift troubleshooting, symptom-first** (Bruno TechMate flow + Harmar + Savaria K2 LEDs): triage, beep/code table incl. SRE-5000, no power, single beep/limits, seat safety, rocker, remotes and the CRE IR repeater, 3/4/5 short beeps, noises, seat fold (SRE-3050 dampener cap), charging and charger LEDs, slowdown/P0, shorts, power swivel/footrest/folding rail | [[Stairlift-Troubleshooting]] |
 | **Bruno parts lookup and parts drawings**: serial lookup (exact serial only; don't submit the inquiry boxes), 252 assembly drawings by family, common part numbers (BCR-24020 VPL charger, BTR-12001/12002/12008/12010 batteries, TMR-00004 remote) | [[Bruno-Parts-Lookup]] |
 | **Stairlift power options**: power swivel and power footrest across SRE-2010, CRE-2110, SRE-3050/3000 and SRE-5000 (press-again vs hold, harness plugs, torques, kits, parts) | [[Stairlift-Power-Options]] |
 | **Vehicle lift emergency operation**: cranks, drills and board-button backups for the Out-Sider, Chariot, Out-Rider, Joey (both generations), Curb-Sider and Stow-Away; directions and fuse-first rule | [[Vehicle-Lift-Emergency-Operation]] |
@@ -357,7 +360,7 @@ One summary page per raw manual lives under `sources/<Manufacturer>/<Product Lin
 | [[Sources-Harmar]] | Harmar: all six ingest passes, including the training videos. |
 | [[Sources-Golden]] | Golden: tech library, lift chairs, mobility and beds. |
 | [[Sources-Pride]] | Pride: spec sheets, controllers, PQ-365 library and owner's manuals. |
-| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical and Ki Mobility. |
+| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical, Ki Mobility and Savaria. |
 | [[Sources-PMS-and-Reference]] | PMS office files and forms, battery price sheets, Scootaround, VA and standards. |
 
 ## Ingestion backlog

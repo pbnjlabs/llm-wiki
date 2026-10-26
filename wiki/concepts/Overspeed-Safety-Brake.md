@@ -167,6 +167,17 @@ Sources: [[Tech Tip - SRE-2010C Overspeed Test (SRV-2010-018)]],
 old CRE-2100 (hand-written on its spec sheet): carriage **46–72 ft/min**
 ([[CRE-2100]]).
 
+## Savaria K2 / K2 Plus
+
+The K2's overspeed **brake dog** drops onto the gear rack. Before fitting a
+carriage, check it wasn't tripped in shipping (reset it, remove the red tag).
+**Trip test:** from the top, open the side and top covers, run down until
+the dog shows, flip it up with a screwdriver, run down until it catches,
+crank back up with the handwheel, press the dog down. The K2 Plus bulletin
+does this with **125% of rated load** on the seat. A tripped governor
+opens the safety circuit (all carriage LEDs off). See [[K2]],
+[[K2 Technical Bulletins (2015-2020)]].
+
 ## See also
 
 [[SRE-2010]], [[SRE-3000]], [[SRE-3050]], [[CRE-2100]], [[Stairlift-Maintenance]], [[Bruno]], [[C-450-C-625]],
