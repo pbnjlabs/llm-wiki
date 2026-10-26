@@ -182,7 +182,14 @@ The number of air switches on the board identifies the model: 2 = Manual,
   2-second delay, with an alarm. It only lowers. Report any lowering
   failure to the dealer at once.
 - **C-450/C-625:** the emergency shut-off pull cord, held at full
-  extension, lowers the lift ([[C-450-C-625]]).
+  extension, lowers the lift ([[C-450-C-625]]). Pulled once it only stops the
+  lift (push the white tab back to reset). With no power, turn a **4 mm hex
+  key** clockwise in the motor shaft behind the side clip
+  ([[C-450 C-625 Owner's Manual (753140 Rev D)]]).
+- **Savaria M-Series / PL portable:** 4 mm Allen key, power off, many slow
+  turns. **If the emergency brake has engaged, don't release it, press Up or
+  lower manually: switch off and call the dealer**
+  ([[Savaria M-Series Portable Ceiling Lift Owner's Manual (001586)]]).
 
 ## Field notes
 

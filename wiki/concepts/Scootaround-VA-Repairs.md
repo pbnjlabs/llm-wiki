@@ -23,7 +23,8 @@ affect safe use, and smart drives or power assists.
 Medical's **Quickie 2 family** ([[Quickie-2-Series]]) and **Ki Mobility's
 line** with dealer tech manuals ([[Ki-Mobility]]); cross-brand notes on
 [[Manual-Wheelchair-Service]]. These are the only manual wheelchair makes
-the human has worked on; if another make comes up on a job, get its manual
+the human has worked on; Permobil **TiLite** and **PDG Mobility** manuals are
+also on file ([[Permobil]]); if another make comes up on a job, get its manual
 and add it to [[Ingestion-Backlog#Missing manuals]]. Power chairs and scooters are covered for Golden,
 Pride and Red Hawk. Tracked at
 [[Ingestion-Backlog#Missing manuals]].

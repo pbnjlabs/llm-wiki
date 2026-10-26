@@ -52,6 +52,14 @@ only with the right securement:
   isn't**), and some have lower transit limits (Rogue ALX and Little Wave 125
   lb). Reversing a **Tyke** seat to rear-facing removes its transit rating.
   See [[Manual-Wheelchair-Service]].
+- **Permobil TiLite** chairs with the factory **Transit Tie-Down Option**: Z
+  (ISO 7176-19:2022), ZRA (WC19), X, Twist and Pilot (rider 20 lb under the
+  chair's limit). **ZR, Aero T, TRA, TR and 2GX must never be occupied in
+  transit.** The **Transport** Tie-Down Option only secures an empty chair; the
+  stickers tell them apart ([[TiLite-Rigid-Series]], [[TiLite-Folding-Series]]).
+- **PDG Mobility** tilt chairs (Fuze, Stellar, LT): only with PDG's **Transit
+  Tiedown System**, marked by **4 white hook symbols**, forward facing, WC-4 §18
+  tie-downs such as Q'Straint S5-6329-11 ([[PDG-Fuze]]).
 - Check the chair's own manual and decals every time. Seating changes
   (taller towers, added accessories) can take away an occupied rating.
 

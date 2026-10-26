@@ -54,8 +54,9 @@ pass:
 The earlier-ingested [[C-450 C-625 Technical Manual]] and the 2017
 [[P440 User Manual]] don't mention Handicare at all — either the
 branding relationship postdates those documents, or they simply omit
-it. Not confirmed whether C-450/C-625 itself is Handicare-manufactured;
-only P440 and the Castor stand are confirmed so far.
+it. **The C-450/C-625 is Handicare-made too:** its owner's manual
+([[C-450 C-625 Owner's Manual (753140 Rev D)]], Rev D 2022) is a Handicare
+manual that requires Handicare-authorized technicians (confirmed 2026-10-26).
 
 
 **Handicare is now part of Savaria Patient Care** (with Span and Silvalea),

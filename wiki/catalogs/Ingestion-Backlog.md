@@ -105,7 +105,8 @@ on file):
   VA-issued manual chairs. **Sunrise Quickie 2, 2HD, 2 Lite, 2HP and
   2HP HD** owner's manuals ingested 2026-10-26 ([[Quickie-2-Series]]),
   and **Ki Mobility's full line** (25 user and 13 technical manuals) the
-  same day ([[Ki-Mobility]]).
+  same day ([[Ki-Mobility]]). Permobil **TiLite** and **PDG Mobility**
+  manuals (plus R-net/ICS sheets) were also added that day ([[Permobil]]).
   Other makes aren't needed unless one turns up on a job (then add it
   here). Nice to have: Sunrise parts manuals and the Quickie Transit
   Retrofit Kit install sheet.
@@ -169,7 +170,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ## Pride — fully ingested (222 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 technical service library on 2026-10-19, 54 from the PQ-365 owner's manuals and basic operations tabs on 2026-10-20). No unread files. Gaps (Missing manuals above): owner's manuals for the original Q6 Edge, Jazzy 614 (2010), Select Elite, Outback and ET Series; IPBs; bulletin LC-029. Owner's-manuals tab items **deliberately skipped**: Baja (Bandit, Raptor 2, Wrangler 2), 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), the AU mid-size and Canadian Go-Go duplicates, scooter intro/contact insert, non-medical scooter safety guide; basic operations tab: Synergy seat and Stealth cushion sheets. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 
-## Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. Open question: is [[C-450-C-625]] itself also Handicare-manufactured? Not yet confirmed either way.
+## Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. **Resolved 2026-10-26:** [[C-450-C-625]] is Handicare-made too; its owner's manual ([[C-450 C-625 Owner's Manual (753140 Rev D)]]) is a Handicare document.
 
 ## Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
 
@@ -180,3 +181,5 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 ## Red Hawk — fully ingested, no backlog remaining, but with one open item: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
 ## EZ-ACCESS — fully ingested, no technical backlog. 28 EZ-ACCESS manuals, spec sheets and forms added 2026-10-26 (in `MANUALS/Ramps/EZ-ACCESS/`), all ingested; one duplicate skipped. **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Resolved: "Pathway" = PATHWAY 3G. The 2015 manual's 850 lb is superseded by the 2023 manual's **1,000 lb**. Also noted: the Ramps Handbook's 28.5 in → 28 ft example is wrong: **confirmed as 29 ft** (round up). The docx itself still says 28 ft.
+
+## Permobil — fully ingested (45 files, 2026-10-26): TiLite and PDG Mobility manual chairs, R-net LED and ICS error codes, PJSM IR, back support sizing ([[Permobil]]). No Permobil **power chair** owner's or service manuals are on file; get one if a Permobil power chair comes up on a job. Not on file: OM ICS OnBoard Configuration (referenced by the ICS quick reference card).

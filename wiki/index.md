@@ -13,7 +13,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Bruno | [[Bruno]] | 27 manuals in `MANUALS/Bruno/` plus **107 dealer-portal tech tips** in `MANUALS/Bruno/Tech Tips/` and **636 ILS instruction sheets** in `MANUALS/Bruno/Drawings/` (all ingested: 161 stairlift, 134 VPL, 277 vehicle lift, 60 docking device, 3 general) (2026-10-22) (+3 in `MANUALS/Admin/`, +1 web clipping in `MANUALS/Clippings/`; the folder's 28th file is the misfiled Harmar camera manual, counted under Harmar) | 33 + 67 tech-tip source pages (2026-10-21) for all 107 tech tips: 33 stairlift (46 files), 25 VPL (49), 6 vehicle lift (9), 3 general (3). The 33: (2 are the 2026-10-15 TechMate stairlift and VPL troubleshooters from the dealer portal, raw in `MANUALS/Bruno/TechMate/`; 1 is the 2026-10-13 power folding rail clipping; 27 from `MANUALS/Bruno/`, including the 6 Chariot/Joey/Curb-Sider manuals added 2026-10-08; 3 in `sources/Bruno/General/` from `MANUALS/Admin/`: lifts price list, lead sign-off form, VA FSS price list. The warranty summary comes from `MANUALS/Bruno/bruno_warranty.pdf`) |
 | Golden | [[Golden]] | 231: the original 102 (6 in `Discontinued Models/`), 74 from Golden's Dropbox owner's-manual library (2026-10-20) in `Bed/`, `Lift Recliners/` and `Mobility/`, and 55 from its tech library in `Illustrated Parts Breakdown/`, `Service Guides/` and `Instructions/` | 163 source pages for 218 files (duplicate PDFs share a page; 14 sell sheets share one page; grouped lift chair manuals and instruction sheets). **13 deliberately skipped:** Spanish-language mobility manuals |
 | Pride | [[Pride]] | 222: 10 loose in `MANUALS/Pride/`, the rest in subfolders (`Quantum Power Chairs/`, `Jazzy Power Chairs/`, `Scooters/`, `Controllers/…`, `Seating/`, `Lift Chairs/`, `TechnoBulletins/`, `General/`); 96 pulled 2026-10-19 from the PQ-365 technical service library, 54 on 2026-10-20 from its owner's manuals and basic operations tabs (new `Controllers/NE/`) | 222 files in 167 source pages (72 one-per-file, 47 pages for the 96 technical service files, 48 for the 54 owner's manual/BOI files; small related sheets grouped); byte-identical duplicate downloads and superseded revisions skipped |
-| Prism | [[Prism]] | 5 | 5 — likely a Handicare brand, not an independent manufacturer, see note below |
+| Prism | [[Prism]] | 6 | 6 — a Handicare brand (now Savaria Patient Care), not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
 | Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) + 47 training videos in `Videos/` | 83 source pages (34 of them training-video pages covering all 47 videos; see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
@@ -22,7 +22,8 @@ Entry point for every query — check here first before opening raw manuals.
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
-| Savaria | [[Savaria]] | 20 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 2; 2026-10-26) | 10 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues |
+| Savaria | [[Savaria]] | 22 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 4; 2026-10-26) | 10 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs (2 added 2026-10-26, Patient Care now 4) |
+| Permobil | [[Permobil]] | 45 in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chair Electronics 4, Seating 1; 2026-10-26) | 19 source pages — TiLite and PDG manual chairs (service, owner's and parts manuals, transit guides), R-net LED and ICS error codes, PJSM IR, back support sizing |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
@@ -45,8 +46,9 @@ Note: **"Prism" is very likely a Handicare brand, not an independent
 manufacturer** — confirmed for two of its products ([[P440]] and the
 [[Prism-Castor-2-Post-Lift-Stand]] accessory), both explicitly
 Handicare-branded/warranted in their manuals, with "Prism" apparently
-used for Handicare's North American refurbished-equipment line. Not yet
-confirmed for [[C-450-C-625]] itself. See [[Prism]] for the full
+used for Handicare's North American refurbished-equipment line. The
+[[C-450-C-625]] owner's manual (2026-10-26) is a Handicare manual too, so all
+three are Handicare products. Handicare is now part of Savaria Patient Care. See [[Prism]] for the full
 writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
@@ -189,8 +191,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Lift chairs (owner's manual: **dual-motor timing reset = hold UP to full lift**, 9 V / lithium backup, thermal shutoff; hand control flash codes and lock, motors, frames, scissors, KD setup, measuring, warranty; VivaLift!) | Pride | [[Pride-Lift-Chairs]] |
 | Victory 9 / Victory 10 scooters (PG S-Drive; dealer guide, tiller fuses, motor/transaxle; owner's manuals with specs) | Pride | [[Victory]] |
 | AC GOV hospital bed (Basic / Advanced) | MedMizer | [[MedMizer-AC-GOV-Bed]] |
-| C-450 / C-625 (C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
-| P440 (P-600 confirmed but undocumented; likely Handicare-manufactured) | Prism | [[P440]] |
+| C-450 / C-625 (Handicare-made; owner's manual: PM reset at 1000 lifts, 22,500-cycle life; C-800/C-1000 confirmed but undocumented) | Prism | [[C-450-C-625]] |
+| P440 (P-600 confirmed but undocumented; Handicare-manufactured) | Prism | [[P440]] |
 | Castor 2 Post Lift Stand (accessory) | Prism | [[Prism-Castor-2-Post-Lift-Stand]] |
 | Helix (CSL Series; 7 training videos incl. install, measuring, diagnostic software, board and batteries) | Harmar | [[Helix]] |
 | Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs; training videos for the older RPL/CPL linked here) | Harmar | [[HighlanderII]] |
@@ -222,6 +224,13 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Axiom seating: backs and cushions (300–400 lb) | Ki Mobility | [[Axiom-Seating]] |
 | K2 straight-rail battery stairlift (300 lb; LED diagnostics, LUT125 DIP switches, bus line or charging strips) | Savaria | [[K2]] |
 | K2 Plus stairlift (public/Canadian codes; flip-up rail 350 lb; MCP) | Savaria | [[K2-Plus]] |
+| TiLite rigid chairs Z, ZRA, ZR, Aero T, TRA, TR, Twist (only Z, ZRA, Twist transit rated; metric torques) | Permobil | [[TiLite-Rigid-Series]] |
+| TiLite folding chairs X and 2GX (2GX not transit rated) | Permobil | [[TiLite-Folding-Series]] |
+| TiLite CR1 rigid chair (COG strut; floating caster fix) | Permobil | [[TiLite-CR1]] |
+| TiLite Pilot pediatric chair (120 lb) | Permobil | [[TiLite-Pilot]] |
+| PDG Fuze T50/T50N 300 lb, M50 400 lb, JR 250 lb tilt-in-space (tilt cable tension, tilt limiter) | Permobil | [[PDG-Fuze]] |
+| PDG Stellar GL/HD/Impact, Stellar GLT, Bentley LT/LT-R tilt-in-space (250–300 lb; gas strut position) | Permobil | [[PDG-Stellar]] |
+| PDG Eclipse bariatric chair (600 or 1000 lb) | Permobil | [[PDG-Eclipse]] |
 | TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, manufacturer instructions and spec sheets for all; aluminum 700 lb, rubber mats 850 lb; ¼ in fit) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb, 500 lb with a Top Lip Extension; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (3–10 ft, 1,000 lb; PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
@@ -360,7 +369,7 @@ One summary page per raw manual lives under `sources/<Manufacturer>/<Product Lin
 | [[Sources-Harmar]] | Harmar: all six ingest passes, including the training videos. |
 | [[Sources-Golden]] | Golden: tech library, lift chairs, mobility and beds. |
 | [[Sources-Pride]] | Pride: spec sheets, controllers, PQ-365 library and owner's manuals. |
-| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical, Ki Mobility and Savaria. |
+| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical, Ki Mobility, Savaria and Permobil. |
 | [[Sources-PMS-and-Reference]] | PMS office files and forms, battery price sheets, Scootaround, VA and standards. |
 
 ## Ingestion backlog
