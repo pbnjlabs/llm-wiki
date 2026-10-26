@@ -29,12 +29,13 @@ summarizing, cross-referencing, and bookkeeping.
 ```
 wiki/
   index.md              content catalog — the entry point for every query
-                         (manufacturers, models, concepts, field notes)
+                         (manufacturers, models, concepts, open field notes)
   log.md                append-only chronological record of ingests/queries/lints
   catalogs/              split out of the index so it stays small
     Sources-<Group>.md   every source page per manufacturer group, with
                          ingest history and counts
     Ingestion-Backlog.md Missing manuals checklist + per-manufacturer status
+    Field-Notes.md       every field note, one row each, takeaways first
   manufacturers/         one page per manufacturer
     Bruno.md
     Golden.md
@@ -285,7 +286,7 @@ things learned from experience, or that the manual doesn't cover. Don't
 fill this in from the manual or your own troubleshooting. Put the
 human's takeaways in a **"Key takeaways (per the human)"** callout right
 under the status line, and list them first in the Takeaways section,
-ahead of any diagnostic tips. Lead the note's index row with them.
+ahead of any diagnostic tips. Lead the note's row in `catalogs/Field-Notes.md` with them.
 **No customer information in field notes:** no customer names, addresses,
 phone numbers or other customer references. Identify the unit by model and
 serial number only.
@@ -296,7 +297,8 @@ serial number only.
 
 Link each note from its model page (under a `## Field notes` section),
 from any troubleshooting source or concept page it used, and from the
-Field notes table in `index.md`. If the unit has no model page, link it
+table in `catalogs/Field-Notes.md`. While a note is **open**, also list
+it under **Open notes** in `index.md`; remove it there once it's resolved. If the unit has no model page, link it
 from the closest one and say so. Field notes are PMS field experience.
 They rank **below manuals** on specs and procedures, but they are the
 place for fixes and gotchas that the manuals miss. A proven fix becomes a
@@ -325,8 +327,8 @@ house standard only if the human says so. Log them as
 5. Update any `concepts/` pages this document touches (e.g. a new charger
    manual updates `Battery-Charging.md`).
 6. Add the source page to its `catalogs/Sources-<Group>.md` page, not
-   to `index.md`. Touch `index.md` only for a new model, concept,
-   manufacturer or field note, and keep its rows to one line. If the
+   to `index.md`. Touch `index.md` only for a new model, concept or
+   manufacturer, or an open field note, and keep its rows to one line. If the
    manual fills a gap on the **Missing manuals** checklist
    (`catalogs/Ingestion-Backlog.md`), tick it off there and on the pages
    that point to it.

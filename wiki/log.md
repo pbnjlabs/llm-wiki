@@ -1544,3 +1544,10 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-25] maintenance | Golden Spanish mobility manuals deleted from MANUALS
 - Per the human, deleted `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (13 PDFs, 49 MB) on lab0. Never ingested; see the clarification entry above. Updated [[Ingestion-Backlog]] and [[Golden]]. The Spanish lift chair manuals (already ingested, [[Spanish Lift Chair Owners Manuals]]) are untouched.
+
+## [2026-10-25] reorg | Field notes table moved to a catalog page
+- Moved the field notes table from the index to [[Field-Notes]], in `wiki/catalogs/`, text unchanged. The index keeps the section's intro, a link, and an **Open notes** list (none open today). Notes are also found through their model pages and the query step's `rg` search. `index.md` is now 43 KB.
+- CLAUDE.md: new notes get a row on [[Field-Notes]]; open notes are also listed on the index until resolved.
+
+## [2026-10-25] field-note | Golden GC440 — 8 beeps, burnt motor connector (resolved)
+- Per the human, the customer declined the quoted motor and harness because the cost of repair wasn't justified. Not repaired. Updated [[2026-10-22 GC440 8 beeps burnt motor connector]] (status, Checked, Fix, Parts used) and its row on [[Field-Notes]].

@@ -9,7 +9,8 @@ tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector
 
 # 2026-10-22 — GC440: powers up, 8 beeps, won't move (burnt motor connector)
 
-**Status: resolved (closed 2026-10-22).** PMS field experience on a Golden
+**Status: resolved (closed 2026-10-22). Not repaired: the customer
+declined the quote because the cost of repair wasn't justified.** PMS field experience on a Golden
 [[GC240-340-440-540-Companion]] (GC440).
 
 > **Key takeaways (per the human):**
@@ -46,8 +47,8 @@ tags: [golden, gc440, companion, scooter, flash-code-8, motor-harness, connector
    frame.
 2. **Both halves of the connector are damaged**: the motor-side plug
    and the harness side.
-3. **Quote obtained for a new motor and wiring harness** (pending
-   approval).
+3. **Quote obtained for a new motor and wiring harness.** The customer
+   declined it: the cost of repair wasn't justified.
 
 ## Root cause
 
@@ -74,11 +75,11 @@ heated under drive current and now opens intermittently: code 8.
 
 ## Fix
 
-**Quoted a new motor and wiring harness.** The note was closed at the quote; the installed parts and the post-repair test weren't recorded.
+**None. The customer declined the repair** because its cost wasn't justified. PMS quoted a new motor and wiring harness; nothing was installed.
 
 ## Parts used
 
-Quoted: **new motor and wiring harness** (part numbers not recorded). Both halves of the plug are burnt, and the motor-side half is the motor's own pigtail. Likely candidates, from the Companion parts breakdown
+None installed (repair declined). Quoted: **new motor and wiring harness** (part numbers not recorded). Both halves of the plug are burnt, and the motor-side half is the motor's own pigtail. Likely candidates, from the Companion parts breakdown
 ([[Companion Illustrated Parts Breakdown 2021 (GC240, GC340, GC440)]]):
 
 | Part | What |
