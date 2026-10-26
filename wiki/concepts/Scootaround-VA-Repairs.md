@@ -19,10 +19,11 @@ covered:** stair or chair lifts, ramps, rollators, equipment the VA
 didn't issue, new add-on accessories, cosmetic damage that doesn't
 affect safe use, and smart drives or power assists.
 
-**Manuals gap:** the only manual wheelchair manuals on disk are Sunrise
-Medical's **Quickie 2 family** ([[Quickie-2-Series]], added 2026-10-26);
-other manual chairs (Invacare, Drive, Everest & Jennings, other Quickie
-models) have none. Power chairs and scooters are covered for Golden,
+**Manual wheelchair manuals on disk** (added 2026-10-26): Sunrise
+Medical's **Quickie 2 family** ([[Quickie-2-Series]]) and **Ki Mobility's
+line** with dealer tech manuals ([[Ki-Mobility]]); cross-brand notes on
+[[Manual-Wheelchair-Service]]. Other makes (Invacare, Drive, Everest &
+Jennings, other Quickie models) have none. Power chairs and scooters are covered for Golden,
 Pride and Red Hawk. Tracked at
 [[Ingestion-Backlog#Missing manuals]].
 

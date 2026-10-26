@@ -21,6 +21,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
+| Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
@@ -206,6 +207,18 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
 | Quickie 2 Series folding manual wheelchairs (Quickie 2 300 lb, 2HD 350, 2 Lite 265, 2HP 250, 2HP HD 350; torques, axle and caster setup, WC-19 transit option) | Sunrise Medical | [[Quickie-2-Series]] |
+| Rogue Series rigid chairs (Rogue 275 lb, Rogue 2 275, Rogue XP youth 200, Rogue DT 300, Rogue ALX 250/HD 350, transit 125) | Ki Mobility | [[Rogue-Series]] |
+| Ethos rigid chair on polymer suspension (275 lb; polymer chart, toe to zero) | Ki Mobility | [[Ethos]] |
+| Catalyst 4 / 5 / 5Vx folding chairs (250–350 lb; Catalyst 4 not transit rated) | Ki Mobility | [[Catalyst-Series]] |
+| Spark small folding chair (165 lb) | Ki Mobility | [[Spark]] |
+| Focus CR tilt-in-space (300 lb, HD 400) and power tilt kit | Ki Mobility | [[Focus-CR]] |
+| CR45 tilt-in-space (300 lb) | Ki Mobility | [[CR45]] |
+| Liberty tilt-in-space on gas springs, folding or rigid (250 lb) | Ki Mobility | [[Liberty]] |
+| Little Wave and Little Wave Clik pediatric rigid chairs (165 lb) | Ki Mobility | [[Little-Wave]] |
+| Little Wave Arc pediatric folding tilt (165 lb) | Ki Mobility | [[Arc]] |
+| Little Wave Flip pediatric tilt, incl. Flip for x:panda (165 lb) | Ki Mobility | [[Flip]] |
+| Tyke pediatric mobility base for an R82 x:panda seat (74 lb) | Ki Mobility | [[Tyke]] |
+| Axiom seating: backs and cushions (300–400 lb) | Ki Mobility | [[Axiom-Seating]] |
 | TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, manufacturer instructions and spec sheets for all; aluminum 700 lb, rubber mats 850 lb; ¼ in fit) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb, 500 lb with a Top Lip Extension; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (3–10 ft, 1,000 lb; PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
@@ -288,6 +301,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | **Transport and tie-downs** (occupied transit only on rated chairs with a WTORS: Stretto, J6 short towers; Golden: never ride in it; tie-down points and handling; disassembly pieces; vehicle lifts: unoccupied only, outside straps/hold-down, hoist/truck transport position, hybrids; airline lithium rules incl. GB120 160 Wh; PMS delivery: Joint Commission, two-tech beds) | [[Transport-and-Tie-Downs]] |
+| **Manual wheelchair service** (Sunrise Quickie vs Ki Mobility: default torques, wheel lock and caster checks, toe to zero, lube rules, slopes, transit and warranty) | [[Manual-Wheelchair-Service]] |
 | **Circuit breakers and fuses** by unit (Golden scooters and chairs, Pride/Quantum, Bruno stairlifts and VPLs, vehicle lifts: Bruno 30 A ATO fuse vs Harmar 20 A self-resetting breaker, ceiling lifts, door operators): locations, ratings, reset waits, **under 1 Ω good / over 3 Ω replace**, fuses that ship loose (GB120, GP130), repeat trips and short hunting | [[Circuit-Breakers-and-Fuses]] |
 | **Golden lift chair service** (tech reference from the 2021 service guide: test values 27 V transformer / 27–32 V control box / heat pad 40 Ω / vibrator 25 Ω, Smart Tek LED table by chair type, **sync after replacing any motor, box, hand control or cable**, hand controls by model, Okin/Richmat motors, frames and scissors, fork head left-hand thread, lubrication, heat/massage generations, lithium backup care, set-up checklist) | [[Golden-Lift-Chair-Service]] |
 | **Joint Commission DMEPOS standards (PMS adheres; house standard):** delivery, home setup safety check, patient training, inspection between patients, maintenance per manufacturer, recalls/serials, dirty/clean/patient-ready storage, incident 24/72 h, complaints 5/14 days, staff competency | [[Joint-Commission-DMEPOS]] |
@@ -343,7 +357,7 @@ One summary page per raw manual lives under `sources/<Manufacturer>/<Product Lin
 | [[Sources-Harmar]] | Harmar: all six ingest passes, including the training videos. |
 | [[Sources-Golden]] | Golden: tech library, lift chairs, mobility and beds. |
 | [[Sources-Pride]] | Pride: spec sheets, controllers, PQ-365 library and owner's manuals. |
-| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings) and Sunrise Medical. |
+| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical and Ki Mobility. |
 | [[Sources-PMS-and-Reference]] | PMS office files and forms, battery price sheets, Scootaround, VA and standards. |
 
 ## Ingestion backlog

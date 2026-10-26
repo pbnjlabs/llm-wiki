@@ -45,6 +45,13 @@ only with the right securement:
   **A chair in a collision must be replaced**
   ([[Quickie and Zippie WC-19 Transit Securement Supplement (MK-100072 Rev I)]],
   [[Quickie-2-Series]]). Without the option, nobody rides in it.
+- **Ki Mobility manual chairs** with the transit option (WC-4 §19 / ISO
+  7176-19): forward facing, pelvic and shoulder belts, back no more than 30°
+  reclined and within 4 in of the shoulder, accessories off, **never with an
+  oxygen tank holder fitted**. Not every Ki chair is rated (the **Catalyst 4
+  isn't**), and some have lower transit limits (Rogue ALX and Little Wave 125
+  lb). Reversing a **Tyke** seat to rear-facing removes its transit rating.
+  See [[Manual-Wheelchair-Service]].
 - Check the chair's own manual and decals every time. Seating changes
   (taller towers, added accessories) can take away an occupied rating.
 

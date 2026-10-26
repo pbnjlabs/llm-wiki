@@ -96,7 +96,9 @@ on file):
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [ ] **Manual wheelchairs**: partly covered. Scootaround jobs include
   VA-issued manual chairs. **Sunrise Quickie 2, 2HD, 2 Lite, 2HP and
-  2HP HD** owner's manuals ingested 2026-10-26 ([[Quickie-2-Series]]).
+  2HP HD** owner's manuals ingested 2026-10-26 ([[Quickie-2-Series]]),
+  and **Ki Mobility's full line** (25 user and 13 technical manuals) the
+  same day ([[Ki-Mobility]]).
   Still missing: other makes and Quickie models, Sunrise parts manuals,
   and the Quickie Transit Retrofit Kit install sheet.
 - [x] **Golden VA lineup gaps** (models Golden markets to the VA, per
