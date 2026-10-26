@@ -1541,3 +1541,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-25] clarification | Golden Spanish-language mobility manuals deliberately skipped
 - Per the human, the 13 Spanish manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` won't be ingested. All 13 models already have an English owner's manual in the wiki. Golden is now fully ingested; updated [[Ingestion-Backlog]], [[Sources-Golden]], [[Golden]] and the index row.
+
+## [2026-10-25] maintenance | Golden Spanish mobility manuals deleted from MANUALS
+- Per the human, deleted `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (13 PDFs, 49 MB) on lab0. Never ingested; see the clarification entry above. Updated [[Ingestion-Backlog]] and [[Golden]]. The Spanish lift chair manuals (already ingested, [[Spanish Lift Chair Owners Manuals]]) are untouched.

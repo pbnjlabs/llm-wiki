@@ -244,12 +244,12 @@ own documentation.
 
 ## Not yet ingested
 
-**13 files from Golden's Dropbox library (2026-10-20), on disk but
-**deliberately skipped** per the human (2026-10-25):**
+**13 files from Golden's Dropbox library (2026-10-20), deliberately
+skipped and deleted from `MANUALS/` per the human (2026-10-25):**
 
 - **13 Spanish-language scooter and power chair manuals** in
   `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (Golden's
-  spelling). The English owner's manuals cover the same models.
+  spelling; folder deleted). The English owner's manuals cover the same models.
 
 **26 ingested 2026-10-20:** 25 mobility owner's manuals and the Passport
 bed manual (listed on [[Sources-Golden]]). **35 lift chair files ingested
