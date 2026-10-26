@@ -10,7 +10,10 @@ tags: [ez-access, pathway, modular-ramp, install, tie-down, maintenance]
 
 # Pathway Modular Access System Assembly Manual
 
-49-page EZ-ACCESS installer's manual (P/N 10565, rev 05-12-15). It is
+49-page EZ-ACCESS installer's manual (P/N 10565, rev 05-12-15).
+**Superseded** by [[PATHWAY 3G Modular Access System Assembly Manual (2023)]]
+(1,000 lb, "P" part codes, smaller plan-view angle limits); kept for
+reference. It is
 the first real manual in the EZ-ACCESS set; everything ingested before
 it was blog articles. Branded **"Pathway®"** without "3G", but PMS
 treats Pathway and PATHWAY 3G as the same product, so this is the

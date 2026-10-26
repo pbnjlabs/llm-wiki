@@ -29,7 +29,7 @@ against the current catalog before quoting.
   [[GATEWAY-3G]] (to 10 ft, optional handrails), [[PATHWAY-3G]]
   (residential modular), [[PATHWAY-HD]] (commercial).
 - Modular ramps: 1,000 lb capacity (user + device + caregiver).
-  **Overridden**: the PATHWAY manual says 850 lb; see [[PATHWAY-3G]].
+  **Confirmed** by the 2023 PATHWAY 3G manual (1,000 lb); the 2015 manual said 850 lb. See [[PATHWAY-3G]].
 - Angled Entry Ramp carries a lifetime warranty (per the article).
 
 ## Feeds

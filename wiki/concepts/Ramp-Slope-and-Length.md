@@ -87,6 +87,19 @@ go steeper than the wiki standard:
   steeper than 1:12. It also offers 1:15–1:20 as easier options for
   users with limited stamina.
 
+EZ-ACCESS's **manuals and spec sheets** (added 2026-10-26) also go
+steeper than 1:12 in places:
+
+- The [[PATHWAY 3G Modular Access System Assembly Manual (2023)]] calls
+  1:12 "the ideal slope" but allows **1:14 to 1:8**.
+- The GATEWAY 3G spec sheet's rise guide runs about 1:8 to 1:9 (e.g. 9
+  in on a 6 ft ramp; [[GATEWAY 3G Instructions and Technical Specifications]]).
+- The PATHWAY 3G low-profile platform has ground transitions at 1:6,
+  1:8, 1:10 and 1:12, and the HD worksheet offers custom 1:6 – 1:10
+  layouts. **Use the 1:12 options.**
+- The commercial **PATHWAY HD requires 1:12**
+  ([[PATHWAY HD Code Compliant Modular Access System Installation Manual (2020)]]).
+
 The ADA Standards themselves allow 1:10 (6 in max rise) and 1:8 (3 in
 max rise) in space-limited alterations
 ([[ADA Technical Guide - Ramps and Curb Ramps]]). PMS does not use
@@ -107,7 +120,10 @@ scooter into a van. They are not a home's permanent access ramp, so the
 1:12 standard doesn't apply. The wiki sets no ratio for them yet. The
 limits that matter are:
 
-- The ramp's own rating from EZ-ACCESS (not yet in the wiki).
+- The ramp's own rating: **800 lb**, or **500 lb with a Top Lip
+  Extension** ([[SUITCASE Ramp Instructions (Singlefold, Singlefold AS, Trifold AS)]]).
+- EZ-ACCESS's incline chart in each SUITCASE booklet (degrees by rise
+  and length, 2–10 ft); pick the length from the device's rated incline.
 - The device's rated max incline (table below).
 - The device owner's guide on driving direction on ramps, plus
   EZ-ACCESS's rule to use the ramp only with a qualified helper.

@@ -32,8 +32,10 @@ authority than a manual.
   tie straps when there is no gap.
 - **PATHWAY**:
   - ramp sizes 2–8 ft × 3 ft, 36 in standard or 48 in bariatric;
-    **850 lb capacity**
-  - overall width stack-up (36 in usable → 44 in at the feet)
+    **850 lb capacity** (now 1,000 lb per the 2023 manual and 2026 spec
+    sheet)
+  - overall width stack-up (36 in usable → 44 in at the feet; the 2026
+    spec sheet says 41-3/16 in at the feet)
   - standard and low-profile platforms; custom platforms max 5 × 5 ft
   - support tube lengths MSTS10PR–MSTS100PR; low-profile foot
   - transition plate depths

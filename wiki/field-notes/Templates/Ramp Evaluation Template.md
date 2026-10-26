@@ -39,7 +39,7 @@ User and device (no customer identifiers):
   scooter / walker
 - Will the device change soon? ___
 - **User weight:** ___ lb. Device weight: ___ lb. Helper: ___ lb.
-  **Total load:** ___ lb (PATHWAY 3G is rated 850 lb; TRANSITIONS 700 lb)
+  **Total load:** ___ lb (PATHWAY 3G is rated 1,000 lb, its stairs 850 lb; TRANSITIONS aluminum 700 lb, rubber mats 850 lb)
 - Helper or caregiver assists? Y / N
 
 ## Symptom

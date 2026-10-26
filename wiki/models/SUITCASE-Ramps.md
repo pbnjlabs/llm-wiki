@@ -11,8 +11,17 @@ EZ-ACCESS's aluminum folding portable ramps, for travel, vehicles and
 short or temporary rises. Lengths run **2–10 ft**. They are
 **temporary-use only**, for example loading a scooter into a van.
 
-All three styles are rated **800 lb** (per EZ-ACCESS's brochure,
-[[SUITCASE Portable Folding Ramps Brochure]]).
+All three styles are rated **800 lb**, wheelchairs and scooters only,
+**not for commercial use** ([[SUITCASE Technical Specifications (2020)]],
+[[SUITCASE Ramp Instructions (Singlefold, Singlefold AS, Trifold AS)]];
+the [[SUITCASE Portable Folding Ramps Brochure]] agrees). **With a Top
+Lip Extension the rating drops to 500 lb.**
+
+**Model numbers:** Singlefold **SF02–SF08**, Singlefold AS **SFAS02–SFAS06**,
+TRIFOLD AS **TFAS05, 06, 07, 08, 10** (the number is the length in feet).
+Folded: Singlefold 15 × 4 in, Singlefold AS 15 × 4.5 in, both by the
+full length; TRIFOLD AS 15 × 11.5 in by about half the length (30.75 in
+for the 5 ft, 60.75 in for the 10 ft).
 
 | Variant | Lengths | Width | Build |
 |---|---|---|---|
@@ -47,12 +56,28 @@ folded sizes on the brochure page.
 - Install time: 15 min each ([[Ramp-Install-Time-Estimates]]).
 - Slip-resistant surface. Self-adjusting ground transition plates.
 - **Top Lip Extension** ("TLE") accessory (fits all SUITCASE ramps)
-  extends the top lip **from 3 in to 9 in** to clear a vehicle bumper.
+  extends the top lip **from 3 in to 9 in** to clear a vehicle bumper
+  or other obstruction. **It cuts the rating to 500 lb.**
+- **Setup** (instructions, 2021): both top lip plates must fully overlap
+  a level landing that holds 800 lb, resting firmly against it. **Anchor
+  before each use:** drill 1/4 in holes through the lip-plate holes and
+  insert the 2 supplied **clevis pins** (temporary), or set
+  installer-supplied hardware flush (semi-permanent). Use with a helper
+  and a lap belt.
+- **AS ramps split** (2 hinge bolts and nylon locknuts) for storage or
+  to load **unoccupied** wide-wheelbase equipment, each half anchored
+  and loaded on its centerline. **Join the halves before anyone rides**
+  (supplied hinge pins, spring side under, or the original bolts).
+  TRIFOLD AS: press the hook-and-loop tabs together to carry it closed.
+- **Incline chart** in each booklet (2–10 ft, 3–30 in rise): the 4.8°
+  cells, where rise in inches equals length in feet, are 1:12.
 - Use SUITCASE, not [[GATEWAY-3G]], when the ramp moves often. PMS treats
   GATEWAY as permanent, and it is held to 1:12. GATEWAY
   suits a home where the ramp is repositioned only occasionally.
 
-**Sources:** [[SUITCASE Portable Folding Ramps Brochure]] (manufacturer; outranks the clippings), [[EZ-ACCESS Lifetime Warranty (2017)]],
+**Sources:** [[SUITCASE Technical Specifications (2020)]] and
+[[SUITCASE Ramp Instructions (Singlefold, Singlefold AS, Trifold AS)]]
+(manufacturer), [[SUITCASE Portable Folding Ramps Brochure]] (manufacturer; outranks the clippings), [[EZ-ACCESS Lifetime Warranty (2017)]],
 [[Portable Wheelchair Ramps (Residential)]],
 [[Different Types of Threshold Ramps]] (TRIFOLD AS to 10 ft),
 [[Wheelchair Ramp Slope Calculator Guide]].

@@ -170,9 +170,17 @@ porch handrails where the platform connects.
 |---|---|---|
 | Door threshold or track, up to ~6 in | Threshold | [[TRANSITIONS-Threshold-Ramps]] |
 | Temporary use only: vehicle loading, travel (exempt from 1:12) | Folding portable | [[SUITCASE-Ramps]] (2–10 ft) |
-| Short–moderate rise, long-term home access (up to 10 in at 1:12) | Permanent (per PMS) | [[GATEWAY-3G]] (≤10 ft, optional rails) |
-| High porch, daily use, long runs | Modular | [[PATHWAY-3G]] |
-| Commercial / code compliance | Modular, code | [[PATHWAY-HD]] |
+| Short–moderate rise, long-term home access (up to 10 in at 1:12) | Permanent (per PMS) | [[GATEWAY-3G]] (3–10 ft, 1,000 lb, optional rails) |
+| High porch, daily use, long runs | Modular | [[PATHWAY-3G]] (1,000 lb; matching steps 850 lb) |
+| Commercial / code compliance | Modular, code | [[PATHWAY-HD]] (100 psf, 48–60 in wide, guards from 30 in rise) |
+
+EZ-ACCESS has its own site survey forms,
+[[PATHWAY 3G Ramp Requirements Worksheet (EZ-ACCESS 4051_D)]] and
+[[PATHWAY HD Ramp Requirements Worksheet (EZ-ACCESS 4076_A)]]. Their
+total-rise formula (threshold + step or porch rise ± grade) matches
+step 7 above, but **PMS evaluates with its own form and the Ramps
+Handbook**; use the EZ-ACCESS forms only when sending EZ-ACCESS a layout
+request.
 
 ## 3. Site survey ([[Configuration Factors for Residential Ramp Systems]], [[Wheelchair Ramp Slope Calculator Guide]])
 
