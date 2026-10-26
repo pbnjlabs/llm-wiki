@@ -1573,3 +1573,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Revisions:** `Rogue2_Tech_Manual.pdf` (DCN1032 rev 5, 2024, Rogue 2 only) is an older revision of `Rogue2_RogueXPTechManual.pdf` (rev 7, 2025); they share one page and rev 7 wins.
 - **Flagged:** Catalyst 5/5Vx and Focus print "Transit 300 lbs (159 kg)" (should be 136 kg); Little Wave prints "Transit 125 lbs (75 kg)" (the kg matches the standard 165 lb). The **Catalyst 4 has no transit rating**; the Rogue ALX and Little Wave transit limits are 125 lb. Spark spec sheet says 77 kg / 168 lb against 165 lb in the warnings.
 - **Updated:** [[Transport-and-Tie-Downs]], [[Scootaround-VA-Repairs]], [[Ingestion-Backlog]], index (manufacturer, 12 model rows, concept row).
+
+## [2026-10-26] clarification | Manual wheelchairs: Ki Mobility and Sunrise Quickie only
+- Per the human, Ki Mobility and Sunrise Quickie are the only manual wheelchairs they've worked on. Closed the **Manual wheelchairs** item on [[Ingestion-Backlog]] (other makes only if one turns up on a job) and noted it on [[Scootaround-VA-Repairs]] and [[Manual-Wheelchair-Service]].

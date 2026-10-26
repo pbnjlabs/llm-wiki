@@ -8,7 +8,8 @@ tags: [manual-wheelchair, service, torque, maintenance, transit]
 Cross-brand reference for **manual wheelchairs**, from the Sunrise Medical
 Quickie 2 family ([[Quickie-2-Series]]) and Ki Mobility's line
 ([[Ki-Mobility]]). PMS sees these chairs mainly on Scootaround VA repairs
-([[Scootaround-VA-Repairs]]). Check the chair's own manual for any value
+([[Scootaround-VA-Repairs]]). **Ki and Quickie are the only manual
+wheelchair makes the human has worked on** (2026-10-26). Check the chair's own manual for any value
 below before relying on it.
 
 ## Default torques
