@@ -1538,3 +1538,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Moved:** the Sources section into six catalog pages, [[Sources-Bruno]], [[Sources-Harmar]], [[Sources-Golden]], [[Sources-Pride]], [[Sources-Other-Manufacturers]] and [[Sources-PMS-and-Reference]], and the Ingestion backlog (incl. Missing manuals) into [[Ingestion-Backlog]], all in the new `wiki/catalogs/`. Text moved unchanged. `index.md` is now 47 KB and keeps manufacturers, models, concepts and field notes.
 - **Links:** `[[index#Missing manuals]]` → `[[Ingestion-Backlog#Missing manuals]]` on 8 pages, plus [[Golden]]'s `[[index#Sources]]` and two prose mentions. Older log entries were left as written.
 - **CLAUDE.md:** new sources are listed on their catalog page, not the index; queries now also search the wiki with `rg` for part numbers, codes and model names.
+
+## [2026-10-25] clarification | Golden Spanish-language mobility manuals deliberately skipped
+- Per the human, the 13 Spanish manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` won't be ingested. All 13 models already have an English owner's manual in the wiki. Golden is now fully ingested; updated [[Ingestion-Backlog]], [[Sources-Golden]], [[Golden]] and the index row.

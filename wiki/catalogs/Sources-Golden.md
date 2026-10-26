@@ -6,7 +6,7 @@ type: catalog
 
 Part of the source catalog split out of [[index]] (2026-10-25). Lists every `sources/` page for this group with ingest history and counts.
 
-Golden (218 of 231 ingested; 13 Spanish mobility files pending) — see `wiki/sources/Golden/`: **tech library, added 2026-10-20:** IPBs
+Golden (218 of 231 ingested; the other 13, Spanish mobility manuals, deliberately skipped) — see `wiki/sources/Golden/`: **tech library, added 2026-10-20:** IPBs
 [[Ally Illustrated Parts Breakdown (GP303)]], [[Ally Pro Illustrated Parts Breakdown (GP304)]],
 [[Ally Sport Illustrated Parts Breakdown (GP305)]], [[Stride Illustrated Parts Breakdown (GP301)]],
 [[Carry On Power Chair Illustrated Parts Breakdown (GP130)]], [[LiteRider Envy Lite Illustrated Parts Breakdown (GP161)]],

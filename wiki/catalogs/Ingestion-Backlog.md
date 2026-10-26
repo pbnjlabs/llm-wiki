@@ -9,8 +9,9 @@ Split out of [[index]] (2026-10-25). Equipment with no manual on file, plus each
 **All manuals in the entire wiki are now ingested**, including all three
 rounds of Harmar's `MANUALS/Harmar/` additions (see Harmar entry above) —
 except the 10 deliberately excluded Harmar image/CSV asset files, which
-aren't manuals, and the two EZ-ACCESS pay-scale sheets (skipped per the
-human).
+aren't manuals, the two EZ-ACCESS pay-scale sheets (skipped per the
+human) and Golden's 13 Spanish-language mobility manuals (skipped per the
+human, 2026-10-25).
 
 ## Missing manuals
 
@@ -151,7 +152,7 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 ## Bruno — dealer-portal Service Docs pulled 2026-10-22: the newest relevant edition of 54 manuals (SRE-5000 set, Elite and Elite Curve 2026 manuals, legacy Electra-Ride lifts, AC and commercial VPLs, flood zone tower, vehicle-lift operator manuals, Big-Lifter, Lifter, Back-Saver, Stow-Away), **all ingested**; skipped Valet/TAS/VSS seats, Carony, scooters and chairs, discontinued vehicle lifts, CAN/G variants and the ELV-3600 elevator (manifest `MANUALS/Bruno/_service_docs_manifest.md`).
 ## Bruno — manuals fully ingested, including both halves of TechMate (2026-10-15). Dealer-portal Tech Tips pulled 2026-10-21: all 107 tech tips ingested (stairlift, VPL, vehicle lift, general), no backlog. SRE-5000 manuals (now on file) and ILS-01446 were on Missing manuals (a third pass added [[ASL-250]], a legacy vehicle-lift generation found via a new-sources check; Chariot, Joey and Curb-Sider manuals added 2026-10-08, closing Bruno's Missing manuals items). 
 
-## Golden — 13 files pending: Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20). Everything else is ingested, including the 35 lift chair files.
+## Golden — fully ingested, including the 35 lift chair files. The 13 Spanish-language mobility manuals in `MANUALS/Golden/Mobility/Scooters/Spanish Lanuage Versions/` (from Golden's Dropbox library, 2026-10-20) are **deliberately skipped** per the human (2026-10-25); the English manuals cover the same models.
 
 ## Pride — fully ingested (222 files: 46 added 2026-10-15, 16 from Downloads and 96 from the PQ-365 technical service library on 2026-10-19, 54 from the PQ-365 owner's manuals and basic operations tabs on 2026-10-20). No unread files. Gaps (Missing manuals above): owner's manuals for the original Q6 Edge, Jazzy 614 (2010), Select Elite, Outback and ET Series; IPBs; bulletin LC-029. Owner's-manuals tab items **deliberately skipped**: Baja (Bandit, Raptor 2, Wrangler 2), 2021 Maxima, Pursuit 2, CX/PX, Revo 2.0 (UK), the AU mid-size and Canadian Go-Go duplicates, scooter intro/contact insert, non-medical scooter safety guide; basic operations tab: Synergy seat and Stealth cushion sheets. About 490 PQ-365 library documents were **deliberately not pulled** (legacy 1990s–2000s Jazzy/Jet/Celebrity/Merits, accessory holders, Synergy/TB2 seating, Kids Up, Litestream, TechnoBulletins 001–166, software installers); pull any of them on request. The "S19" in [[S19 Analog Console Part Runout (GENERAL-010)]] is unidentified; per the human, probably an outdated legacy model (not pursued).
 
