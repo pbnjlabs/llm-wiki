@@ -1532,3 +1532,9 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 ## [2026-10-24] maintenance | Out-of-repo MANUALS folder retired; repo MANUALS/ is the only copy
 - Per the human: deleted `/home/lu/Work/PMS/MANUALS` after a checksum comparison showed all 2,002 of its files were byte-identical copies of files in the repo's `MANUALS/`. The repo copy held 9,059 more (9,045 `Harmar/Videos/_work/` frames, audio and contact sheets, kept; 14 `Clippings/`). No script referenced the folder, and the 2026-10-24 restic snapshot holds it.
 - **Updated:** CLAUDE.md (training videos no longer copy the transcript to a second `MANUALS/` folder), index (Missing manuals note), [[Pride]]. New raw files now go into the repo's `MANUALS/` only. Older pages and log entries that say a file "matches the human's folder" describe the past layout and were left as written.
+
+## [2026-10-25] reorg | Index split so it stays small; search added to queries
+- **Why:** every query reads `index.md` in full, and at 98 KB (~25k tokens) it was growing with every ingest. About 40 KB was the source list and 14 KB the backlog.
+- **Moved:** the Sources section into six catalog pages, [[Sources-Bruno]], [[Sources-Harmar]], [[Sources-Golden]], [[Sources-Pride]], [[Sources-Other-Manufacturers]] and [[Sources-PMS-and-Reference]], and the Ingestion backlog (incl. Missing manuals) into [[Ingestion-Backlog]], all in the new `wiki/catalogs/`. Text moved unchanged. `index.md` is now 47 KB and keeps manufacturers, models, concepts and field notes.
+- **Links:** `[[index#Missing manuals]]` → `[[Ingestion-Backlog#Missing manuals]]` on 8 pages, plus [[Golden]]'s `[[index#Sources]]` and two prose mentions. Older log entries were left as written.
+- **CLAUDE.md:** new sources are listed on their catalog page, not the index; queries now also search the wiki with `rg` for part numbers, codes and model names.

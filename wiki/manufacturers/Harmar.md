@@ -96,7 +96,7 @@ on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
 (hoist, truck and AL-625HD closed 2026-10-06; **Outlander** discontinued,
 its DE is the **AL100-DE**; **Backpacker Plus is the AL600**; **Commander
 450** discontinued, replaced by the **AL425HD**; rubber threshold ramps
-have a spec sheet, closed 2026-10-08). Tracked at [[index#Missing manuals]].
+have a spec sheet, closed 2026-10-08). Tracked at [[Ingestion-Backlog#Missing manuals]].
 
 ## Cross-cutting concepts
 

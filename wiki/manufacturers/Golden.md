@@ -161,7 +161,7 @@ repairs, VA purchases).
 Official specs and **assembled weights** for all of these are on
 [[Golden Sell Sheets (2018-2026)]] (GB147H: on its owner's manual), compared for vehicle
 lifts on [[Mobility-Device-Weights]]. Gaps are on the Missing manuals checklist
-([[index#Missing manuals]]).
+([[Ingestion-Backlog#Missing manuals]]).
 
 ## Cross-cutting / all-models docs — Fully ingested.
 
@@ -252,7 +252,7 @@ ingested:**
   spelling).
 
 **26 ingested 2026-10-20:** 25 mobility owner's manuals and the Passport
-bed manual (listed on [[index#Sources]]). **35 lift chair files ingested
+bed manual (listed on [[Sources-Golden]]). **35 lift chair files ingested
 next** as 23 source pages (34 distinct documents: the PR126/PR631
 Relax The Back manual is on file twice, byte for byte, as "RelaxBack"
 and "DreamMaker"). The 7 other Dropbox files were already on file,

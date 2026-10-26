@@ -21,7 +21,7 @@ manual is a compliance gap as well as an inconvenience (see below).
 PMS must **obtain from the manufacturer copies of the features,
 warranties and instructions for each type of item it supplies**. When a
 device's manual isn't on file, the tech should get a copy (wiki rule:
-see the index's Missing manuals list). Training must also follow the
+see [[Ingestion-Backlog#Missing manuals]]). Training must also follow the
 manufacturer's instructions (PC.02.03.01 EP 15).
 
 ## Delivery (EQ.01.01.01, PC.02.01.03)

@@ -21,7 +21,7 @@ affect safe use, and smart drives or power assists.
 
 **Manuals gap:** no manual wheelchair manuals are on disk, and only
 Golden, Pride and Red Hawk power chairs and scooters are. Tracked at
-[[index#Missing manuals]].
+[[Ingestion-Backlog#Missing manuals]].
 
 Before assigning a job, Scootaround **calls** to confirm PMS can take it
 on time, **has a parts account with the manufacturer**, services that

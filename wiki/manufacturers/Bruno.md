@@ -259,7 +259,7 @@ VPL, 9 vehicle lift, 3 general).
 manuals (added 2026-10-15; the ILS sheets cover specs and service but the
 manuals are still needed). Bruno's **ILS-01446** maintenance control plan
 was found in the Drawings library and ingested 2026-10-21. The Chariot, Joey and Curb-Sider manuals were added 2026-10-08
-(ticked off at [[index#Missing manuals]]).
+(ticked off at [[Ingestion-Backlog#Missing manuals]]).
 
 ## See also
 

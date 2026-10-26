@@ -146,7 +146,7 @@ plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
 
 The **AL-625HD** on Harmar's FSS list is now covered by the 2012
 AL625/AL625HD manual (see Legacy above; ticked off at
-[[index#Missing manuals]]).
+[[Ingestion-Backlog#Missing manuals]]).
 
 ## See also
 [[Transport-and-Tie-Downs]], [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]],

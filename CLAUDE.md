@@ -29,7 +29,12 @@ summarizing, cross-referencing, and bookkeeping.
 ```
 wiki/
   index.md              content catalog — the entry point for every query
+                         (manufacturers, models, concepts, field notes)
   log.md                append-only chronological record of ingests/queries/lints
+  catalogs/              split out of the index so it stays small
+    Sources-<Group>.md   every source page per manufacturer group, with
+                         ingest history and counts
+    Ingestion-Backlog.md Missing manuals checklist + per-manufacturer status
   manufacturers/         one page per manufacturer
     Bruno.md
     Golden.md
@@ -319,15 +324,18 @@ house standard only if the human says so. Log them as
 4. Create or update the relevant `models/` page(s).
 5. Update any `concepts/` pages this document touches (e.g. a new charger
    manual updates `Battery-Charging.md`).
-6. Update `wiki/index.md`. If the manual fills a gap on the index's
-   **Missing manuals** checklist, tick it off there and on the pages
+6. Add the source page to its `catalogs/Sources-<Group>.md` page, not
+   to `index.md`. Touch `index.md` only for a new model, concept,
+   manufacturer or field note, and keep its rows to one line. If the
+   manual fills a gap on the **Missing manuals** checklist
+   (`catalogs/Ingestion-Backlog.md`), tick it off there and on the pages
    that point to it.
 7. Append an entry to `wiki/log.md`.
 8. Commit and push (see Git section below) — this is an automatic part of
    ingest, not a separate step to ask about.
 
 A single manual might touch 3-6 pages (its source page, one model page, one
-or two concept pages, plus the index). Default to ingesting one manual (or
+or two concept pages, plus its catalog page). Default to ingesting one manual (or
 one tight cluster, e.g. a model's full doc set) at a time and staying
 involved, per the human's stated preference — don't silently batch-ingest
 the whole `MANUALS/` tree unless explicitly asked to.
@@ -336,8 +344,13 @@ the whole `MANUALS/` tree unless explicitly asked to.
 
 1. Read `wiki/index.md` first to find candidate pages — don't grep the raw
    PDFs directly unless the wiki doesn't yet cover the answer.
-2. Drill into the relevant `models/`/`concepts/`/`sources/` pages.
-3. Answer with citations back to the specific manual (path + section/page
+2. **Search the wiki too**, every time: `rg -il '<term>' wiki/` for the
+   part numbers, error/fault codes, model numbers and key words in the
+   question (try variants: `GB120` and `GB 120`, `E-05` and `E05`).
+   Searching catches exact terms that the index rows leave out. Use the
+   `catalogs/` pages only to browse a manufacturer's documents.
+3. Drill into the relevant `models/`/`concepts/`/`sources/` pages.
+4. Answer with citations back to the specific manual (path + section/page
    if known). The `source:` field on the relevant `sources/` page gives
    the path relative to the repo root — `MANUALS/` is gitignored and
    **local to each device** (not synced by git or the sync task), so
@@ -351,15 +364,16 @@ the whole `MANUALS/` tree unless explicitly asked to.
    `file://` link you haven't confirmed resolves on this machine. Link
    every manual an answer draws on if it synthesizes more than one,
    applying this check to each.
-4. **Missing manual reminder.** When the human (or a tech) is working on
+5. **Missing manual reminder.** When the human (or a tech) is working on
    a device whose manual isn't on file, or is only partly covered (e.g.
    a sell sheet or OM but no service guide), remind them to get a copy
    (manufacturer website, dealer portal or tech support) and drop it in
-   for ingest. Add it to the index's **Missing manuals** checklist if it
+   for ingest. Add it to the **Missing manuals** checklist
+   (`catalogs/Ingestion-Backlog.md`) if it
    isn't there. Do this in field-note work too. Golden's public website
    was fully ingested 2026-10-12, so Golden gaps need Golden tech support
    (800-624-6374), not the website.
-5. If the answer is worth keeping (a synthesis, comparison, or something not
+6. If the answer is worth keeping (a synthesis, comparison, or something not
    already captured), offer to file it back into the wiki as a new or
    updated page rather than letting it disappear into chat history.
 
@@ -387,7 +401,8 @@ When asked to health-check the wiki, look for:
   (nothing yet ingested).
 - Model pages missing despite having manuals on disk.
 - Contracted equipment (FSS price lists, Scootaround scope) with no
-  manual on disk: keep the index's **Missing manuals** checklist current.
+  manual on disk: keep the **Missing manuals** checklist
+  (`catalogs/Ingestion-Backlog.md`) current.
 - Orphan pages with no inbound links.
 - Concepts mentioned repeatedly across model pages but lacking their own
   `concepts/` page.

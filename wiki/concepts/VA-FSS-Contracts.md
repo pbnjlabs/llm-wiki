@@ -119,8 +119,8 @@ inspector's report is done. Details are on the Bruno price list page.
 **Every contracted vehicle lift now has a manual on disk** (Bruno's
 Chariot, Joey and Curb-Sider added 2026-10-08; Harmar's discontinued
 Outlander and Commander 450 map to the AL100-DE and AL425HD, and the
-Backpacker Plus is the AL600). The checklist lives in the index backlog:
-[[index#Missing manuals]].
+Backpacker Plus is the AL600). The checklist lives on the backlog page:
+[[Ingestion-Backlog#Missing manuals]].
 
 ## See also
 

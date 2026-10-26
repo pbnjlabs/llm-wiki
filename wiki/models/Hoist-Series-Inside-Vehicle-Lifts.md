@@ -153,7 +153,7 @@ suit highly capable users.
 - [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices for the AL-215/225/425/435 inside lifts and AL-8xx truck lifts, installation included
 
 All ten hoist and truck lifts on Harmar's FSS list now have a manual
-(ticked off at [[index#Missing manuals]], 2026-10-06). Only the AL055 and
+(ticked off at [[Ingestion-Backlog#Missing manuals]], 2026-10-06). Only the AL055 and
 AL065 have none; they aren't on the FSS list.
 
 **Harmar training videos:**
