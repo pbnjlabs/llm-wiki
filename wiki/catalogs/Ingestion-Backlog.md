@@ -94,8 +94,11 @@ on file):
   Service for copies.
 
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
-- [ ] **Manual wheelchairs**: none on file. Scootaround jobs include
-  VA-issued manual chairs.
+- [ ] **Manual wheelchairs**: partly covered. Scootaround jobs include
+  VA-issued manual chairs. **Sunrise Quickie 2, 2HD, 2 Lite, 2HP and
+  2HP HD** owner's manuals ingested 2026-10-26 ([[Quickie-2-Series]]).
+  Still missing: other makes and Quickie models, Sunrise parts manuals,
+  and the Quickie Transit Retrofit Kit install sheet.
 - [x] **Golden VA lineup gaps** (models Golden markets to the VA, per
   the human; see [[Golden]]): closed 2026-10-12. **GR595 Eagle** and
   **GP302 Cricket** now have owner's manuals and IPBs (still no service

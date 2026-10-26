@@ -37,6 +37,14 @@ only with the right securement:
 - **Jazzy 600 ES transit loops** (INFINFB3245): bolt-on tie-down loops,
   front and rear, **unoccupied only**; fit the "not rated for occupied
   transport" decals ([[Jazzy-600-ES]]).
+- **Quickie manual chairs (Sunrise Medical)** with the factory **WC-19
+  Transit Option**: four decaled securement points and a wheelchair-anchored
+  pelvic belt (144 in-lb), SAE J2249 WTORS, **forward facing, pelvic and
+  torso belts**, rider over 51 lb, backrest tilt 30° max, clear zones 26
+  in front (37 in with a pelvic belt only) and 16 in behind the head.
+  **A chair in a collision must be replaced**
+  ([[Quickie and Zippie WC-19 Transit Securement Supplement (MK-100072 Rev I)]],
+  [[Quickie-2-Series]]). Without the option, nobody rides in it.
 - Check the chair's own manual and decals every time. Seating changes
   (taller towers, added accessories) can take away an occupied rating.
 

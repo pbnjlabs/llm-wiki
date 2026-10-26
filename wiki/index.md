@@ -20,6 +20,7 @@ Entry point for every query — check here first before opening raw manuals.
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
+| Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
@@ -204,6 +205,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
+| Quickie 2 Series folding manual wheelchairs (Quickie 2 300 lb, 2HD 350, 2 Lite 265, 2HP 250, 2HP HD 350; torques, axle and caster setup, WC-19 transit option) | Sunrise Medical | [[Quickie-2-Series]] |
 | TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, manufacturer instructions and spec sheets for all; aluminum 700 lb, rubber mats 850 lb; ¼ in fit) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb, 500 lb with a Top Lip Extension; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (3–10 ft, 1,000 lb; PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
@@ -341,7 +343,7 @@ One summary page per raw manual lives under `sources/<Manufacturer>/<Product Lin
 | [[Sources-Harmar]] | Harmar: all six ingest passes, including the training videos. |
 | [[Sources-Golden]] | Golden: tech library, lift chairs, mobility and beds. |
 | [[Sources-Pride]] | Pride: spec sheets, controllers, PQ-365 library and owner's manuals. |
-| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk and EZ-ACCESS (incl. ramps and web clippings). |
+| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings) and Sunrise Medical. |
 | [[Sources-PMS-and-Reference]] | PMS office files and forms, battery price sheets, Scootaround, VA and standards. |
 
 ## Ingestion backlog

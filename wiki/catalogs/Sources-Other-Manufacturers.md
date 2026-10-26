@@ -2,7 +2,7 @@
 type: catalog
 ---
 
-# Sources: Prism, Vancare, AutoSlide, Open Sesame, Red Hawk and EZ-ACCESS
+# Sources: Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS and Sunrise Medical
 
 Part of the source catalog split out of [[index]] (2026-10-25). Lists every `sources/` page for this group with ingest history and counts.
 
@@ -69,3 +69,5 @@ Where Do I Begin. PATHWAY 3G: Configuration Factors for Residential Ramp
 Systems, Securing PATHWAY 3G Before a Storm. PATHWAY HD: Which Platform
 Is Right for Your Needs. TRANSITIONS: [[TRANSITIONS Angled Entry Mat Instructions]] (manual, 2025-07-23), Different Types of Threshold
 Ramps. Portable Ramps: Portable Wheelchair Ramps (Residential).
+
+Sunrise Medical (6 of 6 ingested, 2026-10-26), see `wiki/sources/Sunrise Medical/`; raw in `MANUALS/Sunrise Medical/Quickie/`. Quickie 2 Series: [[Quickie 2 and 2HD Owner's Manual (MK-100070 Rev G)]], [[Quickie 2 Lite Owner's Manual (MK-100071 Rev G)]], [[Quickie 2HP Owner's Manual (128226 Rev C)]] (text layer garbled; English pages read by OCR). General: [[Quickie and Zippie WC-19 Transit Securement Supplement (MK-100072 Rev I)]] (image-only, OCR), [[Transit Retrofit Kit Pre-Installation Inspection (104975 Rev D)]], [[Quickie One-Arm Drive Option (930331 Rev G)]].
