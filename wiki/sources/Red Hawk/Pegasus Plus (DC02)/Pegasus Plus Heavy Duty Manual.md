@@ -29,5 +29,7 @@ file.** See [[Pegasus Plus (DC02)]] for what could be extracted (specs,
 assembly, indications for use, contraindications) and flag to the human
 if a complete copy can be sourced.
 
+**2026-10-27:** the actual Pegasus Plus HD manual ([[Pegasus Plus HD User Manual (HD-06-02-2024)]]) describes a heavier model (440 lb, frame code DC06), so this DC02 file's "Heavy Duty" filename is likely a mislabel.
+
 ## Feeds into
-[[Pegasus Plus (DC02)]], [[Red Hawk]]
+[[Pegasus Plus (DC02)]], [[Pegasus-Plus-HD]], [[Red Hawk]]

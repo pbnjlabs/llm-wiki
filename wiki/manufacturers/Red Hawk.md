@@ -50,6 +50,14 @@ address (Anhui vs. Jiangsu), different frame material, different weight
 capacity (140kg), different manual design entirely (modern JBH-branded
 template vs. plain-text template).
 
+The same template is used for the **[[Pegasus-Plus-HD]]** (added
+2026-10-27): 440 lb, 250 W motors, sample frame number **DC06**, branded
+for **Discover Your Mobility Inc.** (now at 11055 E 9 Mile Rd, Warren, MI
+48089, 866-868-9694) rather than JBH. So Discover Your Mobility sells this
+line too, and the DC02 file labelled "Heavy Duty" is probably the smaller
+standard model. Its manual, [[Pegasus Plus HD User Manual (HD-06-02-2024)]], is complete (warranty, fault codes,
+wiring).
+
 ## Naming note
 Both OEMs' brand names abbreviate to "JBH" (Jin Bai He / JBH) despite
 being confirmed as separate legal entities at separate addresses — a
@@ -72,4 +80,4 @@ See each model page for its specific manual. All five manuals were found
 together in an out-of-repo `MANUALS/Red Hawk/` drop.
 
 ## See also
-[[Air-Hawk-Eagle-HD]], [[Falcon]], [[Phoenix]], [[Pegasus Plus (DC02)]]
+[[Air-Hawk-Eagle-HD]], [[Falcon]], [[Phoenix]], [[Pegasus Plus (DC02)]], [[Pegasus-Plus-HD]]

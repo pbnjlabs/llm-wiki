@@ -48,7 +48,7 @@ Swing Door Operators/ — [[Open Sesame Installation Guide]],
 [[Open Sesame Electric Strike Dimension Sheets]] (4 sheets). General/ —
 [[Open Sesame Field Survey Forms]] (residential + public).
 
-Red Hawk (5 of 5 ingested — fully ingested) — see `wiki/sources/Red Hawk/`:
+Red Hawk (6 of 6 ingested — fully ingested; the 6th, [[Pegasus Plus HD User Manual (HD-06-02-2024)]], added 2026-10-27) — see `wiki/sources/Red Hawk/`:
 Air Hawk Owner's Manual, Eagle HD Owner's Manual (confirmed
 byte-for-byte-identical technical content to Air Hawk, different
 distributor), Falcon Owner's Manual (180kg variant with reclining

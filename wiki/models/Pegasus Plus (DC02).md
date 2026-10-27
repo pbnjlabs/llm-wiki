@@ -12,7 +12,13 @@ Company Limited** (No. 116, Qicang Road, Mingguang, Anhui, 239400,
 China; www.jbhmedical.com) under model number **DC02** — "Pegasus Plus
 Heavy Duty" is Performance Medical Supply's own filename/dealer label;
 no "Pegasus" branding appears anywhere in the manual itself, which is
-entirely JBH-branded. **Confirmed as a different manufacturer** from the
+entirely JBH-branded. **Correction 2026-10-27:** the real **Pegasus Plus
+HD** manual has now turned up ([[Pegasus-Plus-HD]], [[Pegasus Plus HD User Manual (HD-06-02-2024)]]) and it describes
+a **heavier chair** (440 lb, 250 W motors, 490 mm seat, 23 kg, sample frame
+number DC06). So the DC02 in this manual (140 kg, 180 W) is probably **not**
+the HD; the "Heavy Duty" in PMS's filename is likely a mislabel, and this may
+be the standard Pegasus Plus. Check the frame number label on the chair
+(DC02-… vs DC06-…) to tell them apart. **Confirmed as a different manufacturer** from the
 other three [[Red Hawk]] models (Nanjing Jin Bai He, a different company
 at a different address) despite the superficially similar "JBH"
 abbreviation — see [[Red Hawk]] for the full naming-coincidence note.
@@ -57,11 +63,16 @@ sections, but the file itself is only 30 pages long and its content
 stops (trailing blank pages) around page 27. **None of those sections —
 including warranty terms — are actually present in the file on disk.**
 If a complete copy of this manual becomes available, re-ingest it.
+Meanwhile the [[Pegasus Plus HD User Manual (HD-06-02-2024)]], same template and maker family, has the missing
+sections for the HD (warranty, troubleshooting, a 01–99 fault-code table,
+wiring block diagram). Its fault codes and warranty probably carry over to
+the DC02, but that isn't confirmed.
 
 ## Documents on file
 - [[Pegasus Plus Heavy Duty Manual]] — incomplete, see limitation above
+- Related, complete: [[Pegasus Plus HD User Manual (HD-06-02-2024)]] (the HD, a different, heavier model)
 
 ## See also
-[[Red Hawk]], [[Air-Hawk-Eagle-HD]], [[Falcon]], [[Phoenix]]
+[[Red Hawk]], [[Pegasus-Plus-HD]], [[Air-Hawk-Eagle-HD]], [[Falcon]], [[Phoenix]]
 
 Ramp compatibility: see [[Ramp-Slope-and-Length]] for which ramp ratios this model's rated incline allows.

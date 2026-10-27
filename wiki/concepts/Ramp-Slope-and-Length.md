@@ -153,6 +153,7 @@ setup, these ratings are the relevant limit.
 | [[Jazzy-1450]] (Pride, **Quantum** 1450) | 7.5° |
 | [[GA541-Avenger]] (Golden) | 8.0° recommended max ([[GA541 Avenger Operator Manual]]) |
 | [[Pegasus Plus (DC02)]] (Red Hawk) | 8° |
+| [[Pegasus-Plus-HD]] (Red Hawk) | 8° |
 | [[Phoenix]] (Red Hawk) | 8° |
 
 Other Golden scooters and chairs have no incline figure in this wiki

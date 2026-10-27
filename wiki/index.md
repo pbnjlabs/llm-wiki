@@ -19,7 +19,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Harmar | [[Harmar]] | 96 (+2 in `MANUALS/Ramps/`) + 47 training videos in `Videos/` | 84 source pages (34 of them training-video pages covering all 47 videos; see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
-| Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
+| Red Hawk | [[Red Hawk]] | 6 | 6 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
 | Savaria | [[Savaria]] | 24 in `MANUALS/Savaria/` (K2 Stairlift 20, Patient Care 2, Ceiling Lifts 2; 2026-10-26/27) | 14 source pages — K2 and K2 Plus stairlift owner's manuals, install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs |
@@ -72,7 +72,7 @@ because Open Sesame's proximity tag system uses that reader. See
 scope is still an open question on [[AutoSlide]].
 
 Note: **"Red Hawk" is not a brand name** — it's Performance Medical
-Supply's own folder name for 5 folding-power-wheelchair manuals covering
+Supply's own folder name for 6 folding-power-wheelchair manuals covering
 **two unrelated Chinese manufacturers** sold under **four different
 model names** by **two different regional distributors**: Nanjing Jin
 Bai He Medical Apparatus Co., Ltd. (sold as "Air Hawk" by Gilani
@@ -80,9 +80,10 @@ Engineering, Australia, and as "Eagle HD"/"Falcon" by Discover Your
 Mobility Inc., USA — plus possibly "Phoenix", also Discover Your
 Mobility but a different manual template with manufacturer unconfirmed)
 and Anhui JBH Medical Apparatus Company Limited (sold as "Pegasus Plus"
-— DC02 — despite no "Pegasus" branding anywhere in that manual). See
-[[Red Hawk]] for the full breakdown, including a truncated-manual
-limitation on the DC02/Pegasus Plus source.
+— DC02 — despite no "Pegasus" branding anywhere in that manual; the
+same template's **Pegasus Plus HD**, a heavier DC06 model, is sold by
+Discover Your Mobility). See [[Red Hawk]] for the full breakdown, including
+a truncated-manual limitation on the DC02/Pegasus Plus source.
 
 Note: Harmar's 93-file count is 92 files in `MANUALS/Harmar/` plus the 1
 misfiled file under `MANUALS/Bruno/` (counted under Bruno too). The
@@ -209,6 +210,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Falcon — 180kg variant with reclining backrest | Red Hawk | [[Falcon]] |
 | Phoenix — different manual template, manufacturer unconfirmed | Red Hawk | [[Phoenix]] |
 | Pegasus Plus (DC02) — different manufacturer (Anhui JBH); source manual truncated | Red Hawk | [[Pegasus Plus (DC02)]] |
+| Pegasus Plus HD (440 lb carbon folding chair; fault codes 01–99, warranty; complete manual) | Red Hawk | [[Pegasus-Plus-HD]] |
 | Quickie 2 Series folding manual wheelchairs (Quickie 2 300 lb, 2HD 350, 2 Lite 265, 2HP 250, 2HP HD 350; torques, axle and caster setup, WC-19 transit option) | Sunrise Medical | [[Quickie-2-Series]] |
 | Rogue Series rigid chairs (Rogue 275 lb, Rogue 2 275, Rogue XP youth 200, Rogue DT 300, Rogue ALX 250/HD 350, transit 125) | Ki Mobility | [[Rogue-Series]] |
 | Ethos rigid chair on polymer suspension (275 lb; polymer chart, toe to zero) | Ki Mobility | [[Ethos]] |

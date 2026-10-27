@@ -56,6 +56,7 @@ Check the label on the unit. Don't go by feel.
 | Pride scooters (2025–2026 owner's manuals) | Push **forward** | Pull **back**, then cycle the key |
 | Red Hawk Phoenix (2 red levers) | Push in the arrow direction | Reverse |
 | Red Hawk Eagle HD | Flip brake release lever **forward** (manual) | Flip **back** (electric) |
+| Red Hawk Pegasus Plus HD (2 red levers on the motors) | **Up** per the photo labels (the text says "push down": check the label) | **Down** |
 
 **Older Jazzy and Quantum series** (Pride's 2007 supplement,
 [[Quantum-Jazzy Freewheel Operation (INFINFB2121)]]):
