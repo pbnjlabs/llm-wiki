@@ -111,6 +111,20 @@ Full lineup with chargers and controllers: [[Pride-Power-Chair-Lineup]].
 | Go Go Sport | 18 Ah | [[Go-Go-Sport]] |
 | i-Go, Super Portable SC15, Jazzy Ultra Light, Jazzy Carbon family | one lithium-ion pack (Pride part) | [[i-Go]], [[Super-Portable-SC15]] |
 
+## Permobil batteries by model (from Permobil's manuals)
+
+Two 12 V batteries per chair. The newer Corpus manuals say sealed lead
+acid; the older ones say gel. None of the user manuals give a part number.
+
+| Model | Batteries | Source |
+|---|---|---|
+| M1 | Group 34 | [[Permobil-M-Corpus]] |
+| M3 Corpus, F3 Corpus | Group 34 or Group 24 | [[Permobil-M-Corpus]], [[Permobil-F-Corpus]] |
+| M5 Corpus, M Corpus VS, F5 Corpus, F5 Corpus VS | Group 24 | [[Permobil-M-Corpus]], [[Permobil-F-Corpus]] |
+| M400 Corpus HD | 74 Ah gel (charger max 10 A average) | [[Permobil-M400-Corpus-HD]] |
+| M300, K/C300, K450 | Group 34 gel, 60 Ah | [[Permobil-M300]], [[Permobil-K300-C300]], [[Permobil-K450]] |
+| Koala MiniFlex | 40 Ah gel (14.4 kg) | [[Permobil-Koala-MiniFlex]] |
+
 Pride's battery HCPCS codes match the Interstate sheet: U-1 E2365, NF-22
 E2361, Group 24 E2363, 18 Ah K0733; **lithium E2397**.
 

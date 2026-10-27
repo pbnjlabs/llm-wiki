@@ -26,13 +26,24 @@ ROHO and Comfort seating lines. Added 2026-10-26.
 | PDG Fuze T50/T50N, M50, JR (tilt) | [[PDG-Fuze]] |
 | PDG Stellar GL/HD/Impact, Stellar GLT, Bentley LT/LT-R (tilt) | [[PDG-Stellar]] |
 | PDG Eclipse (bariatric) | [[PDG-Eclipse]] |
+| Power chairs, mid-wheel drive: M1, M3 Corpus, M5 Corpus, M Corpus VS | [[Permobil-M-Corpus]] |
+| Power chairs, front-wheel drive: F3 Corpus, F5 Corpus, F5 Corpus VS | [[Permobil-F-Corpus]] |
+| M400 Corpus HD (450 lb) | [[Permobil-M400-Corpus-HD]] |
+| M300 (legacy, Corpus 3G) | [[Permobil-M300]] |
+| K300 / C300 (legacy; K300 = PS Junior pediatric seat) | [[Permobil-K300-C300]] |
+| K450 MX (pediatric, seat-to-floor) | [[Permobil-K450]] |
+| Koala MiniFlex (small pediatric) | [[Permobil-Koala-MiniFlex]] |
 
-No Permobil power chair manuals are on file, only the electronics sheets below.
+Power chair **user/owner's manuals** are on file (added 2026-10-27), plus the
+PGDT **R-net Technical Manual** and the **ICS Onboard Configuration** manual.
+Still **no Permobil chassis service manual or parts manual** for any power
+chair. Power chair support: Permobil Inc., Lebanon, TN, **800-736-0925**,
+support@permobil.com. R-net faults: [[R-net-Diagnostics]].
 
 ## Sources
 
-Raw files in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chair
-Electronics 4, Seating 1); source pages in `sources/Permobil/`.
+Raw files in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chairs 18,
+Power Chair Electronics 8, Seating 3); source pages in `sources/Permobil/`.
 
 - TiLite: [[TiLite Rigid Wheelchair Service Manual (Rev 7)]],
   [[TiLite Folding Wheelchair Service Manual (PD16521 Rev 6)]],
@@ -47,10 +58,22 @@ Electronics 4, Seating 1); source pages in `sources/Permobil/`.
   [[PDG Eclipse Owner's Manual (PD24236 Rev 4)]],
   [[PDG Power Tilt Accessory Owner's Manual (PD24244 Rev 6)]],
   [[PDG Spare Parts Manual (Rev 3)]]
-- Power chair electronics: [[R-net LED Error Codes]],
+- Power chairs: [[Permobil M Corpus User Manuals (M1, M3, M5, M Corpus VS)]],
+  [[Permobil F Corpus User Manuals (F3, F5, F5 Corpus VS)]],
+  [[Permobil M400 Corpus HD User Manual (337723)]],
+  [[Permobil M300 Owner's Manual (205255)]],
+  [[Permobil K-C300 Owner's Manual (205220)]],
+  [[Permobil K450 Owner's Manual (205230, 2020)]],
+  [[Permobil Koala MiniFlex Owner's Manual (2014)]]
+- Power chair electronics: [[R-net Technical Manual (SK77981-6)]],
+  [[ICS Onboard Configuration Technical Manual (205247, Ed 8)]],
+  [[R-net LED Error Codes]],
   [[Permobil ICS Error Codes and Quick Reference]],
-  [[Permobil Joystick Module IR Quick Start]]
-- Seating: [[Permobil Back Support Sizing Guide]]
+  [[Permobil Joystick Module IR Quick Start]],
+  [[Total Control Head Array User Manual (338998)]],
+  [[MyPermobil Activation Guide (DOC0095-03)]]
+- Seating: [[Permobil Back Support Sizing Guide]],
+  [[PS Junior Seat User Manual (205228)]], [[VS Seat System Owner's Manual (205216)]]
 
 ## Notes
 

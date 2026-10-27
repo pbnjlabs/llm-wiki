@@ -76,7 +76,7 @@ programmer code for detail.
 of showing a code: 1 battery, 2/3 left motor (connection / short to battery), 4/5
 right motor, 6 external inhibit, 7 joystick (center it at power-up), 8 control
 system, 9 parking brakes, 10 over-voltage, 7 LEDs + speed LEDs = joystick cable
-communication fault. Full table on [[R-net LED Error Codes]]. Permobil ICS
+communication fault. Full table on [[R-net LED Error Codes]]; R-net trip texts and codes, lock/unlock, OBP and post-repair tests on [[R-net-Diagnostics]]. Permobil ICS
 seating actuator codes (20xx) shown through R-net are on
 [[Permobil ICS Error Codes and Quick Reference]].
 

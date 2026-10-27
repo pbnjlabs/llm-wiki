@@ -23,7 +23,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
 | Savaria | [[Savaria]] | 22 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 2, Ceiling Lifts 2; 2026-10-26) | 12 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs |
-| Permobil | [[Permobil]] | 45 in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chair Electronics 4, Seating 1; 2026-10-26) | 19 source pages — TiLite and PDG manual chairs (service, owner's and parts manuals, transit guides), R-net LED and ICS error codes, PJSM IR, back support sizing |
+| Permobil | [[Permobil]] | 69 in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chairs 18, Power Chair Electronics 8, Seating 3; 2026-10-26/27) | 32 source pages — TiLite and PDG manual chairs (service, owner's and parts manuals, transit guides), power chair user manuals (M/F Corpus, M400, M300, K/C300, K450, Koala), R-net Technical Manual, ICS Onboard Configuration, R-net LED and ICS error codes, head array, PJSM IR, seating |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
 Note: `MANUALS/Bruno/` holds 28 files: 21 in product-line subfolders
@@ -231,6 +231,13 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | PDG Fuze T50/T50N 300 lb, M50 400 lb, JR 250 lb tilt-in-space (tilt cable tension, tilt limiter) | Permobil | [[PDG-Fuze]] |
 | PDG Stellar GL/HD/Impact, Stellar GLT, Bentley LT/LT-R tilt-in-space (250–300 lb; gas strut position) | Permobil | [[PDG-Stellar]] |
 | PDG Eclipse bariatric chair (600 or 1000 lb) | Permobil | [[PDG-Eclipse]] |
+| Permobil M1, M3, M5 Corpus, M Corpus VS mid-wheel-drive power chairs (300/330/265 lb; user manuals only) | Permobil | [[Permobil-M-Corpus]] |
+| Permobil F3, F5 Corpus, F5 Corpus VS front-wheel-drive power chairs (VS: over 240 lb needs 18 in seat depth) | Permobil | [[Permobil-F-Corpus]] |
+| Permobil M400 Corpus HD (450 lb; battery replacement) | Permobil | [[Permobil-M400-Corpus-HD]] |
+| Permobil M300 legacy (VR2 or R-net; battery change) | Permobil | [[Permobil-M300]] |
+| Permobil K300 / C300 legacy (50 A replaceable fuse; PS Junior seat weight by depth) | Permobil | [[Permobil-K300-C300]] |
+| Permobil K450 MX pediatric (seat-to-floor, emergency operation cable) | Permobil | [[Permobil-K450]] |
+| Permobil Koala MiniFlex pediatric (77 lb) | Permobil | [[Permobil-Koala-MiniFlex]] |
 | TRANSITIONS threshold plates/ramps/mats (vs Harmar's modular dovetail rubber ramps; 5 products, manufacturer instructions and spec sheets for all; aluminum 700 lb, rubber mats 850 lb; ¼ in fit) | EZ-ACCESS | [[TRANSITIONS-Threshold-Ramps]] |
 | SUITCASE folding ramps (Singlefold / Singlefold AS / TRIFOLD AS; all 800 lb, 500 lb with a Top Lip Extension; AS = two-piece with applied surface) | EZ-ACCESS | [[SUITCASE-Ramps]] |
 | GATEWAY 3G solid ramp (3–10 ft, 1,000 lb; PMS treats it as permanent, so 1:12 applies) | EZ-ACCESS | [[GATEWAY-3G]] |
@@ -310,6 +317,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VA FSS contracts (which contract number for which product and company: Supply 65 II A D0084 / 65 II F D0058, Solutions 65 II F D0128, no Solutions 65 II A; **manufacturer FSS price = ceiling for PMS's VA price** and the VA bid reference; all lists already loaded in QuickBooks; Bruno vs Harmar FSS warranty/returns/delivery; MedSurg) | [[VA-FSS-Contracts]] |
 | Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates incl. batteries at MSRP × 0.70, OEM-only parts) | [[Scootaround-VA-Repairs]] |
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
+| **R-net diagnostics** (Permobil power chairs: trip texts and codes, LED counts, lock/unlock, OBP entry, post-repair tests, ICS seat LEDs) | [[R-net-Diagnostics]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
 | **Transport and tie-downs** (occupied transit only on rated chairs with a WTORS: Stretto, J6 short towers; Golden: never ride in it; tie-down points and handling; disassembly pieces; vehicle lifts: unoccupied only, outside straps/hold-down, hoist/truck transport position, hybrids; airline lithium rules incl. GB120 160 Wh; PMS delivery: Joint Commission, two-tech beds) | [[Transport-and-Tie-Downs]] |

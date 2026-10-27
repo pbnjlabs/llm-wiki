@@ -56,8 +56,8 @@ adapter, pause tilt at 0°, IRM, invert buttons, leg rest linked to backrest), l
 rest angle for quarter speed, seat depth, IRM positions, K450 transportation mode
 (WC19) and hook position, seat width/armrest restriction, VS standing settings
 and the **VS "Take Me Down" emergency un-standing** (6+8 held ~30 s). Hold button
-8 for 2 s to save. Full detail in OM ICS OnBoard Configuration (not on file).
+8 for 2 s to save. Full detail in the OM ICS OnBoard Configuration, now on file: [[ICS Onboard Configuration Technical Manual (205247, Ed 8)]] (2015, Ed 8).
 
 ## Feeds
 
-[[Permobil]], [[PG-Drives-Trip-Codes]]
+[[Permobil]], [[PG-Drives-Trip-Codes]], [[R-net-Diagnostics]], [[ICS Onboard Configuration Technical Manual (205247, Ed 8)]]

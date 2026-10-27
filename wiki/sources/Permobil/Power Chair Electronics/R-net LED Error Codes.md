@@ -32,4 +32,4 @@ Left/right motor as wired; may be swapped in programming.
 
 ## Feeds
 
-[[PG-Drives-Trip-Codes]], [[Permobil]]
+[[PG-Drives-Trip-Codes]], [[R-net-Diagnostics]], [[Permobil]]. Full PGDT manual: [[R-net Technical Manual (SK77981-6)]]. Permobil's own manuals word 6 LEDs as "battery charger connected".

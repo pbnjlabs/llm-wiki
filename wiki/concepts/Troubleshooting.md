@@ -123,6 +123,7 @@ not the brand or model name.
 - Golden PG S-Drive scooters (beeps): [[S-Drive-Beep-Codes]]
 - Golden PG S-Drive/VR2 chairs (TruCharge 10-bar): [[TruCharge-Diagnostics]]
 - PG Drives programmer trip codes: [[PG-Drives-Trip-Codes]]
+- PG Drives R-net (Permobil power chairs): [[R-net-Diagnostics]]
 - Dynamic Shark: [[Shark-Diagnostics]]
 - Dynamic LiNX: [[LiNX-Diagnostics]]
 - Pride Q-Logic / Q-Logic 3 / QLNES: [[Joystick-Controllers]],

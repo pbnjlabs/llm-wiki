@@ -152,8 +152,16 @@ on file):
   Documents** (the files are served from share.quantumrehab.com); the
   technical service section has **no owner's manuals or IPBs**. Also
   Pride Technical Service 1-877-800-1248, Quantum 866-800-2002.
-- Power chairs and scooters: only Golden, Pride and Red Hawk are on
-  file. Add other brands as VA jobs turn them up.
+- Power chairs and scooters: Golden, Pride, Red Hawk and (user
+  manuals only) Permobil are on file. Add other brands as VA jobs turn
+  them up.
+- [ ] **Permobil power chair service and parts manuals** (added
+  2026-10-27): user/owner's manuals are on file for the M and F Corpus,
+  M400, M300, K/C300, K450 and Koala ([[Permobil]]), but **no chassis
+  service manual, parts manual, or seating system service manual**
+  (the ICS manual sends switchbox, actuator and module replacement to
+  the seating service manual). Ask Permobil (800-736-0925) or the
+  Permobil dealer portal.
 
 **Can't check yet:**
 - **Supply, 65 II A, Harmar stair lifts and VPLs (36F79721D0084):**
@@ -187,4 +195,4 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ## EZ-ACCESS — fully ingested, no technical backlog. 28 EZ-ACCESS manuals, spec sheets and forms added 2026-10-26 (in `MANUALS/Ramps/EZ-ACCESS/`), all ingested; one duplicate skipped. **Deliberately skipped** per the human: `EZ Pay Scale 2023.pdf` and `Generic EZ Pay Scale.pdf`. Resolved: "Pathway" = PATHWAY 3G. The 2015 manual's 850 lb is superseded by the 2023 manual's **1,000 lb**. Also noted: the Ramps Handbook's 28.5 in → 28 ft example is wrong: **confirmed as 29 ft** (round up). The docx itself still says 28 ft.
 
-## Permobil — fully ingested (45 files, 2026-10-26): TiLite and PDG Mobility manual chairs, R-net LED and ICS error codes, PJSM IR, back support sizing ([[Permobil]]). No Permobil **power chair** owner's or service manuals are on file; get one if a Permobil power chair comes up on a job. Not on file: OM ICS OnBoard Configuration (referenced by the ICS quick reference card).
+## Permobil — fully ingested (69 files): TiLite and PDG Mobility manual chairs, R-net LED and ICS error codes, PJSM IR, back support sizing (45 files, 2026-10-26); **power chair user manuals** for the M1, M3/M5 Corpus, M Corpus VS, F3/F5 Corpus, F5 Corpus VS, M400 Corpus HD, M300, K/C300, K450 and Koala MiniFlex, the PGDT **R-net Technical Manual**, the **ICS Onboard Configuration** manual (which the ICS quick reference had pointed to), the Total Control Head Array, MyPermobil, and the PS Junior and VS seats (24 files, 2026-10-27; [[Permobil]], [[R-net-Diagnostics]]). The older M1 edition (2024) is superseded by the 2026 one. Still missing: see the Permobil item under Missing manuals.
