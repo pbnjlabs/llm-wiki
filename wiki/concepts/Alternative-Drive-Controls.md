@@ -47,7 +47,7 @@ ASL's settings per electronics for the FUSION:
 
 | Device | Type | Key facts |
 |---|---|---|
-| ASL 110 FUSION | Proportional and digital head array | Power light green = drive, amber = BT; ASL 165 display/programmer/attendant; beeps 1 on/off, 2 BT, 3 next function, 4 next profile |
+| ASL 110 FUSION | Proportional and digital head array | Power light green = drive, amber = BT; ASL 165 display/programmer/attendant (press both display buttons to program: pad type/direction/min speed, prop calibration, veer, feature list, diagnostics, reset; [[ASL 165 FUSION Display and Programmer Interactive Guide]]); fault screen shows which pad; beeps 1 on/off, 2 BT, 3 next function, 4 next profile |
 | ASL 104 ATOM | Digital (switch) head array | DIP 1 SEL = reset vs reverse, 2 BT pair, 3 power with chair, 6 beeps; switch timer sets long-hold |
 | Permobil Total Control Head Array | Proximity / egg-switch head array (R-net) | LEDs green ready, amber active, flashing amber standby |
 | ASL 125 Orbit / 128 Molecule / 130 MEC | Mini / micro joysticks | 50 g / 4 mm, 8 g / 3 mm, 18 g / 9 mm; DIP 1 up = 3-direction proportional; L/R click plug in before power-up |
@@ -60,4 +60,5 @@ Sources: [[ASL 110 FUSION Head Array Instruction Manual (Rev 3-2022)]],
 [[ASL Bluetooth Joystick Instruction Manuals (125, 128, 130, 133, 134)]],
 [[ASL 102 UNO Single Switch Scanner Instruction Manual (Rev 5-2020)]],
 [[ASL 558 ATOM Bluetooth Mouse Emulator (Manual and Common Setups)]],
+[[ASL 165 FUSION Display and Programmer Interactive Guide]],
 [[Total Control Head Array User Manual (338998)]].

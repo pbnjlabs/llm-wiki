@@ -32,7 +32,7 @@ Feeds [[Alternative-Drive-Controls]].
   2 Bluetooth, 3 next function, 4 next profile.**
 - **ASL 165 FUSION Display, Programmer and Attendant Control:** programs
   the FUSION, shows what the user is controlling, and works as an
-  attendant control or full override.
+  attendant control or full override. Its menus: [[ASL 165 FUSION Display and Programmer Interactive Guide]].
 - Reset switches: ASL 204 / 208 proximity sensors, 304B wobble, 314 ultra
   light, 320 pulse; mounts 930 / 930B swing-away, 611 armrest bracket,
   683 magnetic mount.
