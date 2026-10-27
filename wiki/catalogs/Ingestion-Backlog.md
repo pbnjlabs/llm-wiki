@@ -94,7 +94,9 @@ on file):
 - [ ] **Three Bruno VPL tech tips broken on Bruno's server** (2026-10-21):
   VPL Electric Strike Offerings, Von Duprin 6211 installation
   instructions, VPL Fuse & Circuit Breaker Listing. Ask Bruno Technical
-  Service for copies.
+  Service for copies. **Re-checked 2026-10-27, still broken** (Electric
+  Strike and Von Duprin 404; Fuse & Circuit Breaker redirects to a 400
+  Bad Request page).
 
 **Savaria** (added 2026-10-26):
 - [ ] **K2 / K2 Plus owner's manual**: the install guides, troubleshooting
