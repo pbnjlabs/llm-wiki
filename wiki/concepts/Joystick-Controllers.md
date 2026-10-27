@@ -326,6 +326,7 @@ Firmware: [[NE+ Firmware Compatibility List (2009)]]. Symptom checklist:
   [[Q-Logic-Seat-Configuration]],
   [[Q-Logic-3-Bluetooth-and-Remote-Programming]]
 - [[Power-Chair-Troubleshooting]] (symptom-first, Pride + Golden)
+- Head arrays, mini joysticks and scanners (ASL, Permobil) on any electronics: [[Alternative-Drive-Controls]]
 - Permobil's **R-net** joysticks (LCD and LED JSMs, lock/unlock, OBP): [[R-net-Diagnostics]]; alternative drive: [[Total Control Head Array User Manual (338998)]]
 - [[iLevel]] (Q-Logic 3 and QLNES iLevel indicators, #47), [[Freewheel-Mode]]
 - [[Tru-Balance-3-Power-Positioning]] (Q-Logic 3 inhibit-matrix integration

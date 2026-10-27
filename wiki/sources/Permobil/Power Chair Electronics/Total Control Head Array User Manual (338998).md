@@ -36,4 +36,4 @@ R-net chairs.
 
 ## Feeds into
 
-[[Joystick-Controllers]], [[Permobil]]
+[[Joystick-Controllers]], [[Alternative-Drive-Controls]], [[Permobil]]

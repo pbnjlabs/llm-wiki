@@ -123,4 +123,4 @@ Calibration and the 6 + 8 "Take Me Down" emergency mode:
 [[Permobil M400 Corpus HD User Manual (337723)]],
 [[Permobil M300 Owner's Manual (205255)]],
 [[ICS Onboard Configuration Technical Manual (205247, Ed 8)]].
-See also [[Troubleshooting]], [[Joystick-Controllers]].
+See also [[Troubleshooting]], [[Joystick-Controllers]], [[Alternative-Drive-Controls]] (head arrays and other SIDs on the Omni).

@@ -23,6 +23,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
 | Savaria | [[Savaria]] | 22 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 2, Ceiling Lifts 2; 2026-10-26) | 12 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs |
+| Adaptive Switch Laboratories (ASL) | [[Adaptive-Switch-Laboratories]] | 14 in `MANUALS/ASL/` (2026-10-27) | 6 source pages — 110 FUSION and 104 ATOM head arrays (FUSION install and programming for LiNX, Q-Logic, R-net, Permobil), Bluetooth joysticks 125/128/130/133/134, 102 UNO scanner, 558 mouse emulator |
 | Permobil | [[Permobil]] | 69 in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chairs 18, Power Chair Electronics 8, Seating 3; 2026-10-26/27) | 32 source pages — TiLite and PDG manual chairs (service, owner's and parts manuals, transit guides), power chair user manuals (M/F Corpus, M400, M300, K/C300, K450, Koala), R-net Technical Manual, ICS Onboard Configuration, R-net LED and ICS error codes, head array, PJSM IR, seating |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
@@ -317,6 +318,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | VA FSS contracts (which contract number for which product and company: Supply 65 II A D0084 / 65 II F D0058, Solutions 65 II F D0128, no Solutions 65 II A; **manufacturer FSS price = ceiling for PMS's VA price** and the VA bid reference; all lists already loaded in QuickBooks; Bruno vs Harmar FSS warranty/returns/delivery; MedSurg) | [[VA-FSS-Contracts]] |
 | Scootaround VA repairs (scope, 24 h / day 7 / day 20 deadlines, quote checklist, not-billable list, PMS rates incl. batteries at MSRP × 0.70, OEM-only parts) | [[Scootaround-VA-Repairs]] |
 | PG Drives controller trip codes (programmer 4-digit codes; S-Drive, VR2, VSI, Pilot+; no-code faults; post-repair tests) | [[PG-Drives-Trip-Codes]] |
+| **Alternative drive controls** (head arrays, mini/micro joysticks, scanners: reset switch rule, moisture, ports and programming for R-net, Q-Logic, LiNX, MK6i; ASL and Permobil devices) | [[Alternative-Drive-Controls]] |
 | **R-net diagnostics** (Permobil power chairs: trip texts and codes, LED counts, lock/unlock, OBP entry, post-repair tests, ICS seat LEDs) | [[R-net-Diagnostics]] |
 | Harmar stairlift beep codes (Helix/SL300/SL600, near-identical major-fault scheme) | [[Harmar-Stairlift-Beep-Codes]] |
 | Ramp slope and length (**wiki standard: 1:12 only**, 1 ft of run per inch of rise, 4.8° on an angle meter; device incline ratings) | [[Ramp-Slope-and-Length]] |
@@ -377,7 +379,7 @@ One summary page per raw manual lives under `sources/<Manufacturer>/<Product Lin
 | [[Sources-Harmar]] | Harmar: all six ingest passes, including the training videos. |
 | [[Sources-Golden]] | Golden: tech library, lift chairs, mobility and beds. |
 | [[Sources-Pride]] | Pride: spec sheets, controllers, PQ-365 library and owner's manuals. |
-| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical, Ki Mobility, Savaria and Permobil. |
+| [[Sources-Other-Manufacturers]] | Prism, Vancare, AutoSlide, Open Sesame, Red Hawk, EZ-ACCESS (incl. ramps and web clippings), Sunrise Medical, Ki Mobility, Savaria, Permobil and ASL. |
 | [[Sources-PMS-and-Reference]] | PMS office files and forms, battery price sheets, Scootaround, VA and standards. |
 
 ## Ingestion backlog

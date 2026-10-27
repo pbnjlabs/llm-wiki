@@ -65,4 +65,4 @@ troubleshooting a chair that "won't move":
 ## See also
 
 [[GP162-LiteRider-Envy]], [[GP164-BuzzAbout]], [[GP6xx-Compass]], [[GP302-Cricket]], [[TruCharge-Diagnostics]],
-[[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Freewheel-Mode]], [[Golden]]
+[[Flash-Beep-Diagnostics]], [[Shark-Diagnostics]], [[Freewheel-Mode]], [[Golden]], [[Alternative-Drive-Controls]] (head arrays and specialty inputs on the LiNX Input Module)
