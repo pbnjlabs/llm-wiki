@@ -164,7 +164,12 @@ From Harmar's training video [[Video - How to Replace the Actuator (AL-100)]] (f
 on the vehicle, AL-100-12) and the drawing sheet [[Actuator Removal Instructions (ALA10010-INS rev 2)]]
 (removal only). Both show the older **ALA10010** actuator; the AL100 and
 AL301XL drawings replaced it with **310-00005** in Aug 2019
-([[Harmar Parts Diagrams]]), so confirm with Harmar for a newer lift.
+([[Harmar Parts Diagrams]]). Harmar's 310-00005 drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says it
+is the **ALA10010, renumbered**, with internal shaft and collar changes
+only, so these steps most likely apply to newer lifts too (inferred, not
+stated by Harmar). Specs: 12 V DC, 4,500 N dynamic and 13,600 N static
+load, 25 % duty cycle, 10 A at full load, clutch slip 130–152 in-lb,
+red +/black − Packard 56 connector.
 **Rule out the J-cam first** (see Field notes): a bad actuator is slow
 the whole way up.
 
@@ -216,6 +221,7 @@ Tools: 5/16" bit driver on an extension, 7/16" socket and extension
 - [[Bulletin - License Plate Riser Installation]] (AL901/AL904)
 - [[Actuator Removal Instructions (ALA10010-INS rev 2)]] (actuator removal, ALA10010 actuator, tool ALA10010-TOOL)
 - [[Video - How to Replace the Actuator (AL-100)]] (training video, full actuator remove and install, timestamped)
+- [[Actuator Drawing 310-00005 (Rev C)]] (engineering drawing: current actuator specs, formerly ALA10010; no torques)
 - [[Video - How to Replace the AL100 Hold-Down Foot]] (training video; re-set the foot per the manual afterwards)
 - [[Video - How to Adjust the AL560 Platform and Hold-Down Arm]] (training video; manual says lower 2–3 in and 8 ft-lb)
 - [[Video - Understanding Various Hitch Adapter Heights]] (training video; use the HV chart, not the video's by-eye picks)

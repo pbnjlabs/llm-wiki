@@ -71,7 +71,9 @@ facts they reveal that aren't documented anywhere else in the wiki.
   **ALA10010** on the AL100 in rev H (13AUG19, ECO-004479) and on the
   AL301XL in the same 2019 change; an earlier AL301XL revision moved to
   "ALA10010 rev 2" with a C-clip. Removal steps for the ALA10010:
-  [[Actuator Removal Instructions (ALA10010-INS rev 2)]].
+  [[Actuator Removal Instructions (ALA10010-INS rev 2)]]. The
+  310-00005's own drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says "formerly PN ALA10010" and
+  carries the same ECO-004479.
 - **J-cam:** both drawings list **530-00716, "J-CAM, CASTED"**. It
   replaced **H11010** on the AL100 in rev H (13AUG19). The AL301XL
   switched to it in rev G (13AUG19), went back to H11010 in rev H, and

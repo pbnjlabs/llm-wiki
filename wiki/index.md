@@ -16,7 +16,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Prism | [[Prism]] | 6 | 6 — a Handicare brand (now Savaria Patient Care), not an independent manufacturer, see note below |
 | Vancare | [[Vancare]] | 1 | 1 — **different manufacturer**, found under `MANUALS/Prism/`, see note below |
 | MedMizer | [[MedMizer]] | 1 (in `MANUALS/Admin/Training/`) | 1 — hospital beds, delivered by Performance Medical Solutions |
-| Harmar | [[Harmar]] | 94 (+2 in `MANUALS/Ramps/`) + 47 training videos in `Videos/` | 83 source pages (34 of them training-video pages covering all 47 videos; see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
+| Harmar | [[Harmar]] | 96 (+2 in `MANUALS/Ramps/`) + 47 training videos in `Videos/` | 84 source pages (34 of them training-video pages covering all 47 videos; see note — several consolidate multiple low-narrative files; 2 are filed from other folders: `MANUALS/Bruno/bruno_warranty.pdf` and `MANUALS/Admin/fss_contracts.pdf`) |
 | AutoSlide | [[AutoSlide]] | 3 (2 in `MANUALS/AutoSlide/`, 1 in `MANUALS/Open Sesame/`) | 3 — **different product category**, see note below |
 | Open Sesame | [[Open Sesame]] | 17 (+1 AutoSlide RFID manual in the same folder) | 10 source pages (several consolidate one-page sheets) — automatic swing-door operators, not mobility equipment |
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
@@ -197,7 +197,7 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Highlander II (VPL400-1400; enclosure / no-enclosure / VPL400-X configs; training videos for the older RPL/CPL linked here) | Harmar | [[HighlanderII]] |
 | Pinnacle SL300 (folding-rail install videos: **footplate bolts 46 ft-lb per Rev L, not the videos' 25**; rail ≥3 in above the nose) | Harmar | [[Pinnacle-SL300]] |
 | Pinnacle SL600 | Harmar | [[Pinnacle-SL600]] |
-| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator replacement: ALA10010-INS sheet and training video; videos for the hold-down foot, AL560 arm, hitch adapters, AL701 7-pin harness) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
+| AL-Series Outside Vehicle Lifts (~22 models, hitch-mounted; actuator replacement: ALA10010-INS sheet and training video, 310-00005 drawing = ALA10010 renumbered; videos for the hold-down foot, AL560 arm, hitch adapters, AL701 7-pin harness) | Harmar | [[AL-Series-Outside-Vehicle-Lifts]] |
 | Hoist-Series Inside Vehicle Lifts (12 models incl. AL8xx truck lifts, cargo-area mounted; install manuals on file) | Harmar | [[Hoist-Series-Inside-Vehicle-Lifts]] |
 | Hybrid Vehicle Lifts (AL600/AL690/AL6000/AL6000HD, cargo-area mounted, powered swing-out tower; legacy AL625/AL625HD "Tracker") | Harmar | [[Hybrid-Vehicle-Lifts]] |
 | AutoSlide (Standard/iLock/Elite/Elite iLock) — automatic sliding-door retrofit kit, not mobility equipment | AutoSlide | [[AutoSlide-Drive-System]] |

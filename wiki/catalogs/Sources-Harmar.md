@@ -93,3 +93,8 @@ vs **3 in minimum**; folding-rail foot wrench 9/16 vs ½ in; AL560 arm
 lowered 1–2 vs **2–3 in**; beep-tone count 5 vs **4** for top+bottom
 obstruction; Pinnacle demo kit's 350 lb vs SL300 **300 lb**; hitch
 video's 6 in drop at 21 in vs **3 in** on the AL1235U chart.
+
+*Seventh pass* (2026-10-27, 2 screenshots from `~/Downloads`):
+[[Actuator Drawing 310-00005 (Rev C)]], both sheets of Harmar's actuator drawing (`310-00005.msd2.webp`
+sheet 1, `310-00005.msd.webp` sheet 2, in `MANUALS/Harmar/`). Rev A
+says "formerly PN ALA10010"; specs, connector, ball nut. No torques.

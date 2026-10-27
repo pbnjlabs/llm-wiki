@@ -26,7 +26,11 @@ The demo lift was built before Harmar's Aug 2019 change from actuator
 **ALA10010** to **310-00005** ([[Harmar Parts Diagrams]]), so it most
 likely shows the ALA10010, the same one as
 [[Actuator Removal Instructions (ALA10010-INS rev 2)]]. The video
-doesn't give a part number for the actuator or the tool.
+doesn't give a part number for the actuator or the tool. The
+310-00005 drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says it's the ALA10010 renumbered, with
+internal changes only, and its ball-nut test seats the nut with its sides
+parallel to the nut plate, about ¼–½ turn short of fully seated, which
+matches this video's install step.
 
 ## Tools (said in the video)
 
@@ -93,4 +97,4 @@ doesn't give a part number for the actuator or the tool.
 
 [[AL-Series-Outside-Vehicle-Lifts]],
 [[Actuator Removal Instructions (ALA10010-INS rev 2)]],
-[[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]
+[[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]], [[Actuator Drawing 310-00005 (Rev C)]]

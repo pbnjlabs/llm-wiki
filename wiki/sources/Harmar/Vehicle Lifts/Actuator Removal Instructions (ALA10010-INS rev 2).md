@@ -19,10 +19,11 @@ The sheet number is **ALA10010-INS**, and **ALA10010** is Harmar's
 older actuator part number. Per the assembly drawings in
 [[Harmar Parts Diagrams]], both the AL100 (rev H, 13AUG19,
 ECO-004479) and the AL301XL replaced **ALA10010 with 310-00005**. So the
-sheet is written for the pre-August-2019 actuator. Whether the current
-310-00005 comes out the same way isn't stated; the drawings show it in
-the same position. Confirm with Harmar (800-833-0478) before relying on
-it for a newer lift. The pictured lift is an outside platform lift with a
+sheet is written for the pre-August-2019 actuator. The 310-00005's own
+drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says it's the ALA10010 renumbered, with only internal
+shaft and collar changes, so this sheet most likely applies to it too
+(inferred, not stated by Harmar). No torque values are given anywhere on
+file; ask Harmar (800-833-0478). The pictured lift is an outside platform lift with a
 hold-down arm (AL100 style).
 
 ## Procedure (from the drawings)
@@ -65,4 +66,4 @@ normally ([[AL-Series-Outside-Vehicle-Lifts]] operation notes).
 
 [[AL-Series-Outside-Vehicle-Lifts]],
 [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]],
-[[Harmar Parts Diagrams]], [[Video - How to Replace the Actuator (AL-100)]]
+[[Harmar Parts Diagrams]], [[Video - How to Replace the Actuator (AL-100)]], [[Actuator Drawing 310-00005 (Rev C)]]

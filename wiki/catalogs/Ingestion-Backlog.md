@@ -58,9 +58,12 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   2026-10-23): removal and install are now covered for the older
   ALA10010 ([[Actuator Removal Instructions (ALA10010-INS rev 2)]], and
   the training video [[Video - How to Replace the Actuator (AL-100)]] on
-  a 2016 AL-100). Still open: whether the 310-00005 is the same
-  procedure, and torque values for the actuator screws and locking-tab
-  bolt. Ask Harmar (800-833-0478).
+  a 2016 AL-100). **Narrowed 2026-10-27:** the 310-00005 drawing
+  ([[Actuator Drawing 310-00005 (Rev C)]]) says it's the ALA10010 renumbered (internal shaft and collar
+  changes only), so the procedure most likely carries over (inferred, not
+  stated by Harmar). Still open: **torque values** for the actuator
+  screws and locking-tab bolt, and Harmar confirming the procedure is
+  the same. Ask Harmar (800-833-0478).
 - [ ] **Harmar items surfaced by the training videos** (added
   2026-10-23). Only if PMS services them: manuals for the older
   **RPL** residential and **CPL** commercial platform lifts and the
