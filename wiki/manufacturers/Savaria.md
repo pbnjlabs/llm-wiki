@@ -23,7 +23,7 @@ in the Savaria family too.
 | K2 straight-rail stairlift | [[K2]] |
 | K2 Plus (public/Canadian codes) | [[K2-Plus]] |
 | Patient Care: beds, support surfaces, positioners, slings | catalogues only (below) |
-| Ceiling lifts: FL fixed, PL / M-Series portable | source pages only (below) |
+| Ceiling lifts: FL fixed, PL / M-Series portable | [[Savaria-Ceiling-Lifts]] |
 
 ## Sources
 
@@ -47,7 +47,7 @@ The M-Series PDF is named "001052-EN Rev 009 (2024-02-20)" but its pages read
 (FL) / 200 kg (PL), Li-ion 25.2 V, charger M920001, ~2 h charge, 10-year life
 with one battery replacement; manual lowering with a 4 mm Allen key; **if the
 emergency brake has engaged, don't release it or lower manually: call the
-dealer.** The Prism C-450/C-625 is Handicare (now Savaria) too
+dealer.** Full detail on [[Savaria-Ceiling-Lifts]]. The Prism C-450/C-625 is Handicare (now Savaria) too
 ([[C-450 C-625 Owner's Manual (753140 Rev D)]]).
 
 No K2 owner's manual is on file.

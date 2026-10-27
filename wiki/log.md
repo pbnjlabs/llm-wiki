@@ -1600,3 +1600,7 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Known, left as is:** 12 source pages have a blank `date:` (undated parts sheets, catalogues, one-page sheets); old log entries contain example or since-renamed links; Bruno parts-drawing pages cite a folder plus manifest rather than one file.
 - **Gaps:** no Permobil power chair manuals (on [[Ingestion-Backlog]]); Fuze M50/JR spec-table capacity misprints and the Savaria M-Series file-name/part-number mismatch flagged on their pages.
 - **Suggestion:** ceiling lifts now span Prism/Handicare and Savaria (FL, PL, M-Series); [[Ceiling-Lift-Troubleshooting]] could grow a Savaria section, or a ceiling-lift maintenance page could compare service life, strap replacement and inspection intervals across them.
+
+## [2026-10-26] model | Savaria-Ceiling-Lifts (per the human: Savaria ceiling lifts get their own page)
+- New [[Savaria-Ceiling-Lifts]] for the FL fixed and PL / M-Series portable lifts, from [[Savaria M-Series Portable Ceiling Lift Owner's Manual (001586)]] and [[Savaria FL and PL Ceiling Lift Technical Specifications (2022)]]: specs, charger LEDs (won't lift while charging), emergency stop, manual lowering and emergency brake rule, §7 troubleshooting table, operator and dealer maintenance schedules (strap every 2 years, yearly load test, end stops 20 Nm).
+- Linked from [[Savaria]], [[Ceiling-Lift-Troubleshooting]], [[index]] and both source pages.
