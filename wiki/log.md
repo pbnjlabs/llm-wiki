@@ -1646,3 +1646,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Flagged:** K2 owner's manual "350 lb up to 45°" vs the 2025 install guide's 300 lb (go by 300 lb); K2 owner checks every 3 months (2016 owner's manual) vs 6 months (2025 install guide); K2 Plus install guide's "B355 and B316 units have no LEDs" is most likely B613 (owner's manual); K2 Plus residential yearly interval vs the MCP's 6 months.
 - **Closes** the K2 / K2 Plus owner's manual backlog item; the Savaria Link setup guide (001180) stays open as its own item.
 - **Updated:** [[K2]], [[K2-Plus]], [[K2 Plus Stairlift Installation Guide (001187)]], [[Stairlift-Maintenance]], [[Ingestion-Backlog]], [[Sources-Other-Manufacturers]], index.
+
+## [2026-10-27] query | Red Hawk Pegasus Plus (DC02) owner's manual from Downloads
+- Per the human: `~/Downloads/DC02 English Manual2.pdf` is **byte-identical** to `MANUALS/Red Hawk/Pegasus_Plus_Heavy_Duty_Manual.pdf` (md5 00384b7fce7f0a673679a2a74cf9922a), already ingested as [[Pegasus Plus Heavy Duty Manual]]. Same truncated 30-page file (TOC runs to p. 44); nothing new to ingest, not copied. Noted on [[Ingestion-Backlog]] (Red Hawk).
