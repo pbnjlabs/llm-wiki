@@ -1592,3 +1592,11 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - Updated [[Manual-Wheelchair-Service]] (TiLite/PDG torques, transit; PDG says oil QR axles with 3-in-1, unlike Sunrise/Ki), [[Transport-and-Tie-Downs]] (TiLite and PDG transit), [[PG-Drives-Trip-Codes]] (R-net LED codes), [[Ceiling-Lift-Troubleshooting]] (emergency lowering), [[Savaria]], [[Scootaround-VA-Repairs]], [[Sources-Other-Manufacturers]].
 - Flags: the M-Series PDF's file name (001052-EN Rev 009) doesn't match its pages (001586-EN Rev 002, 2026-09-22); Fuze M50 and JR spec tables print capacities that disagree with the text.
 - Ki and Quickie stay the only manual chairs the human has worked on; Permobil is on file as reference.
+
+## [2026-10-26] lint | Downloads sorted; links, orphans, citations clean; 3 stale Handicare lines fixed
+- **Downloads:** all 91 PDFs (48 unique) checked by md5 against `MANUALS/`; every one was already filed by the Permobil/Prism/Savaria ingest. Per the human, the Downloads copies were moved to the trash (recoverable) and the empty "Files (n)" folders removed.
+- **Clean:** no broken wikilinks outside the log, no orphan pages, no duplicate page names, every source page has `type: source` and a `source:` path that resolves, **no raw file in `MANUALS/` without a source page**. Every model, concept and manufacturer page is in the index; field notes are listed on [[Field-Notes]].
+- **Fixed (stale after the C-450/C-625 owner's manual confirmed Handicare):** the Prism note on [[index]] still said "very likely" and "confirmed for two"; [[Prism]] and [[Savaria]] listed Handicare as making only the P440 and Castor stand.
+- **Known, left as is:** 12 source pages have a blank `date:` (undated parts sheets, catalogues, one-page sheets); old log entries contain example or since-renamed links; Bruno parts-drawing pages cite a folder plus manifest rather than one file.
+- **Gaps:** no Permobil power chair manuals (on [[Ingestion-Backlog]]); Fuze M50/JR spec-table capacity misprints and the Savaria M-Series file-name/part-number mismatch flagged on their pages.
+- **Suggestion:** ceiling lifts now span Prism/Handicare and Savaria (FL, PL, M-Series); [[Ceiling-Lift-Troubleshooting]] could grow a Savaria section, or a ceiling-lift maintenance page could compare service life, strap replacement and inspection intervals across them.

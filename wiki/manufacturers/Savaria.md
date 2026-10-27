@@ -13,7 +13,7 @@ savaria.com and the Savaria Dealers website. Added 2026-10-26.
 
 **Savaria Patient Care** is its beds, surfaces, ceiling lift and sling
 division, built from **Span, Handicare and Silvalea**. Handicare makes the
-Prism P440 and Castor 2 lift stand on file, so [[Prism]] equipment now sits
+Prism P440, C-450/C-625 and Castor 2 lift stand on file, so [[Prism]] equipment now sits
 in the Savaria family too.
 
 ## Product lines on file

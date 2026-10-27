@@ -32,7 +32,7 @@ guide, see below).
 ## Confirmed manufacturer relationship: Handicare
 
 **"Prism" is not an independent manufacturer — it's a brand name
-Handicare uses for at least the P440 and the Castor 2 Post Lift Stand.**
+Handicare uses for the P440, the C-450/C-625 and the Castor 2 Post Lift Stand.**
 This was an open question for a while: [[C-450-C-625]]'s page has long
 noted that its [[Ceiling Lift Evaluation Form]]'s example track diagram
 uses a "Handicare" component legend, without explanation. It's now

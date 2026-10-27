@@ -42,13 +42,12 @@ ceiling-lift track installation guide, not a Prism document — counted
 under Vancare instead, parallel to the Bruno/Harmar case above. See
 [[Vancare]] and [[Prism]] for details.
 
-Note: **"Prism" is very likely a Handicare brand, not an independent
-manufacturer** — confirmed for two of its products ([[P440]] and the
-[[Prism-Castor-2-Post-Lift-Stand]] accessory), both explicitly
-Handicare-branded/warranted in their manuals, with "Prism" apparently
-used for Handicare's North American refurbished-equipment line. The
-[[C-450-C-625]] owner's manual (2026-10-26) is a Handicare manual too, so all
-three are Handicare products. Handicare is now part of Savaria Patient Care. See [[Prism]] for the full
+Note: **"Prism" is a Handicare brand, not an independent
+manufacturer** — confirmed for all three of its products ([[P440]],
+[[C-450-C-625]] and the [[Prism-Castor-2-Post-Lift-Stand]] accessory), each
+Handicare-branded/warranted in its manual (the C-450/C-625 owner's manual
+added 2026-10-26), with "Prism" apparently used for Handicare's North American
+refurbished-equipment line. Handicare is now part of Savaria Patient Care. See [[Prism]] for the full
 writeup — kept under the "Prism" manufacturer page rather than
 renamed, since that's the name on the raw `MANUALS/` folder and the
 older documents' own branding.
