@@ -96,7 +96,10 @@ on file):
   instructions, VPL Fuse & Circuit Breaker Listing. Ask Bruno Technical
   Service for copies. **Re-checked 2026-10-27, still broken** (Electric
   Strike and Von Duprin 404; Fuse & Circuit Breaker redirects to a 400
-  Bad Request page).
+  Bad Request page). They are tech-tip **IDs 124, 138 and 144** on
+  Brunopartner's Tech Tips page
+  (https://www.brunopartner.com/er26ya59sp/tech-tips.aspx), a dealer
+  portal behind PMS's login (check in a signed-in browser).
 
 **Savaria** (added 2026-10-26):
 - [ ] **K2 / K2 Plus owner's manual**: the install guides, troubleshooting
