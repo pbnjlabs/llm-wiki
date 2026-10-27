@@ -36,9 +36,9 @@ actuator** (drive shaft and collar). The parts that the removal touches
 look the same: the **ball nut** threads into the lift's nut plate, there's
 a **manual override hex**, and the motor and tube layout match. So
 [[Actuator Removal Instructions (ALA10010-INS rev 2)]] and
-[[Video - How to Replace the Actuator (AL-100)]] most likely apply to
-the 310-00005 too. That's inferred from the drawing, not stated by
-Harmar.
+[[Video - How to Replace the Actuator (AL-100)]] apply to the 310-00005
+too: **confirmed by the human (2026-10-27)**, the removal steps carry over
+from the previous-generation actuator.
 
 ## Specs (sheet 1)
 

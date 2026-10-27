@@ -166,8 +166,7 @@ on the vehicle, AL-100-12) and the drawing sheet [[Actuator Removal Instructions
 AL301XL drawings replaced it with **310-00005** in Aug 2019
 ([[Harmar Parts Diagrams]]). Harmar's 310-00005 drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says it
 is the **ALA10010, renumbered**, with internal shaft and collar changes
-only, so these steps most likely apply to newer lifts too (inferred, not
-stated by Harmar). Specs: 12 V DC, 4,500 N dynamic and 13,600 N static
+only, and **per the human the removal steps carry over** to the 310-00005. Specs: 12 V DC, 4,500 N dynamic and 13,600 N static
 load, 25 % duty cycle, 10 A at full load, clutch slip 130–152 in-lb,
 red +/black − Packard 56 connector.
 **Rule out the J-cam first** (see Field notes): a bad actuator is slow

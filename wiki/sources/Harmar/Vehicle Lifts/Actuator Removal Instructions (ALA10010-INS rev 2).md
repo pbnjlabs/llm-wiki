@@ -21,8 +21,8 @@ older actuator part number. Per the assembly drawings in
 ECO-004479) and the AL301XL replaced **ALA10010 with 310-00005**. So the
 sheet is written for the pre-August-2019 actuator. The 310-00005's own
 drawing ([[Actuator Drawing 310-00005 (Rev C)]]) says it's the ALA10010 renumbered, with only internal
-shaft and collar changes, so this sheet most likely applies to it too
-(inferred, not stated by Harmar). No torque values are given anywhere on
+shaft and collar changes, and **per the human (2026-10-27) the removal
+steps carry over** to the 310-00005. No torque values are given anywhere on
 file; ask Harmar (800-833-0478). The pictured lift is an outside platform lift with a
 hold-down arm (AL100 style).
 

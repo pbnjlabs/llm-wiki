@@ -14,9 +14,8 @@ Prism all make mobility equipment (stairlifts, scooters, wheelchairs,
 vehicle/platform lifts, patient lifts); AutoSlide makes a motorized drive
 that automates an existing sliding door panel. Likely sold by Performance
 Medical Supply as a touchless-entry / independent-living accessibility
-product rather than mobility equipment proper — worth confirming with the
-human whether this reflects a real new business line, since it sits outside
-the scope described in `CLAUDE.md`'s project overview.
+product rather than mobility equipment proper. **PMS services door
+openers (per the human, 2026-10-27)**, so door operators are in scope.
 
 ## Product line
 
@@ -66,12 +65,12 @@ RFID reader, wired to the Open Sesame board with a 6-wire cable (see
 [[Open Sesame Proximity Tag Reader Wiring]]). Open Sesame also sells an
 "Autoslide" residential bundle.
 
-## Open question for the human
+## Scope
 
-Does AutoSlide (and potentially Open Sesame) belong in this wiki's scope at
-all, given both are home-automation/automatic-door products rather than
-mobility equipment? Flagging since `CLAUDE.md`'s project overview doesn't
-currently mention either.
+**Settled 2026-10-27 (per the human): PMS services door openers**, so
+AutoSlide and Open Sesame belong in this wiki. The two FAQ accessories with
+no manual on file (Bluetooth module, home-automation relay/key-switch
+cable) are low priority.
 
 ## See also
 

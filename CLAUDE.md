@@ -3,7 +3,8 @@
 This project maintains a persistent, LLM-curated wiki over Performance Medical
 Supply's equipment technical manuals: stair lifts, vehicle/porch lifts, and
 power wheelchairs/scooters from Bruno, Golden Technologies, Pride Mobility,
-and Prism. The goal is a knowledge base a tech or CSR can query quickly
+and Prism, plus the other lines PMS sells or services (ramps, ceiling lifts,
+manual chairs, alternative drive controls, and automatic door openers). The goal is a knowledge base a tech or CSR can query quickly
 ("how do I replace the brake on a GL110?", "what's the charging procedure for
 an MRC24-4LX?") without re-reading PDFs from scratch every time, and where
 knowledge that's common across models (shared batteries, controllers, brake

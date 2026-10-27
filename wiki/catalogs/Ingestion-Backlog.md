@@ -28,6 +28,8 @@ was pulled 2026-10-20 along with its tech library (IPBs, lift chair
 service guide), so remaining Golden gaps (e.g. service guides for
 the Eagle, Eagle All Terrain, Cricket and Ally family; GB150) need
 Golden tech support (800-624-6374, mobility tech x501, VA tech x505).
+**Low priority (per the human, 2026-10-27):** these models are too new,
+and Golden hasn't made that information public yet.
 **Reminder rule:** whenever a tech works on a device with a missing
 manual, remind them to get a copy and add it here.
 
@@ -60,10 +62,10 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   the training video [[Video - How to Replace the Actuator (AL-100)]] on
   a 2016 AL-100). **Narrowed 2026-10-27:** the 310-00005 drawing
   ([[Actuator Drawing 310-00005 (Rev C)]]) says it's the ALA10010 renumbered (internal shaft and collar
-  changes only), so the procedure most likely carries over (inferred, not
-  stated by Harmar). Still open: **torque values** for the actuator
-  screws and locking-tab bolt, and Harmar confirming the procedure is
-  the same. Ask Harmar (800-833-0478).
+  changes only). **Per the human (2026-10-27): the removal steps carry over
+  from the previous-generation actuator.** **Low priority:** only the
+  torque values for the actuator screws and locking-tab bolt are still
+  unknown. Ask Harmar (800-833-0478) if a job needs them.
 - [ ] **Harmar items surfaced by the training videos** (added
   2026-10-23). Only if PMS services them: manuals for the older
   **RPL** residential and **CPL** commercial platform lifts and the
@@ -104,11 +106,13 @@ on file):
 **Savaria** (added 2026-10-26):
 - [x] **K2 / K2 Plus owner's manuals**: closed 2026-10-27. [[K2 Stairlift Owner's Manual (001022)]] and
   [[K2 Plus Stairlift Owner's Manual (001188)]] ingested ([[K2]], [[K2-Plus]]).
-- [ ] **Savaria Link Installation and Setup Guide (P/N 001180)**:
-  referenced by the K2 install guides, not on file. Ask Savaria
-  (800-791-7999) or the Savaria Dealers website.
-- [ ] **Savaria FL fixed ceiling lift**: owner's or service manual not on
-  file (only the 2022 spec sheet) ([[Savaria-FL-PL]]).
+- [ ] **Savaria Link Installation and Setup Guide (P/N 001180)**
+  (**low priority**, per the human 2026-10-27): referenced by the K2
+  install guides, not on file. Ask Savaria (800-791-7999) or the Savaria
+  Dealers website.
+- [ ] **Savaria FL fixed ceiling lift** (**low priority**, per the human
+  2026-10-27): owner's or service manual not on file (only the 2022 spec
+  sheet) ([[Savaria-FL-PL]]).
 
 **Scootaround VA repairs** ([[Scootaround-VA-Repairs]]):
 - [x] **Manual wheelchairs**: closed 2026-10-26. **Ki Mobility and Sunrise Quickie are the only manual wheelchairs the human has worked on**, and both are now on file. Scootaround jobs include
@@ -192,11 +196,11 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ## Prism — fully ingested, no backlog remaining (a second pass added [[P440]]; a third pass added a newer P440 revision confirming **Handicare** as the actual manufacturer, plus the co-branded [[Prism-Castor-2-Post-Lift-Stand]] accessory, both found via new-sources checks). Two sibling models, C-800/C-1000 and P-600, are confirmed to exist (via [[Vancare]]'s cross-compatibility tables) but have no manual of their own on disk — not a missing-ingest issue since no such document exists yet. **Resolved 2026-10-26:** [[C-450-C-625]] is Handicare-made too; its owner's manual ([[C-450 C-625 Owner's Manual (753140 Rev D)]]) is a Handicare document.
 
-## Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off.
+## Vancare — fully ingested, no backlog remaining. A single track-system install guide found under `MANUALS/Prism/` (not Prism-authored) — see [[Vancare]] for the open question of whether this reflects a broader Vancare supplier relationship worth tracking, or is a one-off. **Low priority (per the human, 2026-10-27):** don't chase the supplier question.
 
 ## Harmar — fully ingested, including all 47 training videos (2026-10-23); hoist, truck and AL625HD manuals added 2026-10-06; every FSS-listed Harmar product is now covered (Outlander and Commander 450 discontinued; Backpacker Plus is the AL600; Commander 450 → AL425HD; rubber threshold ramp spec sheet in `MANUALS/Ramps/`), see Missing manuals above (a third pass added the full [[Hybrid-Vehicle-Lifts]] doc set and resolved the AL600 naming quirk). Only [[Hoist-Series-Inside-Vehicle-Lifts]] still lacks a narrative owner's/install manual (brochure + one bulletin + parts diagrams only) — not a missing-ingest issue since no such document is on disk yet.
 
-## AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]].
+## AutoSlide and Open Sesame — fully ingested, no backlog remaining. AutoSwing manual and 17 Open Sesame files ingested 2026-10-01. Two AutoSlide accessories mentioned in the FAQ (Bluetooth module, home-automation relay/key-switch cable) have no manual on file. The scope question (door operators aren't mobility equipment) is still open on [[AutoSlide]]. **Scope settled (per the human, 2026-10-27): PMS services door openers, so AutoSlide and Open Sesame belong in the wiki.** The two FAQ accessories without a manual are **low priority**.
 
 ## Red Hawk — fully ingested. **Low priority (per the human, 2026-10-27):** Red Hawk is most likely a generic VA rebrand, and the VA mostly maintains or replaces these in house; PMS has serviced maybe one. Only chase the items below if a Red Hawk job comes in. Open items: the [[Pegasus Plus (DC02)]] source manual is truncated (missing warranty/troubleshooting/diagnostics/wiring/EMC sections its own table of contents promises) — worth asking the human if a complete copy exists. **2026-10-27:** a second copy (`DC02 English Manual2.pdf`) turned up and is **byte-identical** (md5 00384b7f…) to the file on disk, so it's the same truncated 30-page file; a complete copy has to come from Red Hawk. **Later 2026-10-27:** the complete **Pegasus Plus HD** manual arrived ([[Pegasus Plus HD User Manual (HD-06-02-2024)]]), but it's a heavier model (440 lb, frame code DC06), so the DC02's own complete manual is **still missing**; the HD manual's fault codes and warranty probably apply to the DC02 too (unconfirmed). Distributor: Discover Your Mobility, 866-868-9694. The [[Phoenix]] model's manufacturer is also unconfirmed from its manual alone (different template from the other three Red Hawk models, mentions an unexplained third company "TREK Mobility").
 
@@ -204,4 +208,4 @@ ASL-275/275L, and EZ-ACCESS PATHWAY 3G modular ramps.
 
 ## Permobil — fully ingested (69 files): TiLite and PDG Mobility manual chairs, R-net LED and ICS error codes, PJSM IR, back support sizing (45 files, 2026-10-26); **power chair user manuals** for the M1, M3/M5 Corpus, M Corpus VS, F3/F5 Corpus, F5 Corpus VS, M400 Corpus HD, M300, K/C300, K450 and Koala MiniFlex, the PGDT **R-net Technical Manual**, the **ICS Onboard Configuration** manual (which the ICS quick reference had pointed to), the Total Control Head Array, MyPermobil, and the PS Junior and VS seats (24 files, 2026-10-27; [[Permobil]], [[R-net-Diagnostics]]). The older M1 edition (2024) is superseded by the 2026 one. Still missing: see the Permobil item under Missing manuals.
 
-## Adaptive Switch Laboratories (ASL) — fully ingested (14 files, 2026-10-27): instruction sheets for the 110 FUSION and 104 ATOM head arrays, the FUSION install guides (LiNX, Q-Logic, R-net, Permobil), the 125/128/130/133/134 Bluetooth joysticks, the 102 UNO scanner and the 558 mouse emulator ([[Adaptive-Switch-Laboratories]]). Referenced, not on file: the **ASL 165 FUSION Display, Programmer and Attendant Control manual** (its menus are covered by ASL's web interactive guide, ingested 2026-10-27: [[ASL 165 FUSION Display and Programmer Interactive Guide]]), and the programming info behind each sheet's QR code. No ASL service manuals.
+## Adaptive Switch Laboratories (ASL) — fully ingested (14 files, 2026-10-27): instruction sheets for the 110 FUSION and 104 ATOM head arrays, the FUSION install guides (LiNX, Q-Logic, R-net, Permobil), the 125/128/130/133/134 Bluetooth joysticks, the 102 UNO scanner and the 558 mouse emulator ([[Adaptive-Switch-Laboratories]]). Referenced, not on file: the **ASL 165 FUSION Display, Programmer and Attendant Control manual** (its menus are covered by ASL's web interactive guide, ingested 2026-10-27: [[ASL 165 FUSION Display and Programmer Interactive Guide]]), and the programming info behind each sheet's QR code. No ASL service manuals. **Low priority (per the human, 2026-10-27):** the ASL 165 display manual. The FUSION is patent pending, so ASL is probably keeping that manual in house; its menus are covered by [[ASL 165 FUSION Display and Programmer Interactive Guide]].

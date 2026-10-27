@@ -53,11 +53,10 @@ charger serves all four C-Series models.
 
 ## Not yet ingested / open question
 
-No other Vancare documents are on file. Worth asking the human whether
-this reflects a real supplier relationship worth tracking further (e.g.
-if Performance Medical Supply sells Vancare track directly, independent
-of Prism lifts) or whether this single install guide is the extent of
-it.
+No other Vancare documents are on file. Whether this reflects a real
+supplier relationship (e.g. PMS selling Vancare track directly,
+independent of Prism lifts) is **low priority** (per the human,
+2026-10-27): no need to chase it.
 
 ## See also
 

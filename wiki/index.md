@@ -68,8 +68,8 @@ AutoSwing swing operator, and Open Sesame makes swing operators. Their raw
 folders are `MANUALS/AutoSlide/` and `MANUALS/Open Sesame/`. The
 AutoSlide RFID manual in the Open Sesame folder is there on purpose,
 because Open Sesame's proximity tag system uses that reader. See
-[[Automatic-Door-Operators]]. Whether these brands belong in the wiki's
-scope is still an open question on [[AutoSlide]].
+[[Automatic-Door-Operators]]. They're in scope: **PMS services door
+openers** (per the human, 2026-10-27).
 
 Note: **"Red Hawk" is not a brand name** — it's Performance Medical
 Supply's own folder name for 6 folding-power-wheelchair manuals covering
