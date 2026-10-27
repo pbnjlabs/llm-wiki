@@ -23,12 +23,13 @@ in the Savaria family too.
 | K2 straight-rail stairlift | [[K2]] |
 | K2 Plus (public/Canadian codes) | [[K2-Plus]] |
 | Patient Care: beds, support surfaces, positioners, slings | catalogues only (below) |
-| Ceiling lifts: FL fixed, PL / M-Series portable | source pages only (below) |
+| FL fixed ceiling lift | [[Savaria-FL]] |
+| M-Series (PL) portable ceiling lift | [[Savaria-M-Series]] |
 
 ## Sources
 
 Raw files in `MANUALS/Savaria/K2 Stairlift/` (18) and
-`MANUALS/Savaria/Patient Care/` (4); source pages in `sources/Savaria/`:
+`MANUALS/Savaria/Patient Care/` (2) and `MANUALS/Savaria/Ceiling Lifts/` (2); source pages in `sources/Savaria/`:
 
 - K2 Stairlift: [[K2 Stairlift Installation Guide (001021 Rev 047)]],
   [[K2 Plus Stairlift Installation Guide (001187)]],
@@ -38,16 +39,11 @@ Raw files in `MANUALS/Savaria/K2 Stairlift/` (18) and
   [[K2 Plus Stairlift Parts Catalogue (001189 Rev 012)]],
   [[K2 Technical Bulletins (2015-2020)]] (12 bulletins)
 - Patient Care: [[Savaria Patient Care Beds, Surfaces and Positioners Catalogue]],
-  [[Savaria Patient Care Slings Catalogue (V18D)]] (marketing catalogues),
-  [[Savaria M-Series Portable Ceiling Lift Owner's Manual (001586)]],
+  [[Savaria Patient Care Slings Catalogue (V18D)]] (marketing catalogues)
+- Ceiling Lifts: [[Savaria M-Series Portable Ceiling Lift Owner's Manual (001586)]],
   [[Savaria FL and PL Ceiling Lift Technical Specifications (2022)]]
 
-The M-Series PDF is named "001052-EN Rev 009 (2024-02-20)" but its pages read
-**001586-EN Rev 002 (2026-09-22)**. Ceiling lift key points: SWL up to 272 kg
-(FL) / 200 kg (PL), Li-ion 25.2 V, charger M920001, ~2 h charge, 10-year life
-with one battery replacement; manual lowering with a 4 mm Allen key; **if the
-emergency brake has engaged, don't release it or lower manually: call the
-dealer.** The Prism C-450/C-625 is Handicare (now Savaria) too
+The Prism C-450/C-625 is Handicare (now Savaria) too
 ([[C-450 C-625 Owner's Manual (753140 Rev D)]]).
 
 No K2 owner's manual is on file.

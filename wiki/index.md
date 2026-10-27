@@ -22,7 +22,7 @@ Entry point for every query — check here first before opening raw manuals.
 | Red Hawk | [[Red Hawk]] | 5 | 5 — **organizational folder name spanning two unrelated OEMs**, see note below |
 | Sunrise Medical | [[Sunrise-Medical]] | 6 in `MANUALS/Sunrise Medical/Quickie/` (2026-10-26) | 6 — first manual wheelchairs: Quickie 2, 2HD, 2 Lite, 2HP owner's manuals, WC-19 transit supplement, transit retrofit inspection, one-arm drive |
 | Ki Mobility | [[Ki-Mobility]] | 39 in `MANUALS/Ki Mobility/` (Rigid, Folding, Tilt, Pediatric, Seating; 2026-10-26) | 38 source pages (the two Rogue 2 tech manual revisions share one) — manual, tilt-in-space and pediatric chairs plus Axiom seating |
-| Savaria | [[Savaria]] | 22 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 4; 2026-10-26) | 10 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs (2 added 2026-10-26, Patient Care now 4) |
+| Savaria | [[Savaria]] | 22 in `MANUALS/Savaria/` (K2 Stairlift 18, Patient Care 2, Ceiling Lifts 2; 2026-10-26) | 12 source pages — K2 and K2 Plus stairlift install, troubleshooting, MCP, parts, 12 tech bulletins; Patient Care bed/surface and sling catalogues; M-Series portable ceiling lift manual and FL/PL ceiling lift specs |
 | Permobil | [[Permobil]] | 45 in `MANUALS/Permobil/` (TiLite 30, PDG Mobility 10, Power Chair Electronics 4, Seating 1; 2026-10-26) | 19 source pages — TiLite and PDG manual chairs (service, owner's and parts manuals, transit guides), R-net LED and ICS error codes, PJSM IR, back support sizing |
 | EZ-ACCESS (raw folder `MANUALS/Ramps/`) | [[EZ-ACCESS]] | 15 files in `MANUALS/Ramps/` (3 are Harmar threshold-ramp sheets, counted under Harmar except the co-branded TRANSITIONS sheet) + 28 EZ-ACCESS manuals and spec sheets in `MANUALS/Ramps/EZ-ACCESS/` (2026-10-26) + 11 web clippings | All technical files ingested (40 source pages: 17 from the 2026-10-26 EZ-ACCESS documents, see [[Sources-Other-Manufacturers]]; the other 23 include 2 PMS ramp forms filed from `MANUALS/Admin/`): **PMS Ramps Handbook** (in-house training; highest authority), the **PMS Ramp Site Evaluation Form** (Part A), the Pathway Assembly Manual (2015), the EZ-ACCESS lifetime warranty (2017), the SUITCASE brochure, 2 reference sheets of unknown origin, the U.S. Access Board ADA guide (under `sources/Standards/`) and 11 web clippings. The 2 pay-scale sheets are deliberately skipped |
 
@@ -223,6 +223,8 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Axiom seating: backs and cushions (300–400 lb) | Ki Mobility | [[Axiom-Seating]] |
 | K2 straight-rail battery stairlift (300 lb; LED diagnostics, LUT125 DIP switches, bus line or charging strips) | Savaria | [[K2]] |
 | K2 Plus stairlift (public/Canadian codes; flip-up rail 350 lb; MCP) | Savaria | [[K2-Plus]] |
+| FL fixed ceiling lift (600/440/286 lb; spec sheet only) | Savaria | [[Savaria-FL]] |
+| M-Series (PL) portable ceiling lift (440/286 lb; emergency brake, strap every 2 years) | Savaria | [[Savaria-M-Series]] |
 | TiLite rigid chairs Z, ZRA, ZR, Aero T, TRA, TR, Twist (only Z, ZRA, Twist transit rated; metric torques) | Permobil | [[TiLite-Rigid-Series]] |
 | TiLite folding chairs X and 2GX (2GX not transit rated) | Permobil | [[TiLite-Folding-Series]] |
 | TiLite CR1 rigid chair (COG strut; floating caster fix) | Permobil | [[TiLite-CR1]] |

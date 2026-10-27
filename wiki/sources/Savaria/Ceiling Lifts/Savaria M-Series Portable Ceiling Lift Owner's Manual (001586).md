@@ -3,7 +3,7 @@ type: source
 manufacturer: Savaria
 model: M-Series Portable Ceiling Lift
 doc_type: Owner's Manual
-source: "MANUALS/Savaria/Patient Care/Portable Ceiling Lift Owners Manual 001052-EN_20-m02-2024 Rev.009.pdf"
+source: "MANUALS/Savaria/Ceiling Lifts/Portable Ceiling Lift Owners Manual 001052-EN_20-m02-2024 Rev.009.pdf"
 date: 2026-09-22
 tags: [savaria, ceiling-lift, portable, owner-manual, maintenance]
 ---
@@ -21,7 +21,7 @@ by OCR; check numbers against the PDF.
   person being lifted); install by an authorized Savaria dealer; **10-year life**.
 - **Specs:** 5 kg (11 lb); **SWL 200 kg (440 lb) or 130 kg (286 lb)**; 5.5 cm/s
   unloaded to 4.5 cm/s at 200 kg; soft start/stop; IP21; 54 dBA; **duty max 10%,
-  1 min continuous**. Same platform as the PL in
+  1 min continuous**. Same platform as the PL ([[Savaria-M-Series]]) in
   [[Savaria FL and PL Ceiling Lift Technical Specifications (2022)]].
 - **Compatibility:** Savaria telescopic and rigid-arm and Handicare aluminum
   portable track systems; Savaria and Arjo track (accessories differ); portable
@@ -44,4 +44,4 @@ by OCR; check numbers against the PDF.
 
 ## Feeds
 
-[[Savaria]], [[Ceiling-Lift-Troubleshooting]]
+[[Savaria-M-Series]], [[Savaria]], [[Ceiling-Lift-Troubleshooting]]

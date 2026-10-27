@@ -3,7 +3,7 @@ type: source
 manufacturer: Savaria
 model: FL fixed ceiling lift, PL portable ceiling lift
 doc_type: Spec Sheet
-source: "MANUALS/Savaria/Patient Care/Ceiling-lift-Tech-specs-FL-and-PL-2022.pdf"
+source: "MANUALS/Savaria/Ceiling Lifts/Ceiling-lift-Tech-specs-FL-and-PL-2022.pdf"
 date: 2022-01-01
 tags: [savaria, ceiling-lift, specs]
 ---
@@ -27,4 +27,4 @@ doubles as the emergency stop. Not for use with flammable anesthetics.
 
 ## Feeds
 
-[[Savaria]]
+[[Savaria-FL]], [[Savaria-M-Series]], [[Savaria]]

@@ -1600,3 +1600,8 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Known, left as is:** 12 source pages have a blank `date:` (undated parts sheets, catalogues, one-page sheets); old log entries contain example or since-renamed links; Bruno parts-drawing pages cite a folder plus manifest rather than one file.
 - **Gaps:** no Permobil power chair manuals (on [[Ingestion-Backlog]]); Fuze M50/JR spec-table capacity misprints and the Savaria M-Series file-name/part-number mismatch flagged on their pages.
 - **Suggestion:** ceiling lifts now span Prism/Handicare and Savaria (FL, PL, M-Series); [[Ceiling-Lift-Troubleshooting]] could grow a Savaria section, or a ceiling-lift maintenance page could compare service life, strap replacement and inspection intervals across them.
+
+## [2026-10-26] reorg | Savaria ceiling lifts: per-model pages in the wiki's usual format
+- Per the human, reverted the combined Savaria-Ceiling-Lifts page (df2b2a1) and rebuilt it in the same layout as the other lifts ([[P440]], [[C-450-C-625]]): one model page per lift, [[Savaria-M-Series]] (portable, = PL) and [[Savaria-FL]] (fixed; spec sheet only).
+- Raw files moved from `MANUALS/Savaria/Patient Care/` to a new product-line folder `MANUALS/Savaria/Ceiling Lifts/`, and the two source pages to `sources/Savaria/Ceiling Lifts/` (like `K2 Stairlift/`); `source:` paths updated.
+- Updated [[Savaria]] (one row per lift; ceiling lift detail moved off the manufacturer page), [[index]], [[Sources-Other-Manufacturers]], [[Ceiling-Lift-Troubleshooting]]; FL owner's manual added to [[Ingestion-Backlog]].
