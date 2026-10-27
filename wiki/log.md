@@ -1656,3 +1656,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **New pages:** [[Pegasus Plus HD User Manual (HD-06-02-2024)]] (specs, controller and screen pages, charging limits 6 h / 3 h, warranty frame 3 yr / motors and controller 1 yr / battery 6 mo / wear 3 mo, troubleshooting, maintenance, **fault codes 01–99**, wiring block diagram, FCC ID 2ABU6-MS50SFA) and [[Pegasus-Plus-HD]].
 - **Flagged:** freewheel text "push down" vs photo labels UP = freewheel / DOWN = drive; left/right fault codes not symmetric (as printed); "do not charge indoors" wording.
 - **Updated:** [[Pegasus Plus (DC02)]] and [[Pegasus Plus Heavy Duty Manual]] (naming correction, pointer to the HD manual), [[Red Hawk]], [[Freewheel-Mode]], [[Ramp-Slope-and-Length]], [[Ingestion-Backlog]] (DC02 complete manual still missing), [[Sources-Other-Manufacturers]], index (Red Hawk 6 files, new model row).
+
+## [2026-10-27] note | Red Hawk — low priority (per the human)
+- Per the human: Red Hawk is most likely a generic VA rebrand of another manufacturer; the VA handles most maintenance in house or replaces the device; the human has worked on maybe one Red Hawk (repair not remembered). Recorded on [[Red Hawk]] (callout) and the Red Hawk entry on [[Ingestion-Backlog]] (low priority; chase the missing DC02 manual and Phoenix OEM question only if a job comes in).

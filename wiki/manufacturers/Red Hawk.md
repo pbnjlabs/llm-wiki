@@ -18,6 +18,13 @@ this wiki (compare [[Harmar]]'s misfiled Bruno document and
 simply misfiled; PMS appears to genuinely stock the same underlying
 hardware under multiple retail names.
 
+> **Per the human (2026-10-27):** Red Hawk is most likely a **generic VA
+> rebrand** of another manufacturer's chairs. The **VA handles most
+> maintenance in house, or simply replaces the device**, so PMS rarely
+> services these: the human has worked on maybe one Red Hawk and doesn't
+> remember the repair. **Treat Red Hawk as low priority:** chasing the
+> missing manuals isn't worth much effort unless a job turns up.
+
 ## OEM #1: Nanjing Jin Bai He Medical Apparatus Co., Ltd. (Jiangsu, China)
 Manufactures a compact folding power wheelchair (steel frame, 2×250W
 brushless motors, 2×6Ah lithium batteries, electromagnetic brake, 6km/h
