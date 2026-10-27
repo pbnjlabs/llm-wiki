@@ -143,6 +143,12 @@ Outdoor units every 6 months (3 in extreme environments): Nu Finish wax,
 Fluid Film, dielectric grease on the charging strips. See [[K2]] and
 [[K2-Plus]].
 
+The owner's manuals add: **K2** ([[K2 Stairlift Owner's Manual (001022)]], 2016) owner checks every **3
+months** (monthly in adverse environments), technician items every 6
+months, angle rollers every 36 months. **K2 Plus** ([[K2 Plus Stairlift Owner's Manual (001188)]], 2024)
+**commercial every 6 months; residential yearly for normal use (up to 10
+cycles a day), every 6 months for heavy (25) or excessive (40) use**.
+
 ## Joint Commission
 
 Record each visit (date, checks done, parts, batteries). At delivery,

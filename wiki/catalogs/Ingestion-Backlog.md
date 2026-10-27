@@ -102,11 +102,11 @@ on file):
   portal behind PMS's login (check in a signed-in browser).
 
 **Savaria** (added 2026-10-26):
-- [ ] **K2 / K2 Plus owner's manual**: the install guides, troubleshooting
-  guide, MCP, parts catalogues and bulletins are on file, but not the owner's
-  manual the install guide says to hand the customer. Also referenced, not on
-  file: Savaria Link Installation and Setup Guide (P/N 001180). Ask Savaria
-  (800-791-7999) or the Savaria Dealers website ([[K2]]).
+- [x] **K2 / K2 Plus owner's manuals**: closed 2026-10-27. [[K2 Stairlift Owner's Manual (001022)]] and
+  [[K2 Plus Stairlift Owner's Manual (001188)]] ingested ([[K2]], [[K2-Plus]]).
+- [ ] **Savaria Link Installation and Setup Guide (P/N 001180)**:
+  referenced by the K2 install guides, not on file. Ask Savaria
+  (800-791-7999) or the Savaria Dealers website.
 - [ ] **Savaria FL fixed ceiling lift**: owner's or service manual not on
   file (only the 2022 spec sheet) ([[Savaria-FL-PL]]).
 

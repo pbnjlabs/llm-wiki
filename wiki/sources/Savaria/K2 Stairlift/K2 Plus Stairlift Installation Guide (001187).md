@@ -25,7 +25,7 @@ stops, remotes, tests, manual operation and overspeed trip test.
 - **Flip-up rail rated 350 lb (159 kg)**; keep 1 in of diagonal rail offset
   from the bottom landing.
 - Hall calls use the **LUT440** receiver board on the LUT125.
-- **B355 and B316 units have no three diagnostic LEDs** on the carriage.
+- **B355 and B316 units have no three diagnostic LEDs** on the carriage (as printed; "B316" is most likely a misprint for **B613**, which the guide names as the private standard and the [[K2 Plus Stairlift Owner's Manual (001188)]] uses).
 - PC-125 (public Canada) wiring diagram.
 - Maintenance appendix in the MCP format (rail, carriage, seat, remotes);
   see [[K2 Plus Maintenance Control Program (001365)]]. Seat post bolts 40

@@ -1639,3 +1639,10 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-27] query | Bruno VPL tech tips broken on the portal: fixed yet?
 - Per the human: re-checked the three Missing manuals tech tips on Brunopartner → Tech Tips (in Chrome, signed in; 100 items per page; each document link requested from the page, status only). **Still broken:** VPL Electric Strike Offerings (id 124) 404, Von Duprin 6211 installation (id 138) 404, VPL Fuse & Circuit Breaker Listing (id 144) redirects to a 400 Bad Request page. Backlog item stays open (ask Bruno Technical Service); noted on [[Ingestion-Backlog]] and in `MANUALS/Bruno/Tech Tips/_manifest.md`.
+
+## [2026-10-27] ingest | Savaria K2 and K2 Plus — owner's manuals (001022, 001188)
+- Per the human: `~/Downloads/Savaria-K2-owners-manual-001022.pdf` (16 pp., 2016-02-19) and `K2-Plus-Straight-Stairlift-Owners-Manual.pdf` (28 pp., part 001188, 2024-01-30) copied into `MANUALS/Savaria/K2 Stairlift/` (cmp-verified); text layers read in full.
+- **New source pages:** [[K2 Stairlift Owner's Manual (001022)]], [[K2 Plus Stairlift Owner's Manual (001188)]]. Owner troubleshooting (20 s beep parked = not charging; stops at an end and won't restart = low battery), manual lowering, LEDs, sleep mode (K2 Plus), flip-up rail push-rod switch, K2 Plus duty bands (10/25/40 cycles a day, max 5 starts an hour) and its full maintenance schedule (commercial 6 months; residential yearly normal, 6 months heavy/excessive).
+- **Flagged:** K2 owner's manual "350 lb up to 45°" vs the 2025 install guide's 300 lb (go by 300 lb); K2 owner checks every 3 months (2016 owner's manual) vs 6 months (2025 install guide); K2 Plus install guide's "B355 and B316 units have no LEDs" is most likely B613 (owner's manual); K2 Plus residential yearly interval vs the MCP's 6 months.
+- **Closes** the K2 / K2 Plus owner's manual backlog item; the Savaria Link setup guide (001180) stays open as its own item.
+- **Updated:** [[K2]], [[K2-Plus]], [[K2 Plus Stairlift Installation Guide (001187)]], [[Stairlift-Maintenance]], [[Ingestion-Backlog]], [[Sources-Other-Manufacturers]], index.
