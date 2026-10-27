@@ -27,4 +27,4 @@ doubles as the emergency stop. Not for use with flammable anesthetics.
 
 ## Feeds
 
-[[Savaria-Ceiling-Lifts]], [[Savaria]]
+[[Savaria]]

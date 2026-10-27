@@ -44,4 +44,4 @@ by OCR; check numbers against the PDF.
 
 ## Feeds
 
-[[Savaria-Ceiling-Lifts]], [[Savaria]], [[Ceiling-Lift-Troubleshooting]]
+[[Savaria]], [[Ceiling-Lift-Troubleshooting]]

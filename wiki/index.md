@@ -223,7 +223,6 @@ deliberately excluded as non-manual assets. See [[Harmar]] for details.
 | Axiom seating: backs and cushions (300–400 lb) | Ki Mobility | [[Axiom-Seating]] |
 | K2 straight-rail battery stairlift (300 lb; LED diagnostics, LUT125 DIP switches, bus line or charging strips) | Savaria | [[K2]] |
 | K2 Plus stairlift (public/Canadian codes; flip-up rail 350 lb; MCP) | Savaria | [[K2-Plus]] |
-| Ceiling lifts: FL fixed (up to 600 lb) and PL / M-Series portable (440 lb); Li-ion, emergency brake, strap every 2 years | Savaria | [[Savaria-Ceiling-Lifts]] |
 | TiLite rigid chairs Z, ZRA, ZR, Aero T, TRA, TR, Twist (only Z, ZRA, Twist transit rated; metric torques) | Permobil | [[TiLite-Rigid-Series]] |
 | TiLite folding chairs X and 2GX (2GX not transit rated) | Permobil | [[TiLite-Folding-Series]] |
 | TiLite CR1 rigid chair (COG strut; floating caster fix) | Permobil | [[TiLite-CR1]] |
