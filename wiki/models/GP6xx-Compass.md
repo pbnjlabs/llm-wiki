@@ -68,6 +68,7 @@ batteries 22 or 30 lb each), 39.5 × 24 in, 24 in turning radius, seats
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Compass HD Parts|Compass HD Parts]] (18), [[Parts Catalog - Mobility Scooters Direct (Golden)#Compass Sport Power Wheelchair Parts|Compass Sport Power Wheelchair Parts]] (34)
 - [[Compass Sport Owners Manual (GP605, LiNX)]] (Jan 2022)
 - [[Compass Sport Illustrated Parts Breakdown (GP605A)]] (2022, 2023): LiNX DLX-REM050-A + power
   module, Bluetooth dongle, 50 A breaker harness, U1 or 12 V 40 Ah

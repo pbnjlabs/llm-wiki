@@ -65,6 +65,10 @@ guide for the standard Edge 3 is on file; the
 [[Q6 Edge 3 Stretto Parts Replacement Guide (INFMANU5103)|Stretto's]]
 is the closest.
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#Q6 Edge 3 Parts|Q6 Edge 3 Parts]] (22)
+
 ## See also
 
 [[Q6-Edge-3-Stretto]], [[Q6-Edge-4]], [[Q6-Edge-2.0]], [[Q6-Edge]],

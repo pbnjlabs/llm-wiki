@@ -98,3 +98,5 @@ video's 6 in drop at 21 in vs **3 in** on the AL1235U chart.
 [[Actuator Drawing 310-00005 (Rev C)]], both sheets of Harmar's actuator drawing (`310-00005.msd2.webp`
 sheet 1, `310-00005.msd.webp` sheet 2, in `MANUALS/Harmar/`). Rev A
 says "formerly PN ALA10010"; specs, connector, ball nut. No torques.
+
+*Seventh pass, continued* (2026-10-27, from the Mobility Scooters Direct pull): [[Hybrid Electrical Kit Drawings (AL412, 140-00023, 140-00030, 380-00099)]], four Harmar drawings (five sheets) from the retailer's product galleries, and the retailer part-number catalog [[Parts Catalog - Mobility Scooters Direct (Harmar)]] (121 parts, 29 with a drawing image).

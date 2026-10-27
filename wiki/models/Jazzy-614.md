@@ -16,6 +16,7 @@ against the table below.
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy 614 HD Parts|Jazzy 614 HD Parts]] (11)
 - [[Jazzy 614 Technical Troubleshooting Guide (INFMANU3834)]] (Rev B,
   2011) — dealer guide with wiring diagrams.
 - [[Jazzy 614 Basic Troubleshooting (INFINFB2468)]] (Rev A, 2010) —

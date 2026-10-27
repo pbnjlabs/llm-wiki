@@ -13,6 +13,7 @@ Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Stride Folding Power Wheelchair (GP301) Parts|Golden Stride Folding Power Wheelchair (GP301) Parts]] (5)
 - [[Stride Owners Manual (GP301)]] (Apr 2024)
 - [[Stride Illustrated Parts Breakdown (GP301)]] (Jul 2024): **two versions like the Cricket:
   GP301A = Micon joystick (MBE-0001), GP301B = LiNX joystick (MBE-0052)**,

@@ -30,7 +30,7 @@ The [[Hybrid Vehicle Lifts Owner's Manual (AL600-AL690, 2025)]] only
 mentions the "optional wireless" key-fob remote and changing its
 battery. The install manual has no RF kit procedure, so this video is
 the only one on file. Ask Harmar for the kit's own instruction sheet
-when ordering.
+when ordering. **Kit identified 2026-10-27:** **AL412** (remote 390-00056, receiver 360-00015), for serials 170805-00006 to 210323-00003 only; BOM on [[Hybrid Electrical Kit Drawings (AL412, 140-00023, 140-00030, 380-00099)]]. Its instruction sheet is **CSV-000038** (still not on file).
 
 ## Feeds into
 [[Hybrid-Vehicle-Lifts]]

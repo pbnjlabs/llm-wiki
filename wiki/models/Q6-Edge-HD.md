@@ -57,6 +57,10 @@ Electronics (2025 chart): **120 A Q-Logic 3, or 75 A Q-Logic NE / NE+**;
   correct routing (figure in the PDF;
   [[Pride TechnoBulletins (2006-2024)]]).
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#Quantum Q6 Edge HD Parts|Quantum Q6 Edge HD Parts]] (9)
+
 ## See also
 
 [[Q6-Edge-2.0]], [[4Front-2]], [[Pride-Power-Chair-Lineup]],

@@ -41,6 +41,7 @@ horn beeps ([[Flash-Beep-Diagnostics]]).
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Buzzaround Carry-On Parts|Buzzaround Carry-On Parts]] (53)
 - [[Buzzaround Carry On Owners Manual (GB120, GB220)]] (Rev. D, 2025)
 - [[Buzzaround Carry On Illustrated Parts Breakdown (GB120)]] (Jan 2025): **Dynamics DR50-A01 50 A**,
   brake (freewheel) switch, 3 A and 35 A fuses, 15 Ah and 6.5 Ah

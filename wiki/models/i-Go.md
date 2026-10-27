@@ -40,6 +40,10 @@ rear; frequent trips = charge more often); 3-pin XLR lithium charger
 into the scooter first, then the wall (two red LEDs charging, green
 full). Lithium rules: [[Lithium-Ion Battery Product Insert (INFINFB4079)]].
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#I-Go (SC20) Parts|I-Go (SC20) Parts]] (9)
+
 ## See also
 
 [[Super-Portable-SC15]], [[Mobility-Batteries]],

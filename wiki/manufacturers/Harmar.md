@@ -136,3 +136,5 @@ vehicle-lift lineup and specs: [[Harmar Mobility Solutions Chart (2026, Rev F)]]
 file (closed from the previous ingest's backlog note).
 
 Cross-manufacturer concepts: [[Docking-Devices]] (hoist and truck lifts), [[Hitch-Adapters]] (outside lifts), [[Gate-and-Door-Interlocks]] (Highlander II gates).
+
+**Retailer part numbers:** [[Parts Catalog - Mobility Scooters Direct (Harmar)]] (Mobility Scooters Direct, pulled 2026-10-27; retailer data, so confirm by serial number before ordering).

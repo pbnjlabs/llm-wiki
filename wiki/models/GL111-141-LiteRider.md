@@ -17,6 +17,7 @@ off-board charger, freewheel mode, electro-mechanical brakes.
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Lite Rider Scooter Parts|Lite Rider Scooter Parts]] (33)
 - [[LiteRider Owners Manual (GL111, GL141)]]
 - [[LiteRider Illustrated Parts Breakdown (GL111, GL141)]]
 

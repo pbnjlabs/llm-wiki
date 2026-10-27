@@ -16,6 +16,7 @@ rest ([[Pride-Warranty]]).
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Go Chair Parts|Go Chair Parts]] (25), [[Parts Catalog - Mobility Scooters Direct (Pride)#Pride Go Chair Med Parts|Pride Go Chair Med Parts]] (10)
 - [[Go Chair Owners Manual (INFMANU4750)]] (Rev E, 2022).
 
 ## Notes

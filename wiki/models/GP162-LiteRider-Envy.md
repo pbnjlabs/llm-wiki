@@ -39,6 +39,7 @@ controller. See [[Mobility-Device-Weights]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Literider Envy Parts|Literider Envy Parts]] (30)
 - [[LiteRider Envy Illustrated Parts Breakdown (GP162)]]
 - [[LiteRider PTC Service Guide (GP162, PG VR2 Controller)]]
 - [[LiteRider Envy LiNX Owners Manual (GP162)]]

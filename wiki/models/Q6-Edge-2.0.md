@@ -51,6 +51,10 @@ values on a 2.0.
   ([[iLevel Retrofit Instructions (Edge 2.0-3, Edge HD-Z, Stretto)]], [[iLevel]]).
 - Fender lights retrofit kits exist in the PQ-365 library (not pulled).
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#Quantum Q6 Edge 2.0 Parts|Quantum Q6 Edge 2.0 Parts]] (14)
+
 ## See also
 
 [[Q6-Edge]], [[Q6-Edge-3]], [[Pride-Power-Chair-Lineup]],

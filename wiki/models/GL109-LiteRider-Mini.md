@@ -13,6 +13,7 @@ still appears on the covered-models list of the scooter warranty (see
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden LiteRider Mini Mobility Scooter 3-Wheel GL109D|Golden LiteRider Mini Mobility Scooter 3-Wheel GL109D]] (3)
 - [[LiteRider Mini Service Guide (GL109)]] (2016)
 
 ## What's confirmed

@@ -24,6 +24,7 @@ the **Jazzy Air 2** is retail (K0899) and adds under-seat storage.
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Air 2 Parts|Jazzy Air 2 Parts]] (24), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Air Parts|Jazzy Air Parts]] (10)
 - [[Jazzy Air Series Owners Manual (INFMANU4922)]] (Rev D, 2024).
 - No spec sheet, service guide or parts guide on file.
 

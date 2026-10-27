@@ -18,6 +18,7 @@ NF22 batteries 37 lb each). See [[Mobility-Device-Weights]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Avenger Scooter Parts|Golden Avenger Scooter Parts]] (19)
 - [[GA541 Avenger IPB]] — illustrated parts breakdown
 - [[GA541 Avenger Operator Manual]] — owner's manual
 - [[GA541 Avenger Mirror Installation]] — accessory supplement

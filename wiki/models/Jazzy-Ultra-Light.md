@@ -15,6 +15,7 @@ rest ([[Pride-Warranty]]).
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Ultra Light Parts|Jazzy Ultra Light Parts]] (15)
 - [[Jazzy Ultra Light Owners Manual (INFMANU5449)]] (Rev B, 2024).
 
 ## Notes

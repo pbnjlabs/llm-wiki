@@ -198,3 +198,5 @@ charge, load test, charger output test) and
 - [[Power-Chair-Troubleshooting]], [[Mobility-Device-Weights]],
   [[Pride-Parts-Replacement]], [[Battery-Charger-LED-Diagnostics]],
   [[iLevel]], [[Freewheel-Mode]]
+
+**Retailer part numbers:** [[Parts Catalog - Mobility Scooters Direct (Pride)]], [[Parts Catalog - Mobility Scooters Direct (Quantum)]] (Mobility Scooters Direct, pulled 2026-10-27; retailer data, so confirm by serial number before ordering).

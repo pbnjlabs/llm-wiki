@@ -24,6 +24,7 @@ assembled (45 × 22 in, 34.7 in wheelbase); **GB148 161 lb** (44 × 22 in,
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Buzzaround EX Scooter Parts|Buzzaround EX Scooter Parts]] (34), [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Buzzaround EX Mobility Scooter 3 Wheel GB118 Parts|Golden Buzzaround EX Mobility Scooter 3 Wheel GB118 Parts]] (11)
 - [[Buzzaround Extreme Owners Manual (GB118, GB148)]] (Jan 2020): specs
   match the sell sheet; 90 A controller; pneumatic tires optional on the
   GB148 only; 20 × 18 in seat optional

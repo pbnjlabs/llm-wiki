@@ -104,3 +104,5 @@ the PQ-365 owner's manuals and basic operations tabs:**
 [[Lift Chair Product Inserts (Transformer, Wireless Charger, Heat)]],
 [[VivaLift Owners Insert (INFINFB3834)]],
 [[VivaLift Product Inserts (Premier PLR5900, Heat, Tilt)]].
+
+*Retailer parts catalog* (2026-10-27): [[Parts Catalog - Mobility Scooters Direct (Pride)]] (867 parts, 656 with a drawing image, 68 model lists) and [[Parts Catalog - Mobility Scooters Direct (Quantum)]] (80 parts, 77 with a drawing, 11 model lists), from Mobility Scooters Direct (`scripts/msd_pull.py`, `scripts/msd_catalog.py`; raw in `MANUALS/MobilityScootersDirect/`). Retailer data: confirm part numbers by serial with Pride.

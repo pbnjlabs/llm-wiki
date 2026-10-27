@@ -14,6 +14,7 @@ lineup. It followed the [[GR575-Patriot]]; its successor is the
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Technologies Eagle HD Mobility Scooter GR595 Parts|Golden Technologies Eagle HD Mobility Scooter GR595 Parts]] (22)
 - [[GR595 Eagle Owners Manual]] (May 2022)
 - [[GR595 Eagle Illustrated Parts Breakdown]] (Jan 2025)
 - [[Golden Sell Sheets (2018-2026)]] (Jun 2024)

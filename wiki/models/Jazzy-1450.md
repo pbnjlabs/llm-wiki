@@ -60,6 +60,10 @@ standard content ([[Pride-Power-Chair-Care]]). The bariatric tilt seat
 has its own manual: [[TRU-Balance Bariatric Power Tilt BOI (INFMANU4082)]]
 (600 lb; full speed tilted up to 20°).
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy 1450 Parts|Jazzy 1450 Parts]] (9)
+
 ## See also
 
 [[4Front-2]], [[Q6-Edge-HD]], [[Pride-Power-Chair-Lineup]],

@@ -14,6 +14,7 @@ older [[GP205-Alante-Sport]]. It's a different chair: lighter, faster,
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Alante Sport Parts|Alante Sport Parts]] (14)
 - [[Alante Sport Owners Manual (GP208)]] (Jun 2018)
 - [[Alante Sport Illustrated Parts Breakdown (GP208)]] (Nov 2020): **PG nVR2 40 A** (same joystick and
   module as the GP161), own motors and brake release handles, U1

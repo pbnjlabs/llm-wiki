@@ -284,3 +284,5 @@ have an owner's manual. No **service guide** is on file for the Eagle,
 Eagle All Terrain, Cricket, Cricket LT, Ally family, Stride or GP130 (the
 tech library has IPBs for most of them, but no service guides). No IPB
 for the GR596, GP309 or GL112.
+
+**Retailer part numbers:** [[Parts Catalog - Mobility Scooters Direct (Golden)]] (Mobility Scooters Direct, pulled 2026-10-27; retailer data, so confirm by serial number before ordering).

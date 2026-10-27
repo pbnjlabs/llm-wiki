@@ -25,6 +25,7 @@ The Carbon owner's manual adds: 18 kg without battery, battery 1.8 kg,
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Carbon Parts|Jazzy Carbon Parts]] (37)
 - [[Jazzy Carbon Owners Manual (Innuovo, INFMANU5389)]] (Carbon).
 - [[Jazzy Carbon Diagnostic Code Sheets]] (Carbon; Carbon 27 and HD).
 - No owner's manual for the 27, 27X or HD, and no service guide.

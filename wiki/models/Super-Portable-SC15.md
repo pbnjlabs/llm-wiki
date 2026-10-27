@@ -51,6 +51,10 @@ general rule still applies: **don't load-test lithium**
   4 yellow 50–60, 3 yellow 40–50, 2 yellow under 30, 1 yellow under
   20, all red dead (at full speed on level ground).
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Go Go Super Portable Parts|Go Go Super Portable Parts]] (22)
+
 ## See also
 
 [[i-Go]], [[Mobility-Batteries]], [[Pride-Power-Chair-Lineup]],

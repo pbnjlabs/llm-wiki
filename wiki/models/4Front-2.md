@@ -63,6 +63,10 @@ motor: keep hands clear.
   under 200 lb); without them speed is cut to **5 mph**.
 - Care and charging: [[Pride-Power-Chair-Care]].
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#4Front2 Parts|4Front2 Parts]] (14), [[Parts Catalog - Mobility Scooters Direct (Quantum)#Quantum 4Front2HD Parts|Quantum 4Front2HD Parts]] (9)
+
 ## See also
 
 [[Jazzy-1450]], [[R-Trak]], [[Pride-Power-Chair-Lineup]],

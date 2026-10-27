@@ -12,6 +12,7 @@ rear-wheel drive, splits into front and rear halves. Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden LiteRider Envy LT Parts|Golden LiteRider Envy LT Parts]] (6)
 - [[LiteRider Envy Lite Owners Manual (GP161)]] (Oct 2021)
 - [[LiteRider Envy Lite Illustrated Parts Breakdown (GP161)]] (Dec 2023): **PG nVR2 40 A** joystick
   and power module (the owner's manual says 50 A; go by the label),

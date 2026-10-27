@@ -89,3 +89,5 @@ Seating Matrix, MRC24-4LX Charger Operation, Oxygen Holder and Walker
 Holder Installation, Power Seat Operation, Proflex Seat Instructions,
 Right to Left Side Joystick Conversion, Seat Belt Instructions, Touch Up
 Paint Tips, Universal Mirror Mount, Mobility Seats.
+
+*Retailer parts catalog* (2026-10-27): [[Parts Catalog - Mobility Scooters Direct (Golden)]] (494 parts, 36 with a drawing image, 42 model lists), from Mobility Scooters Direct. Golden's own IPBs win any conflict.

@@ -37,6 +37,7 @@ heaviest piece 49.5 lb, 41 × 24.5 in, folding. Compare the lighter
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Ally Power Chair Parts|Golden Ally Power Chair Parts]] (13)
 - [[Ally Owners Manual (GP303)]] (Rev. B, Jul 2024)
 - [[Ally Illustrated Parts Breakdown (GP303)]] (Rev. D, Nov 2024): controller MBE-0057, joystick
   MBE-0055, battery MBE-0060, charger MBE-0059 (the last three shared

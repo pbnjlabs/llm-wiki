@@ -92,6 +92,10 @@ both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
 **forward = freewheel** (brakes off, motor power cut), pull it back and
 cycle the key. Care: [[Pride-Power-Chair-Care]].
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Go Go Elite Traveller Parts|Go Go Elite Traveller Parts]] (71)
+
 ## See also
 
 [[Go-Go-LX]], [[ET-Series]], [[Pride-Power-Chair-Lineup]],

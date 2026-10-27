@@ -23,6 +23,7 @@ division), US/UK/AU markets. Newer/higher-spec platform than the [[J6]]:
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#Q6 Edge 3 Stretto Parts|Q6 Edge 3 Stretto Parts]] (22)
 - [[Q6 Edge 3 Stretto Specifications]] — spec sheet
 - [[Q6 Edge 3 Stretto Operator Manual]] — assembly, comfort adjustments,
   batteries/charging, care and maintenance, cleaning/disinfection

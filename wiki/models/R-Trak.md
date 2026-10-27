@@ -55,6 +55,10 @@ plus optional integrated front caster lights and rear fender lights.
 TB-Flex ([[TB-Flex Seat BOI (INFMANU4737)]]), Q Captain and TRU-Balance 3
 seats have their own manuals.
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Quantum)#Quantum R-TRAK Parts|Quantum R-TRAK Parts]] (11)
+
 ## See also
 
 [[4Front-2]], [[Pride-Power-Chair-Lineup]], [[Power-Chair-Troubleshooting]],

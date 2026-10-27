@@ -189,6 +189,32 @@ so for an older unit the portal serial lookup or the manual's exploded
 view wins. Don't record portal prices, and never tick or submit the
 lookup's inquiry checkboxes (they email Bruno).
 
+### Third-party parts retailer (Mobility Scooters Direct)
+
+mobilityscootersdirect.com sells OEM replacement parts. Each product page
+gives the **OEM part number**, the compatible model(s) and a gallery that
+is often a cut-out of the manufacturer's own parts drawing (Pride parts
+guides, Golden IPBs, Harmar engineering drawings). Pull it with
+`python3 scripts/msd_pull.py` (read-only, spaced requests, resumable;
+about 2.5 h) and build the pages with `python3 scripts/msd_catalog.py
+<pull date>` (category-to-model map in `scripts/msd_model_map.json`)
+into `MANUALS/MobilityScootersDirect/`: `categories.json` (the site's
+per-model parts lists), `products.jsonl` and `images/<Brand>/`. Brands
+pulled: Pride, Quantum, Golden, Harmar (Bruno isn't sold there).
+
+Source pages are titled `Parts Catalog - Mobility Scooters Direct
+(<Brand>)`, filed under `sources/<Brand>/General/` (Quantum under
+`sources/Pride/General/`, as the wiki files Quantum with Pride), with `doc_type:
+Parts Catalog`, `url:` the brand's parts page and `date:` the pull date.
+They hold generated part-number tables per model. It's a **retailer**,
+so it ranks like clippings: below every manufacturer document, and a
+manual or IPB part number wins any conflict. Its compatibility lists are
+thin (often one model, or just "Harmar Vehicle Lifts"), so tell techs to
+confirm by serial number with the manufacturer. **Don't record prices.**
+Never add to cart or submit the site's forms. A drawing that adds real
+information (e.g. a Harmar engineering drawing) can be ingested as its
+own source page, citing the image file under `images/<Brand>/`.
+
 ### Training videos
 
 Manufacturer training videos (e.g. Harmar's mp4s) go in

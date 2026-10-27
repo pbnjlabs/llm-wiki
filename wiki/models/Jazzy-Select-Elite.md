@@ -14,6 +14,7 @@ carry over to them.
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Select Elite Parts|Jazzy Select Elite Parts]] (11), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Select Elite Parts|Jazzy Select Elite Parts]] (8)
 - [[Jazzy Select Elite Technical Troubleshooting Guide (INFMANU4104)]]
   (Rev A, 2011): dealer guide with wiring diagrams.
 - Warranty: 5-year frame, 13-month electronics and drive

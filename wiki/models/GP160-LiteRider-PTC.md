@@ -13,6 +13,7 @@ table. Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#LiteRider PTC Power Wheelchair - Parts|LiteRider PTC Power Wheelchair - Parts]] (7)
 - [[LiteRider PTC Service Guide (GP160)]] (2012). It covers
   troubleshooting, charging, replacement steps and an IPB.
 - [[Battery Replacement (GL110, GL140, GP160)]]. The battery pack design

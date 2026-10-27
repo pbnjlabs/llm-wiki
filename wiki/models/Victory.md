@@ -15,6 +15,7 @@ Rally and Shuttle used a different charger setup (see
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Victory 10 Scooter Parts|Victory 10 Scooter Parts]] (53), [[Parts Catalog - Mobility Scooters Direct (Pride)#Victory 9 Scooter Parts|Victory 9 Scooter Parts]] (28)
 - [[Victory 9-10 Technical Troubleshooting Guide (INFMANU3986)]] (2010)
 - [[Victory, Rally and Revo Repair Instructions]]: tiller fuse kit,
   Rally/Shuttle/Victory motor and transaxle

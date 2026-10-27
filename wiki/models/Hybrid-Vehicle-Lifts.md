@@ -125,6 +125,7 @@ Different design from the AL600/AL690:
 Bruno's closest equivalent: [[VSL-4400]] (Joey).
 
 ## Documents on file
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL6000 Vehicle Lift Parts|AL6000 Vehicle Lift Parts]] (6)
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — AL600/AL690 specs
 - [[AL625-AL625HD Installation and Owner's Manual (2012, Rev B)]] — legacy AL625/AL625HD
 - [[Harmar Product Insights (2021-2023)]] — lift selection: hybrids suit medium/low-capability users, keep the device out of the weather and fit in a garage (dealer sheets)
@@ -138,6 +139,8 @@ Bruno's closest equivalent: [[VSL-4400]] (Joey).
 - [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices for AL-600-12 and AL-625HD-12 and hybrid accessories, installation included
 
 **Harmar training video:** [[Video - Installing and Programming the Remotes on a Hybrid Lift]] — RF receiver install and key-fob pairing on an AL600 (no written procedure on file)
+
+**Electrical kit drawings** ([[Hybrid Electrical Kit Drawings (AL412, 140-00023, 140-00030, 380-00099)]]): RF remote kit **AL412** (only serials **170805-00006 to 210323-00003**, the circuit-breaker lifts; remote **390-00056**, receiver PCB 360-00015; instructions CSV-000038 not on file), wiring upgrade kit **140-00023** (universal mobility board **360-00010**, **10 A and 15 A manual-reset breakers** 390-00083/-84, harnesses 380-000xx, wiring diagram 650-00002; set the PCB jumpers for the 600), raised-limit-switch kit 140-00030, and the **control harness 380-00099** (5-pin DIN hand-control socket to an 8-pin Mini-Fit Jr on the board).
 
 ## Warranty
 3-year limited parts warranty — see [[Harmar-Warranty]].

@@ -14,6 +14,7 @@ Dynamic** electronics, HCPCS K0822/K0823.
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy 600 ES Parts|Jazzy 600 ES Parts]] (18)
 - [[Jazzy 600 ES Parts Replacement Guide (INFMANU4844)]] (Rev A, 2017)
   — the only service document on file. No troubleshooting guide.
 - [[Jazzy 600 ES Owners Manual (INFMANU4480)]] (Rev D, 2020):

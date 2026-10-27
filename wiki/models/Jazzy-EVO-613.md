@@ -23,6 +23,7 @@ Li battery **3 years** ([[Pride-Warranty]]).
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy EVO 613 Parts|Jazzy EVO 613 Parts]] (18)
 - [[Jazzy EVO Series Owners Manual (INFMANU5239)]] (Rev A, 2021).
 
 ## Notes

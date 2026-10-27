@@ -70,7 +70,7 @@ against [[Harmar VA FSS Price List (2018-2023)]]:
   CPL's DMT door operator; a **Harmar dumbwaiter** manual; the
   **Vantage**, **Summit** and **Sierra** stairlifts. For work PMS does
   now: the **Helix diagnostic software and cable**, the **AL701** 7-pin
-  harness instructions, the Hybrid **RF remote kit** sheet, and the
+  harness instructions, the Hybrid **RF remote kit** sheet (**narrowed 2026-10-27:** the kit is **AL412**, serials 170805-00006 to 210323-00003, BOM on [[Hybrid Electrical Kit Drawings (AL412, 140-00023, 140-00030, 380-00099)]]; the sheet to ask for is **CSV-000038**), and the
   Pinnacle **rail jig** part number. Ask Harmar (800-833-0478,
   training@harmar.com).
 
@@ -143,7 +143,9 @@ on file):
   2010-era **Jazzy 614**, the **Jazzy Select Elite**, the **Outback**
   and the **ET Series**; owner's manuals for the Jazzy Carbon 27/27X/HD;
   and **IPBs** for any Pride chair (the parts guides send you to them
-  for part numbers).
+  for part numbers). **Stand-in since 2026-10-27:** [[Parts Catalog - Mobility Scooters Direct (Pride)]] and [[Parts Catalog - Mobility Scooters Direct (Quantum)]]
+  (retailer OEM part numbers by model, most with a cut-out of Pride's parts
+  art); still ask Pride for the real IPBs.
 - [x] **Pride lift chairs** (added 2026-10-19): the lift chair series
   owner's manual, the 2024 hand control reference and the VivaLift!
   inserts were ingested 2026-10-20 ([[Pride-Lift-Chairs]]). TechnoBulletin

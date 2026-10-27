@@ -14,6 +14,7 @@ covered by the [[Golden-Scooter-Warranty]] with a **5-year frame**
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Patriot Scooter Parts|Golden Patriot Scooter Parts]] (25)
 - [[GR575 Patriot Owners Manual]] (Feb 2020)
 - [[GR575 Patriot Illustrated Parts Breakdown]] (Mar 2024): S-Drive MBC-575D-CNT, SP1 programmer
   with S-Drive adaptor, hand brake, brake drum and disc, transaxle,

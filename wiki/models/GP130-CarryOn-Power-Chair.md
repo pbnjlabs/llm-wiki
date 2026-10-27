@@ -14,6 +14,7 @@ On". Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Buzzaround Carry On Powerchair Parts|Golden Buzzaround Carry On Powerchair Parts]] (2)
 - [[Carry On Power Chair Owners Manual (GP130)]] (Rev. B, 2024)
 - [[Carry On Power Chair Illustrated Parts Breakdown (GP130)]] (Rev. E, Jan 2025): **controller PG VR2**
   (MBE-0061), joystick MBE-0062, 12.5 Ah Li-ion pack MBE-0064, charger

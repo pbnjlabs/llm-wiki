@@ -13,6 +13,7 @@ Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden BuzzAbout Power Wheelchair Parts|Golden BuzzAbout Power Wheelchair Parts]] (13)
 - [[BuzzAbout Owners Manual (GP164, LiNX)]] (Nov 2021)
 - [[BuzzAbout Illustrated Parts Breakdown (GP164)]] (Nov 2023): LiNX **power module from the GP605L**
   (MBC-605L-CNT-PMOD), **joystick DLX-REM060-A from the GP162B**, light

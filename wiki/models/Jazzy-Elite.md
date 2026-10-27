@@ -23,6 +23,7 @@ Pride Group 2 mid-wheel chairs. Not the same as the older
 
 ## Documents
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Elite 14 Parts|Jazzy Elite 14 Parts]] (14), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Elite ES Parts|Jazzy Elite ES Parts]] (8), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Elite ES Portable Power Wheelchair Parts|Jazzy Elite ES Portable Power Wheelchair Parts]] (4), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Elite ES-1 Parts|Jazzy Elite ES-1 Parts]] (7), [[Parts Catalog - Mobility Scooters Direct (Pride)#Jazzy Elite HD Parts|Jazzy Elite HD Parts]] (24)
 - [[Jazzy Elite ES Owners Manual (INFMANU4355)]] (Rev D, 2017).
 - [[Jazzy Elite Series HD and 14 Owners Manual (INFMANU4371)]] (Rev D,
   2022).

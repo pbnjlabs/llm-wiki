@@ -141,6 +141,7 @@ and fit in a garage, but are the hardest to operate ("moderate+") and
 suit highly capable users.
 
 ## Documents on file
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL425 Axis II Vehicle Lift Parts|AL425 Axis II Vehicle Lift Parts]] (4), [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL835 Pick-Up 350 HD Vehicle Lift Parts|AL835 Pick-Up 350 HD Vehicle Lift Parts]] (2), [[Parts Catalog - Mobility Scooters Direct (Harmar)#Harmar AL225 Axis II Lite Vehicle Lift Parts|Harmar AL225 Axis II Lite Vehicle Lift Parts]] (1)
 - [[Inside Lifts Installation and Owner's Manual (2017, Rev F)]] — AL215/225/425/425HD/435/435T install, operation, troubleshooting, warranty
 - [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]] — AL815CC/825/825CC/835 install, operation, troubleshooting
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — current specs for every model

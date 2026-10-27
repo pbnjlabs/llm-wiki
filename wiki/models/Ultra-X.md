@@ -44,6 +44,10 @@ both Jan 2026): beep codes 1–9 ([[S-Drive-Beep-Codes]]); freewheel lever
 **forward = freewheel** (brakes off, motor power cut), pull it back and
 cycle the key. Care: [[Pride-Power-Chair-Care]].
 
+## Retailer part numbers
+
+Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Pride)#Go Go Ultra X (Red) Parts|Go Go Ultra X (Red) Parts]] (29), [[Parts Catalog - Mobility Scooters Direct (Pride)#Go Go Ultra X 2021 Parts|Go Go Ultra X 2021 Parts]] (25)
+
 ## See also
 
 [[ET-Series]], [[Go-Go-LX]], [[Pride-Power-Chair-Lineup]],

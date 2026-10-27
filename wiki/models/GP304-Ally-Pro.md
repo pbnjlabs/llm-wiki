@@ -13,6 +13,7 @@ reclining back and adjustable arm width. Link to [[Golden]].
 
 ## Documents on file
 
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Golden)#Golden Ally Pro Replacement Parts|Golden Ally Pro Replacement Parts]] (4)
 - [[Ally Pro Owners Manual (GP304)]] (Rev. C, Jan 2025)
 - [[Ally Pro Illustrated Parts Breakdown (GP304)]] (Rev. B, Nov 2024): own controller MBE-0068 and
   motors; joystick, battery and charger shared with the GP303

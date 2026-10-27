@@ -207,6 +207,7 @@ Tools: 5/16" bit driver on an extension, 7/16" socket and extension
 4. Motor cover on (4 screws), plug in, zip-tie the motor wire.
 
 ## Documents on file
+- Retailer part numbers (Mobility Scooters Direct, 2026-10-27; confirm by serial with the manufacturer): [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL 300 Fusion Power Chair and Scooter Vehicle Lift Parts|AL 300 Fusion Power Chair and Scooter Vehicle Lift Parts]] (2), [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL100 Platform Vehicle Lift Parts|AL100 Platform Vehicle Lift Parts]] (3), [[Parts Catalog - Mobility Scooters Direct (Harmar)#AL301XLHD Heavy Duty Fusion Vehicle Lift Parts|AL301XLHD Heavy Duty Fusion Vehicle Lift Parts]] (2), [[Parts Catalog - Mobility Scooters Direct (Harmar)#Harmar AL-500 HD Universal Power Wheelchair Hitch Vehicle Lift Parts|Harmar AL-500 HD Universal Power Wheelchair Hitch Vehicle Lift Parts]] (1), [[Parts Catalog - Mobility Scooters Direct (Harmar)#Harmar AL100HD Platform Profile Scooter Vehicle Lift Parts|Harmar AL100HD Platform Profile Scooter Vehicle Lift Parts]] (1), [[Parts Catalog - Mobility Scooters Direct (Harmar)#Harmar AL300HD Heavy-Duty Vehicle Lift Parts|Harmar AL300HD Heavy-Duty Vehicle Lift Parts]] (1)
 - [[Harmar Mobility Solutions Chart (2026, Rev F)]] — current (May 2026) specs for every hitch-mounted model: capacity, hitch class, securement, included adapters, warranty
 - [[Harmar Product Insights (2021-2023)]] — lift selection, hitch adapters, AL015 (dealer sheets)
 - [[Outside Vehicle Lifts Owner's Manual]] (2022 Rev B) — end-user
