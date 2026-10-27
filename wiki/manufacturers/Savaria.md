@@ -23,8 +23,7 @@ in the Savaria family too.
 | K2 straight-rail stairlift | [[K2]] |
 | K2 Plus (public/Canadian codes) | [[K2-Plus]] |
 | Patient Care: beds, support surfaces, positioners, slings | catalogues only (below) |
-| FL fixed ceiling lift | [[Savaria-FL]] |
-| M-Series (PL) portable ceiling lift | [[Savaria-M-Series]] |
+| FL fixed and PL (M-Series) portable ceiling lifts | [[Savaria-FL-PL]] |
 
 ## Sources
 

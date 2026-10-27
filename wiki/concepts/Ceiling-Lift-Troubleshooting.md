@@ -186,7 +186,7 @@ The number of air switches on the board identifies the model: 2 = Manual,
   lift (push the white tab back to reset). With no power, turn a **4 mm hex
   key** clockwise in the motor shaft behind the side clip
   ([[C-450 C-625 Owner's Manual (753140 Rev D)]]).
-- **Savaria M-Series / PL portable** ([[Savaria-M-Series]]): 4 mm Allen key, power off, many slow
+- **Savaria M-Series / PL portable** ([[Savaria-FL-PL]]): 4 mm Allen key, power off, many slow
   turns. **If the emergency brake has engaged, don't release it, press Up or
   lower manually: switch off and call the dealer**
   ([[Savaria M-Series Portable Ceiling Lift Owner's Manual (001586)]]).
@@ -198,6 +198,6 @@ The number of air switches on the board identifies the model: 2 = Manual,
 
 ## See also
 
-[[Troubleshooting]], [[P440]], [[C-450-C-625]], [[Savaria-M-Series]], [[Savaria-FL]], [[C-450 C-625 Technical Manual]],
+[[Troubleshooting]], [[P440]], [[C-450-C-625]], [[Savaria-FL-PL]], [[C-450 C-625 Technical Manual]],
 [[P440 Owner's Manual (2021, Rev 19-Oct)]], [[Overspeed-Safety-Brake]],
 [[Mobility-Batteries]], [[Ceiling-Lift-Evaluation]], [[Joint-Commission-DMEPOS]]
