@@ -1688,3 +1688,7 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 ## [2026-10-28] ingest | PMS — Branding (Supply and Solutions logos)
 - Per the human: the `PMS Branding` folder from Downloads (2 JPEGs), copied to `MANUALS/Admin/PMS Branding/`. One source page, [[PMS Logos (Supply and Solutions)]]: Supply logo (400 × 132 grayscale, Photoshop 2016-05-12) and Solutions logo (476 × 437, mostly white margin). Both use a wheelchair user for an "o". Low resolution and no vector version, so flagged as screen and small-print only.
 - Updated [[PMS-Office-Procedures]] and [[Sources-PMS-and-Reference]].
+
+## [2026-10-28] ingest | PMS — website branding and colors (performancemedicalsupply.com)
+- Per the human: checked PMS's website for branding and colors. WordPress, Bluehost-built theme. Theme colors: primary #21447B, secondary #3764B4, header/tertiary #C7DBFF, base white, text black; headings in Oswald, body in the system font. The site logo (`logo-new.png`, 2023-12, 271 × 81 transparent PNG) is the Supply logo in color with navy (about #0C1561) script; copied to `MANUALS/Admin/PMS Branding/`. Plugin default colors (e.g. #E8D833 yellow) noted as not PMS's.
+- Updated [[PMS Logos (Supply and Solutions)]].
