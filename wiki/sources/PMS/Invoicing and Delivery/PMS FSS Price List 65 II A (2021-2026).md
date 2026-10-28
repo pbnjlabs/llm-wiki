@@ -15,8 +15,7 @@ Group 65, Part II, Section A (65 II A)**, FSC Classes 6510, 6515, 6530,
 6532, 6540, 6545. **Contract 36F79721D0084.** The file name says
 "UPDATED ... Eff 11.01.2025", but the list itself gives the contract
 period as **April 15, 2021 to April 14, 2026**, so it may predate the
-renewal. **Open:** whether the renewed 65 II A contract kept the same
-number. Handed over by the human 2026-10-28.
+renewal. Contract number: the 65 II F number (36F79721D0058) is the same on the 2022 binder and the renewed 2025–2030 list, so the renewed 65 II A contract is **assumed to keep 36F79721D0084** (per the human, 2026-10-28). Handed over by the human 2026-10-28.
 
 **Prices are left out of the wiki on purpose (per the human)**: they're
 in PMS's QuickBooks and the file itself. So are personal email
@@ -36,7 +35,7 @@ Every line says "installation and instruction included".
 | SL600C | Custom cut track | same |
 | SL600T3 | 3 ft mid section: track, gear, splice bars, wiring | same |
 | CSL590-18 | Curved, 90° turn, 18 ft rail | [[Helix]] |
-| CSL580-18 | Curved, 180° turn, 18 ft rail | [[Helix]] (see note) |
+| CSL580-18 | Curved, 180° turn, 18 ft rail | [[Helix]] (91°–180° first turn) |
 | CSL011 / CSL012 | 90° / 180° park | [[Helix]] |
 | CSL030 | Additional track over 20 ft, per foot | [[Helix]] |
 | VPL400 / VPL600 / VPL1000 | Highlander II VPL, 53 / 77 / 125 in | [[HighlanderII]] |
@@ -51,9 +50,10 @@ Every line says "installation and instruction included".
 SL600 install and owner's manuals, the Helix install, owner's and photo
 measuring manuals, and the three Highlander II manual sets.
 
-**CSL580:** the Helix owner's manual lists the CSL500, 510, 511, 560,
-570, 589, 590 and 595 but **not the CSL580**. It's almost certainly
-the Helix 180° configuration, but no document on file confirms it.
+**CSL580 (per the human, 2026-10-28):** the Helix for staircases with
+a **91° to 180° first turn**, custom built like every Helix rail. The
+Helix owner's manual's model list (CSL500, 510, 511, 560, 570, 589,
+590, 595) doesn't name it; the Helix manuals still cover it.
 
 **Not on this list:** the Pinnacle SL300 (only the SL600 is on the
 contract) and the VPL800, 1200 and 1400.

@@ -182,10 +182,10 @@ on file):
 - [x] **Supply, 65 II A, Harmar stair lifts and VPLs (36F79721D0084):**
   closed 2026-10-28 against PMS's own list, [[PMS FSS Price List 65 II A (2021-2026)]]. Every item
   (Pinnacle SL600, Helix, Highlander II VPL400/600/1000 and their
-  options) has a manual on file. The CSL580 isn't named in the Helix
-  manual (almost certainly the 180° Helix). **Open:** that list's stated
-  period ended April 14, 2026, so confirm the renewed 65 II A contract
-  number.
+  options) has a manual on file. The CSL580 is the Helix for a 91°–180°
+  first turn (per the human). The list's stated period ended April 14,
+  2026; the contract number is assumed unchanged, as 65 II F's was
+  (per the human, 2026-10-28).
 
 **Can't check yet:**
 - **Renewed contracts:** Supply's 65 II F list is the renewed one

@@ -108,7 +108,8 @@ aren't on Supply's FSS contract.
   restocking fee.** Not accepted: no serial or UPC, special orders,
   returned without notice, or "more than 30 days after delivery"
   (**conflicts with the 60-day window** a few lines up; the 65 II A
-  list says 60 days in both places). PMS's shipping error: PMS pays
+  list says 60 days in both places). **The human is sending this
+  upstream (2026-10-28).** PMS's shipping error: PMS pays
   freight both ways, no restocking fee. Ordering facility's error: it
   pays return freight plus 10%. Shipping damage: PMS files the carrier
   claim.

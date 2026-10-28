@@ -81,8 +81,8 @@ left out of the wiki):
 - [[PMS FSS Price List 65 II A (2021-2026)]]: Pinnacle SL600, Helix (CSL590/CSL580) and Highlander II
   VPL400/600/1000 with gates, call stations and battery backup (A-76).
   Its stated period is **April 15, 2021 – April 14, 2026** although the
-  file is titled effective 11/01/2025. **Open:** whether the renewed
-  65 II A contract kept number 36F79721D0084.
+  file is titled effective 11/01/2025. Contract numbers carried over:
+  the 65 II F number (36F79721D0058) is the same on the 2022 binder and the renewed 2025–2030 list, so the renewed 65 II A contract is **assumed to keep 36F79721D0084** (per the human, 2026-10-28).
 
 **Every item on both lists has a manual on file** (checked 2026-10-28).
 
@@ -125,7 +125,7 @@ special orders (65 II A: curved stairlifts). 65 II F: net 30, 14 days
 ARO, 8 days expedited, installation included. 65 II A: 2% 20 net 30, an
 extra 3% off 3+ items to one location. The 65 II F returns section also
 says "more than 30 days after delivery", which conflicts with its own
-60 days.
+60 days; the human is sending that upstream (2026-10-28).
 
 **PMS's own VA return rule** is different and is what PMS offers the VA:
 10% restocking plus the manufacturer's shipping, or charge the PO in

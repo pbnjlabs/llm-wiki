@@ -11,7 +11,9 @@ Harmar's curved-rail residential stairlift — "Helix" is the marketing name
 for the **CSL500, CSL510, CSL511, CSL560, CSL570, CSL589, CSL590, CSL595**
 series models (named together in the owner's manual's warranty section;
 individual model differences aren't documented in the one manual on
-file). Harmar's curved-rail counterpart to Bruno's [[CRE-2110]] — see
+file). The **CSL580** is a Helix too, not in that list: the custom-built
+model for staircases with a **91° to 180° first turn** (per the human,
+2026-10-28; it's on PMS's FSS contract). Harmar's curved-rail counterpart to Bruno's [[CRE-2110]] — see
 [[Staircase-Measuring-System]] for how the two manufacturers' custom-rail
 ordering/measuring processes compare.
 
@@ -75,7 +77,7 @@ extra code) — see [[Harmar-Stairlift-Beep-Codes]].
 
 ## On PMS's VA FSS contract
 
-On Supply's 65 II A contract ([[PMS FSS Price List 65 II A (2021-2026)]]): CSL590-18 (90° turn, 18 ft rail), CSL580-18 (180° turn, 18 ft rail), the 90° and 180° parks (CSL011 / CSL012) and extra track over 20 ft (CSL030, per foot). **The CSL580 isn't in the owner's manual's model list**; it's almost certainly the 180° Helix, but nothing on file confirms it. Curved stairlifts can't be returned on PMS's FSS terms.
+On Supply's 65 II A contract ([[PMS FSS Price List 65 II A (2021-2026)]]): CSL590-18 (90° turn, 18 ft rail), CSL580-18 (180° turn, 18 ft rail), the 90° and 180° parks (CSL011 / CSL012) and extra track over 20 ft (CSL030, per foot). The **CSL580** is the Helix for a **91° to 180° first turn** (per the human, 2026-10-28), although the owner's manual's model list doesn't name it. Curved stairlifts can't be returned on PMS's FSS terms.
 
 ## Warranty
 Limited lifetime on motor/gearbox/rail, 2yr other parts, 1yr batteries —

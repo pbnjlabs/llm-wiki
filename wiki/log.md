@@ -1678,3 +1678,9 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **Result: no missed items.** Every item on both lists has a manual on file. Closed the backlog's "can't check yet" 65 II A item; noted that the 65 II F backlog section had been checked against Harmar's own list.
 - **Open:** the 65 II A list's stated period ended 2026-04-14 (file titled effective 11/01/2025); confirm the renewed contract number. CSL580 isn't in the Helix manual's model list. The 65 II F returns section contradicts itself (60 days vs "more than 30 days after delivery"). BA02 now described as an AL600 folding seat adapter.
 - Updated [[VA-FSS-Contracts]] (PMS's own lists and terms), [[Pinnacle-SL600]], [[Helix]], [[HighlanderII]], [[AL-Series-Outside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[PATHWAY-3G]], [[TRANSITIONS-Threshold-Ramps]], [[Harmar]], [[PMS FSS Contracts Binder]], [[Harmar VA FSS Price List (2018-2023)]], [[Ingestion-Backlog]], [[Sources-PMS-and-Reference]].
+
+## [2026-10-28] note | FSS follow-ups (per the human)
+- **Contract numbers:** 65 II F is 36F79721D0058 on both the 2022 binder and the renewed 2025–2030 list, so per the human the renewed 65 II A contract is assumed to keep 36F79721D0084. Open item closed.
+- **CSL580:** per the human, the Harmar Helix CSL580 is the custom-built curved-rail stairlift for staircases with a 91° to 180° first turn. Added to [[Helix]].
+- **65 II F returns conflict** (60 days vs "more than 30 days after delivery"): the human is sending it upstream.
+- Updated [[VA-FSS-Contracts]], [[Helix]], [[PMS FSS Price List 65 II A (2021-2026)]], [[PMS FSS Price List 65 II F (2025-2030)]], [[Ingestion-Backlog]].
