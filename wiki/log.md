@@ -1684,3 +1684,7 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 - **CSL580:** per the human, the Harmar Helix CSL580 is the custom-built curved-rail stairlift for staircases with a 91° to 180° first turn. Added to [[Helix]].
 - **65 II F returns conflict** (60 days vs "more than 30 days after delivery"): the human is sending it upstream.
 - Updated [[VA-FSS-Contracts]], [[Helix]], [[PMS FSS Price List 65 II A (2021-2026)]], [[PMS FSS Price List 65 II F (2025-2030)]], [[Ingestion-Backlog]].
+
+## [2026-10-28] ingest | PMS — Branding (Supply and Solutions logos)
+- Per the human: the `PMS Branding` folder from Downloads (2 JPEGs), copied to `MANUALS/Admin/PMS Branding/`. One source page, [[PMS Logos (Supply and Solutions)]]: Supply logo (400 × 132 grayscale, Photoshop 2016-05-12) and Solutions logo (476 × 437, mostly white margin). Both use a wheelchair user for an "o". Low resolution and no vector version, so flagged as screen and small-print only.
+- Updated [[PMS-Office-Procedures]] and [[Sources-PMS-and-Reference]].

@@ -8,6 +8,8 @@ Part of the source catalog split out of [[index]] (2026-10-25). Lists every `sou
 
 PMS office files live in `MANUALS/Admin/` (Training, VA Paperwork, Vehicle Lifts, Invoicing and Delivery, Paperwork, Scootaround, **Memos** (added 2026-10-08: preferred electricians, MK battery prices, aluminum VPL platform memo), plus a few loose files), and grab bar docs in `MANUALS/Grab Bars/`. This matches the human's own `MANUALS/` folder (reorganized 2026-10-01, see log). The old `Misc./` folder is gone; its last file, an older P440 copy, was deleted.
 
+**Branding (2026-10-28):** [[PMS Logos (Supply and Solutions)]]: the Supply and Solutions logos from the human's `PMS Branding` folder, in `MANUALS/Admin/PMS Branding/` (small JPEGs only, no vector).
+
 PMS (18 ingested), see `wiki/sources/PMS/`, sorted by job type:
 [[Ordering and Returning Parts]] (Parts and Repairs: parts ordering
 steps, Repair Eval Information form, returns with RA and tracking

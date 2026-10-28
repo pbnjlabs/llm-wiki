@@ -10,6 +10,8 @@ These come from PMS documents, so they're **house practice**, not
 manufacturer specs. Customer and staff contact details are never copied
 into the wiki; look them up on the raw files.
 
+**Logos:** Supply's and Solutions' logos are in `MANUALS/Admin/PMS Branding/`. They're small raster files only, so don't print them large. See [[PMS Logos (Supply and Solutions)]].
+
 ## Common rules
 
 - **PO = the veteran's (user's) last name**, for parts orders and
