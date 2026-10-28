@@ -33,8 +33,13 @@ and Golden hasn't made that information public yet.
 **Reminder rule:** whenever a tech works on a device with a missing
 manual, remind them to get a copy and add it here.
 
-**Supply, 65 II F, Harmar vehicle lifts (36F79721D0058)**, checked
-against [[Harmar VA FSS Price List (2018-2023)]]:
+**Supply, 65 II F, Harmar vehicle lifts (36F79721D0058)**, first checked
+against [[Harmar VA FSS Price List (2018-2023)]] (Harmar's own list, a
+stand-in). **Re-checked 2026-10-28 against PMS's own list,
+[[PMS FSS Price List 65 II F (2025-2030)]]: every lift, accessory and PATHWAY 3G ramp part on it has a
+manual on file.** PMS's list is narrower than Harmar's: of the inside
+and truck lifts below, only the AL435T is on it, and the AL-625HD and
+rubber ramps aren't. Those items stay closed either way:
 - [x] **Inside (hoist) lifts** AL-215, AL-225, AL-425, AL-425HD, AL-435,
   AL-435T: [[Inside Lifts Installation and Owner's Manual (2017, Rev F)]], ingested 2026-10-06.
 - [x] **Truck lifts** AL-815CC, AL-825, AL-825CC, AL-835: [[Truck Lifts Installation and Owner's Manual (AL800 Series, 2017)]], ingested
@@ -174,12 +179,18 @@ on file):
   the seating service manual). Ask Permobil (800-736-0925) or the
   Permobil dealer portal.
 
+- [x] **Supply, 65 II A, Harmar stair lifts and VPLs (36F79721D0084):**
+  closed 2026-10-28 against PMS's own list, [[PMS FSS Price List 65 II A (2021-2026)]]. Every item
+  (Pinnacle SL600, Helix, Highlander II VPL400/600/1000 and their
+  options) has a manual on file. The CSL580 isn't named in the Helix
+  manual (almost certainly the 180° Helix). **Open:** that list's stated
+  period ended April 14, 2026, so confirm the renewed 65 II A contract
+  number.
+
 **Can't check yet:**
-- **Supply, 65 II A, Harmar stair lifts and VPLs (36F79721D0084):**
-  Harmar's list for it isn't on file. Every Harmar line the wiki knows
-  (Helix, Pinnacle SL300/SL600, Highlander II, VPL400-X) has manuals.
-- **Renewed contracts** may have added or dropped models. A QuickBooks
-  export of the FSS items would allow an exact check.
+- **Renewed contracts:** Supply's 65 II F list is the renewed one
+  (2025–2030) and has been checked. Bruno's Solutions 65 II F list
+  (36F79719D0128) isn't on file as PMS's own list.
 
 Covered, for reference: all 16 Harmar outside (hitch) lifts on the FSS
 list, the AL-600 hybrid, Bruno PUL-1100 (incl. the 350 lb HD) and

@@ -87,6 +87,10 @@ individually.
 folding-rail install videos are SL300; their 25 ft-lb footplate torque
 matches this model's manual ([[Video - Pinnacle Install Series (Parts 01-13, folding rail)]]).
 
+## On PMS's VA FSS contract
+
+On Supply's 65 II A contract ([[PMS FSS Price List 65 II A (2021-2026)]]): the SSL-SL600, the folding rail version in left and right hand (SSL-SL600FR-LH/-RH), custom cut track (SL600C) and the 3 ft mid section (SL600T3). The SL300 isn't on the contract.
+
 ## Warranty
 **Limited lifetime** warranty on motor/gearbox/worm gear/gear rack, 3yr
 other parts/electrical, 1yr batteries — stronger coverage than SL300's

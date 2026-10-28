@@ -231,11 +231,15 @@ Tools: 5/16" bit driver on an extension, 7/16" socket and extension
   [[Hybrid-Vehicle-Lifts]], not this family; see the correction above)
 - [[Harmar VA FSS Price List (2018-2023)]] — Harmar's VA FSS prices, installation included (e.g. AL-100-12 $1,935.01 on the 2022 list); the ceiling for PMS's VA price, see [[VA-FSS-Contracts]]
 
+## On PMS's VA FSS contract
+
+On Supply's 65 II F contract, 2025–2030 ([[PMS FSS Price List 65 II F (2025-2030)]]): AL100, AL160, AL300, AL301XL, AL301XLHD, AL500, AL560, AL560XL, AL580, AL580XL, AL010/050 and AL030, installation included, plus the AL105/AL105L swing-aways, AL123/AL126 hitch adapters, DS08/PS08 base adapters, AL100C/AL500C covers and class II/III hitches. Not on it: the AL015 and the HD variants of the AL100, AL300 and AL500.
+
 ## Warranty
 3-year transferable warranty (parts, excludes labor/batteries/paint) — see
 [[Harmar-Warranty]].
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,
-plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
+plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]). That's Harmar's own contract. On **PMS's** contract, PMS warrants equipment and installation to the VA for 12 months from acceptance ([[PMS FSS Price List 65 II F (2025-2030)]]).
 
 ## Field notes
 - [[2026-10-14 Harmar-AL-Outside-Lift J-cam flat spots]]: **per the human, the J-cam

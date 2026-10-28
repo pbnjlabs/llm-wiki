@@ -107,4 +107,6 @@ numbers.
 - [[PMS-Office-Procedures]]
 - [[Bruno VA FSS Price List (2021-2026)]], [[Harmar VA FSS Price List (2018-2023)]]
 
+PMS's own current price lists (not in the binder): [[PMS FSS Price List 65 II F (2025-2030)]], [[PMS FSS Price List 65 II A (2021-2026)]].
+
 Raw PDF: `MANUALS/Admin/fss_contracts.pdf`

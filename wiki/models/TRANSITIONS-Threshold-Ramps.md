@@ -133,6 +133,10 @@ black or grey, Blank or Welcome (Welcome from 1 in up). Usable width
 Install time: 40 min for 3–5 in, 20 min for ½–2½ in rubber thresholds
 (see [[Ramp-Install-Time-Estimates]]).
 
+## On PMS's VA FSS contract
+
+The **TMEM 2.5-1** modular entry mat is on Supply's 65 II F contract, 2025–2030, under SIN F-8C ([[PMS FSS Price List 65 II F (2025-2030)]]). No other TRANSITIONS item is.
+
 ## Gotchas
 
 - **The Modular Entry Ramp's sizes leave gaps** above 2.25 in:

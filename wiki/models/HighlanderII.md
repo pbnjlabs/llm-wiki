@@ -130,6 +130,10 @@ Highlander II manuals for a Highlander):
 [[Video - How to Wire the Top Landing Gate on a CPL]],
 [[Video - How to Wire an Automatic Door Operator on a Highlander CPL]].
 
+## On PMS's VA FSS contract
+
+On Supply's 65 II A contract ([[PMS FSS Price List 65 II A (2021-2026)]]): VPL400, VPL600 and VPL1000, plus the 90° platform (VPL-3654-90), landing gates (VPL-003-36 / -42), platform gate (VPL-004-36), call/send stations (VPL-016), READYUPS battery backup (VPL-030) and single batteries (PL018). The VPL800, 1200 and 1400 aren't on the contract.
+
 ## Warranty
 3-year parts warranty (labor excluded) for VPL400-1400 in either
 configuration; **VPL400-X carries a shorter 2-year parts warranty** — see

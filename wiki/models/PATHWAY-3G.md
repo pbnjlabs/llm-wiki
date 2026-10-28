@@ -170,6 +170,10 @@ manual's "M" codes. Prices are 2026 VA estimate prices.
 | PSL22PR | Support leg (pair, set at 25 in) | $60.11 |
 | PSL28PR | Support leg 28 in (pair, set at 31 in) | $65.80 |
 
+## On PMS's VA FSS contract
+
+Supply's 65 II F contract, 2025–2030 ([[PMS FSS Price List 65 II F (2025-2030)]]), carries the PATHWAY 3G line under SIN F-8C by these same "P" codes: PRSTL2–8 solid ramps, PPS54/55/65, PPS85TB and PPSLP54/55 platforms, transitions, connectors, closures, handrail parts, PSL10–100 leg pairs, braces, PLP landing pad, PPTS tie strap and PTDK tie-down kit.
+
 ## Components (2015 manual §1, "M" codes)
 
 | Part # | Part |

@@ -73,6 +73,10 @@ mechanism described above.
 Beep-code major-fault table shared with SL300/SL600 (near-identical, one
 extra code) — see [[Harmar-Stairlift-Beep-Codes]].
 
+## On PMS's VA FSS contract
+
+On Supply's 65 II A contract ([[PMS FSS Price List 65 II A (2021-2026)]]): CSL590-18 (90° turn, 18 ft rail), CSL580-18 (180° turn, 18 ft rail), the 90° and 180° parks (CSL011 / CSL012) and extra track over 20 ft (CSL030, per foot). **The CSL580 isn't in the owner's manual's model list**; it's almost certainly the 180° Helix, but nothing on file confirms it. Curved stairlifts can't be returned on PMS's FSS terms.
+
 ## Warranty
 Limited lifetime on motor/gearbox/rail, 2yr other parts, 1yr batteries —
 see [[Harmar-Warranty]].

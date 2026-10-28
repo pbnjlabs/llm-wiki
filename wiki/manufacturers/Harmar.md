@@ -90,7 +90,7 @@ Raw files are in `MANUALS/Ramps/`, not `MANUALS/Harmar/`.
 Harmar's own VA FSS price list (65 II F: vehicle lifts with installation
 included, threshold ramps, FSS warranty and returns): [[Harmar VA FSS Price List (2018-2023)]]. PMS (Supply) sells Harmar products to the VA
 on its own contracts: 65 II A 36F79721D0084 (stair lifts, VPLs) and
-65 II F 36F79721D0058 (vehicle lifts). See [[VA-FSS-Contracts]].
+65 II F 36F79721D0058 (vehicle lifts). PMS's own lists: [[PMS FSS Price List 65 II F (2025-2030)]] and [[PMS FSS Price List 65 II A (2021-2026)]]; every Harmar item on them has a manual on file (checked 2026-10-28). See [[VA-FSS-Contracts]].
 
 **Missing manuals for contracted lifts:** none left for Harmar lifts
 (hoist, truck and AL-625HD closed 2026-10-06; **Outlander** discontinued,

@@ -27,7 +27,7 @@ reference for **building VA bids**. Not needed for daily work; it's on
 file for when it's asked for. **The FSS price lists are already loaded
 into PMS's QuickBooks**, so VA estimates use the QuickBooks items. These are Harmar's prices, not PMS rates.
 PMS sells Harmar vehicle lifts to the VA under **Supply's own 65 II F
-contract, 36F79721D0058** (see [[VA-FSS-Contracts]]).
+contract, 36F79721D0058** (see [[VA-FSS-Contracts]]). What's actually on PMS's contract: [[PMS FSS Price List 65 II F (2025-2030)]].
 
 > [!warning] Older contract period
 > The contract has been **renewed** (5-year terms, per the human). This

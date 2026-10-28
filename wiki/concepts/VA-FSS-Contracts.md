@@ -71,8 +71,22 @@ first):
   installation included (e.g. AL-100-12 $1,935.01, AL-300-12
   $1,991.31), plus rubber threshold ramps.
 
-Not in the binder: Harmar's 65 II A list (stair lifts, VPLs), Bruno's
-65 II F list (vehicle lifts), and PMS's own FSS price lists.
+**PMS's own price lists** (Supply, from Word files, 2026-10-28; prices
+left out of the wiki):
+
+- [[PMS FSS Price List 65 II F (2025-2030)]]: contract period **11/15/2025 – 11/30/2030** (the renewal).
+  Harmar outside lifts, the AL600 hybrid and the AL435T Tailgater,
+  their accessories and hitches (F-7), and the EZ-ACCESS PATHWAY 3G
+  line plus the TRANSITIONS TMEM mat (F-8C).
+- [[PMS FSS Price List 65 II A (2021-2026)]]: Pinnacle SL600, Helix (CSL590/CSL580) and Highlander II
+  VPL400/600/1000 with gates, call stations and battery backup (A-76).
+  Its stated period is **April 15, 2021 – April 14, 2026** although the
+  file is titled effective 11/01/2025. **Open:** whether the renewed
+  65 II A contract kept number 36F79721D0084.
+
+**Every item on both lists has a manual on file** (checked 2026-10-28).
+
+Not on file: Harmar's own 65 II A list and Bruno's 65 II F list.
 
 **Checking current prices:** the VA's **MedSurg Catalog Search** (VA
 National Acquisition Center) shows every contractor's FSS price for an
@@ -103,6 +117,15 @@ terms, not PMS's.
 | Stalled PO | — | Install not possible within 70 days of the PO: disposition letter; no decision by day 180: Harmar pulls the order |
 
 ARO = after receipt of order.
+
+**PMS's own FSS terms** (from [[PMS FSS Price List 65 II F (2025-2030)]] and [[PMS FSS Price List 65 II A (2021-2026)]]): PMS warrants equipment
+**and installation** for **12 months from acceptance**; returns within
+**60 days** of acceptance with an RMA, **10% restocking**, none on
+special orders (65 II A: curved stairlifts). 65 II F: net 30, 14 days
+ARO, 8 days expedited, installation included. 65 II A: 2% 20 net 30, an
+extra 3% off 3+ items to one location. The 65 II F returns section also
+says "more than 30 days after delivery", which conflicts with its own
+60 days.
 
 **PMS's own VA return rule** is different and is what PMS offers the VA:
 10% restocking plus the manufacturer's shipping, or charge the PO in

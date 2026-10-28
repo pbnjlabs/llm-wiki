@@ -30,7 +30,7 @@ Tickets/`): [[PMS Delivery Paperwork (Blank Forms)]] (VA and private pay
 tickets, Rights & Responsibilities, communication log). Invoicing examples (raw files in `MANUALS/Admin/Invoicing and
 Delivery/`): [[VA Ramp Bid Package Example (2026)]] and
 [[EZ-ACCESS Invoice Examples (Historical)]] (layout only; PMS doesn't take
-EZ-ACCESS work); [[Asheville FSS Sales Guidelines (2025)]] (Asheville office FSS process); [[PMS FSS Contracts Binder]] (PMS's FSS contract numbers); that folder also holds the
+EZ-ACCESS work); [[Asheville FSS Sales Guidelines (2025)]] (Asheville office FSS process); [[PMS FSS Contracts Binder]] (PMS's FSS contract numbers); [[PMS FSS Price List 65 II F (2025-2030)]] and [[PMS FSS Price List 65 II A (2021-2026)]] (Supply's own FSS item lists and terms, added 2026-10-28 from `MANUALS/Admin/*.docx`; prices, emails and staff names left out); that folder also holds the
 delivery ticket, invoice and parts-return examples. Harmar-specific
 PMS workflows are under Harmar: [[Harmar Orders and Installs Workflow]]
 (from `harmar_orders_workflow.pdf` + `vl_workflow.pdf`). Hub:

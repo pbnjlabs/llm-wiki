@@ -161,6 +161,10 @@ AL065 have none; they aren't on the FSS list.
 - [[Video - How to Install the AL425HD Hoist Lift (Permobil)]] — truck-bed install, limit rings, strap kept straight under the pulley (manual torque 28–30 ft-lb)
 - [[Video - How to Set the Limit Switch on AL800 Series Truck Lifts]] — rotation set rings
 
+## On PMS's VA FSS contract
+
+Only the **AL435T Tailgater** is on Supply's 65 II F contract, 2025–2030 ([[PMS FSS Price List 65 II F (2025-2030)]]). The other hoists and the truck lifts were on Harmar's own 2018–2023 list, not PMS's.
+
 ## See also
 Bruno equivalent: [[VSL-6000-6900]] (Curb-Sider).
 [[Transport-and-Tie-Downs]], [[Harmar]], [[AL-Series-Outside-Vehicle-Lifts]], [[Harmar-Warranty]], [[Docking-Devices]]

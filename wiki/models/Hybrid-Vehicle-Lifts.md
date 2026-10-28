@@ -142,10 +142,14 @@ Bruno's closest equivalent: [[VSL-4400]] (Joey).
 
 **Electrical kit drawings** ([[Hybrid Electrical Kit Drawings (AL412, 140-00023, 140-00030, 380-00099)]]): RF remote kit **AL412** (only serials **170805-00006 to 210323-00003**, the circuit-breaker lifts; remote **390-00056**, receiver PCB 360-00015; instructions CSV-000038 not on file), wiring upgrade kit **140-00023** (universal mobility board **360-00010**, **10 A and 15 A manual-reset breakers** 390-00083/-84, harnesses 380-000xx, wiring diagram 650-00002; set the PCB jumpers for the 600), raised-limit-switch kit 140-00030, and the **control harness 380-00099** (5-pin DIN hand-control socket to an 8-pin Mini-Fit Jr on the board).
 
+## On PMS's VA FSS contract
+
+On Supply's 65 II F contract, 2025–2030 ([[PMS FSS Price List 65 II F (2025-2030)]]): the AL600 and the BA02, which the list calls an "AL600 folding seat adapter" (Harmar's 2022 list called it a custom base adapter). The AL-625HD isn't on it.
+
 ## Warranty
 3-year limited parts warranty — see [[Harmar-Warranty]].
 **VA FSS purchases get more:** 3 yr including batteries, paint and covers,
-plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]).
+plus 1 yr labor ([[Harmar VA FSS Price List (2018-2023)]]). That's Harmar's own contract. On **PMS's** contract, PMS warrants equipment and installation to the VA for 12 months from acceptance ([[PMS FSS Price List 65 II F (2025-2030)]]).
 
 The **AL-625HD** on Harmar's FSS list is now covered by the 2012
 AL625/AL625HD manual (see Legacy above; ticked off at
