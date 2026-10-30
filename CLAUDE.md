@@ -145,7 +145,8 @@ names and customer-incident form fields out of the wiki. Refresh TechMate
 with `python3 scripts/techmate_pull.py`.
 The trees' step pictures (meter-lead photos and highlighted schematics,
 hosted on Zingtree's S3) aren't part of the pull; the VPL voltage-walk
-trees' 537 images were downloaded on 2026-10-29 into
+trees' 537 images and all 321 stairlift-tree images were downloaded on
+2026-10-29 into
 `MANUALS/Bruno/TechMate/images/` under their Zingtree file names (the
 outlines' `[image: …]` links name them).
 

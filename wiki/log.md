@@ -1705,3 +1705,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-29] note | TechMate VPL step images downloaded
 - 537 step images from the VPL No Response, Running on its own and Short trees (TechMate's own meter-lead photos and highlighted schematics) saved to `MANUALS/Bruno/TechMate/images/` (534 MB, gitignored), with the human's approval, for the PMS field app's VPL troubleshooting Flows. Convention noted in CLAUDE.md under dealer-portal troubleshooting tools.
+
+## [2026-10-29] note | TechMate stairlift step images downloaded
+- All 321 images from the TechMate stairlift trees saved to `MANUALS/Bruno/TechMate/images/` (now 858 files, 606 MB, gitignored), with the human's approval, for the PMS field app's stairlift Flows. Most are labelled (Elan) or (Elite).
