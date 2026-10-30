@@ -81,7 +81,10 @@ Older dealer-portal notes; the model's install manual wins:
 - **Clamp on the riser:** a Bruno training photo shows an adjustable
   clamp bolted to the **face of the bottom riser** instead of a tread, and
   one with rail-height tags for the SRE-3050 (7.5 in), Elite SRE-2010
-  (6 in) and SRE-2010C (8 in). What the tags measure isn't stated
+  (6 in) and SRE-2010C (8 in). The photos have no text. **Per the human
+  (unconfirmed):** the tags are how far above the upper landing each
+  model's rail reaches with the legs at maximum height, and the riser
+  clamp steadies a section of rail
   ([[Training - Straight Rail Photos (Clamp on Riser, Rail Measurements)]]).
 
 ## When in doubt
