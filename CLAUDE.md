@@ -159,6 +159,21 @@ share a page too. They rank like TechMate: manufacturer-authored, above
 clippings, but **a manual wins any conflict**, and they're often older
 than the manuals on file, so check and flag disagreements.
 
+### Dealer-portal training docs
+
+Bruno's dealer **training** section (Installation & Troubleshooting docs)
+has troubleshooting guides, diagnostics tables, colour ladder-logic
+schematics, wiring drawings and photos. They go in
+`MANUALS/Bruno/Training/Installation & Troubleshooting/` under their own
+file names. Source pages are titled `Training - <subject>`, with
+`doc_type: Training Doc` and `date:` set to the document's own date (the
+title-block or header date, else the PDF date; photos get none). Related
+files share a page. They rank **like the tech tips**: manufacturer-
+authored, above clippings, but **a manual wins any conflict**. Where a
+training doc is a newer version of a tech tip, the tech tip page points to
+it and the model pages use the newer numbers. Photos with no text are
+described literally; don't guess what an unlabelled measurement means.
+
 ### Dealer-portal Drawings (ILS instruction sheets)
 
 Brunopartner's **Drawings** page lists Bruno's numbered instruction

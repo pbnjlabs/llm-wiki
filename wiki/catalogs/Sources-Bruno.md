@@ -146,6 +146,18 @@ TSG-4000-001, trunk-lift motor MDC-12009, Auto Meter RC-300 battery
 tester, Bruno return goods policy, Bruno serial numbers (2018 list).
 **All 107 tech tips ingested.**
 
+Bruno dealer **training library** (Installation & Troubleshooting docs,
+added 2026-10-29 from the human's Downloads into
+`MANUALS/Bruno/Training/Installation & Troubleshooting/`; 11 files → 7
+pages, ranked like the tech tips): [[Training - SRE-2010 Troubleshooting Guide]]
+(fuller and newer than the tech tip), [[Training - SRE-3050 Elan Troubleshooting Guide]]
+(2019), [[Training - SRE-5000 Diagnostics Table]],
+[[Training - Straight Rail Photos (Clamp on Riser, Rail Measurements)]],
+[[Training - VPL 90V Board PCB-00143 LED Functions and Ladder Logic (SCH-00229)]],
+[[Training - Low-Rise DC VPL Ladder Logic (SCHL-00189)]],
+[[Training - Curb-Sider and Joey Wiring Schematics (SCH-00130, SCH-00224)]].
+ILS-01644 from the same batch was already on file.
+
 Bruno dealer tools — see `wiki/sources/Bruno/General/`:
 [[TechMate Stairlift Troubleshooter]] (Bruno dealer-portal decision trees,
 26 stairlift trees pulled and ingested 2026-10-15; raw outlines in

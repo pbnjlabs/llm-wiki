@@ -78,6 +78,11 @@ Older dealer-portal notes; the model's install manual wins:
   step noses** ([[Tech Tip - SRE-2010 Quick Install Guide (Old Style Rail)]]).
 - **CRE curved rail:** at least **2½ in from the step nose** too, or the
   carriage/footrest can hit it ([[Tech Tip - CRE Fit Issues Service Presentation]]).
+- **Clamp on the riser:** a Bruno training photo shows an adjustable
+  clamp bolted to the **face of the bottom riser** instead of a tread, and
+  one with rail-height tags for the SRE-3050 (7.5 in), Elite SRE-2010
+  (6 in) and SRE-2010C (8 in). What the tags measure isn't stated
+  ([[Training - Straight Rail Photos (Clamp on Riser, Rail Measurements)]]).
 
 ## When in doubt
 

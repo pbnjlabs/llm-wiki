@@ -121,4 +121,4 @@ the ESD strap and handle them by the edges
 ([[ILS - General Install Notices (Hybrid Vehicles, ESD, Dielectric Grease)]]).
 
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),
-[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[ASL-700]], [[VSL-4400]], [[VSL-6000-6900]], [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]
+[[PUL-1100]], [[ASL-275]], [[ASL-250]], [[ASL-700]], [[VSL-4400]], [[VSL-6000-6900]], [[Training - Curb-Sider and Joey Wiring Schematics (SCH-00130, SCH-00224)]] (older wiring drawings), [[Bruno]], [[Hoist-Series-Inside-Vehicle-Lifts]], [[Hybrid-Vehicle-Lifts]], [[Harmar]]

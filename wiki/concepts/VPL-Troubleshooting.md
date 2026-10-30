@@ -165,6 +165,14 @@ and wait 1 minute. High voltage: wait 3 minutes after unplugging before
 touching the board. See [[VPL-3153-3175]] and
 [[Tech Tip - VPL 90V Board PCB-00143 (TSG-VPL-004, SCH-00229)]].
 
+**Run conditions** (Bruno training table): to run **down**, E2, E9, E16
+and E17 lit and E15 lights on a down button, then E10 and E12 light; to
+run **up**, E2, E9 and E14 lit and E13 lights on an up button, then E10
+and E11 light. The safety chain runs top cover (E4) → E-stop and nut
+safety (E5) → upper gate closed (E6) → upper landing enable → upper gate
+locked (E7) → platform gate (E8, E9), so the **first unlit LED** is the
+open circuit. Board layout and colour ladder logic: [[Training - VPL 90V Board PCB-00143 LED Functions and Ladder Logic (SCH-00229)]].
+
 ### Older units (before TechMate's serials)
 
 TechMate sends pre-2012 low-rise and tall units (and AC units before
@@ -182,6 +190,9 @@ terminal-strip test points instead of JP connectors:
   phone options ([[Tech Tip - Tall VPL-3200 Troubleshooting Guide (2011)]]).
 - Wiring schematics with the circuit under test circled:
   [[Tech Tip - VPL Troubleshooting Diagrams (AC and DC)]].
+- **Low-rise DC from 2012** (relay RLY1/RLY2 motor control, K1/K2 up/down
+  relays with yellow UP/DOWN LEDs, red 24 V LED): colour ladder logic
+  [[Training - Low-Rise DC VPL Ladder Logic (SCHL-00189)]].
 
 **July 2012 (serials 12 07 …)** is when Bruno changed the residential
 controls, Waupaca wiring kits and the boards TechMate supports

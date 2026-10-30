@@ -315,10 +315,15 @@ unplug the motor leads at the board and read them on a command (about
 24VDC, or 17VDC). Nothing → board. Voltage → motor: **Elan, replace the
 motor**; **Elite/CRE, replace the brushes**.
 
-The tech tips give the motor-lead numbers by direction, with the
-batteries resting at 25 V or more: **Elan (blue/brown) 23–24 V up,
-12–13 V down**; **Elite (blue/orange) about 21 V up, 12 V or more down**.
-Lower than that → board. Direct power to an Elan motor only very briefly
+Bruno's training guides give the motor-lead numbers, with the motor
+connected: **Elite SRE-2010 (blue/orange), batteries 25 V+: about
+21–22 V up, 23–24 V or more down**
+([[Training - SRE-2010 Troubleshooting Guide]]); **Elan SRE-3050,
+batteries 26 V+: 20 V or more**
+([[Training - SRE-3050 Elan Troubleshooting Guide]]). The older 2016 tech
+tips said 12–13 V (Elan) or 12 V+ (Elite) going down; use the newer
+figures. Lower than that → board. The Elite board needs **16 V to turn on,
+22–24 V to run up and 20–22 V to run down**. Direct power to an Elan motor only very briefly
 (the brake overheats). TechMate's "about 24 or 17 VDC" is the same idea
 in round numbers.
 
@@ -591,6 +596,8 @@ None yet for stairlifts. Add them here as they come in.
 
 [[Stairlift-Maintenance]] (yearly checklist, grease, batteries, overspeed tests),
 [[SRE-5000]], [[ILS - Soft-Stop and Charge Contact Kits]], [[ILS - Stairlift Diagnostic Mode and Charger LED Sheets]],
+[[Training - SRE-2010 Troubleshooting Guide]], [[Training - SRE-3050 Elan Troubleshooting Guide]],
+[[Training - SRE-5000 Diagnostics Table]],
 [[Tech Tip - SRE-3000 Elan Troubleshooting Guide]],
 [[Tech Tip - SRE-2010 Troubleshooting Guide (No Power Options)]],
 [[Circuit-Breakers-and-Fuses]] (breaker and fuse locations, ratings and resets by unit),

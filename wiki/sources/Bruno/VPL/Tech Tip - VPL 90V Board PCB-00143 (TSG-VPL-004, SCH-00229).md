@@ -48,4 +48,6 @@ Two documents for the **PCB-00143 "90V VPL" board** used in the AC low-rise **VP
 
 **Terminal strip TB7 (20–33):** no gates or interlocks = jumper **25–33**; upper landing gate or interlock = jumper **25–29**; platform gate or lower interlock = jumper **27–29**. Connectors: JP2 expansion, JP3 platform controls, JP4 gate/call-send, JP5 lower limits, JP6 upper limits/cover switch. Page 2 shows the optional interlock wiring at each landing: **HES 5200** and **Von Duprin 6211** electric strikes, Waupaca EMI and Euchner interlocks (the EMI's own wire colours don't match the harness).
 
+Board layout (where each LED sits), the **run-up / run-down LED conditions** and a colour ladder-logic view of SCH-00229: [[Training - VPL 90V Board PCB-00143 LED Functions and Ladder Logic (SCH-00229)]].
+
 Feeds: [[VPL-3153-3175]], [[VPL-Troubleshooting]], [[Gate-and-Door-Interlocks]]

@@ -11,6 +11,8 @@ tags: [bruno, stairlift, sre-2010, tech-tip, troubleshooting]
 
 # Tech Tip - SRE-2010 Troubleshooting Guide (No Power Options)
 
+> **Use the fuller version:** [[Training - SRE-2010 Troubleshooting Guide]] (Bruno training library) has twelve steps and changes several numbers (0.5 V charge rise, 16 / 22–24 / 20–22 V board thresholds, 23–24 V down at the motor). This page is kept for its history.
+
 3-page "unit does not operate" checklist for an SRE-2010 **without power options** (portal tech-tip 36). Same order as the Elan guide ([[Tech Tip - SRE-3000 Elan Troubleshooting Guide]]):
 
 1. Read the 8-segment display ([[Diagnostic-Codes]]).

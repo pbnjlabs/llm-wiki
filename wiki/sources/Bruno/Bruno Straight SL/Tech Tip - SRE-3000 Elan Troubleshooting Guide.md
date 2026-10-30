@@ -11,6 +11,8 @@ tags: [bruno, stairlift, sre-3000, elan, tech-tip, troubleshooting]
 
 # Tech Tip - SRE-3000 Elan Troubleshooting Guide
 
+> **Later version:** [[Training - SRE-3050 Elan Troubleshooting Guide]] (10/17/19, Bruno training library) adds a motor brake test and a phone-camera remote test, and gives one motor-voltage figure (20 V+ at 26 V resting).
+
 2-page "unit does not operate" checklist for the SRE-3000 Elan (portal tech-tips 51 and 161 link this same file).
 
 1. **Battery:** load test. **At least 23 V to run up, 21 V to run down.** The controller cuts out under load at **about 16 V**.
