@@ -1702,3 +1702,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-29] note | Bruno training rail photos — the human's reading
 - [[Training - Straight Rail Photos (Clamp on Riser, Rail Measurements)]] and [[Rail-Mounting-Guidance]]: the human reads the tags as how far above the upper landing each model's rail reaches with the legs at maximum height (SRE-3050 7.5 in, Elite 6 in, SRE-2010C 8 in), and the riser clamp as a way to steady a section of rail. Marked as an assumption; no Bruno text confirms it.
+
+## [2026-10-29] note | TechMate VPL step images downloaded
+- 537 step images from the VPL No Response, Running on its own and Short trees (TechMate's own meter-lead photos and highlighted schematics) saved to `MANUALS/Bruno/TechMate/images/` (534 MB, gitignored), with the human's approval, for the PMS field app's VPL troubleshooting Flows. Convention noted in CLAUDE.md under dealer-portal troubleshooting tools.
