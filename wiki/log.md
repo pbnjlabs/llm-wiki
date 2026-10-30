@@ -1708,3 +1708,6 @@ Per the human: searched Brunopartner → **Drawings** ("I found the ILS-01446 he
 
 ## [2026-10-29] note | TechMate stairlift step images downloaded
 - All 321 images from the TechMate stairlift trees saved to `MANUALS/Bruno/TechMate/images/` (now 858 files, 606 MB, gitignored), with the human's approval, for the PMS field app's stairlift Flows. Most are labelled (Elan) or (Elite).
+
+## [2026-10-29] note | TechMate remaining VPL step images downloaded
+- The other 120 VPL tree images (gates, mid stop, emergency lowering, calls, limits, safety pan, top cover, E-stop, charging, response) saved to `MANUALS/Bruno/TechMate/images/` (now 978 files, 696 MB), with the human's approval. Every TechMate VPL and stairlift image is now on disk.
